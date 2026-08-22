@@ -1,7 +1,9 @@
 # Country FR
-# Updated: 2026-08-22 14:54:32 UTC
-# Count: 5
+# Updated: 2026-08-22 15:24:32 UTC
+# Count: 7
 
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr199.mechvpn.online#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20185.55.%2A%2A%2A.%2A%2A%2A
+vless://ad58e4bb-accb-4a8c-bc9b-cdfd39a1a0cb@195.154.157.94:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=cdn.jsdelivr.net&fp=firefox&pbk=wo78BnBCULVPi9DQ_DcpifAfXvtbZkv-KPDFtG0RQVo&sid=b7d2#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20195.154.%2A%2A%2A.%2A%2A%2A
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%2089.208.%2A%2A%2A.%2A%2A%2A
 vless://d33d2dd1-04c1-4d43-b2e6-77c56297128e@france.me.pingsf.ir:443?encryption=none&type=tcp&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20france.me.%2A%2A%2A.ir
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@finite-node.rtxconfigz.com:443?encryption=none&type=ws&security=tls&sni=finite-node.rtxconfigz.com&path=%2F&host=telegram.us#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20finite-node.%2A%2A%2A.com
