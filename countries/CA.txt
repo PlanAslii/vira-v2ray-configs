@@ -1,6 +1,6 @@
 # Country CA
-# Updated: 2026-08-22 08:11:47 UTC
-# Count: 26
+# Updated: 2026-08-22 08:17:34 UTC
+# Count: 25
 
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=workspace.evan00.dpdns.org&path=%2Fsg-melbi&host=workspace.evan00.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
 vless://2acde116-5949-48d8-a1e6-60a1d2547deb@lively-pine-093d.144-868.workers.dev:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20lively-pine-093d.144-868.%2A%2A%2A.dev
@@ -27,4 +27,3 @@ vless://9f8e7d6c-5b4a-4321-8b7a-6c5d4e3f2a1b@172.66.47.69:80?path=%2F&security=n
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=ios&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.18.%2A%2A%2A.%2A%2A%2A
 vless://b8e0eb1a-9967-4753-b278-6ef1226dd195@b2n.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=s.dpiccolo.ir&path=%2Fhero&security=tls&sni=s.dpiccolo.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20b2n.ir
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?encryption=none&type=tcp&security=tls&sni=lizca2.footballfantasyforum.com&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20lizca2.%2A%2A%2A.com
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.16.%2A%2A%2A.%2A%2A%2A
