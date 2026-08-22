@@ -1,7 +1,9 @@
 # Country RU
-# Updated: 2026-08-22 21:58:53 UTC
-# Count: 5
+# Updated: 2026-08-22 22:28:54 UTC
+# Count: 7
 
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20201.51.%2A%2A%2A.%2A%2A%2A
+vless://16cbfce2-6559-4f5a-b948-54c1445c5953@90.156.218.234:25443?security=reality&encryption=none&pbk=1kpwQNJzgJg4EM1ahJrq1dDWM8briCR53o5LKJkA7UA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hd.kinopoisk.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2090.156.%2A%2A%2A.%2A%2A%2A
 vless://c81d5e39-0626-443c-8ce8-4f10273032c1@135.106.176.132:667?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20135.106.%2A%2A%2A.%2A%2A%2A
 vless://a1bb74cc-38e8-49cf-ab05-59e9bdf7880c@201.24.117.62:14407?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20201.24.%2A%2A%2A.%2A%2A%2A
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20176.109.%2A%2A%2A.%2A%2A%2A
