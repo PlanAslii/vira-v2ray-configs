@@ -1,12 +1,10 @@
 # Country FI
-# Updated: 2026-08-22 17:28:53 UTC
-# Count: 8
+# Updated: 2026-08-22 17:58:53 UTC
+# Count: 6
 
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI_TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20185.79.%2A%2A%2A.%2A%2A%2A
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=fi-grpc-test&allowInsecure=0&sni=132-243-223-227.sslip.io#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20132.243.%2A%2A%2A.%2A%2A%2A
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?&security=tls&fp=firefox&sni=fin4.wba-pn.ru&type=ws&headerType=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2081.177.%2A%2A%2A.%2A%2A%2A
 vless://1a2edf79-257e-44c1-b17f-7299f04ce557@31.76.21.178:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fin.pinkmoon.pro&sid=8ffa160e608bf539#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
 vless://fc830075-02cb-49ff-a44c-29a512682802@sakhrenab.Sav-savteAm.iR:6969?encryption=none&type=ws&path=%2FMelinetNew%3Fed%3D2095&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20sakhrenab.%2A%2A%2A.ir
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI_TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20185.79.%2A%2A%2A.%2A%2A%2A
-vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@2.29.9.64:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=firefox&pbk=j4Ny4oGjMLcq2mxWMxt2S2VDFk_YHyvR2_2ZIoAa8Hs&sid=6b80b599&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%202.29.%2A%2A%2A.%2A%2A%2A
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE4@166.1.129.245:42607#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Shadowsocks%20-%20166.1.%2A%2A%2A.%2A%2A%2A
