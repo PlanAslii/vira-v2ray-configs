@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-08-22 11:54:32 UTC
-# Count: 2
+# Updated: 2026-08-22 12:54:32 UTC
+# Count: 1
 
-vless://7e4ef00b-d53d-4922-a16b-c1ac93488834@cdn-pasargad45.gelvexa.ir:21570?encryption=none&security=tls&sni=cdn-pasargad45.gelvexa.ir&type=ws&host=cdn-pasargad45.gelvexa.ir&path=%2F#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20cdn-pasargad45.%2A%2A%2A.ir
-vless://35c92faf-ac12-4ded-ab2e-7cf3ed671bc8@tr.pink-service.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tr.pink-service.ru&fp=qq&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20tr.%2A%2A%2A.ru
+vless://7e4ef00b-d53d-4922-a16b-c1ac93488834@cdn-pasargad45.gelvexa.ir:21570?path=%2F&security=tls&encryption=none&host=cdn-pasargad45.gelvexa.ir&type=ws&sni=cdn-pasargad45.gelvexa.ir#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20cdn-pasargad45.%2A%2A%2A.ir
