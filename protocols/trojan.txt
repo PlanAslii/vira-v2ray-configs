@@ -1,12 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-22 15:54:32 UTC
-# Count: 8
+# Updated: 2026-08-22 16:29:09 UTC
+# Count: 3
 
+trojan://MiTiVPN@140.248.185.253:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20140.248.%2A%2A%2A.%2A%2A%2A
 trojan://PQ05174892@89.39.70.64:443?security=tls&sni=actual-aardvark.rooster465.autos&fp=chrome&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%2089.39.%2A%2A%2A.%2A%2A%2A
 trojan://mitivpn@45.205.0.6:443?type=ws&security=tls&sni=333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fu-s%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=3-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%2045.205.%2A%2A%2A.%2A%2A%2A
-trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%20game-firefly.%2A%2A%2A.autos
-trojan://MiTiVPN@140.248.185.253:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20140.248.%2A%2A%2A.%2A%2A%2A
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20Trojan%20-%20109.206.%2A%2A%2A.%2A%2A%2A
-trojan://FH72359861@202.78.163.233:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=magnetic-caiman.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%20202.78.%2A%2A%2A.%2A%2A%2A
-trojan://ND91608427@202.78.163.248:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%20202.78.%2A%2A%2A.%2A%2A%2A
-trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2x-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20199.232.%2A%2A%2A.%2A%2A%2A
