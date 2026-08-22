@@ -1,7 +1,7 @@
 # Country KZ
-# Updated: 2026-08-22 19:58:53 UTC
+# Updated: 2026-08-22 20:28:53 UTC
 # Count: 3
 
+vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%20178.236.%2A%2A%2A.%2A%2A%2A
 vless://4eb871d0-20b7-42a1-9cd1-2447eca55735@92.46.41.247:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kuzya.api.dznn.net&sid=19aa22f681923dc8#%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%2092.46.%2A%2A%2A.%2A%2A%2A
 vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@5.180.40.9:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&security=reality&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%205.180.%2A%2A%2A.%2A%2A%2A
-vless://4eb871d0-20b7-42a1-9cd1-2447eca55735@kuzya.api.dznn.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=kuzya.api.dznn.net&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%20kuzya.api.%2A%2A%2A.net
