@@ -1,0 +1,9 @@
+# Country FI
+# Updated: 2026-08-22 08:04:26 UTC
+# Count: 5
+
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fin2.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20132.243.%2A%2A%2A.%2A%2A%2A
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node5.mxvpn.dev:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node5.mxvpn.dev&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20node5.%2A%2A%2A.dev
+vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=axisvpn.ru&fp=chrome&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&sid=6ba85179e30d4fc2&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2072.35.%2A%2A%2A.%2A%2A%2A
+vless://244b9f7a-2bec-4558-bb64-2437896923f9@p.raikporertior.ir:5050?encryption=none&type=grpc&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CPXFsM9TW0Wm4I_E5VlYmDAwhc8JZU-3YHVIkJocXVI&sid=55f0a6006365069d&mode=gun&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20p.%2A%2A%2A.ir
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@77.110.108.231:8898?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=chrome&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&sid=6633e065744286&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2077.110.%2A%2A%2A.%2A%2A%2A
