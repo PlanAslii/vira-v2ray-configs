@@ -1,10 +1,8 @@
 # Country FI
-# Updated: 2026-08-22 10:54:32 UTC
-# Count: 6
+# Updated: 2026-08-22 11:24:32 UTC
+# Count: 4
 
+vless://660174a2-d32d-4521-840d-d1853bfc80b8@83.147.216.223:4433?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2083.147.%2A%2A%2A.%2A%2A%2A
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20185.79.%2A%2A%2A.%2A%2A%2A
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?&security=tls&fp=firefox&sni=fin4.wba-pn.ru&type=ws&headerType=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2081.177.%2A%2A%2A.%2A%2A%2A
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?encryption=none&type=xhttp&security=reality&sni=www.amd.com&fp=chrome&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=29b21343ab4d&spx=%2Fy52f8gp4rv1il6u&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
-vless://b91abe1a-80ca-417b-998b-2b542661c16f@77.110.108.231:8898?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=chrome&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&sid=6633e065744286&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2077.110.%2A%2A%2A.%2A%2A%2A
-vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=axisvpn.ru&fp=chrome&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&sid=6ba85179e30d4fc2&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2072.35.%2A%2A%2A.%2A%2A%2A
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
