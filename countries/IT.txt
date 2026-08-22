@@ -1,6 +1,6 @@
 # Country IT
-# Updated: 2026-08-22 19:28:53 UTC
+# Updated: 2026-08-22 19:58:53 UTC
 # Count: 2
 
+vless://419f25c1-bc35-412e-93fb-258efee859b5@it1.murhost.network:443?security=reality&encryption=none&pbk=H9-mAKSPlIPGVDI2uBSZqxxOkLGTsfciqL5rAKIwUlg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=it1.murhost.network&sid=ad416bcb922d986b#%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20-%20it1.%2A%2A%2A.network
 vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&type=ws&security=tls&sni=it2ws.wba-pn.ru&fp=chrome&path=%2F#%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20-%2045.155.%2A%2A%2A.%2A%2A%2A
-vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20-%2045.155.%2A%2A%2A.%2A%2A%2A
