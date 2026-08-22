@@ -1,8 +1,8 @@
 # Country TR
-# Updated: 2026-08-22 10:54:32 UTC
+# Updated: 2026-08-22 11:24:32 UTC
 # Count: 4
 
+vless://7e4ef00b-d53d-4922-a16b-c1ac93488834@cdn-pasargad45.gelvexa.ir:21570?encryption=none&security=tls&sni=cdn-pasargad45.gelvexa.ir&type=ws&host=cdn-pasargad45.gelvexa.ir&path=%2F#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20cdn-pasargad45.%2A%2A%2A.ir
+vless://35c92faf-ac12-4ded-ab2e-7cf3ed671bc8@tr.pink-service.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tr.pink-service.ru&fp=qq&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20tr.%2A%2A%2A.ru
 vless://7e4ef00b-d53d-4922-a16b-c1ac93488834@cdn-pasargad45.gelvexa.ir:21570?encryption=none&type=ws&security=tls&sni=cdn-pasargad45.gelvexa.ir&path=%2F&host=cdn-pasargad45.gelvexa.ir#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20cdn-pasargad45.%2A%2A%2A.ir
 vless://13efddd3-1a20-49f3-bbbe-f5b530398bb6@tr.cellser.ir:57728?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=_msWT9DtUixMc55dabeo7IqbWGikrSNz35GkoGllFBM&sid=85436cc1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20tr.%2A%2A%2A.ir
-vless://35dc1a9b-c02c-4670-a3f9-1f8106567f14@tr.pollcenter.site:34156?encryption=none&type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=BsCp88E9PdpEDjC5bxLMP2tiJYK6afCPQT_CoxCVgAI&sid=d6cdfdd9a21f8d23&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20tr.%2A%2A%2A.site
-vless://7e4ef00b-d53d-4922-a16b-c1ac93488834@cdn-pasargad45.gelvexa.ir:21570?path=%2F&security=tls&encryption=none&insecure=0&host=cdn-pasargad45.gelvexa.ir&type=ws&allowInsecure=0&sni=cdn-pasargad45.gelvexa.ir#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20cdn-pasargad45.%2A%2A%2A.ir
