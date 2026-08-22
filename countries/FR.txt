@@ -1,6 +1,6 @@
 # Country FR
-# Updated: 2026-08-22 18:28:53 UTC
+# Updated: 2026-08-22 18:58:53 UTC
 # Count: 2
 
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&fp=chrome&alpn=h2#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20nasnet-162191099-direct.%2A%2A%2A.com
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.52.74:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%2013.39.%2A%2A%2A.%2A%2A%2A
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr199.mechvpn.online#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20185.55.%2A%2A%2A.%2A%2A%2A
