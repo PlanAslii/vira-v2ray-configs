@@ -1,11 +1,6 @@
 # Country JP
-# Updated: 2026-08-22 16:29:09 UTC
-# Count: 7
+# Updated: 2026-08-22 16:58:53 UTC
+# Count: 2
 
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20%E2%94%87%20Shadowsocks%20-%2084.247.%2A%2A%2A.%2A%2A%2A
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&type=tcp&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E2%94%87%20VLESS%20-%20137.220.%2A%2A%2A.%2A%2A%2A
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20%E2%94%87%20VLESS%20-%203.114.%2A%2A%2A.%2A%2A%2A
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvdm1lc3MvIiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgXHUyNTA3IFZNZXNzIC0gMTcyLjExMS4qKiouKioqIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&fp=firefox&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad&serviceName=grpc&mode=gun&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiTm9uZSIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgXHUyNTA3IFZNZXNzIC0gMTY4LjEzOC4qKiouKioqIiwic25pIjoiTm9uZSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?security=reality&encryption=none&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b2f4518cf979889d#%F0%9F%87%AF%F0%9F%87%B5%20%E2%94%87%20VLESS%20-%2043.165.%2A%2A%2A.%2A%2A%2A
