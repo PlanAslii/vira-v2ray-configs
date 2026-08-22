@@ -1,6 +1,5 @@
 # Country SE
-# Updated: 2026-08-22 19:58:53 UTC
-# Count: 2
+# Updated: 2026-08-22 21:28:54 UTC
+# Count: 1
 
-vless://c7e9c591-2764-423a-afca-efbd010fd396@89.22.234.164:2053?encryption=none&type=ws&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&path=%2F&host=forfreeuse.rtqa.ru#%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2089.22.%2A%2A%2A.%2A%2A%2A
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.73.137:443?flow=xtls-rprx-vision&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&type=tcp&fp=chrome&encryption=none&headerType=none&security=reality&sid=00bca5982f82d083#%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20150.241.%2A%2A%2A.%2A%2A%2A
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.86.150:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nordic.cendora.ru&fp=chrome&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20150.241.%2A%2A%2A.%2A%2A%2A
