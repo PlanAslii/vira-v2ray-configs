@@ -1,7 +1,8 @@
 # Country CA
-# Updated: 2026-08-22 08:04:26 UTC
-# Count: 33
+# Updated: 2026-08-22 08:11:47 UTC
+# Count: 26
 
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=workspace.evan00.dpdns.org&path=%2Fsg-melbi&host=workspace.evan00.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
 vless://2acde116-5949-48d8-a1e6-60a1d2547deb@lively-pine-093d.144-868.workers.dev:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20lively-pine-093d.144-868.%2A%2A%2A.dev
 vless://893096ae-ed76-4440-bc34-f77c4872540f@188.114.96.3:443?encryption=none&type=ws&security=tls&sni=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&alpn=http%252F1.1&path=%2FeyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?encryption=none&type=tcp&security=tls&sni=lizca2.footballfantasyforum.com&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20lizca2.%2A%2A%2A.com
@@ -27,11 +28,3 @@ vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?path=%2F&security=t
 vless://b8e0eb1a-9967-4753-b278-6ef1226dd195@b2n.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=s.dpiccolo.ir&path=%2Fhero&security=tls&sni=s.dpiccolo.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20b2n.ir
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?encryption=none&type=tcp&security=tls&sni=lizca2.footballfantasyforum.com&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20lizca2.%2A%2A%2A.com
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.16.%2A%2A%2A.%2A%2A%2A
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=workspace.evan00.dpdns.org&path=%2Fsg-melbi&host=workspace.evan00.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://6619947f-3f95-4945-af2c-d18286c79aed@188.114.97.3:443?encryption=none&type=ws&security=tls&sni=nl.kurdo366.ggff.net&fp=ios&alpn=http%2F1.1&path=%2Fvless%3Fed&host=nl.kurdo366.ggff.net#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://916e3030-6eac-418b-9402-7508ca7d6280@188.114.97.3:8443?encryption=none&type=ws&security=tls&sni=us-akile.nanniang.top.&fp=ios&alpn=http%2F1.1&path=%2F&host=us-akile.nanniang.top.#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://74705348-bb9c-47c6-9e91-057c6407bb20@188.114.97.3:8880?encryption=none&type=ws&path=%2Fpyip&host=small-glitter-aa35.76-21d.workers.dev&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://f8fff57f-224a-4ae3-80c1-a9299796ad7c@188.114.97.3:2096?encryption=none&type=ws&security=tls&sni=11.EZ-70eF02.wOrkeRS.DeV&fp=ios&alpn=http%2F1.1&path=%2FeyJqdW5rIjoicmc2S3lEeXFMV3Y3UHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1Ny4xMjkuNDcuNTIiXX0%3D%3Fed%3D2560&host=11.ez-70ef02.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@188.114.97.3:443?encryption=none&type=ws&security=tls&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&fp=ios&alpn=http%2F1.1&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=misty-tooth-78ca.fobogah414-e7b.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://dec6b197-3211-46f0-bca8-71dfca535709@188.114.97.3:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=patient-bread-62cc.473-002.workers.dev&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://8cc8bedd-5103-4d22-a79c-a88f1160055a@188.114.97.3:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=red-unit-60bc.165-1dd.workers.dev&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
