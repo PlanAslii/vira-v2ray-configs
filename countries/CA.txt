@@ -1,13 +1,11 @@
 # Country CA
-# Updated: 2026-08-22 14:24:32 UTC
-# Count: 9
+# Updated: 2026-08-22 14:54:32 UTC
+# Count: 7
 
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&type=ws&security=tls&sni=ov.iran-servers.shop&fp=chrome&path=%2FJ5aLQOY1R9ONWYCM&host=ov.iran-servers.shop#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20chatgpt.com
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?encryption=none&type=tcp&security=tls&sni=lizca2.footballfantasyforum.com&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20lizca2.%2A%2A%2A.com
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&type=ws&security=tls&fp=chrome&alpn=h3%2Ch2&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20po.%2A%2A%2A.com
+trojan://humanity@104.18.32.47:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20104.18.%2A%2A%2A.%2A%2A%2A
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cfd.130209.xyz:443?&security=tls&fp=edge&sni=ukraine.142568.xyz&type=ws&headerType=none&host=ukraine.142568.xyz&path=%2Fassets%2Fdist%2Fapp-update-payload.dat#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20cfd.%2A%2A%2A.xyz
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&type=ws&security=tls&sni=josni.hoyes.cloudns.ch&path=%2Fsg-melbi&host=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.18.%2A%2A%2A.%2A%2A%2A
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security=tls&sni=music1000.melobitmusic1.ir&path=/&host=music1000.melobitmusic1.ir#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20172.67.%2A%2A%2A.%2A%2A%2A
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20chatgpt.com
-vmess://eyJhZGQiOiIyMTYuMTI4LjE3Ni4xNjYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2ViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInBvcnQiOiIyODgwOSIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyAtIDIxNi4xMjguKioqLioqKiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20172.66.%2A%2A%2A.%2A%2A%2A
-vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20184.107.%2A%2A%2A.%2A%2A%2A
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgXHUyNTA3IFZNZXNzIC0gMjMuMTYyLioqKi4qKioiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@meshbuzz.bond:443?path=%2Fws-at&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=4fspx0q.uploodmusicmelody.ir&fp=unsafe&type=ws&allowInsecure=0&sni=4fspx0q.uploodmusicmelody.ir#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20meshbuzz.bond
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20ytryurdj64bbb.%2A%2A%2A.ir
