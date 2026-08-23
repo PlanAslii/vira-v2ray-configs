@@ -1,7 +1,6 @@
 # Country PL
-# Updated: 2026-08-23 03:58:53 UTC
-# Count: 3
+# Updated: 2026-08-23 04:28:53 UTC
+# Count: 2
 
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@85.155.230.58:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lapa7.api3-max.ru#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20-%2085.155.%2A%2A%2A.%2A%2A%2A
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Shadowsocks%20-%20pl134.%2A%2A%2A.com
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Shadowsocks%20-%20pl140.%2A%2A%2A.com
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Shadowsocks%20-%2092.118.%2A%2A%2A.%2A%2A%2A
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@94.183.157.246:443?flow=xtls-rprx-vision&fp=firefox&pbk=dkaIImQrQ1ZVQGNfyrNZbtkE-8hxp_u8AH99XDFgfHw&security=reality&sid=75c55b707d25ae8d&sni=pol2.panel11.ru&type=tcp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20-%2094.183.%2A%2A%2A.%2A%2A%2A
