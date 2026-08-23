@@ -1,5 +1,6 @@
 # Country GB
-# Updated: 2026-08-23 20:10:11 UTC
-# Count: 1
+# Updated: 2026-08-23 20:40:11 UTC
+# Count: 2
 
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&type=ws&security=tls&sni=129.121.95.159&fp=firefox&path=%2Fconnect&host=129.121.95.159#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20129.121.%2A%2A%2A.%2A%2A%2A
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=%2F%3FTELEGRAM-%3Fed%3D512&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20103.126.%2A%2A%2A.%2A%2A%2A
+vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20129.121.%2A%2A%2A.%2A%2A%2A
