@@ -1,5 +1,5 @@
 # Country TR
-# Updated: 2026-08-23 05:28:54 UTC
+# Updated: 2026-08-23 05:58:53 UTC
 # Count: 1
 
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@107.181.155.231:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=wok3.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20107.181.%2A%2A%2A.%2A%2A%2A
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@107.181.155.231:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok3.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20107.181.%2A%2A%2A.%2A%2A%2A
