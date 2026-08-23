@@ -1,8 +1,11 @@
 # Country DE
-# Updated: 2026-08-23 20:10:11 UTC
-# Count: 4
+# Updated: 2026-08-23 20:40:11 UTC
+# Count: 7
 
+vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8065?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=8adba28e&spx=%2FHVyUryfr3B6bLUY&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2045.134.%2A%2A%2A.%2A%2A%2A
+vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=rzqfntub2c6b.doprik.com#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2082.158.%2A%2A%2A.%2A%2A%2A
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2035.156.%2A%2A%2A.%2A%2A%2A
+trojan://humanity@gr3.levikogjgfdd.ir:443?security=tls&fp=chrome&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20-%20gr3.%2A%2A%2A.ir
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=firefox&type=xhttp&sni=www.google.com#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20194.58.%2A%2A%2A.%2A%2A%2A
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VFdiRHZkUWt0bUdzdDZOMlljMi9MNUlDOWUzK2t0dHpGSk92NmRveHNQdz0@130.61.113.169:59924#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Shadowsocks%20-%20130.61.%2A%2A%2A.%2A%2A%2A
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22224/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2035.156.%2A%2A%2A.%2A%2A%2A
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=firefox&type=xhttp&sni=www.google.com#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20194.58.%2A%2A%2A.%2A%2A%2A
-vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=rzqfntub2c6b.doprik.com#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2082.158.%2A%2A%2A.%2A%2A%2A
