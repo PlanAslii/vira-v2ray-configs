@@ -1,7 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-22 16:29:09 UTC
+# Updated: 2026-08-23 06:28:53 UTC
 # Count: 3
 
-trojan://MiTiVPN@140.248.185.253:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20140.248.%2A%2A%2A.%2A%2A%2A
-trojan://PQ05174892@89.39.70.64:443?security=tls&sni=actual-aardvark.rooster465.autos&fp=chrome&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%2089.39.%2A%2A%2A.%2A%2A%2A
-trojan://mitivpn@45.205.0.6:443?type=ws&security=tls&sni=333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fu-s%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=3-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%2045.205.%2A%2A%2A.%2A%2A%2A
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20185.18.%2A%2A%2A.%2A%2A%2A
+trojan://PQ05174892@89.39.70.64:443?type=tcp&security=tls&sni=actual-aardvark.rooster465.autos&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%2089.39.%2A%2A%2A.%2A%2A%2A
+trojan://FH72359861@89.39.70.120:443?type=tcp&security=tls&sni=pro-crane.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%2089.39.%2A%2A%2A.%2A%2A%2A
