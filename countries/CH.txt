@@ -1,5 +1,5 @@
 # Country CH
-# Updated: 2026-08-23 14:29:21 UTC
+# Updated: 2026-08-23 17:33:03 UTC
 # Count: 1
 
-vless://d900a139-8b5f-4758-8a32-389c6f36fc86@132.243.174.112:2054?security=reality&encryption=none&pbk=JFzd2AbfzZSnMefyKEXNIae_QEZAo5o239pmuHHZsAY&fp=firefox&type=grpc&serviceName=grpc&sni=www.swisscom.ch&sid=b27b172e7453e810#%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20-%20132.243.%2A%2A%2A.%2A%2A%2A
+vless://4cb63132-e084-4676-ac67-1ed6b60be05a@178.83.226.142:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=-x9vdxai-qKAzuhxV7H2RIbEmIh_ZgdiFxiUA5q0B1I&sid=aa6988d03cc11454&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20-%20178.83.%2A%2A%2A.%2A%2A%2A
