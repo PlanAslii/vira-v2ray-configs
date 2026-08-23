@@ -1,8 +1,9 @@
 # Country CA
-# Updated: 2026-08-23 18:40:11 UTC
-# Count: 4
+# Updated: 2026-08-23 19:10:11 UTC
+# Count: 5
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.147.34:443?encryption=none&security=tls&sni=appproject.payglobal.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=appproject.payglobal.dpdns.org&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.17.%2A%2A%2A.%2A%2A%2A
+vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.85.220:443?encryption=none&type=ws&security=tls&sni=cf.udpid.org&fp=chrome&path=%2F%40zyzzzoao&host=cf.udpid.org#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.21.%2A%2A%2A.%2A%2A%2A
 vless://70c1b470-5302-4f92-a4a3-49569d430137@104.18.37.228:443?encryption=none&type=ws&security=tls&sni=media-sin6-3.cdn.whatsapp.net.yxls.eu.cc&path=%2Fsg-orcl&host=media-sin6-3.cdn.whatsapp.net.yxls.eu.cc#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.18.%2A%2A%2A.%2A%2A%2A
 vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:8443?encryption=none&type=ws&security=tls&sni=chatgpt.sanqelo.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&path=%2Fapi%2Fai%2Fv2#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20tgju.org
 vless://6801a713-2929-4f90-aac8-a4e2efd17665@104.18.37.228:443?encryption=none&type=ws&security=tls&sni=zaintest.vuclip.com.yxls.eu.cc&path=%2Fsg-hzr&host=zaintest.vuclip.com.yxls.eu.cc#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.18.%2A%2A%2A.%2A%2A%2A
-vless://538b4872-d87d-41c9-bd8a-663c1007e6cf@caa.plasdomain.ir:32855?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20caa.%2A%2A%2A.ir
