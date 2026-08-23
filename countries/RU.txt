@@ -1,7 +1,6 @@
 # Country RU
-# Updated: 2026-08-23 14:29:21 UTC
-# Count: 3
+# Updated: 2026-08-23 17:03:03 UTC
+# Count: 2
 
-vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20yt.%2A%2A%2A.ru
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@176.108.247.53:443?security=reality&encryption=none&pbk=RLfpBLdhLN7E2fFs5dLltcvLQkyRko4uxfs0maIJCW0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20176.108.%2A%2A%2A.%2A%2A%2A
-vless://f463819c-5e64-458a-808b-6693afb47aa4@45.87.104.185:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=medicine.repaironline.biz#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2045.87.%2A%2A%2A.%2A%2A%2A
+vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20yt.%2A%2A%2A.ru
+vless://1d101c24-541e-4f32-a747-b3b62d79cc4c@94.228.166.11:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2094.228.%2A%2A%2A.%2A%2A%2A
