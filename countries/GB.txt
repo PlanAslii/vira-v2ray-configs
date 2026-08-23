@@ -1,10 +1,8 @@
 # Country GB
-# Updated: 2026-08-23 02:58:53 UTC
-# Count: 6
+# Updated: 2026-08-23 03:28:53 UTC
+# Count: 4
 
-vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&encryption=none&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.apple.com&sid=823ec0b7b5084ffe#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20185.168.%2A%2A%2A.%2A%2A%2A
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyAtIDY2LjE2My4qKiouKioqIiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiZnAiOiIifQ
-vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?security=reality&type=tcp&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20144.31.%2A%2A%2A.%2A%2A%2A
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N3drZ1FsbG1ZVVplQjEwR2o5aW1UaHNuSHBnNmxQY0cvcUFna08yd0k4OD0@144.24.229.104:61312#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Shadowsocks%20-%20144.24.%2A%2A%2A.%2A%2A%2A
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20169.197.%2A%2A%2A.%2A%2A%2A
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20129.121.%2A%2A%2A.%2A%2A%2A
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyAtIDY2LjE2My4qKiouKioqIiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiZnAiOiIifQ
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20chatgpt.com
+vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&encryption=none&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.apple.com&sid=823ec0b7b5084ffe#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20185.168.%2A%2A%2A.%2A%2A%2A
