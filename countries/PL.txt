@@ -1,6 +1,5 @@
 # Country PL
-# Updated: 2026-08-23 07:28:54 UTC
-# Count: 2
+# Updated: 2026-08-23 11:55:50 UTC
+# Count: 1
 
-trojan://PQ05174892@202.78.163.172:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=more-trout.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Trojan%20-%20202.78.%2A%2A%2A.%2A%2A%2A
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.227.142:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20-%2095.85.%2A%2A%2A.%2A%2A%2A
+vless://9ede262c-37f9-4363-82cd-9802dafe9e1f@50.7.249.218:8443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=apkav-5.bosx.net&type=ws&headerType=none&path=%2Fapi%2Fconnect#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20-%2050.7.%2A%2A%2A.%2A%2A%2A
