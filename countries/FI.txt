@@ -1,7 +1,8 @@
 # Country FI
-# Updated: 2026-08-23 02:28:53 UTC
-# Count: 3
+# Updated: 2026-08-23 02:58:53 UTC
+# Count: 4
 
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.219.97.128:13443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=qq&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2083.219.%2A%2A%2A.%2A%2A%2A
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20185.79.%2A%2A%2A.%2A%2A%2A
 vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?security=reality&encryption=none&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=90#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?&security=tls&fp=firefox&sni=fin4.wba-pn.ru&type=ws&headerType=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2081.177.%2A%2A%2A.%2A%2A%2A
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20185.79.%2A%2A%2A.%2A%2A%2A
