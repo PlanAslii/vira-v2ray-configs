@@ -1,6 +1,7 @@
 # Country CA
-# Updated: 2026-08-23 17:33:03 UTC
-# Count: 2
+# Updated: 2026-08-23 18:03:03 UTC
+# Count: 3
 
-vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:443?path=%2Fapi%2Fai%2Fv1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20tgju.org
+vless://538b4872-d87d-41c9-bd8a-663c1007e6cf@caa.plasdomain.ir:32855?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20caa.%2A%2A%2A.ir
 vless://52f86c87-afd4-48e4-8371-7874590b999b@104.16.250.153:443?path=%2F%3Fu%3Duser1&security=tls&encryption=none&insecure=0&host=ez-b9a267.ezaccess141636a.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=ez-b9a267.ezaccess141636a.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.16.%2A%2A%2A.%2A%2A%2A
+vless://9dc3a0e3-0115-488e-aff0-444035c5f5eb@tgju.org:443?path=%2Fapi%2Fai%2Fv1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.sanqelo.ir#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20tgju.org
