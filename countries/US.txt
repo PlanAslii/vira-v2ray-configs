@@ -1,6 +1,6 @@
 # Country US
-# Updated: 2026-08-23 19:10:11 UTC
-# Count: 20
+# Updated: 2026-08-23 19:40:11 UTC
+# Count: 10
 
 vless://XpnTeam-31@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20199.232.%2A%2A%2A.%2A%2A%2A
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%2047.253.%2A%2A%2A.%2A%2A%2A
@@ -12,13 +12,3 @@ vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?encryption=none&
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@154.23.242.77:10003?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=BLxr2zh1eI34_v_CCzROgLIfUW6-ki5ZpbQiZ7LS80g&sid=98&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20154.23.%2A%2A%2A.%2A%2A%2A
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&type=tcp&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20194.55.%2A%2A%2A.%2A%2A%2A
 vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?encryption=none&type=ws&path=%2F5adeccb9&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20157.238.%2A%2A%2A.%2A%2A%2A
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=firefox&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%2047.89.%2A%2A%2A.%2A%2A%2A
-vless://XpnTeam-29@199.232.78.160:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20199.232.%2A%2A%2A.%2A%2A%2A
-vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiR2xvYmFsIFx1ZDgzY1x1ZGYxMCB8IEBSYXlkaWthbHggfCAzMTA4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoxODAwMCwic2N5IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyAtIDg0LjE3LioqKi4qKioifQ
-vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20199.232.%2A%2A%2A.%2A%2A%2A
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyAtIDE2NS4xNDAuKioqLioqKiIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MSIsInBvcnQiOiI0NDMiLCJpZCI6ImU3ZDcyYThkLTI2ZjItNGI1NC1iMzY2LTBjNDNlMGJjYmE3ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImZwIjoiIn0
-trojan://humanity@130.250.137.171:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20130.250.%2A%2A%2A.%2A%2A%2A
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&sni=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20188.114.%2A%2A%2A.%2A%2A%2A
-vless://c5912e82-b056-5a88-b38b-065df637fe0c@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20199.232.%2A%2A%2A.%2A%2A%2A
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20169.40.%2A%2A%2A.%2A%2A%2A
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyAtIDgyLjE5OC4qKiouKioqIiwiYWRkIjoiODIuMTk4LjI0Ni4zNyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImZwIjoiIn0
