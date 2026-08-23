@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-08-23 21:10:11 UTC
-# Count: 1
+# Updated: 2026-08-23 21:40:11 UTC
+# Count: 2
 
-vless://f2554131-5681-4281-84d9-1182f218538c@Tun.arosakforosh.ir:2053?encryption=mlkem768x25519plus.native.0rtt.TGSRiXMmpouOYJDNk_qZds2hZNr-Th9MK3WHYndgkmw&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20tun.%2A%2A%2A.ir%20%E2%94%87%20%F0%9F%94%B4
+vless://787a4fce-be2e-4a3d-81fd-73243db3b0de@mast.netkhorplus.ir:8085?alpn=h2&encryption=none&fp=chrome&host=mast.netkhorplus.ir&path=%2Fnetkhor&security=tls&sni=mast.netkhorplus.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20mast.%2A%2A%2A.ir%20%E2%94%87%20%F0%9F%9F%A2
+ss://Y2hhY2hhMjAtcG9seTEzMDU6WXNJR2w2ODN6MXNiU0pxTU8xUkJGY2lVVkJ0UXhHUkpyNkd6dHdOZUs5MD0@cdn11-1.netkhorplus.ir:2082?type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20Shadowsocks%20-%20cdn11-1.%2A%2A%2A.ir%20%E2%94%87%20%F0%9F%9F%A2
