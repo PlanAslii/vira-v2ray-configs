@@ -1,6 +1,5 @@
 # Country PE
-# Updated: 2026-08-24 02:10:11 UTC
-# Count: 2
+# Updated: 2026-08-24 08:40:11 UTC
+# Count: 1
 
-vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=firefox&security=reality&pbk=g5UW6bf2soPSDNx7j0wanW_uLAtvTgQ8_lfztTJaP0k&sid=7025c954ff913b4c#%F0%9F%87%B5%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20107.151.%2A%2A%2A.%2A%2A%2A
-vless://4caaaae0-516b-4026-b2b2-69fea69df19a@107.151.250.183:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&sid=9019bbea8ff8781e#%F0%9F%87%B5%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20107.151.%2A%2A%2A.%2A%2A%2A
+vless://4caaaae0-516b-4026-b2b2-69fea69df19a@107.151.250.183:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&sid=9019bbea8ff8781e&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20107.151.%2A%2A%2A.%2A%2A%2A
