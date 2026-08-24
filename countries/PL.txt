@@ -1,6 +1,5 @@
 # Country PL
-# Updated: 2026-08-24 08:40:11 UTC
-# Count: 2
+# Updated: 2026-08-24 12:10:11 UTC
+# Count: 1
 
-vless://851b2819-b359-40bc-ad61-a5d41027be2c@150.251.114.43:443?&type=ws&headerType=none&path=%2Fvless#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20-%20150.251.%2A%2A%2A.%2A%2A%2A
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Shadowsocks%20-%2051.83.%2A%2A%2A.%2A%2A%2A
+vless://791a171e-c0af-4bd7-b8ce-43541c7585db@94.249.180.41:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox&type=grpc&serviceName=ns&sni=id.pervye.ru#%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20-%2094.249.%2A%2A%2A.%2A%2A%2A
