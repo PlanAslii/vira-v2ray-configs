@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-08-24 00:10:11 UTC
-# Count: 1
+# Updated: 2026-08-24 00:40:11 UTC
+# Count: 2
 
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20201.24.%2A%2A%2A.%2A%2A%2A
+vless://fc72e947-b8dd-4de0-9ec7-2b0050c9f83a@109.73.206.166:2200?type=ws&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20109.73.%2A%2A%2A.%2A%2A%2A
+vless://099f0859-cb81-4a57-b6d8-2c8e18030627@5.42.106.111:2200?type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%205.42.%2A%2A%2A.%2A%2A%2A
