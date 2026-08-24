@@ -1,5 +1,6 @@
 # Country SG
-# Updated: 2026-08-24 08:10:11 UTC
-# Count: 1
+# Updated: 2026-08-24 08:40:11 UTC
+# Count: 2
 
-ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20Shadowsocks%20-%20139.180.%2A%2A%2A.%2A%2A%2A
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20-%20sg2-8sb.6121999.%2A%2A%2A.org
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?encryption=none&type=tcp&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20-%20134.122.%2A%2A%2A.%2A%2A%2A
