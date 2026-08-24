@@ -1,5 +1,6 @@
 # Country CA
-# Updated: 2026-08-24 18:14:18 UTC
-# Count: 1
+# Updated: 2026-08-24 18:44:18 UTC
+# Count: 2
 
-vless://403500e3-d737-4e9d-b315-0fdd1d5a5321@104.21.53.47:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=t0r.bol.qzz.io#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.21.%2A%2A%2A.%2A%2A%2A
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20188.114.%2A%2A%2A.%2A%2A%2A
+trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&sni=95895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-d%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=83463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20188.114.%2A%2A%2A.%2A%2A%2A
