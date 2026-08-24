@@ -1,5 +1,7 @@
 # Country RU
-# Updated: 2026-08-24 18:14:18 UTC
-# Count: 1
+# Updated: 2026-08-24 18:44:18 UTC
+# Count: 3
 
+vless://a237ca49-48d5-466f-aee5-c44f728a99ab@138.16.129.32:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.rumedia-cdn.com&fp=chrome&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&sid=4f676caa93313eab&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20138.16.%2A%2A%2A.%2A%2A%2A
+vless://51afc65b-70f9-46f9-bbf5-6dab07fb94c6@217.149.30.225:2083?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.rumedia-cdn.com&fp=chrome&pbk=UPNrOP5K4VMKioVmi1o15crjzHP3tkeMQr-ivgBNNQU&sid=eb95c48c14152f51&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20217.149.%2A%2A%2A.%2A%2A%2A
 vless://14777bd9-56a5-46f6-a94f-826b4800dc05@89.248.192.63:9895?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2089.248.%2A%2A%2A.%2A%2A%2A
