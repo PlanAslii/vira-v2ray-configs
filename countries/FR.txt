@@ -1,5 +1,5 @@
 # Country FR
-# Updated: 2026-08-24 20:14:18 UTC
+# Updated: 2026-08-24 21:14:18 UTC
 # Count: 1
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.35.132:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%2013.36.%2A%2A%2A.%2A%2A%2A
+vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%2062.133.%2A%2A%2A.%2A%2A%2A
