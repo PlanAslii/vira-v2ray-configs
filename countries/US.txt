@@ -1,12 +1,11 @@
 # Country US
-# Updated: 2026-08-24 10:40:11 UTC
-# Count: 8
+# Updated: 2026-08-24 11:10:11 UTC
+# Count: 7
 
+vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@177.3.212.189:8443?serviceName=gd-0z_grpc&sid=d7d38e70e3362842&type=grpc&encryption=none&security=reality&fp=firefox&sni=gd-0z.whit3.net&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20177.3.%2A%2A%2A.%2A%2A%2A
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20180.178.%2A%2A%2A.%2A%2A%2A
+vless://fc7f5780-4c4e-11f1-a3f8-b58432c62d9c@c-1.mrcloudi.ir:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=jsv-p-de1.donick.ir#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20c-1.%2A%2A%2A.ir
 vless://3a2be404-958b-418f-a4ea-a5098a888495@38.107.237.101:33635?encryption=none&type=ws&path=%2F&host=stauden-probst.de&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%2038.107.%2A%2A%2A.%2A%2A%2A
 vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw&sid=94c8a1b378da7250&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%2034.222.%2A%2A%2A.%2A%2A%2A
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@69.63.193.78:13779?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%2069.63.%2A%2A%2A.%2A%2A%2A
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20180.178.%2A%2A%2A.%2A%2A%2A
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20br1.%2A%2A%2A.ir
-vless://fc7f5780-4c4e-11f1-a3f8-b58432c62d9c@c-1.mrcloudi.ir:443?encryption=none&type=ws&security=tls&sni=jsv-p-de1.donick.ir&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20c-1.%2A%2A%2A.ir
-vless://63650025-84ff-4272-cfd4-61e7b9ee8834@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20a2.%2A%2A%2A.ir
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@idontknow.whit3.net:4443?fp=firefox&mode=auto&path=%2F&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&security=reality&sid=ca9273f1a19a886e&sni=idontknow.whit3.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20idontknow.%2A%2A%2A.net
