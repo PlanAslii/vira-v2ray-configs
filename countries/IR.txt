@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-08-24 06:40:11 UTC
-# Count: 1
+# Updated: 2026-08-24 10:40:11 UTC
+# Count: 2
 
-vless://5643c800-d78c-4cab-9ba9-b58e61d04f99@portf.gorqino.ir:6598?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.TAmZ-dOKJ7pSKsCQ9chUZyvhKmF4GpE2LSJImr1Cs24&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20portf.%2A%2A%2A.ir
+vless://d2a54374-c15c-4f38-8693-dde7a9ae1082@g1.horvexa.ir:2077?encryption=none&type=httpupgrade&security=tls&sni=world.ashahan.ir&fp=qq#%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20g1.%2A%2A%2A.ir%20%E2%94%87%20%F0%9F%9F%A2
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyAtIGcxLioqKi5pciBcdTI1MDcgXHVkODNkXHVkZmUyIiwiYWRkIjoiZzEuaG9ydmV4YS5pciIsInBvcnQiOiIyMDk4MSIsImlkIjoiYjg0YTFhMzItNDViNS00M2ZmLWI1NWItNDIzZWU5YWQ4MTVmIiwiYWlkIjoiMCIsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiZnAiOiIifQ
