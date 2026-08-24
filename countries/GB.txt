@@ -1,6 +1,6 @@
 # Country GB
-# Updated: 2026-08-24 23:11:55 UTC
+# Updated: 2026-08-24 23:41:55 UTC
 # Count: 2
 
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20129.121.%2A%2A%2A.%2A%2A%2A
-vless://88212d38-f112-4a35-8ac2-eb3a1923e413@109.169.84.146:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20109.169.%2A%2A%2A.%2A%2A%2A
+vless://bbc164a1-b246-456b-aefd-95c5e5f877d4@109.169.85.141:443?security=reality&encryption=none&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=1dc6d8a2045a7c9d#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20109.169.%2A%2A%2A.%2A%2A%2A
