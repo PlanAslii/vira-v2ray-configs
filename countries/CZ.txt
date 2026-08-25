@@ -1,5 +1,5 @@
 # Country CZ
-# Updated: 2026-08-25 07:48:40 UTC
+# Updated: 2026-08-25 10:54:18 UTC
 # Count: 1
 
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?encryption=none&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=cz.helper-internet.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%205.39.%2A%2A%2A.%2A%2A%2A
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cz.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%205.39.%2A%2A%2A.%2A%2A%2A
