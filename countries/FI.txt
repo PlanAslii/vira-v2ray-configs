@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-08-25 11:16:28 UTC
-# Count: 4
+# Updated: 2026-08-25 11:46:28 UTC
+# Count: 3
 
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20-%2031.76.%2A%2A%2A.%2A%2A%2A
+vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?&security=tls&fp=firefox&sni=fin4.wba-pn.ru&type=ws&headerType=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2081.177.%2A%2A%2A.%2A%2A%2A
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@77.110.108.231:8898?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=firefox&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&sid=6633e065744286#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2077.110.%2A%2A%2A.%2A%2A%2A
-vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=2a2ce9e42980&sni=www.mozilla.org#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20server.%2A%2A%2A.monster
-vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5a018643df03&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20staging.%2A%2A%2A.monster
-vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20132.243.%2A%2A%2A.%2A%2A%2A
