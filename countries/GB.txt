@@ -1,5 +1,6 @@
 # Country GB
-# Updated: 2026-08-25 05:41:55 UTC
-# Count: 1
+# Updated: 2026-08-25 06:11:55 UTC
+# Count: 2
 
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&type=ws&security=tls&sni=129.121.95.159&fp=firefox&path=%2Fconnect%23TELEGRAM-TOOTFFARANGI_TOOTFFARANGI%3Fed%3D512&host=129.121.95.159#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20129.121.%2A%2A%2A.%2A%2A%2A
+vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20129.121.%2A%2A%2A.%2A%2A%2A
+vless://b2bef9e4-0e52-43d7-9613-f6e73c2eb970@109.169.76.34:443?security=reality&encryption=none&pbk=JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=61811b12a62fb2a4#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20-%20109.169.%2A%2A%2A.%2A%2A%2A
