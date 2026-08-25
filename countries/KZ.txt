@@ -1,5 +1,7 @@
 # Country KZ
-# Updated: 2026-08-25 07:48:40 UTC
-# Count: 1
+# Updated: 2026-08-25 10:54:18 UTC
+# Count: 3
 
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%20193.124.%2A%2A%2A.%2A%2A%2A
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%20178.236.%2A%2A%2A.%2A%2A%2A
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&sid=01e4de88&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20-%20kz.%2A%2A%2A.com
