@@ -1,6 +1,5 @@
 # Country US
-# Updated: 2026-08-25 05:11:55 UTC
-# Count: 2
+# Updated: 2026-08-25 05:41:55 UTC
+# Count: 1
 
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20180.178.%2A%2A%2A.%2A%2A%2A
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@79.127.245.249:443?security=reality&encryption=none&pbk=IhcYDA8gF5PuTtKLu-kB6zezpqAKQvnjE_XbgNg8nXI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=157ce3ba#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%2079.127.%2A%2A%2A.%2A%2A%2A
+vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@177.3.212.189:443?security=reality&encryption=none&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gd-0z.whit3.net&sid=d7d38e70e3362842#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20-%20177.3.%2A%2A%2A.%2A%2A%2A
