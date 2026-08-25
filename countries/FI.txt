@@ -1,7 +1,7 @@
 # Country FI
-# Updated: 2026-08-25 02:11:55 UTC
+# Updated: 2026-08-25 02:41:55 UTC
 # Count: 3
 
-vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?encryption=none&security=none&type=grpc&authority&serviceName=vless&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20141.0.%2A%2A%2A.%2A%2A%2A
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@77.110.108.231:8898?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=firefox&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&sid=6633e065744286#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2077.110.%2A%2A%2A.%2A%2A%2A
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
+vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?encryption=none&security=none&type=grpc&authority&serviceName=vless&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20141.0.%2A%2A%2A.%2A%2A%2A
