@@ -1,5 +1,6 @@
 # Country DE
-# Updated: 2026-08-25 05:11:55 UTC
-# Count: 1
+# Updated: 2026-08-25 05:41:55 UTC
+# Count: 2
 
-vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20152.53.%2A%2A%2A.%2A%2A%2A
+vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&sid=43dcff53849b81e6#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20152.53.%2A%2A%2A.%2A%2A%2A
+hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Hysteria2%20-%2089.125.%2A%2A%2A.%2A%2A%2A
