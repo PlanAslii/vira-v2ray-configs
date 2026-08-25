@@ -1,5 +1,8 @@
 # Country RU
-# Updated: 2026-08-25 16:46:28 UTC
-# Count: 1
+# Updated: 2026-08-25 17:16:28 UTC
+# Count: 4
 
+vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?security=reality&encryption=none&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&fp=firefox&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=bad5722c72a0#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2079.174.%2A%2A%2A.%2A%2A%2A
+vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2085.198.%2A%2A%2A.%2A%2A%2A
+vless://3ab2615c-689d-463b-8990-a95013894348@45.91.52.125:443?security=reality&encryption=none&pbk=8bkjYMx4EXdRTHTgQ6wMaeyGl-HfskzixE0Is-kMQXU&fp=chrome&sni=www.cloudflare.com&sid=e3c60a1b71b462fa&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2045.91.%2A%2A%2A.%2A%2A%2A
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=chrome&type=grpc&serviceName=ns&sni=id.pervye.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
