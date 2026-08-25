@@ -1,7 +1,6 @@
 # Country RU
-# Updated: 2026-08-25 01:41:55 UTC
-# Count: 3
+# Updated: 2026-08-25 02:11:55 UTC
+# Count: 2
 
+vless://a237ca49-48d5-466f-aee5-c44f728a99ab@217.149.30.225:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.rumedia-cdn.com&fp=ios&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&sid=4f676caa93313eab&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20217.149.%2A%2A%2A.%2A%2A%2A
 vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@81.200.144.79:2200?path=%2Fv1&security&encryption=none&host=rzd.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2081.200.%2A%2A%2A.%2A%2A%2A
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.123.164.9:9872?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20176.123.%2A%2A%2A.%2A%2A%2A
-vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053?security=reality&encryption=none&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=688c54e7b1ebddec#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20217.149.%2A%2A%2A.%2A%2A%2A
