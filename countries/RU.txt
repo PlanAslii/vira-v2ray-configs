@@ -1,6 +1,6 @@
 # Country RU
-# Updated: 2026-08-25 21:16:28 UTC
+# Updated: 2026-08-25 21:46:28 UTC
 # Count: 2
 
-vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?&type=ws&headerType=none&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20194.26.%2A%2A%2A.%2A%2A%2A
-vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?security=reality&encryption=none&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&fp=firefox&type=grpc&serviceName=grpc&sni=iv.kommersant.ru&sid=bad5722c72a0#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2079.174.%2A%2A%2A.%2A%2A%2A
+vless://3ab2615c-689d-463b-8990-a95013894348@45.91.52.125:443?security=reality&encryption=none&pbk=8bkjYMx4EXdRTHTgQ6wMaeyGl-HfskzixE0Is-kMQXU&fp=chrome&sni=www.cloudflare.com&sid=e3c60a1b71b462fa&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%2045.91.%2A%2A%2A.%2A%2A%2A
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20-%20201.51.%2A%2A%2A.%2A%2A%2A
