@@ -1,9 +1,10 @@
 # Country FR
-# Updated: 2026-08-25 10:54:18 UTC
-# Count: 5
+# Updated: 2026-08-25 11:16:28 UTC
+# Count: 6
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.185.170:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%2035.180.%2A%2A%2A.%2A%2A%2A
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node21.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20node21.%2A%2A%2A.dev
 vless://41282b70-6804-4ac4-979e-ff5927dbc194@Nuremberg2-sv.FaraSorat.Net:8880?type=tcp&security=reality&pbk=Ve4UPWR6c6sYZo6tqdRjPxUuidmD0rTcj0j4uRhfO2Q&fp=ios&sni=steampowered.com&sid=d4ce9c632d42353b&spx=%2F#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20nuremberg2-sv.%2A%2A%2A.net
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20164.68.%2A%2A%2A.%2A%2A%2A
 vmess://eyJhZGQiOiI2Mi4yMTAuMTI3LjEyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZW5nYWdlLmNsb3VkZmxhcmVjbGllbnQuY29tIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIiwicGNzIjoiIiwicG9ydCI6IjIzMzg4IiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIC0gNjIuMjEwLioqKi4qKioiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?security=none&type=ws&path=/&host=usejh2.neobo-tooth.ru&packetEncoding=xudp&sni=usejh2.neobo-tooth.ru#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20usejh2.%2A%2A%2A.ru
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=a8ae#%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20-%20194.76.%2A%2A%2A.%2A%2A%2A
