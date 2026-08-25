@@ -1,7 +1,6 @@
 # Country DE
-# Updated: 2026-08-25 00:11:55 UTC
-# Count: 3
+# Updated: 2026-08-25 00:41:55 UTC
+# Count: 2
 
-vless://3dbd923b-93de-401d-bdab-78671cb12fd9@store3.vevluma.ir:1234?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&sid=4844fb0c077b20b7&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20store3.%2A%2A%2A.ir
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2018.198.%2A%2A%2A.%2A%2A%2A
 vless://097bb22a-1303-4478-b9e8-ffc84ea17e83@67.159.43.202:443?security=tls&fp=firefox&alpn=http%2F1.1&sni=cli-q.bosx.net&type=ws&headerType=none&path=%2Fapi%2Fconnect#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%2067.159.%2A%2A%2A.%2A%2A%2A
+vless://3dbd923b-93de-401d-bdab-78671cb12fd9@store3.vevluma.ir:1234?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&sid=4844fb0c077b20b7&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20-%20store3.%2A%2A%2A.ir
