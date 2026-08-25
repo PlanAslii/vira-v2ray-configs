@@ -1,8 +1,11 @@
 # Protocol trojan
-# Updated: 2026-08-25 19:46:28 UTC
-# Count: 4
+# Updated: 2026-08-25 20:16:28 UTC
+# Count: 7
 
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20kkvlvvq-a.%2A%2A%2A.com
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20Trojan%20-%20tr-latvia1.%2A%2A%2A.ru
+trojan://%4D%69%54%69%56%50%4E@140.248.185.253:443?path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2Fs-w%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E&security=tls&insecure=0&host=4x-%6D%69%74%69%76%70%6E--%6D%69%74%69%76%70%6E------%6D%69%74%69%76%70%6E.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20140.248.%2A%2A%2A.%2A%2A%2A
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20188.114.%2A%2A%2A.%2A%2A%2A
 trojan://MiTiVPN@140.248.185.253:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&type=ws&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20140.248.%2A%2A%2A.%2A%2A%2A
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20Trojan%20-%20109.206.%2A%2A%2A.%2A%2A%2A
 trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%2044.251.%2A%2A%2A.%2A%2A%2A
-trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20-%20saj2000e.%2A%2A%2A.com
