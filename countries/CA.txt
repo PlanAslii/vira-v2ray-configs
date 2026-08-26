@@ -1,7 +1,9 @@
 # Country CA
-# Updated: 2026-08-26 03:16:28 UTC
-# Count: 3
+# Updated: 2026-08-26 03:46:28 UTC
+# Count: 5
 
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20188.114.%2A%2A%2A.%2A%2A%2A
+vless://ecbc4229-e8d3-4607-8f02-fd592c9a0743@piracy-android.video-streams.org:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=piracy-android.video-streams.org&type=ws&headerType=none&host=piracy-android.video-streams.org&path=%2Fws#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20piracy-android.%2A%2A%2A.org
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20158.69.%2A%2A%2A.%2A%2A%2A
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.20.37.53:80?&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&type=ws&headerType=none&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=%2Fstream%2FTrexBridge%2Fb52a90ada6ab#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20104.20.%2A%2A%2A.%2A%2A%2A
 vless://9a3de3e0-2a6e-4bb2-81bd-1a4e51dfa110@vpn.renshengxuanze.ccwu.cc:443?encryption=none&fp=chrome&host=vpn.renshengxuanze.ccwu.cc&path=%2F&security=tls&sni=vpn.renshengxuanze.ccwu.cc&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20vpn.renshengxuanze.%2A%2A%2A.cc
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2095?path=%2F%3Fed%3D2560security%3Dtls&security=none&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20-%20172.64.%2A%2A%2A.%2A%2A%2A
