@@ -1,6 +1,5 @@
 # Protocol trojan
-# Updated: 2026-08-26 14:50:05 UTC
-# Count: 2
+# Updated: 2026-08-26 15:20:05 UTC
+# Count: 1
 
 trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20F3%20Netze%20e.V.
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
