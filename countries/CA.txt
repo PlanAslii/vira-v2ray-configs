@@ -1,8 +1,8 @@
 # Country CA
-# Updated: 2026-08-26 14:50:05 UTC
+# Updated: 2026-08-26 15:20:05 UTC
 # Count: 4
 
-vless://13d0590e-054f-d598-27aa-29ed214d38a7@104.19.230.21:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=ez-53bfc8.nova-ad8c81.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-53bfc8.nova-ad8c81.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://6a342c06-5f6b-64a6-85fa-ce15073e7fec@147.182.156.111:8039?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
+vless://86e02d10-23e7-496d-b90c-313649587c68@cf2.laowu.life:443?security=tls&fp=chrome&sni=cf2.laowu.life&type=ws&headerType=none&host=cf2.laowu.life&path=%2Fapi%2Fv2%2Fstream#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://5d8fae5f-0427-4da3-99ab-242905fa5c69@188.114.97.3:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=ios&host=fast.iqiraq.shop.&path=%2F&security=tls&sni=fast.iqiraq.shop.&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@104.25.233.30:443?encryption=none&type=ws&security=tls&sni=p2bm6l1.freelanceriran98.ir&path=%2Fws-dk&host=p2bm6l1.freelanceriran98.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
