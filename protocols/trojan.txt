@@ -1,7 +1,5 @@
 # Protocol trojan
-# Updated: 2026-08-26 22:20:05 UTC
-# Count: 3
+# Updated: 2026-08-26 22:50:05 UTC
+# Count: 1
 
 trojan://humanity@45.80.111.7:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
-trojan://ZcV1AKzS1KPuLXOvW3RXr%2BHFldso5hZoaMpZ%2FqbeEW4%3D@130.185.122.106:2053?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20%C2%B7%20Arvancloud%20Global%20Technologies%20L.L.C
-trojan://humanity@172.67.221.242:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
