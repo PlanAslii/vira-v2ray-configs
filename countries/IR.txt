@@ -1,6 +1,5 @@
 # Country IR
-# Updated: 2026-08-26 22:20:05 UTC
-# Count: 2
+# Updated: 2026-08-26 23:20:05 UTC
+# Count: 1
 
-vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Patron%20Technology%20Persia%20Ltd%20%E2%94%87%20%F0%9F%94%B4
-vless://fb03abb3-53d2-4d6b-bbdb-fa0da87916ea@ger.x2net.top:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ger.x2net.top&fp=chrome&type=ws&allowInsecure=0&sni=ger.x2net.top#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ettelaat%20Fanavarn-E%20Tookan%20Co%20Ltd%20%E2%94%87%20%F0%9F%94%B4
+vless://14c3d8cb-0073-4362-904f-f3bcd55ef22b@217.18.90.79:443?encryption=none&security=none&type=tcp#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Patron%20Technology%20Persia%20Ltd%20%E2%94%87%20%F0%9F%9F%A2
