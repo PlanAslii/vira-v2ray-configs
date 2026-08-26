@@ -1,5 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-26 05:16:28 UTC
-# Count: 1
+# Updated: 2026-08-26 05:46:28 UTC
+# Count: 3
 
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20Trojan%20-%20tr-latvia1.%2A%2A%2A.ru
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20Trojan%20-%20109.206.%2A%2A%2A.%2A%2A%2A
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20188.114.%2A%2A%2A.%2A%2A%2A
