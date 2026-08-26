@@ -1,6 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-26 01:46:28 UTC
-# Count: 2
+# Updated: 2026-08-26 02:16:28 UTC
+# Count: 3
 
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%B8%F0%9F%87%A8%20%E2%94%87%20Trojan%20-%2045.130.%2A%2A%2A.%2A%2A%2A
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20104.19.%2A%2A%2A.%2A%2A%2A
 trojan://Telegram_healer_config@104.21.4.124:443?path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vRE6r9qrbQi0T25tg.SRtB0M3HDbWr2cjZ8fJuR.WoRKerS.DEv#%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20-%20104.21.%2A%2A%2A.%2A%2A%2A
