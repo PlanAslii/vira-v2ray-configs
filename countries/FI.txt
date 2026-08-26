@@ -1,7 +1,5 @@
 # Country FI
-# Updated: 2026-08-26 00:46:28 UTC
-# Count: 3
+# Updated: 2026-08-26 01:16:28 UTC
+# Count: 1
 
-vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=2a2ce9e42980&sni=www.mozilla.org#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20server.%2A%2A%2A.monster
-vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5a018643df03&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20staging.%2A%2A%2A.monster
-vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?security=reality&encryption=none&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=90#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%2031.76.%2A%2A%2A.%2A%2A%2A
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20-%20185.79.%2A%2A%2A.%2A%2A%2A
