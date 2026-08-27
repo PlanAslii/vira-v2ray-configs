@@ -1,8 +1,6 @@
 # Country SG
-# Updated: 2026-08-27 01:20:05 UTC
-# Count: 4
+# Updated: 2026-08-27 01:50:05 UTC
+# Count: 2
 
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&allowInsecure=1#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&allowInsecure=1#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?encryption=none&type=tcp&allowInsecure=1#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20CTG%20Server%20Limited
-vmess://eyJ2IjoiMiIsInBzIjoidmlyYSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMgXHUyNTA3IFZNZXNzIFx1MDBiNyBBbWF6b24uY29tLCBJbmMuIiwiYWRkIjoiYm9hcmQtMDIuZGRuc2t1bmx1bi5jb20iLCJwb3J0IjoiMTE5ODUiLCJ0eXBlIjoibm9uZSIsImlkIjoiYThiY2NlNDMtYWJkYS0zMTViLThlODEtZTNlNjViY2IzZDA3IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImJvYXJkLTAyLmRkbnNrdW5sdW4uY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
