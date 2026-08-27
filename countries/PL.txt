@@ -1,8 +1,6 @@
 # Country PL
-# Updated: 2026-08-27 09:50:09 UTC
-# Count: 4
+# Updated: 2026-08-27 10:20:09 UTC
+# Count: 2
 
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?encryption=none&security=none&type=ws&path=%2F#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Eternity%20International%20Limited
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Korbank%20DataCenter%20VPS
-vless://8fb5395c-4465-4f4f-93dc-7640af85c3cb@82.40.62.199:37430?security=reality&encryption=none&pbk=MNKg9Lti8zBudF2zQbCqIZPoqLMSxINa6QwzpODpE20&headerType=none&fp=ios&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Newserverlife%20LLC
-vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?encryption=none&host=pl5.lckdwn.ru&path=%2F&security=none&type=ws#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Korbank%20DataCenter%20VPS
+vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?type=ws&headerType=none&host=pl5.lckdwn.ru&path=%2F#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
