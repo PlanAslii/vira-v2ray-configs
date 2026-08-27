@@ -1,5 +1,5 @@
 # Country IR
-# Updated: 2026-08-27 01:50:05 UTC
+# Updated: 2026-08-27 02:20:05 UTC
 # Count: 1
 
-vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?type=tcp&headerType=none&path=%2F#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Patron%20Technology%20Persia%20Ltd%20%E2%94%87%20%F0%9F%94%B4
+trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Iran%20Cell%20Service%20and%20Communication%20%E2%94%87%20%F0%9F%94%B4
