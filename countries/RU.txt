@@ -1,6 +1,7 @@
 # Country RU
-# Updated: 2026-08-27 05:20:05 UTC
-# Count: 2
+# Updated: 2026-08-27 05:50:05 UTC
+# Count: 3
 
+vless://9972a440-39a6-4672-8883-5dd188863acf@135.106.194.254:56?encryption=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://6d60c73d-5915-4cf8-b155-e522dfd863bb@31.128.37.67:16560?encryption=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
 vless://9972a440-39a6-4672-8883-5dd188863acf@135.106.194.254:52?encryption=none&type=tcp&headerType=none#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
-vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
