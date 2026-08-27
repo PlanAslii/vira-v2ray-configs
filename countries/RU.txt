@@ -1,11 +1,9 @@
 # Country RU
-# Updated: 2026-08-27 09:20:09 UTC
-# Count: 7
+# Updated: 2026-08-27 09:50:09 UTC
+# Count: 5
 
 vless://6d60c73d-5915-4cf8-b155-e522dfd863bb@31.128.37.67:16560?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&type=tcp&security=tls&sni=user-6a8d949a.noooo.win&flow=xtls-rprx-vision#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
 vless://3ab2615c-689d-463b-8990-a95013894348@45.91.52.125:443?encryption=none&flow=xtls-rprx-vision&pbk=8bkjYMx4EXdRTHTgQ6wMaeyGl-HfskzixE0Is-kMQXU&security=reality&sid=e3c60a1b71b462fa&sni=www.cloudflare.com&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
 hysteria2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443/?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20Hysteria2%20%C2%B7%20SERV.HOST%20GROUP%20LTD
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20MegaMax%20Network
-vless://9972a440-39a6-4672-8883-5dd188863acf@135.106.194.254:56?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=safari&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&sid=5726b22c209c49#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
