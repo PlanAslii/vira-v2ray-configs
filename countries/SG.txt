@@ -1,8 +1,8 @@
 # Country SG
-# Updated: 2026-08-27 10:20:09 UTC
+# Updated: 2026-08-27 10:50:09 UTC
 # Count: 4
 
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?headerType=none&encryption=none&type=tcp&security=none#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20CTG%20Server%20Limited
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://82d145c1-d691-4eef-9de1-9c316db4859a@159.195.242.180:8443?fm=ahmadv2ray&sid=c8c75aaf699259b4&spx=/ahmadv2ray&type=grpc&sni=at2.tsumshop.org&fp=firefox&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&serviceName=b21a4d915b94&security=reality&encryption=none#vira%20%F0%9F%87%B8%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20netcup%20GmbH
