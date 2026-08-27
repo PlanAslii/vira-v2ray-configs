@@ -1,7 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-27 07:50:09 UTC
+# Updated: 2026-08-27 08:20:09 UTC
 # Count: 3
 
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
-trojan://ZcV1AKzS1KPuLXOvW3RXr%2BHFldso5hZoaMpZ%2FqbeEW4%3D@130.185.122.106:2053?security=tls&insecure=0&type=tcp&allowInsecure=0#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20%C2%B7%20Arvancloud%20Global%20Technologies%20L.L.C
-trojan://3cdc222f5fb8f018@104.21.73.238:2082?path=%2Ftr%2FlwQjblUV8zcUyws2lNxpRnN%3Fed%3D2560&host=channel-fixping.fixpingchannelatomicmailiosaccount.workers.dev&type=ws&security=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Trojan%20%C2%B7%20Catixs%20Ltd
+trojan://humanity@104.18.9.83:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment&host=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://Telegram_healer_config@104.21.17.125:443?type=ws&security=tls&sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv&fp=chrome&path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed&host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
