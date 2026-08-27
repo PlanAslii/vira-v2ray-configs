@@ -1,7 +1,8 @@
 # Country RU
-# Updated: 2026-08-27 10:20:09 UTC
-# Count: 5
+# Updated: 2026-08-27 10:50:09 UTC
+# Count: 6
 
+vless://42edf47c-7dd2-4207-b061-87935222eec4@91.243.86.89:2053?encryption=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20EdgeCenter%20LLC
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@82.202.157.193:443?security=reality&encryption=none&pbk=A51UvCAHsWrGkjaZQoE0PfHt-owiBxSMRIc8XfxdYkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=fbc7b5b2#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
 vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@194.55.239.164:443?security=reality&encryption=none&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.vk.ru&sid=c427#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20New%20Hosting%20Technologies%20LLC
 vless://d84cd399-032a-44d6-b5e1-80a7cf65e8b9@entry-msk.mopsvpn.xyz:30420?security=reality&encryption=none&pbk=0DeQkB5VFrFlDUHQubW1cgimk2MsIVZ-7prfaYa1XRs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
