@@ -1,5 +1,5 @@
 # Country IR
-# Updated: 2026-08-27 02:50:05 UTC
+# Updated: 2026-08-27 04:50:05 UTC
 # Count: 1
 
-trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Iran%20Cell%20Service%20and%20Communication%20%E2%94%87%20%F0%9F%94%B4
+vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@mci.v2plus.ovh:80?security=none&type=ws&path=/ffEt2nn4iTWiXfi8&host=worker3.bobiv63003.workers.dev&packetEncoding=xudp&encryption=none#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
