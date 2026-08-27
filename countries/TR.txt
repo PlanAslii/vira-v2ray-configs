@@ -1,5 +1,5 @@
 # Country TR
-# Updated: 2026-08-27 05:20:05 UTC
+# Updated: 2026-08-27 05:50:05 UTC
 # Count: 1
 
-vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2082?path=%2Fv-ws-de&encryption=none&type=ws#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2053?mode=multi&security=none&encryption=none&authority=tr.web.doctor-alan-cloud.ir&type=grpc&serviceName=v-grpc#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
