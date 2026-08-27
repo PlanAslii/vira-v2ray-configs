@@ -1,6 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-27 19:03:32 UTC
-# Count: 2
+# Updated: 2026-08-27 19:33:32 UTC
+# Count: 3
 
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#vira%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
+trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=%2FeyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ%3D%3D&security=none&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&fp=chrome&type=ws&sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Render
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#vira%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Baykov%20Ilya%20Sergeevich
