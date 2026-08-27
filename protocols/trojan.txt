@@ -1,8 +1,8 @@
 # Protocol trojan
-# Updated: 2026-08-27 02:20:05 UTC
+# Updated: 2026-08-27 02:50:05 UTC
 # Count: 4
 
+trojan://humanity@172.67.221.242:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Trojan%20%C2%B7%20Catixs%20Ltd
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#vira%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Iran%20Cell%20Service%20and%20Communication%20%E2%94%87%20%F0%9F%94%B4
-trojan://0hbl*0RB4T,LSk;JK@104.21.72.201:2096?type=ws&security=tls&sni=14SW2KRBEO0wv7GZ32H3BnJ.HalABiA061.workeRs.DEv&fp=chrome&path=%2Ftr%2Fd2y5re8Z9iqkUtWNtSR%3Fed%3D2560&host=14sw2krbeo0wv7gz32h3bnj.halabia061.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Trojan%20%C2%B7%20Catixs%20Ltd
