@@ -1,10 +1,7 @@
 # Country RU
-# Updated: 2026-08-28 10:03:32 UTC
-# Count: 6
+# Updated: 2026-08-28 10:33:32 UTC
+# Count: 3
 
-vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=user-6a8d949a.noooo.win&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
-vless://7ab91da1-d12a-45e6-8653-62d9fddbfae9@45.151.62.243:443?type=tcp&encryption=none&security=reality&fp=chrome&sni=vk.com&pbk=YbSMmjuRFkilXmQH_RZ9uDFwA17yDulRSTBHRVilzXs&sid=a3dbdfb829&spx=%2Fvideo&flow=xtls-rprx-vision#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Internet%20Solutions%20LLC
+vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=user-6a8d949a.noooo.win#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
 vless://6d60c73d-5915-4cf8-b155-e522dfd863bb@31.128.37.67:16560?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@176.124.200.214:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rf5.helper-internet.com&sid=ff776ff77be48b88#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://2e483b48-ad25-4c80-8806-73000fd5b031@82.202.177.148:5269?security=reality&encryption=none&pbk=fFmp4fFO2wuoJKvc2_e5MF5C92H6Ei4c_AfV7toZO1c&headerType=none&fp=chrome&spx=/&type=tcp&sni=max.ru&sid=a62ae57fa46a0d6d#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Xeon%20LLC
-vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@147.45.100.79:2053?encryption=none&type=ws&path=%2F&host=147.45.100.79&security=tls&sni=bz16.wba-pn.ru#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=user-6a8d949a.noooo.win&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
