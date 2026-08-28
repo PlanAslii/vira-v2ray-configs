@@ -1,10 +1,12 @@
 # Country CA
-# Updated: 2026-08-28 20:33:32 UTC
-# Count: 6
+# Updated: 2026-08-28 21:03:32 UTC
+# Count: 8
 
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:80?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://be4cecbe-3658-4daf-8c9a-7b00898c7318@pass.speedoraa.ir:443?encryption=mlkem768x25519plus.native.0rtt.JgBGQxcFxZdwwvHJgyYQ9Qw8ezpz532ZMa6I4XEadAo&security=tls&type=ws&headerType=none&path=%2F&host=pas.speedoraa.ir&sni=pas.speedoraa.ir&alpn=h3%2Ch2%2Chttp%2F1.1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://d8489785-bf37-b68c-fb19-58d5cbeca36d@147.182.156.111:8039?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://a30a3f37-1ab2-46bd-8c6b-a26d7c775f2a@172.64.229.189:443?sni=grc.ccwu.cc&type=ws&host=grc.ccwu.cc&path=/?ed=2560fp=chrome&security=tls#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.98:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://57a8ea50-1a8d-4e9f-b6e8-e991a9914a8a@151.101.1.242:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=grimness-backlogs.cdn-content.com&fp=chrome&type=ws&allowInsecure=0&sni=grimness-backlogs.cdn-content.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:2095?type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
