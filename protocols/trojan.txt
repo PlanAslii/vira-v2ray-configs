@@ -1,7 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-28 11:03:32 UTC
+# Updated: 2026-08-28 11:33:32 UTC
 # Count: 3
 
+trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://6021672c-761d-d2f4-27af-6ac3fe18d777@www.speedtest.net:443?type=ws&security=tls&sni=a.v2boxerfree.workers.dev&fp=chrome&path=%2Fv2&host=a.v2boxerfree.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://humanity@am12.levikogjgfdd.ir:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
-trojan://c2yspmf4ew0xlz9k@130.185.121.30:8443?type=tcp&security=tls&fp=chrome#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Arvancloud%20Global%20Technologies%20L.L.C
