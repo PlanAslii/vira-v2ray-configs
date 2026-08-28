@@ -1,6 +1,5 @@
 # Protocol trojan
-# Updated: 2026-08-28 06:03:32 UTC
-# Count: 2
+# Updated: 2026-08-28 06:33:32 UTC
+# Count: 1
 
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#vira%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-trojan://3vKb%2Fl5ppc81XMY84RpHzhLZUo5mWUphn75CWA2WOE0%3D@130.185.121.30:8443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Arvancloud%20Global%20Technologies%20L.L.C
+trojan://humanity@45.80.111.7:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
