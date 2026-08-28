@@ -1,5 +1,6 @@
 # Country UA
-# Updated: 2026-08-27 18:33:32 UTC
-# Count: 1
+# Updated: 2026-08-28 06:33:32 UTC
+# Count: 2
 
-vless://168e2280-b202-473e-ba71-4e86f3156dd6@157.173.3.171:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=ncgb2di0o45t.bosfiles.net#vira%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Pipe%20Networks%20LTD
+vless://64d413b7-b782-000c-bce2-ab7cd61208af@78.159.240.83:8443?allowInsecure=1&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#vira%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Cloud%20Network%20LLC
+vless://64d413b7-b782-0009-bce2-ab7cd61208af@78.159.240.83:8443?allowInsecure=1&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#vira%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Cloud%20Network%20LLC
