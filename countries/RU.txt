@@ -1,7 +1,8 @@
 # Country RU
-# Updated: 2026-08-27 21:33:32 UTC
-# Count: 3
+# Updated: 2026-08-28 05:33:32 UTC
+# Count: 4
 
+vless://7ee53e03-96ed-4121-9da2-62f3d3374506@178.72.147.249:4100?path=%2Fv1&security=none&encryption=none&type=ws#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://f23f641d-b83b-0002-8046-c513696f7fe5@ru77.overseashost.ru:443?security=reality&encryption=none&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru39.overseashost.ru#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://04fded34-fb73-4fc9-a065-15c75ddefe71@135.106.194.195:56?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
 vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@51.250.35.229:9443?mode=gun&security=reality&encryption=none&pbk=yiAI7CwcT7kwvDnzYFIeJBrj9fs3_7_7UYtzelu8Fwo&fp=chrome&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=26b5f38e#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yandex.Cloud%20LLC
-vless://42edf47c-7dd2-4207-b061-87935222eec4@91.243.86.89:2058?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20EdgeCenter%20LLC
