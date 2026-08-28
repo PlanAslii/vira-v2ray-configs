@@ -1,8 +1,6 @@
 # Protocol trojan
-# Updated: 2026-08-28 09:03:32 UTC
-# Count: 4
+# Updated: 2026-08-28 09:33:32 UTC
+# Count: 2
 
 trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Ping%20Identity%20Corporation
 trojan://feed94ed-e704-2deb-32a3-e0416f406f03@Time.is:443?type=ws&security=tls&sni=a.v2boxerfree5.workers.dev&fp=chrome&path=%2Fv2&host=a.v2boxerfree5.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#vira%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-trojan://50414e45-4c5f-5a45-5553-6cb928e8df1e@166.1.36.83:443?path=%2Fstream%2FPANEL_ZEUS%2F6cb928e8df1e%2Floc-2&security=tls&insecure=0&host=sazxlkeeuo9s.8264291.workers.dev&type=ws&allowInsecure=0&sni=sazxlkeeuo9s.8264291.workers.dev#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20GTHost
