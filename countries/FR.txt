@@ -1,5 +1,6 @@
 # Country FR
-# Updated: 2026-08-28 22:33:32 UTC
-# Count: 1
+# Updated: 2026-08-28 23:03:32 UTC
+# Count: 2
 
 vless://a8bc03e1-8e80-4a40-863b-6032f3ab7ca8@173.199.70.108:37185?type=tcp&encryption=none&security=none#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company
+vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr2.janusgate.org&sid=6ed1d644822b2951#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Petrosky%20Cloud%20LLC
