@@ -1,5 +1,7 @@
 # Protocol trojan
-# Updated: 2026-08-29 20:03:32 UTC
-# Count: 1
+# Updated: 2026-08-29 20:33:32 UTC
+# Count: 3
 
-trojan://humanity@130.250.137.171:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Ping%20Identity%20Corporation
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20Trojan%20%C2%B7%20NLS%20Kazakhstan%20LLC
+trojan://47SXGr72f1wpGNkZzLUUExRDHuVQypaW@90.156.218.126:2223?type=tcp&security=tls&sni=vkc7.secured-by-tenzo.sbs&fp=firefox#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20Trojan%20%C2%B7%20Moscow%20region
