@@ -1,6 +1,5 @@
 # Country GE
-# Updated: 2026-08-29 06:03:32 UTC
-# Count: 2
+# Updated: 2026-08-29 07:03:32 UTC
+# Count: 1
 
-vless://a3bc5615-3494-4442-b400-fd061b224af2@217.11.164.184:56333?type=tcp&security=none&encryption=none&headerType=none#vira%20%F0%9F%87%AC%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=f5link.ru#vira%20%F0%9F%87%AC%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
+vless://a3bc5615-3494-4442-b400-fd061b224af2@217.11.164.184:56333?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%AC%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
