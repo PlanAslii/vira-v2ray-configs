@@ -1,9 +1,7 @@
 # Country RU
-# Updated: 2026-08-29 11:33:32 UTC
-# Count: 5
+# Updated: 2026-08-29 12:03:32 UTC
+# Count: 3
 
 vless://bec4b96c-0328-4abd-be5e-437ac9f65bcd@185.96.80.147:443?path=cfbot&security=tls&alpn=h2&encryption=none&insecure=0&host=seksi-lady.ru&fp=chrome&type=ws&allowInsecure=0&sni=seksi-lady.ru#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
 vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20MTS%20PJSC
-vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=user-6a8d949a.noooo.win#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
-vless://b9bcc3f6-389d-41b1-a673-4596fbf120e8@45.144.176.39:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=xEShpzw3ELhAha1ilVBZdkfgxtRMxZmP8Ji_Y3FZSX0&fp=chrome&type=grpc&serviceName=nss&sni=id.pervye.ru#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
