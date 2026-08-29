@@ -1,7 +1,15 @@
 # Country CA
-# Updated: 2026-08-29 10:03:32 UTC
-# Count: 18
+# Updated: 2026-08-29 10:33:32 UTC
+# Count: 22
 
+trojan://humanity@104.18.9.83:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment&host=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://dfe31321-18f2-4c17-a2c0-195f7bebe8c1@104.19.117.87:443?encryption=none&security=tls&sni=joeytunn.make2000.dpdns.org&fp=chrome&type=ws&host=joeytunn.make2000.dpdns.org&path=%2F%3Fed%3D2048#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20Canada%20Inc
+vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?type=ws&host=square-tree-3dbf.285.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://35b94b2c-1b46-4209-a04b-32ecf159b632@www.visa.com.sg:8880?type=ws&host=fragrant-tooth-2180.97-cbb.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net+#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://08e3dc8c-596a-4f4c-97ce-b6e3b93cd949@104.26.11.238:80?sni=worker3.wocayir177.workers.dev&type=ws&headerType=none&host=worker3.wocayir177.workers.dev&path=%2FzFZcAUY4pA8W4r26#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://dc53f855-5025-45c8-9a85-981036839c5c@skk.moe:8880?type=ws&host=summer-breeze-0574.279.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
 vless://d503ca85-91c2-426d-98ce-7a6f44666be1@winter-hall-a0a2.74-532.workers.dev:8880?type=ws&path=%2F#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?encryption=none&flow=xtls-rprx-vision&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&security=reality&sid=ee94ded352b795&sni=www.intel.com&type=tcp#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies
@@ -16,7 +24,3 @@ vless://f55a75a7-5aa6-4df7-814a-99da0edb5c86@104.21.55.229:8880?type=ws&host=aut
 vless://d25ba473-5b05-48bb-b048-e82844e2ae39@104.16.100.66:8880?type=ws&host=misty-recipe-be74.271.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://7da33b25-cdd6-e481-afcf-c5d532361a70@172.67.130.144:443?type=ws&security=tls&sni=ez-1bc8ab.sekiro-c18.workers.dev&host=ez-1bc8ab.sekiro-c18.workers.dev&path=%2Fsync&fp=chrome#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://humanity@104.18.9.83:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment&host=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://dfe31321-18f2-4c17-a2c0-195f7bebe8c1@104.19.117.87:443?encryption=none&security=tls&sni=joeytunn.make2000.dpdns.org&fp=chrome&type=ws&host=joeytunn.make2000.dpdns.org&path=%2F%3Fed%3D2048#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://08e3dc8c-596a-4f4c-97ce-b6e3b93cd949@104.26.11.238:80?sni=worker3.wocayir177.workers.dev&type=ws&headerType=none&host=worker3.wocayir177.workers.dev&path=%2FzFZcAUY4pA8W4r26#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://1f06dae9-e4cc-4aae-b026-07f7fc81fb56@104.21.23.72:8880?type=ws&host=spring-fire-a493.251-67d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
