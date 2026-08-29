@@ -1,7 +1,8 @@
 # Country FR
-# Updated: 2026-08-29 21:03:32 UTC
-# Count: 3
+# Updated: 2026-08-29 21:33:32 UTC
+# Count: 4
 
+vless://df880bf8-2635-4a83-a6bf-91bb36df284b@fr2.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr2.janusgate.org&sid=6ed1d644822b2951#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Petrosky%20Cloud%20LLC
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.50:443?encryption=none&type=xhttp&security=reality&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Devology%20Tech%20LLC
 vless://683cc41a-2654-4fdb-b4d8-515d356defcb@95.179.219.244:39769?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
 vless://ddc84c5c-2aca-4e6b-a3fa-e23a9cd299e9@62.171.178.144:443?security=reality&encryption=none&pbk=Z0i98sm08Xm652vSee4d7RMPfBIcLrHCjPw2qLjlmnU&headerType=none&fp=chrome&spx=%2Fbf1e61279c8d149&type=tcp&sni=google-analytics.com&sid=c6#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://ddc84c5c-2aca-4e6b-a3fa-e23a9cd299e9@62.171.178.144:443?encryption=none&fp=chrome&pbk=Z0i98sm08Xm652vSee4d7RMPfBIcLrHCjPw2qLjlmnU&security=reality&sid=c6&sni=google-analytics.com&spx=%2Fbf1e61279c8d149&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
