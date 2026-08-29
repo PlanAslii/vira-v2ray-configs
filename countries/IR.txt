@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-08-29 17:03:32 UTC
-# Count: 1
+# Updated: 2026-08-29 17:33:32 UTC
+# Count: 2
 
-vless://47c4ca1b-3190-460d-9956-95240e4de125@iran.harmira.ir:7990?encryption=mlkem768x25519plus.native.0rtt.pejGtgtPfcHHh365lpn5ov_gWGtIepC4fVYtm1xi01o&headerType=none&type=tcp#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ABRARVAN%20%E2%94%87%20%F0%9F%94%B4
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
+vless://86304271-8f39-4f62-8650-f22426a36372@dl-srv1.treenix-ping.com:443?type=ws&encryption=none&path=%2Fwindows&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=dl-srv1.treenix-ping.com#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Peyman%20Ertebatat%20Pouya%20Company%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
