@@ -1,6 +1,5 @@
 # Country LV
-# Updated: 2026-08-29 15:03:32 UTC
-# Count: 2
+# Updated: 2026-08-29 15:33:32 UTC
+# Count: 1
 
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?type=grpc&security=tls&fp=ios&mode=gun&serviceName=grpc#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
-vless://618acefa-2ff1-41b0-a295-f8a08858a897@185.145.245.144:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20VEESP%20datacenter
+vless://618acefa-2ff1-41b0-a295-f8a08858a897@lv02.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20VEESP%20datacenter
