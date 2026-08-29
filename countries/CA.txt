@@ -1,7 +1,14 @@
 # Country CA
-# Updated: 2026-08-29 16:03:32 UTC
-# Count: 13
+# Updated: 2026-08-29 16:33:32 UTC
+# Count: 18
 
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.215:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://aebeb940-51cb-429f-830d-c421351d18e3@104.24.19.99:443?path=%2FLUANVO&security=tls&encryption=none&insecure=0&host=novapanell.abdollahvand3.ir&fp=random&type=ws&allowInsecure=0&sni=novapanell.abdollahvand3.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://50414e45-4c5f-5a45-5553-ea30cf3150db@104.27.29.22:443?encryption=none&type=ws&security=tls&sni=sszpjleuufys.72zdtweiuqjs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fea30cf3150db&host=sszpjleuufys.72zdtweiuqjs.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20Canada%20Inc
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:2095?type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://056d58b7-2577-4f82-b7a8-2473202419c2@151.101.193.242:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=piracy-android.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=piracy-android.video-streams.org#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&sni=www.ignitelimit.com&fp=unsafe&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=jp3.yohototo.top&fp=unsafe&path=%2Ftyxyws&host=jp3.yohototo.top#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -13,5 +20,3 @@ vless://044e197e-9921-b555-a4c0-74022d22b229@147.182.156.111:8039?encryption=non
 vless://50414e45-4c5f-5a45-5553-f9cf828bbe32@vizj9le0u44s.nozaryavash.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2Ff9cf828bbe32&security=none&encryption=none&host=vizj9le0u44s.nozaryavash.workers.dev&fp=unsafe&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:443?encryption=none&host=cdn.asshole.eu.cc&path=%2F&security=tls&sni=cdn.asshole.eu.cc&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://aebeb940-51cb-429f-830d-c421351d18e3@104.24.19.99:443?path=%2FLUANVO&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=novapanell.abdollahvand3.ir&fp=random&type=ws&allowInsecure=0&sni=novapanell.abdollahvand3.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
