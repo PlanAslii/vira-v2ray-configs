@@ -1,8 +1,6 @@
 # Country IR
-# Updated: 2026-08-30 13:00:05 UTC
-# Count: 4
+# Updated: 2026-08-30 13:30:05 UTC
+# Count: 2
 
 vless://86692dde-f7a3-4fcf-b0dc-e070693c63d2@2.188.244.60:443?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Respina%20Networks%20%26%20Beyond%20PJSC%20%E2%94%87%20%F0%9F%94%B4
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
-vless://dda32458-9b60-4ab3-a702-972b824fe13d@91.199.19.24:443?security=tls&encryption=mlkem768x25519plus.native.0rtt.OmOhFURzvzErk88KZDgAjjkDTy9n4HyLcewdohX5Ugk&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=apr.samradsms.ir#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20MEHRAN-AS%20%E2%94%87%20%F0%9F%94%B4
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&type=ws&path=%2F&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&allowInsecure=1#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
