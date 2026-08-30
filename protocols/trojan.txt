@@ -1,5 +1,6 @@
 # Protocol trojan
-# Updated: 2026-08-30 02:00:06 UTC
-# Count: 1
+# Updated: 2026-08-30 02:30:05 UTC
+# Count: 2
 
-trojan://humanity@104.17.121.71:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20Trojan%20%C2%B7%20NLS%20Kazakhstan%20LLC
