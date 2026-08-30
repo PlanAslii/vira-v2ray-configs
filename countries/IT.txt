@@ -1,7 +1,6 @@
 # Country IT
-# Updated: 2026-08-30 12:30:05 UTC
-# Count: 3
+# Updated: 2026-08-30 13:00:05 UTC
+# Count: 2
 
 vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?sni=itproxy4.lockdwn.com&type=ws&headerType=none&host=itproxy4.lockdwn.com&path=%2F#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&allowInsecure=1#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&type=ws&security=tls&fp=qq&path=%2FRoBeRt#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
