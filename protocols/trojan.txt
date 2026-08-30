@@ -1,7 +1,5 @@
 # Protocol trojan
-# Updated: 2026-08-30 15:00:05 UTC
-# Count: 3
+# Updated: 2026-08-30 15:30:05 UTC
+# Count: 1
 
 trojan://najf3ijajxx9b3zi@54.38.14.150:8443?type=tcp&security=tls&sni=xalg1a4xe9e0.dop99.com&fp=chrome#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20OVH%20SAS
-trojan://Htb6AwARYBt%2B193LFyDnfe1fS%2BQDu9JHsiSw1waN0uc%3D@65.109.215.50:51773?security=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Trojan%20%C2%B7%20Hetzner%20Online%20GmbH
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Ping%20Identity%20Corporation
