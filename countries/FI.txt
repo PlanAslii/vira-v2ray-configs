@@ -1,11 +1,9 @@
 # Country FI
-# Updated: 2026-08-30 14:30:05 UTC
-# Count: 7
+# Updated: 2026-08-30 15:00:05 UTC
+# Count: 5
 
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://ea48c5b6-7a19-4fea-9902-17004a424452@95.216.27.15:2053?security=reality&encryption=none&pbk=JmAuytyIXW4klA7zqeSYi3EtWR0d4fNJCq4nR0LMQE8&headerType=none&type=tcp&sni=www.apple.com&sid=07316dd7d0e11c90#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 trojan://Htb6AwARYBt%2B193LFyDnfe1fS%2BQDu9JHsiSw1waN0uc%3D@65.109.215.50:51773?security=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Trojan%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://845a492d-21e6-4cc0-abbb-b66813a163c0@65.109.215.50:39633?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://58855785-3b92-4309-9a74-1d8ea15a00b7@65.109.209.152:32624?encryption=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Play2go%20International%20Limited
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?security=reality&encryption=none&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=67933d8be5b42f78#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Oy%20Crea%20Nova%20Hosting%20Solution%20Ltd
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
