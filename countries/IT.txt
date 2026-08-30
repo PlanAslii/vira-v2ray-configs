@@ -1,5 +1,6 @@
 # Country IT
-# Updated: 2026-08-30 04:30:06 UTC
-# Count: 1
+# Updated: 2026-08-30 05:30:05 UTC
+# Count: 2
 
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&headerType=none#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?sni=itproxy4.lockdwn.com&type=ws&headerType=none&host=itproxy4.lockdwn.com&path=%2F#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
