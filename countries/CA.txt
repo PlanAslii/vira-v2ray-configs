@@ -1,12 +1,9 @@
 # Country CA
-# Updated: 2026-08-30 15:00:05 UTC
-# Count: 8
+# Updated: 2026-08-30 15:30:05 UTC
+# Count: 5
 
+vless://dd8a3557-5a9d-4f1d-b6b0-f31f35dd0093@kali.org:2087?encryption=none&security=tls&sni=blacklegends.kdns.fr&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=blacklegends.kdns.fr&path=%2F#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20Canada%20Inc
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://aebeb940-51cb-429f-830d-c421351d18e3@104.24.19.99:443?path=%2FLUANVO&security=tls&encryption=none&insecure=0&host=novapanell.abdollahvand3.ir&fp=random&type=ws&allowInsecure=0&sni=novapanell.abdollahvand3.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://66be8be7-ae9b-4944-a91b-6e4b6b058c92@stream.tonblack.app:2053?path=%2Ftr1-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=stream.tonblack.app&fp=chrome&type=ws&allowInsecure=0&sni=stream.tonblack.app#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://a19ed4e0-a6eb-24a4-f9fe-745369e6e2e7@147.182.156.111:8039?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
-vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=firefox&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&sid=ee94ded352b795&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies
-vless://d706eacb-df4e-48d2-a7bd-649ef28554a7@172.67.179.209:443?encryption=none&type=ws&security=tls&sni=srv-5fa266-32f996.raha36masou-3d44.workers.dev&fp=chrome&path=%2Fstream%2FPANEL_ZEUS%2F649ef28554a7&host=srv-5fa266-32f996.raha36masou-3d44.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
