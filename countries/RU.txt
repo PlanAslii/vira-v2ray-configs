@@ -1,8 +1,7 @@
 # Country RU
-# Updated: 2026-08-30 22:09:48 UTC
-# Count: 4
+# Updated: 2026-08-30 22:39:48 UTC
+# Count: 3
 
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.34.121:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=russia.cendora.ru&fp=edge&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&allowInsecure=1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yakovlev%20Denis%20Alexandrovich
 vless://852c7b52-ca2d-4c63-9413-586c611c2ba6@84.252.132.142:48682?security=reality&encryption=none&pbk=IoP794V4wh0SxFDooTa4ZUl9s5W7ViJBo1-rBm7aEFg&headerType=none&fp=firefox&type=tcp&sni=yandex.lt&sid=8c48e512ffd0#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yandex.Cloud%20LLC
 vless://e103b504-eb8c-4ddb-8c60-9921133e77d4@rua02.333210.best:40000?encryption=none&type=xhttp&security=reality&sni=aws.amazon.com&fp=safari&pbk=vqnE1wKOqp4JXotgCl4SI2CBJ7ys3080cZjL83r9pmE&sid=49443d1a#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20BAXET
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&allowInsecure=1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@178.250.186.139:8443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=qq&encryption=none&flow=xtls-rprx-vision#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20AZERTA.RU%20Hosting%20Solutions
