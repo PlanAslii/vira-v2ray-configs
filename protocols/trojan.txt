@@ -1,5 +1,6 @@
 # Protocol trojan
-# Updated: 2026-08-30 05:00:05 UTC
-# Count: 1
+# Updated: 2026-08-30 05:30:05 UTC
+# Count: 2
 
+trojan://humanity@45.87.41.18:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20%C2%B7%20SpectraIP%20B.V.
 trojan://humanity@82.117.245.125:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20OVH%20SAS
