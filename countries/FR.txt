@@ -1,10 +1,12 @@
 # Country FR
-# Updated: 2026-08-30 15:00:05 UTC
-# Count: 6
+# Updated: 2026-08-30 15:30:05 UTC
+# Count: 8
 
+vless://fae272a6-a184-4c91-83ed-771abdcff404@mn2.levikogjgfdd.ir:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://d9f5d8f5-eeac-48c6-b7a4-abf7c977d4b4@amzzzlu.amirrsub.ir:443?path=%2Fnova-geo-psiphon-de&security=tls&encryption=none&insecure=0&host=amzzzlu.amirrsub.ir&type=ws&allowInsecure=0&sni=amzzzlu.amirrsub.ir#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Digital%20LLC
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 trojan://najf3ijajxx9b3zi@54.38.14.150:8443?type=tcp&security=tls&sni=xalg1a4xe9e0.dop99.com&fp=chrome#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20OVH%20SAS
 vless://c100e5ba-1cf5-45ce-b491-5c2b02cdde5e@parr.mechanicir.ir:10694?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Choopa
 vless://8c2d5e7e-116a-49c4-8437-937f4bfce346@parr.mechanicir.ir:10694?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Choopa
 vless://f09ca7ff-bfc2-4f72-8cf4-a3c81100cc15@parr.mechanicir.ir:10694?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Choopa
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.170:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Devology%20Tech%20LLC
-vless://d9f5d8f5-eeac-48c6-b7a4-abf7c977d4b4@amzzzlu.amirrsub.ir:443?encryption=none&type=ws&security=tls&sni=amzzzlu.amirrsub.ir&path=%2Fnova-geo-psiphon-de&host=amzzzlu.amirrsub.ir#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Digital%20LLC
