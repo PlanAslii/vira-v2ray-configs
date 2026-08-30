@@ -1,5 +1,6 @@
 # Protocol trojan
-# Updated: 2026-08-30 08:30:05 UTC
-# Count: 1
+# Updated: 2026-08-30 09:00:05 UTC
+# Count: 2
 
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://e4448f0b1a074503b75b88c313a50285@star.starnick2031.ir:12673?type=tcp&security=none#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20CGI%20GLOBAL%20LIMITED
