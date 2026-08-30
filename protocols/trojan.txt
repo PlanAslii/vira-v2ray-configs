@@ -1,6 +1,5 @@
 # Protocol trojan
-# Updated: 2026-08-30 07:00:05 UTC
-# Count: 2
+# Updated: 2026-08-30 08:30:05 UTC
+# Count: 1
 
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Ping%20Identity%20Corporation
-trojan://53c6157c-84ca-96ad-3be8-7e95f6d25264@162.159.192.1:443?host=s.blftext.workers.dev&security=tls&path=%2FeyJqdW5rIjoiYWxFQTBoMXhRQVIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjoyfQ%3D%3D&allowInsecure=0&sni=s.blftext.workers.dev&insecure=0&fp=chrome&type=ws&pbk=enabled#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://e4448f0b1a074503b75b88c313a50285@star.starnick2031.ir:12673?type=tcp&security=none#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20CGI%20GLOBAL%20LIMITED
