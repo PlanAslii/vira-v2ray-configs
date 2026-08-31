@@ -1,6 +1,6 @@
 # Country GB
-# Updated: 2026-08-31 17:28:48 UTC
+# Updated: 2026-08-31 17:58:48 UTC
 # Count: 2
 
-vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.198:2087?encryption=none&type=ws&path=%2F8f2690e2d016#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20NET
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
+vless://3571b127-4b3b-4c01-8249-1684daf586b5@149.248.79.235:17301/?type=grpc&encryption=none&sni=aws.amazon.com&security=reality&pbk=nadshlxG0RqC6om__cf9E4F6qolRmHJLcNtReBTr9xY&sid=5d#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20BL%20Networks
+vless://ffaa4b21-9842-4206-8f4c-20588033c481@eg.linuxbase.ir:443?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ugtm31PMWRlIc6ECuwte3TQ8dvl5ySnrewLZYIAoV1Y&sid=f8c90594fb7adb6e&spx=%2F&allowInsecure=1#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20UPCLOUD-LON
