@@ -1,7 +1,6 @@
 # Country CA
-# Updated: 2026-08-31 12:24:47 UTC
-# Count: 3
+# Updated: 2026-08-31 12:58:48 UTC
+# Count: 2
 
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.194:2087?security=tls&fp=chrome&packet-encoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://2268450c-1df4-b45f-90b3-263dec7ff456@147.182.156.111:8039?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
-vless://a609dde1-ae8b-4b7e-97b1-6ed4806a1095@104.19.103.42:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=mlkem768x25519plus.native.0rtt.8gq6G4UAjDpfEfhgqRciWcDJYMBY4Q-_rZF0E7JdX1Y&insecure=0&host=forsh2.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=forsh2.dearhossein-taktaz.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
