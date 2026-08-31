@@ -1,9 +1,7 @@
 # Country RU
-# Updated: 2026-08-31 00:09:48 UTC
-# Count: 5
+# Updated: 2026-08-31 00:39:48 UTC
+# Count: 3
 
 vless://e41dbbf8-b0ca-4328-a237-1520da5246c1@46.243.234.193:2053?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=bBKApM5WgpuMsXoaDD2Umv4K7pc-02P_yfmHClQ-Ong&sid=daa26763b27edd53&serviceName=grpc-wl#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Cloud%20Network%20LLC
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&security=none#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@178.250.186.139:8443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=qq&encryption=none&flow=xtls-rprx-vision#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20AZERTA.RU%20Hosting%20Solutions
-vless://5c43b6d8-f71a-46d6-b804-f86349e6f313@77.222.47.204:4100?type=ws&host=live.ok.ru&path=%2Fv1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SpaceWeb%20Ltd
-vless://852c7b52-ca2d-4c63-9413-586c611c2ba6@84.252.132.142:48682?security=reality&encryption=none&pbk=IoP794V4wh0SxFDooTa4ZUl9s5W7ViJBo1-rBm7aEFg&headerType=none&fp=firefox&type=tcp&sni=yandex.lt&sid=8c48e512ffd0#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yandex.Cloud%20LLC
