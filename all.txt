@@ -1,7 +1,12 @@
 # Vira — all configs
-# Updated: 2026-09-01 04:17:44 UTC
-# Count: 12
+# Updated: 2026-09-01 04:47:44 UTC
+# Count: 14
 
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&host=%2F%3FBIA_TELEGRAMI--TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
+vless://6d60c73d-5915-4cf8-b155-e522dfd863bb@31.128.37.67:16560?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.172.239:22224?encryption=none&type=tcp&allowInsecure=1#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
+vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@5.83.129.124:443?sni=50gport3.potatosubge20.org&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20TAKEHOST%20OU
 vmess://eyJ2IjoiMiIsInBzIjoidmlyYSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggXHUyNTA3IFZNZXNzIFx1MDBiNyBWTUlTUyBJbmMuIiwiYWRkIjoiMjMuMjM2LjY5LjM5IiwicG9ydCI6IjI0MTg3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiIxMmE4ZWUzNi01OTM2LTQ0NDktOTBiZC1iNWVhYzZkYjRjMWQiLCJwYXRoIjoiLyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=chrome&spx=/&type=tcp&sni=status.play.google.com&sid=5030#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM%40TOOTFFARANGI&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#vira%20%F0%9F%87%B2%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20MOLDTELECOM%20SA
@@ -11,6 +16,3 @@ vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@109.73.205.68:10443?encryption=none
 vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&security=reality&sid=17d334ad29b2ff40&sni=cdnjs.com&type=tcp#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Forestsnet%20LTD
 vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Chsl%20ONE%20LTD
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&serviceName=grpc-tunnel&mode=gun#vira%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=/29c8fed7ca22&security=none&encryption=none&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Sandhill%20Solution%20Pte.%20Ltd
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/&security=none#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
