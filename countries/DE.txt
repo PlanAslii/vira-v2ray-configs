@@ -1,5 +1,5 @@
 # Country DE
-# Updated: 2026-09-01 15:17:44 UTC
+# Updated: 2026-09-01 15:47:44 UTC
 # Count: 5
 
 vless://9b6ab750-d669-4a4a-865a-1c86a7b05561@1.azxjet.ir:19508?mode=packet-up&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.88SLh2TzdXgRRXreo_4__oPJ-Q2q1jxrSyOtlt2n_1Q&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22250-1200%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A3200%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%220%22%7D%7D&insecure=0&host=ir.azxjet.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ir.azxjet.ir#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
