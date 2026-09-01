@@ -1,5 +1,5 @@
 # Vira — light (best ping)
-# Updated: 2026-09-01 01:47:44 UTC
+# Updated: 2026-09-01 02:17:44 UTC
 # Count: 40
 
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.53:2086?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -13,6 +13,7 @@ vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?encryption=none
 vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?security=tls&type=ws&path=/&host=go.iranfree.de5.net&allowInsecure=0&sni=go.iranfree.de5.net&fp=chrome&encryption=none#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Hosting%20Ltd
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.174.10:443?encryption=none&security=tls&sni=blackshadow.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F44.209.52.7-443#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.27.43.112:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=qq&pbk=PNofg-BBceWRX1YMelo9Xy5dFnh_vY8J0c54llXfDSk&sid=31e056654ec129aa#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?type=tcp&headerType=none&security=reality&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&fp=qq&sni=deepl.com&sid=aae8&spx=%2F#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
 vless://2f600710-9f4e-4eab-8de1-89f60a878e55@app4.goonars.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=app4.goonars.com&fp=firefox&pbk=u51rZT5vJj8nO80QBBHVW2-WA5OzzQ1eL6euvszWLQI&sid=09ef88a6&spx=%2F&allowInsecure=1#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
@@ -22,7 +23,6 @@ vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995?encryption=none
 vless://XpnTeam-44@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087?encryption=none&type=ws&path=%2F8f2690e2d016#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20NET
 vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&type=ws&path=%2F29c8fed7ca22#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Sandhill%20Solution%20Pte.%20Ltd
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?security=reality&encryption=none&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&headerType=none&fp=firefox&type=tcp&sni=ibm.com&sid=a09ff9f8#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20RACKTECH%20CO.%2C%20LTD.
 vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@216.24.57.15:443?sni=four04-rd37.onrender.com&alpn=http/1.1&type=ws&host=four04-rd37.onrender.com&path=/ws/2ee0d2aa-867e-a77e-9538-2edfc0b242aafp=firefox&security=tls#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Render
 vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?encryption=none&host=pl2.lckdwn.ru&path=%2F&security=none&type=ws#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Eternity%20International%20Limited
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?encryption=none&type=ws&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&path=%2FGOrbEh#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
