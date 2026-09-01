@@ -1,10 +1,5 @@
 # Country FI
-# Updated: 2026-09-01 08:17:44 UTC
-# Count: 6
+# Updated: 2026-09-01 08:47:44 UTC
+# Count: 1
 
 vless://0b54c886-b1a0-4e70-8d2c-171a6e8601bb@api.number3.ir:443?encryption=mlkem768x25519plus.native.0rtt.c0a7lvop3Vsd7T506CGm1nUIfynljpW79b4__r24EQo&security=reality&sni=g.co&fp=chrome&pbk=G01pi8NtMqqXZHOvGsbv280yeN2BMWwdN4j7dUQOnS4&sid=24&spx=%2F54fb18129b89693&type=grpc#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
-vless://c68e203b-2ba9-4586-bc43-029b20a5111c@panel.an0nymousteam.qd.je:443?security=reality&encryption=none&pbk=LvIQyEzdMEvkPimuLuzP3VctDadFFgvieDEMRy2da0c&headerType=none&fp=chrome&spx=%2F831521f3ddd13fe&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=fc#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&host=%2F%3FBIA_TELEGRAMI--TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
-vless://ea48c5b6-7a19-4fea-9902-17004a424452@95.216.27.15:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=JmAuytyIXW4klA7zqeSYi3EtWR0d4fNJCq4nR0LMQE8&sid=07316dd7d0e11c90&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&sni=ads.x5.ru#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
-vless://f82ed9ee-456c-5452-a86d-25d21c4b29bc@144.31.109.17.tyr-agentstvo.tech:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=144.31.109.17.tyr-agentstvo.tech#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
