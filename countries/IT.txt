@@ -1,6 +1,6 @@
 # Country IT
-# Updated: 2026-09-01 02:17:44 UTC
+# Updated: 2026-09-01 06:47:44 UTC
 # Count: 2
 
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&alpn=http/1.1&encryption=none&host=ov-italy1.09vpn.com&fp=chrome&type=ws#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&encryption=none&type=ws#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&type=tcp&sni=www.sony.com&fp=firefox&flow=xtls-rprx-vision&sid=dd6ce6af95001a&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&path=/&security=none&type=ws#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
