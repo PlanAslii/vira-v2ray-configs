@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-09-01 01:17:44 UTC
-# Count: 1
+# Updated: 2026-09-01 01:47:44 UTC
+# Count: 2
 
-vless://c68e203b-2ba9-4586-bc43-029b20a5111c@87.58.153.189:443?security=reality&encryption=none&pbk=LvIQyEzdMEvkPimuLuzP3VctDadFFgvieDEMRy2da0c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=fc#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
+vless://f5a3bf49-07ca-0021-a96b-9606781e3600@185.218.194.69:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=6e3f0a5b&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20HD-decor%20Oy
+vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=2a2ce9e42980&sni=www.mozilla.org#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
