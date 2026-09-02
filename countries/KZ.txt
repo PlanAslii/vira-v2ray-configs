@@ -1,5 +1,6 @@
 # Country KZ
-# Updated: 2026-09-02 10:43:34 UTC
-# Count: 1
+# Updated: 2026-09-02 12:43:34 UTC
+# Count: 2
 
-vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.158:1901?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=fd7f#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Modern%20Server%20Solutions%20LLP
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.158:808?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
