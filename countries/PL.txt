@@ -1,6 +1,5 @@
 # Country PL
-# Updated: 2026-09-01 18:47:44 UTC
-# Count: 2
+# Updated: 2026-09-02 03:17:44 UTC
+# Count: 1
 
-vless://%40vpn_kurdnet@82.40.62.210:37430?type=tcp&encryption=none&security=reality&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&fp=ios&sni=amp-api-edge.apps.apple.com&spx=%2F#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Newserverlife%20LLC
-vless://fa98d471-930d-4961-82ff-46dc073a7a70@82.40.62.210:37430?security=reality&encryption=none&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Newserverlife%20LLC
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Cloud%20Network%20LLC
