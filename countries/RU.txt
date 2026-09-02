@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-09-02 07:13:34 UTC
-# Count: 1
+# Updated: 2026-09-02 08:13:34 UTC
+# Count: 2
 
-vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@87.228.122.106:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://0dea82cd-a030-4c11-bccd-f3c0be845297@201.24.114.60:443?security=reality&encryption=none&pbk=RRawEiil652RhrCcf0Oq94mBii7I21eN3YyOo34NrTY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=47e4cb670b4e547d#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
