@@ -1,7 +1,8 @@
 # Country IT
-# Updated: 2026-09-02 11:43:34 UTC
-# Count: 3
+# Updated: 2026-09-02 12:13:34 UTC
+# Count: 4
 
+vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
 vless://ef413f33-39e6-4143-8084-e65076c2de03@it1.dedushka.top:47050?sni=api-maps.yandex.ru&security=reality&spx=%2Fahmadv2ray&pbk=C7bvUEE2_1o8gD-uRY1D3iY5w4KfeLELTmKCcm4V3wo&headerType=none&fp=qq&sid=ef957bcb74957eb4&fm=ahmadv2ray&type=tcp&encryption=none&flow=xtls-rprx-vision#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
