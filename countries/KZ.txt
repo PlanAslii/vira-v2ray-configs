@@ -1,7 +1,5 @@
 # Country KZ
-# Updated: 2026-09-02 14:13:34 UTC
-# Count: 3
+# Updated: 2026-09-02 14:43:34 UTC
+# Count: 1
 
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20Trojan%20%C2%B7%20NLS%20Kazakhstan%20LLC
-vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.158:808?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InZpcmEgXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTWVzcyBcdTAwYjcgTmV3c2VydmVybGlmZSBMTEMiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.158:808?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
