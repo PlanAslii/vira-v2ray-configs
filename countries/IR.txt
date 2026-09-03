@@ -1,6 +1,7 @@
 # Country IR
-# Updated: 2026-09-03 15:13:34 UTC
-# Count: 2
+# Updated: 2026-09-03 15:43:34 UTC
+# Count: 3
 
+vless://675ee872-adb2-4c66-8358-bd360259311f@185.215.228.254:2086?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.Kr-To-SdPFLSTQ1Ku0S6YIrfpS1FZ18y3N8t5I1xLX0&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=england1.navigatoer.ir#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bonyan%20Sepehr%20Kasir%20PJSC%20%E2%94%87%20%F0%9F%94%B4
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@5.61.28.51:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v5p.sabermusic.ir#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Negah%20Roshan%20Pars%20-%20Parsdev%20Iran%20Network%20%E2%94%87%20%F0%9F%94%B4
