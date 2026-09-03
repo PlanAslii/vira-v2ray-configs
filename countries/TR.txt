@@ -1,6 +1,6 @@
 # Country TR
-# Updated: 2026-09-03 09:13:34 UTC
-# Count: 10
+# Updated: 2026-09-03 09:43:34 UTC
+# Count: 9
 
 vless://8c64cae9-a513-4e37-a68c-980bcaf2c591@62.133.63.253:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tr1.hat.onl&sid=76132b3b39704c44#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&encryption=none&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sync-bridge.org&sid=5606d4a25c99e7af#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
@@ -11,4 +11,3 @@ vless://1dd0ed41-4555-48f8-b3ae-5a5b37b261a3@91.228.227.172:110?encryption=none&
 vless://53eb7b3d-9537-4c52-8aea-a6914d93669b@91.228.227.172:110?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
 vless://535ce13c-134b-4cfd-8c77-0d006b67d318@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
 vless://1b0a74e1-3c69-4386-ae77-9db408d0687f@91.228.227.172:443?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
-vless://c5249cf1-d682-42d9-8af8-c1faade2fdec@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
