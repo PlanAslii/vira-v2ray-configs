@@ -1,7 +1,11 @@
 # Country CA
-# Updated: 2026-09-03 20:13:34 UTC
-# Count: 10
+# Updated: 2026-09-03 20:43:34 UTC
+# Count: 13
 
+vless://6ed49e74-b33b-46af-9b79-ef5e1429bfdf@104.21.70.21:443?security=tls&fp=unsafe&alpn=http%2F1.1&sni=holland.fqrrqfevk.top&type=ws&headerType=none&host=holland.fqrrqfevk.top&path=%2FjSkSOxcaWoPMMU6Mp#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://humanity@104.18.12.149:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?security=tls&fp=unsafe&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?encryption=none&flow=xtls-rprx-vision&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&security=reality&sid=0e&sni=google.com&type=tcp#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Microsoft%20Corporation
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?type=ws&security=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&encryption=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=xwrivr.pages.dev&path=%2F%3Fed%3D2048&host=xwrivr.pages.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -11,4 +15,3 @@ vless://9b18ccef-b9e0-41d1-8990-9d970569e142@104.19.45.195:8443?type=ws&security
 vless://5e2be2b4-8af5-4d18-a15c-d4cb4b1d6ae6@104.18.151.69:2083?type=ws&security=tls&sni=shopki.dearhossein-taktaz.ir&host=shopki.dearhossein-taktaz.ir&path=%2F&fp=chrome#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?security=reality&encryption=none&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ee94ded352b795#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:2096?path=%2F&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jp3.yohototo.top&path=/tyxyws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
