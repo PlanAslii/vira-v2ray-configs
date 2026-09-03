@@ -1,5 +1,5 @@
 # Country CZ
-# Updated: 2026-09-03 08:13:34 UTC
+# Updated: 2026-09-03 09:43:34 UTC
 # Count: 1
 
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#vira%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Cloud%20Network%20LLC
+vless://aaf8343d-1e78-49f9-92a2-f33136d6f636@46.28.70.12:443?security=reality&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&pbk=HlbEJFdMTNcNofda44mGt2RFxnWN0iO6toeMoqiwyF4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1c44e37b4134d40f#vira%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
