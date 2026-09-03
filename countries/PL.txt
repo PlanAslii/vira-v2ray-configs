@@ -1,9 +1,6 @@
 # Country PL
-# Updated: 2026-09-03 19:13:34 UTC
-# Count: 5
+# Updated: 2026-09-03 19:43:34 UTC
+# Count: 2
 
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&type=ws&path=%2F4bc027a44532#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Moorgade%20Inc
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?type=ws&headerType=none&path=%2F#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Eternity%20International%20Limited
-vless://e4bee0a4-ffdb-4898-b57f-8b4865b2a635@82.40.62.197:32580?security=reality&encryption=none&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Newserverlife%20LLC
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?encryption=none&type=ws&security=tls&sni=chopin.adaspoloandco.com&path=%2Fdownload.php#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?security=none&type=ws&path=%2F&packetEncoding=xudp&sni=pl2.lckdwn.ru#vira%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Eternity%20International%20Limited
