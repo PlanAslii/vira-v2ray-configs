@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-09-03 19:43:34 UTC
-# Count: 2
+# Updated: 2026-09-03 20:13:34 UTC
+# Count: 1
 
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@50.7.33.218:443?encryption=none&flow=xtls-rprx-vision&pbk=ZZwdN1Lt-fIR8A4Y1NbYCCEI6th2YXYHHRLHraVXyn0&security=reality&sid=72461ccce5373103&sni=edge-fr2.mystatic-cdn.ru&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@panel.freesavesafe.com:443?mode=auto&path=%2F%3Fv2rayNplus--v2rayNplus--v2rayNplus&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c58fb#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
