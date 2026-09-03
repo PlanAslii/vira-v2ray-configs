@@ -1,5 +1,8 @@
 # Country IR
-# Updated: 2026-09-03 18:13:34 UTC
-# Count: 1
+# Updated: 2026-09-03 18:43:34 UTC
+# Count: 4
 
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Negah%20Roshan%20Pars%20-%20Parsdev%20Iran%20Network%20%E2%94%87%20%F0%9F%94%B4
+vless://3be8def2-8f5a-4ff7-8c5a-f806e711283e@www.serendpiti.ir:7030?encryption=none&type=ws&security=none#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ABRARVAN%20%E2%94%87%20%F0%9F%94%B4
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
+vless://bb2b549b-c65a-4d2d-a8fc-abecc7668a2c@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fws&host=new.safari-df.ir#vira%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
