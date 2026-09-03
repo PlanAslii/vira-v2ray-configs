@@ -1,5 +1,6 @@
 # Country SK
-# Updated: 2026-09-03 18:13:34 UTC
-# Count: 1
+# Updated: 2026-09-03 22:13:34 UTC
+# Count: 2
 
 vless://95b3eb4a-698f-44a5-a9df-b882148a4ca5@89.46.42.141:8443?path=%2F&security=tls&alpn=h3%2C%2Bh2%2C%2Bhttp%2F1.1&encryption=none&insecure=0&host=kingniderlands.tolkun-tv.ru&fp=chrome&type=ws&allowInsecure=0&sni=kingniderlands.tolkun-tv.ru#vira%20%F0%9F%87%B8%F0%9F%87%B0%20%E2%94%87%20VLESS%20%C2%B7%20eServer%20s.r.o.
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?security=tls&fp=chrome&sni=web-socket.tgdaosheng.ggff.net&type=ws&headerType=none&host=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome#vira%20%F0%9F%87%B8%F0%9F%87%B0%20%E2%94%87%20VLESS%20%C2%B7%20eServer%20s.r.o.
