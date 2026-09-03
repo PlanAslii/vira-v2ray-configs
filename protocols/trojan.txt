@@ -1,7 +1,9 @@
 # Protocol trojan
-# Updated: 2026-09-03 00:13:34 UTC
-# Count: 3
+# Updated: 2026-09-03 00:43:34 UTC
+# Count: 5
 
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&sni=www.volumeroot.com&fp=chrome&path=%2Fassignment&host=www.volumeroot.com#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?allowInsecure=0&alpn=http/1.1#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Trojan%20%C2%B7%20FyfeWeb%20Ltd
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#vira%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20Trojan%20%C2%B7%20NLS%20Kazakhstan%20LLC
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
 trojan://-wb.oDfOeHifTGMVEf@188.114.97.8:443?path=%2Ftr%2FJkwIXZZlza6sgoi9%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=c0yr9j09y2l9g0td8wa5.2whbrirhjgslm43zjcqei.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=C0yR9j09Y2l9G0tD8wa5.2wHBRirhjGslM43zJCqEi.worKeRs.DEV#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.ignitelimit.com&path=%2Fassignment#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Ping%20Identity%20Corporation
