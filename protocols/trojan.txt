@@ -1,9 +1,8 @@
 # Protocol trojan
-# Updated: 2026-09-03 21:13:34 UTC
-# Count: 5
+# Updated: 2026-09-03 21:43:34 UTC
+# Count: 4
 
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#vira%20%F0%9F%87%AD%F0%9F%87%BA%20%E2%94%87%20Trojan%20%C2%B7%20Rackforest%20Zrt.
+trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&sni=ssl.fastly.com&fp=firefox&path=%2F--&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
+trojan://humanity@213.182.199.137:443?security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=chrome&type=ws&host=www.pleadcourt.org&path=%2Fassignment#vira%20%F0%9F%87%AD%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
 trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?allowInsecure=0&alpn=http/1.1#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Trojan%20%C2%B7%20FyfeWeb%20Ltd
-trojan://ysbdg3l5iqbvo26u@185.204.170.130:2097?type=ws&security=tls&sni=185.204.170.130&fp=chrome&path=%2F&host=185.204.170.130#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Arvancloud%20Global%20Technologies%20L.L.C
-trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
-trojan://humanity@104.18.12.149:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://%4D%69%54%69%56%50%4E@199.232.78.160:443?path=%2F---%6B%61%73%69%62%61%6D%31---%6B%61%73%69%62%61%6D%31---%6B%61%73%69%62%61%6D%31---%6B%61%73%69%62%61%6D%31---%6B%61%73%69%62%61%6D%31---%6B%61%73%69%62%61%6D%31---%6B%61%73%69%62%61%6D%31---%6B%61%73%69%62%61%6D%31&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E-%6D%69%74%69%76%70%6E-%6D%69%74%69%76%70%6E---%6D%69%74%69%76%70%6E--%6D%69%74%69%76%70%6E.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
