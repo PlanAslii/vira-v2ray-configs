@@ -1,9 +1,6 @@
 # Country IT
-# Updated: 2026-09-03 01:13:34 UTC
-# Count: 5
+# Updated: 2026-09-03 01:43:34 UTC
+# Count: 2
 
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://bbc82487-c90c-4c14-8ceb-93d62ad497fc@82.118.16.20:443?security=reality&encryption=none&pbk=j0A43i0wgMyM0118jBsy9s8XJ36oK2rr8aj1egLjfCc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c1c9554e0a86a3a7#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&security=none&type=ws&host=ov-italy1.09vpn.com&path=%2Fvless%2F#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:33843?type=grpc&security=reality&fp=firefox&pbk=y3y0w-Mhz21jNw5LKtPV5fDmNqfP02k7eybhQ60VeAM&sid=90fc8bd93749&sni=www.cloudflare.com&serviceName=grpc&spx=/vcgwf7il3dy9t10#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://ef413f33-39e6-4143-8084-e65076c2de03@it1.dedushka.top:47050?security=reality&encryption=none&pbk=C7bvUEE2_1o8gD-uRY1D3iY5w4KfeLELTmKCcm4V3wo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=ef957bcb74957eb4#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
+vless://bbc82487-c90c-4c14-8ceb-93d62ad497fc@82.118.16.20:443?security=reality&encryption=none&pbk=j0A43i0wgMyM0118jBsy9s8XJ36oK2rr8aj1egLjfCc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c1c9554e0a86a3a7#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
