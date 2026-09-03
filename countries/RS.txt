@@ -1,6 +1,5 @@
 # Country RS
-# Updated: 2026-09-03 17:43:34 UTC
-# Count: 2
+# Updated: 2026-09-03 20:43:34 UTC
+# Count: 1
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?fp=firefox&serviceName=edge.v2.FeedService&type=grpc&encryption=none&security=reality&sid=35d05b666e2c6cdf&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sni=rs3.univesalsrv.com#vira%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://2e4f3fef-bd5e-4719-938a-d6c28d77f8a4@2.56.172.31:12914?path=%2F&security=none&encryption=none&type=ws#vira%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20WorkTitans%20B.V
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---MUSICLOVERS85&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#vira%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
