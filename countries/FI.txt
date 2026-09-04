@@ -1,9 +1,5 @@
 # Country FI
-# Updated: 2026-09-04 06:13:34 UTC
-# Count: 5
+# Updated: 2026-09-04 06:43:34 UTC
+# Count: 1
 
-vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@78.17.116.201:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.nokia.com&fp=chrome&pbk=ho99K9SlOhJxolr4nVfw8SV4Z1yI22KaKaxUfk2o8jE&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?encryption=none&type=tcp&security=reality&sni=www.amd.com&fp=chrome&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=5caa2ef81132c306&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@62.238.126.48:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fin.sdssh-vid.online&fp=chrome&pbk=74pbcWZE8Ne6iYrsl_31qy_pWKRrILQiAWfZs2IuGR0&sid=f3c4da18e7c4f4&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DELTA%20Fiber%20Nederland
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&sid=67933d8be5b42f78&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Oy%20Crea%20Nova%20Hosting%20Solution%20Ltd
-vless://660174a2-d32d-4521-840d-d1853bfc80b8@83.147.216.223:4433?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
