@@ -1,8 +1,7 @@
 # Protocol trojan
-# Updated: 2026-09-04 03:43:34 UTC
-# Count: 4
+# Updated: 2026-09-04 04:13:34 UTC
+# Count: 3
 
-trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=support.zoom.us.blackshadow.dpdns.org&type=ws&path=/195.123.218.174-443&Host=support.zoom.us.blackshadow.dpdns.org#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2FConfigvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
-trojan://Telegram_healer_config@172.67.156.62:443?path=/tr/8g28WHK4FygFkZFa?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=ijm8x9ugwpiqrmn-lo-s.ztl55ltkpub38y36mctgm.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=IJM8x9uGWPIQrMN-lo-S.ztl55lTKPUB38y36MCtgm.WOrKeRs.Dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2Fassignment#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
+trojan://Telegram_healer_config@172.67.132.19:443?path=/tr/bDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://humanity@104.18.12.149:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
