@@ -1,9 +1,6 @@
 # Country IT
-# Updated: 2026-09-04 20:43:34 UTC
-# Count: 5
+# Updated: 2026-09-04 21:13:34 UTC
+# Count: 2
 
+vless://2b262080-f68a-4108-9ac3-d89140faaf6f@3.166.17.55:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d2757rhm6iotvq.cloudfront.net#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com&packetEncoding=xudp&encryption=none#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://2b262080-f68a-4108-9ac3-d89140faaf6f@3.166.17.55:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d2757rhm6iotvq.cloudfront.net#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
