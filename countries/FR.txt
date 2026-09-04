@@ -1,9 +1,6 @@
 # Country FR
-# Updated: 2026-09-04 01:13:34 UTC
-# Count: 5
+# Updated: 2026-09-04 01:43:34 UTC
+# Count: 2
 
+vless://9323430f-0c13-4cd0-a84b-639fabcbe018@89.208.113.65:443?security=reality&encryption=none&pbk=Vroc9K3YOwnMzCiCp3pkx2EtENF_cLk7GzXe_30nRVY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.plombir.me&sid=af#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?encryption=none&security=tls&serviceName=grpc&type=grpc#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=passport.yandex.ru&security=reality&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?type=ws&path=%2Fvless%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&headerType=none&fp=chrome&type=tcp&sni=status.play.google.com&sid=5030#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
