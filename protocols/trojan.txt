@@ -1,6 +1,5 @@
 # Protocol trojan
-# Updated: 2026-09-04 16:43:34 UTC
-# Count: 2
+# Updated: 2026-09-04 17:13:34 UTC
+# Count: 1
 
 trojan://humanity@104.18.12.149:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?type=raw&security=tls&sni=hk.catxstar.com&fp=android&headertype=none#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Catixs%20Ltd
