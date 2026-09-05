@@ -1,7 +1,12 @@
 # Country CA
-# Updated: 2026-09-05 06:13:34 UTC
-# Count: 19
+# Updated: 2026-09-05 06:43:34 UTC
+# Count: 22
 
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://0880bb53-58fc-47fe-a3ba-7fb9dd192e02@37.221.110.167:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
+vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?encryption=none&security=none&serviceName=vless&type=grpc#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://f58a9d78-d4cc-c8bc-03d0-2810846a33d1@104.21.7.43:2053?security=tls&fp=chrome&sni=hossein.shhrsbzhsyn.workers.dev&type=ws&headerType=none&host=hossein.shhrsbzhsyn.workers.dev&path=%2Fsync#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vmess://eyJhZGQiOiJ3d3cuc2hvcGlmeS5jb20iLCJhaWQiOiIwIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZGltZW5zaW9uYWwtcmVndWxhcmx5LWJ1aWxkaW5ncy1rZXlzLnRyeWNsb3VkZmxhcmUuY29tIiwiaWQiOiJkMTg3YTIzYS03NmE5LTRkNTUtODRlMy1lYTNiOGIyMjJjYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDE4N2EyM2EtNzZhOS00ZDU1LTg0ZTMtZWEzYjhiMjIyY2JmLXZtIiwicG9ydCI6IjQ0MyIsInBzIjoidmlyYSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgXHUyNTA3IFZNZXNzIFx1MDBiNyBDbG91ZGZsYXJlLCBJbmMuIiwic2N5IjoiYXV0byIsInNuaSI6ImRpbWVuc2lvbmFsLXJlZ3VsYXJseS1idWlsZGluZ3Mta2V5cy50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?encryption=none&type=ws&security=tls&sni=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.com&host=web-socket.tgdaosheng.ggff.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880?type=ws&host=holy-violet-858e.471.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -19,5 +24,3 @@ vless://adcce8be-9de7-41bd-abcd-52939cec108b@fancy-haze-ab00.236-68b.workers.dev
 trojan://Telegram_healer_config@172.67.130.246:443?path=%2Ftr%2FzMUJnc0O87fJR02xzGNed%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=3oqxs5h6kcscecnd.zmh9kcgos2cq55uh6qdyaa938a5ugb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=3OQxS5h6kCscecND.ZMh9KCGos2cq55uh6qDYaa938a5UgB.wOrkERS.dEV#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.gov.ua:8880?type=ws&host=morning-cell-6297.66-b87.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net+#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e1bd06de-a075-4ad5-b73f-b54587368cc7@104.21.12.116:8880?type=ws&host=morning-feather-dc98.136-25b.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@104.21.96.56:80?type=ws&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&path=/vl/D2pryqVs9LAgCYdTK76lsafWY?ed=2560#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
