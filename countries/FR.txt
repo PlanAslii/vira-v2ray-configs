@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-09-05 02:43:34 UTC
-# Count: 4
+# Updated: 2026-09-05 03:13:34 UTC
+# Count: 2
 
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&sni=vk.ru#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@169.58.143.21:443?encryption=none&host=telegram.us&path=/&security=tls&sni=finite-node.rtxconfigz.com&type=ws#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&fp=firefox&sni=deepl.com&type=tcp&headerType=none&host=deepl.com&path=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
