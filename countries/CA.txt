@@ -1,6 +1,6 @@
 # Country CA
-# Updated: 2026-09-05 21:43:34 UTC
-# Count: 9
+# Updated: 2026-09-05 22:13:34 UTC
+# Count: 6
 
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&host=a.cwvps.eu.org&type=ws&sni=a.cwvps.eu.org#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -8,6 +8,3 @@ trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&type=ws&sni=
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://df1ecf1d-ebc4-424c-9cef-b10930604d19@151.101.192.223:80?encryption=none&security=none&type=ws&host=freekabotar4.global.ssl.fastly.net&path=%2Fws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://3ec8b30f-9779-44e1-88c6-6612b786df5f@151.101.192.223:80?encryption=none&security=none&type=ws&host=freekabotar4.global.ssl.fastly.net&path=%2Fws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@54.39.96.233:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.18.37.233:2053?path=%2Fdownload%2Fv3%2Finstaller-x64.bin%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=us.105794.xyz&fp=ios&type=ws&allowInsecure=0&sni=us.105794.xyz#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=%2F%3FTELEGRAM%3Fed%3D512&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
