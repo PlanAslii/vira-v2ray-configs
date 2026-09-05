@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-09-05 07:43:34 UTC
-# Count: 4
+# Updated: 2026-09-05 08:13:34 UTC
+# Count: 3
 
 vless://e7856a09-3641-4ba9-8254-d02e30c6d1bb@www.e.mobilesari.ir:7333?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&alpn=http%2F1.1&pbk=isO0qF2Xg6UI1GKARgfg9UHZSrrUBcOazkz04mTl-kE&sid=0f62cf6250eb31c0&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.foxsports.com&fp=chrome&insecure=1&allowInsecure=1&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&flow=xtls-rprx-vision#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://0979873e-5931-4838-8e84-cf05b967cf0b@98.ir-soft98.ir-m-m.serendpiti.ir:9145?security=reality&headerType=none&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&type=tcp&fp=qq&sid=5e06032a9c448538&sni=amp-api-edge.apps.apple.com#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
