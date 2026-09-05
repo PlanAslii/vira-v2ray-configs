@@ -1,5 +1,7 @@
 # Country FR
-# Updated: 2026-09-05 09:43:34 UTC
-# Count: 1
+# Updated: 2026-09-05 10:13:34 UTC
+# Count: 3
 
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?encryption=none&security=none&type=ws#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.206:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=kamaz03.api3-max.ru#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Scaleway%20SAS
