@@ -1,8 +1,6 @@
 # Country GB
-# Updated: 2026-09-05 14:43:34 UTC
-# Count: 4
+# Updated: 2026-09-05 15:13:34 UTC
+# Count: 2
 
-vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=%2F4de527ea5ed9&encryption=none&type=ws#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20ENOCTUSLTD
-vless://6c245314-225b-4999-9051-180b8dba117c@95.154.221.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tPyAWkalFM4yi9lYY0zLDRxQyfSwPDwiexAy9QOjrWI&security=reality&sid=42171a632f3b99ed&sni=strapi.io&type=tcp#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Hosting%20Ltd
-vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?encryption=none&type=tcp&security=reality&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&sid=0eec442e7b34d2f2&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://88212d38-f112-4a35-8ac2-eb3a1923e413@109.169.84.146:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Cloud%20Services%20Limited
+vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?type=ws&headerType=none&path=%2F4de527ea5ed9#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20ENOCTUSLTD
+vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Hosting%20Ltd
