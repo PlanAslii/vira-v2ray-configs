@@ -1,5 +1,5 @@
 # Country HU
-# Updated: 2026-09-04 06:13:34 UTC
+# Updated: 2026-09-06 21:43:34 UTC
 # Count: 1
 
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#vira%20%F0%9F%87%AD%F0%9F%87%BA%20%E2%94%87%20Trojan%20%C2%B7%20Rackforest%20Zrt.
+trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com#vira%20%F0%9F%87%AD%F0%9F%87%BA%20%E2%94%87%20Trojan%20%C2%B7%20Rackforest%20Zrt.
