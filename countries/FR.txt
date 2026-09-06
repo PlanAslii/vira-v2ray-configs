@@ -1,5 +1,6 @@
 # Country FR
-# Updated: 2026-09-06 22:13:34 UTC
-# Count: 1
+# Updated: 2026-09-06 22:43:34 UTC
+# Count: 2
 
-vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@finite-node.rtxconfigz.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?encryption=none&security=none&type=ws#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?encryption=none&type=tcp&security=reality&sni=status.play.google.com&fp=chrome&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&sid=5030&spx=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
