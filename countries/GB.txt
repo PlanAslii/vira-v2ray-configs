@@ -1,5 +1,5 @@
 # Country GB
-# Updated: 2026-09-06 07:43:34 UTC
+# Updated: 2026-09-06 08:13:34 UTC
 # Count: 1
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.226.39:22222?encryption=none&security=none&type=tcp#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CLOUDFLARE
