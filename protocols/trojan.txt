@@ -1,7 +1,9 @@
 # Protocol trojan
-# Updated: 2026-09-06 04:13:34 UTC
-# Count: 3
+# Updated: 2026-09-06 04:43:34 UTC
+# Count: 5
 
+trojan://eabf1999fefbb7d2@172.67.205.222:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=waysi.waysi6688.workers.dev&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://%4d%69%54%69%56%50%4e@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=firefox&allowinsecure=0&type=ws&host=%6d%69%74%69%76%70%6e-%6d%69%74%69%76%70%6e-%6d%69%74%69%76%70%6e--%6d%69%74%69%76%70%6e-%6d%69%74%69%76%70%6e--%6d%69%74%69%76%70%6e.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
+trojan://Telegram_healer_config@104.21.4.124:443?path=/tr/W3Ei3SdcW9sRVMLIbEd8sB1lm?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vRE6r9qrbQi0T25tg.SRtB0M3HDbWr2cjZ8fJuR.WoRKerS.DEv#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://MiTiVPN@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&path=%2F&sni=ssl.fastly.com&type=ws#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
 trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#vira%20%F0%9F%87%A6%F0%9F%87%B1%20%E2%94%87%20Trojan%20%C2%B7%20Castlegem%20SRL
