@@ -1,6 +1,6 @@
 # Protocol trojan
-# Updated: 2026-09-06 00:43:34 UTC
-# Count: 7
+# Updated: 2026-09-06 01:13:34 UTC
+# Count: 6
 
 trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=%2FeyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ%3D%3D&security=none&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&fp=chrome&type=ws&sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -8,4 +8,3 @@ trojan://%4d%69%54%69%56%50%4e@151.101.56.7:443?security=tls&sni=ssl.fastly.com&
 trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&sni=ssl.fastly.com&fp=firefox&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
 trojan://Telegram-Config0plus-983ced63-fcf0-4d15-b81b-432e32e9b932@45.130.125.0:443?path=%2Fus-gllc&security=tls&insecure=0&host=api24-normal.tiktokv.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.r3xxe.eu.cc#vira%20%F0%9F%87%B8%F0%9F%87%A8%20%E2%94%87%20Trojan%20%C2%B7%20RAPIDSEEDBOX
 trojan://Telegram_healer_config@172.67.132.19:443?path=/tr/bDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://a4aac0ee79b742fb966568187bd70f68@172.67.170.22:443?path=%2Ftr%2FDnhtu3VY7DJ3rDJzyIA%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=LOg-SVC-1Fc77c.t2579389.wOrkeRS.dEV&fp=chrome&type=ws&allowInsecure=0&sni=lOG-svc-1FC77C.t2579389.workERs.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
