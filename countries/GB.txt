@@ -1,8 +1,6 @@
 # Country GB
-# Updated: 2026-09-06 20:43:34 UTC
-# Count: 4
+# Updated: 2026-09-06 21:13:34 UTC
+# Count: 2
 
-vless://4cc8bc89-a086-4138-a023-ccf918449d56@109.169.37.43:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=foodnetwork.com&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Hosting%20Ltd
-vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@2.27.132.119:8881?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Geoscry%20Network%20LLC
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&security=tls&encryption=none&host=129.121.95.159&fp=firefox&type=ws&sni=129.121.95.159#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://ff3e8d55-214e-44eb-b91c-28510aa880e4@5.152.223.193:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20IOMART
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?encryption=none&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&allowinsecure=0&type=tcp&headerType=none#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
