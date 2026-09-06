@@ -1,5 +1,5 @@
 # Country HR
-# Updated: 2026-09-06 14:13:34 UTC
+# Updated: 2026-09-06 16:43:34 UTC
 # Count: 1
 
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#vira%20%F0%9F%87%AD%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
+trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#vira%20%F0%9F%87%AD%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
