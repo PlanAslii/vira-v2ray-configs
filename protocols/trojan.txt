@@ -1,7 +1,8 @@
 # Protocol trojan
-# Updated: 2026-09-08 19:43:34 UTC
-# Count: 3
+# Updated: 2026-09-08 20:13:34 UTC
+# Count: 4
 
+trojan://i3q055yuzy640s4c@77.92.151.66:22873?security=none&headerType=none&type=tcp#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://7e1er996nal8afa9@104.253.74.50:12934?security=none&headerType=none&type=tcp#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Digital%20LLC
 trojan://%68%75%6D%61%6E%69%74%79@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://humanity@www.speedtest.net:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
