@@ -1,5 +1,8 @@
 # Protocol trojan
-# Updated: 2026-09-08 08:43:34 UTC
-# Count: 1
+# Updated: 2026-09-08 09:13:34 UTC
+# Count: 4
 
+trojan://50414e45-4c5f-5a45-5553-ef59b0a09a2c@91.193.58.113:443?path=%2Fstream%2FPANEL_ZEUS%2Fef59b0a09a2c&security=tls&insecure=0&host=29zxp9e1ujvs.rozahn122i-b134.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=29zxp9e1ujvs.rozahn122i-b134.workers.dev#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
 trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
+trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Google%20LLC
+trojan://humanity@8.47.69.0:443?type=ws&security=tls&sni=www.pleadcourt.org&fp=chrome&path=%2Fassignment&host=www.pleadcourt.org#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
