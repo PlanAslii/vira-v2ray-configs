@@ -1,10 +1,6 @@
 # Country TR
-# Updated: 2026-09-08 20:43:34 UTC
-# Count: 6
+# Updated: 2026-09-08 21:13:34 UTC
+# Count: 2
 
+vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vmess://eyJhZGQiOiI3Ny45Mi4xNTEuNjYiLCJhaWQiOiIwIiwiaWQiOiI2YzhmNWNmYi03NWYyLTQ1YjQtODg3Yy01OWY5MDllZjYxYmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjI2MjE1IiwicHMiOiJ2aXJhIFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IE5ldGxlbiBJbnRlcm5ldCBIaXptZXRsZXJpIEx0ZC4gU3RpLiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ
-vless://718b5b38-518c-43ce-b7fb-a7bd2244ad87@93.114.98.177:443?encryption=none&type=ws&security=tls&sni=us.farshadqw1.ir&fp=chrome&path=%2Fpgcfws-r4&host=us.farshadqw1.ir#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://d31ce8ee-0851-44c1-86a9-8a7a8f659d8e@45.74.158.180:443?encryption=none&type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&sid=ca41ef1263c02279&allowInsecure=1#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
-vless://3f5d1f01-add6-486a-846d-fe439afe0b65@153.52.92.160:8588?mode=auto&path=%2F&security=reality&encryption=none&pbk=PfMUDBCXnd4R6oZnPAgXeGVgw1HXS0edzxD3aExmz0E&fp=firefox&type=xhttp&sni=play.google.com&sid=9df0fca25a828c3b#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-trojan://i3q055yuzy640s4c@77.92.151.66:22873?security=none&headerType=none&type=tcp#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://5ad5d8fb-d0d2-4a79-a130-1e1e20e6a780@tg.cloudbashz.ir:4007?encryption=none&type=tcp&security=reality&sni=status.play.google.com&fp=chrome&pbk=9yzPr1A686r7dKqmYu0rxNsMcuqbpW7q5RUcnlFWdgM&sid=0e7e182efd993619&allowInsecure=1#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
