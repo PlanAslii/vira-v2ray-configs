@@ -1,10 +1,7 @@
 # Country FR
-# Updated: 2026-09-08 22:13:34 UTC
-# Count: 6
+# Updated: 2026-09-08 22:43:34 UTC
+# Count: 3
 
+vless://f79462e3-d519-44cd-bd1e-3b468dd66878@45.80.215.6:1400?encryption=mlkem768x25519plus.native.0rtt.4zwKKs2co8yy7AoWGnBbfR9gn0I6dW6k4aKr8ZZB4Uc&security=reality&type=tcp&headerType=none&host=gitlab.io&sni=gitlab.io&fp=chrome&echForceQuery=none&pbk=yttTg1YSCbhJpKC0Q4c_TpzAS38wtnidOJ42wwi9TGU&sid=587e34aa4f966262#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.73.8:22224?type=tcp&encryption=none&headerType=none&security=none#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=status.play.google.com&sid=5030#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@fr-1.starsping.com:443?mode=auto&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=safari&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20REDHEBERG%20Association%20declaree
-vless://c543f005-59f7-40c1-9ae6-37505691d5be@51.77.217.70:2053?security=reality&encryption=none&pbk=UKvonm_uE7TSwksQIVQuNYgYwmcidr_g4lDIE2JW_Ag&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&sni=www.google.com&sid=4868e772d098f0af#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?encryption=none&security=tls&serviceName=grpc&sni=usejh2.neobo-tooth.ru&type=grpc#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://21e26ef9-c061-4ae3-88e4-ecc4513a3bb7@fristoofarfromyou.arakphone.ir:29188?security=reality&encryption=none&pbk=_wJrpmOWloFFitJf2TBZNKSN0fQZGHkBur8MEQyG6yI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=cdn.diba4movie.xyz&sid=57739912cc2f13ec#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
