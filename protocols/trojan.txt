@@ -1,7 +1,7 @@
 # Protocol trojan
-# Updated: 2026-09-08 19:13:34 UTC
+# Updated: 2026-09-08 19:43:34 UTC
 # Count: 3
 
-trojan://humanity@www.speedtest.net:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://dajcugry14f71eir@104.253.74.50:12934?type=tcp&security=none#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Digital%20LLC
 trojan://7e1er996nal8afa9@104.253.74.50:12934?security=none&headerType=none&type=tcp#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Digital%20LLC
+trojan://%68%75%6D%61%6E%69%74%79@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://humanity@www.speedtest.net:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
