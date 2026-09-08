@@ -1,5 +1,5 @@
 # Country CZ
-# Updated: 2026-09-07 13:13:34 UTC
+# Updated: 2026-09-08 07:13:34 UTC
 # Count: 1
 
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&type=tcp&headerType=none&sid=d82c4b67f9a13e5c&flow=xtls-rprx-vision&fp=firefox&sni=ads.x5.ru&security=reality#vira%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Host-Telecom.com%20s.r.o.
+vless://cec9a167-6381-4752-9828-a92ab6e6ebdd@195.133.35.197:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=node.cz.teleserch.ru&fp=firefox&alpn=h2%2Chttp%2F1.1#vira%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Host-Telecom.com%20s.r.o.
