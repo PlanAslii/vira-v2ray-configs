@@ -1,7 +1,5 @@
 # Country FR
-# Updated: 2026-09-08 20:13:34 UTC
-# Count: 3
+# Updated: 2026-09-08 20:43:34 UTC
+# Count: 1
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.253.48:22222?security=none&encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=status.play.google.com&sid=5030#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@fr-1.starsping.com:443?encryption=none&type=xhttp&security=reality&sni=play.google.com&fp=safari&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&sid=a88550765b9956ee&spx=%2F&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20REDHEBERG%20Association%20declaree
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?encryption=none&type=tcp&security=reality&sni=status.play.google.com&fp=chrome&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&sid=5030&spx=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
