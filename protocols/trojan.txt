@@ -1,7 +1,8 @@
 # Protocol trojan
-# Updated: 2026-09-08 09:13:34 UTC
-# Count: 4
+# Updated: 2026-09-08 09:43:34 UTC
+# Count: 5
 
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.33.59:443?security=tls&sni=id1.nathaya.web.id&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&type=ws&host=id1.nathaya.web.id&path=%2Ftrojan#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://50414e45-4c5f-5a45-5553-ef59b0a09a2c@91.193.58.113:443?path=%2Fstream%2FPANEL_ZEUS%2Fef59b0a09a2c&security=tls&insecure=0&host=29zxp9e1ujvs.rozahn122i-b134.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=29zxp9e1ujvs.rozahn122i-b134.workers.dev#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
 trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
 trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Google%20LLC
