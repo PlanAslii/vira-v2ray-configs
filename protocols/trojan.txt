@@ -1,6 +1,5 @@
 # Protocol trojan
-# Updated: 2026-09-08 21:13:34 UTC
-# Count: 2
+# Updated: 2026-09-08 21:43:34 UTC
+# Count: 1
 
 trojan://humanity@213.182.199.137:443?type=ws&security=tls&sni=www.pleadcourt.org&fp=chrome&path=%2Fassignment&host=www.pleadcourt.org#vira%20%F0%9F%87%AD%F0%9F%87%B7%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
-trojan://50414e45-4c5f-5a45-5553-e8aab79f80bf@103.133.1.86:443?path=%2Fstream%2FPANEL_ZEUS%2Fe8aab79f80bf%2Floc-1&security=tls&insecure=0&host=reza-irvpn-cf7cc2.eeibsbsoj-45ef.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=reza-irvpn-cf7cc2.eeibsbsoj-45ef.workers.dev#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
