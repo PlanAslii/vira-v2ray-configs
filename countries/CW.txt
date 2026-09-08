@@ -1,5 +1,5 @@
 # Country CW
-# Updated: 2026-09-04 12:43:34 UTC
+# Updated: 2026-09-08 17:43:34 UTC
 # Count: 1
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?encryption=none&type=ws&path=%2F&host=vms.lifetime40.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%BC%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+trojan://50414e45-4c5f-5a45-5553-8fbaa220b931@88.216.67.157:443?path=%2Fstream%2FPANEL_ZEUS%2F8fbaa220b931%2Floc-0&security=tls&insecure=0&host=sys-5e6d20-eb6c81.bot030932-0f95.workers.dev&type=ws&allowInsecure=0&sni=sys-5e6d20-eb6c81.bot030932-0f95.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%BC%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
