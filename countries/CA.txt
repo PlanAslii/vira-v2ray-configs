@@ -1,7 +1,10 @@
 # Country CA
-# Updated: 2026-09-08 04:43:34 UTC
-# Count: 18
+# Updated: 2026-09-08 05:13:34 UTC
+# Count: 21
 
+trojan://Telegram_healer_config@172.67.156.62:443?path=%2Ftr%2F8g28WHK4FygFkZFa%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=ijm8x9ugwpiqrmn-lo-s.ztl55ltkpub38y36mctgm.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=IJM8x9uGWPIQrMN-lo-S.ztl55lTKPUB38y36MCtgm.WOrKeRs.Dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?path=%2F&security=none&encryption=none&host=vms.lifetime19.workers.dev&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?encryption=none&security=tls&sni=ccs2g.pai50288.uk&fp=chrome&allowinsecure=0&type=ws&path=%2Fpai50288#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xNy43Ny43NyIsInBvcnQiOjg0NDMsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsInNjeSI6Im5vbmUiLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsInRscyI6InRscyIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwiaW5zZWN1cmUiOiIxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwibmFtZSI6IkNBIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IEBSYXlkaWthbHggfCBCNzU0RDUiLCJwcyI6InZpcmEgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiJ9
 trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=%2Ftrojan&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%225%22%2C%2294%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22109%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
