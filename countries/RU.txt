@@ -1,7 +1,5 @@
 # Country RU
-# Updated: 2026-09-08 00:13:34 UTC
-# Count: 3
+# Updated: 2026-09-08 00:43:34 UTC
+# Count: 1
 
-vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&type=grpc&security=reality&sni=iv.kommersant.ru&fp=chrome&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0&serviceName=grpc&mode=gun&allowInsecure=1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Domain%20names%20registrar%20REG.RU%22%2C%20Ltd
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@46.254.19.179:8443?encryption=none&type=grpc&security=reality&sni=id.pervye.ru&fp=firefox&pbk=aXRkGuTaLQILSXsgyi79AcsxLPFhUXUKMTVExG6bmi8&serviceName=ns&mode=gun&allowInsecure=1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20IHC
-vless://eaf8abff-0fbf-4b64-8d8f-18c1757c75df@188.130.209.185:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.mycdn-io.ru&fp=firefox&pbk=vrtWpW_N3rBs9WEoV1Yz4uOYsci3Kpe7HitaYr4oQGc&sid=fbe42a5d4788bacc&type=tcp&headerType=none#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.218:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&allowInsecure=1#vira%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20VK
