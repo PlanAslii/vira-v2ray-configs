@@ -1,6 +1,7 @@
 # Protocol trojan
-# Updated: 2026-09-08 17:13:34 UTC
-# Count: 2
+# Updated: 2026-09-08 17:43:34 UTC
+# Count: 3
 
+trojan://50414e45-4c5f-5a45-5553-8fbaa220b931@88.216.67.157:443?path=%2Fstream%2FPANEL_ZEUS%2F8fbaa220b931%2Floc-0&security=tls&insecure=0&host=sys-5e6d20-eb6c81.bot030932-0f95.workers.dev&type=ws&allowInsecure=0&sni=sys-5e6d20-eb6c81.bot030932-0f95.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%BC%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
+trojan://7e1er996nal8afa9@104.253.74.50:12934?security=none&headerType=none&type=tcp#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Digital%20LLC
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
-trojan://g71h3cbffc6u825a@185.204.170.125:442?security=none&type=tcp#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20Arvancloud%20Global%20Technologies%20L.L.C
