@@ -1,6 +1,5 @@
 # Country GB
-# Updated: 2026-09-09 20:43:34 UTC
-# Count: 2
+# Updated: 2026-09-09 21:13:34 UTC
+# Count: 1
 
-vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?encryption=none&type=ws&path=%2Fvless%2F&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&allowInsecure=1#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&path=%2Fvless%2F&host=google.com&allowInsecure=1#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=slashdot.org&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Hosting%20Ltd
