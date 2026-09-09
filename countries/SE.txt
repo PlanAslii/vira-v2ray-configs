@@ -1,7 +1,6 @@
 # Country SE
-# Updated: 2026-09-09 18:43:34 UTC
-# Count: 3
+# Updated: 2026-09-09 19:13:34 UTC
+# Count: 2
 
-vless://a0d181f9-e82f-454c-8dea-79d8e630ab96@177.3.209.179:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.telia.se&fp=firefox&pbk=EsGa1C0nTVYyW4luB4-VBu0ECgbm2-61A5mjUDzpwSA&sid=9794b16a7080255c&allowInsecure=1#vira%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
-vless://60339d95-eacb-428d-88e4-caedaddf5159@172.232.139.153:51629?security=reality&encryption=none&pbk=k89H-2EgOKgvOaLGXtLEbWI5YRjzoIfoDeRVXawIIBM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=398cd7a9beed4aa2#vira%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?encryption=none&type=grpc&security=reality&sni=www.google.com&fp=firefox&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&serviceName=TunService&allowInsecure=1#vira%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20HZ%20Hosting%20Ltd
+vless://a0d181f9-e82f-454c-8dea-79d8e630ab96@177.3.209.179:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.telia.se&fp=firefox&pbk=EsGa1C0nTVYyW4luB4-VBu0ECgbm2-61A5mjUDzpwSA&sid=9794b16a7080255c&allowInsecure=1#vira%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
