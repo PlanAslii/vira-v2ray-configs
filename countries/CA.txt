@@ -1,14 +1,12 @@
 # Country CA
-# Updated: 2026-09-10 12:13:34 UTC
-# Count: 10
+# Updated: 2026-09-10 12:43:34 UTC
+# Count: 8
 
+vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?encryption=none&type=ws&security=tls&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?insecure=0&sni=zavqeron.ir&host=land.zavqeron.ir&encryption=none&fp=chrome&path=%2Ffi-cdn&security=tls&allowInsecure=0&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://fa45096d-bed0-ad80-c773-23c300000003@172.67.134.136:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=/sync#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://fa45096d-bed0-ad80-c773-23c30000001b@172.67.209.13:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=/sync#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://fa45096d-bed0-ad80-c773-23c300000019@104.21.108.4:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=%2Fsync#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://9be3bb59-c281-4fee-ae3d-7cf6c4b47eb4@skk.moe:8880?encryption=none&type=ws&host=late-mountain-6801.355.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://fa45096d-bed0-ad80-c773-23c300000018@104.21.108.4:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=%2Fsync#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://6f83f9f5c042c103@netra-85a0ca.shoameni19.workers.dev:443?security=tls&sni=nETrA-85a0Ca.sHOaMeni19.WorKeRS.DEV&fp=chrome&alpn=http/1.1&type=ws&host=netra-85a0ca.shoameni19.workers.dev&path=/tr/FnFUHb0u1vZhVfS8NzJgiBcNB96sgSE?ed=2560#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://73796e63-0000-4000-8000-000000000000@104.27.52.69:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=icy-pine-5efc.aoigjojowfie123.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=icy-pine-5efc.aoigjojowfie123.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://1399f473-ffb5-4942-b05c-7dd3fc0007fb@round-truth-dcf1.34-719.workers.dev:8880?path=%2F&security=none&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
