@@ -1,10 +1,9 @@
 # Country GB
-# Updated: 2026-09-10 09:43:34 UTC
-# Count: 6
+# Updated: 2026-09-10 10:13:34 UTC
+# Count: 5
 
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?encryption=none&type=ws&security=tls&sni=zavqeron.ir&path=%2Ffi-cdn&host=land.zavqeron.ir#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
+vless://f885cecc-a6ea-4e9b-87da-c7dc4b745348@217.179.220.67:8443?encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&security=reality&serviceName=grpc-yandex&sid=844352756c1fabba&sni=avatars.mds.yandex.net&type=grpc#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
+vless://a59fe649-d490-4ab6-a282-8613bd2c33bb@land.zavqeron.ir:2053?allowInsecure=0&insecure=0&security=tls&host=land.zavqeron.ir&fp=chrome&path=%2Ffr-cdn&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=ws&sni=zavqeron.ir#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
 vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?type=tcp&security=reality&sni=strapi.io&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Hosting%20Ltd
-vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?encryption=none&type=ws&security=tls&sni=zavqeron.ir&path=%2Ffi-cdn&host=land.zavqeron.ir#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://9589fd16-42a6-4be3-ae82-25c9c4da812c@104.194.149.96:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.dodostatic.net&fp=qq&pbk=_0xBrxkSJE2Qf3MViR2inKlffGEqYfx2lztViv5-9X0&sid=406a5c8f9fed4e07&allowInsecure=1#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FranTech%20Solutions
-vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Iomart%20Hosting%20Ltd
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?encryption=none&security=reality&sni=play.google.com&fp=random&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp&headerType=none#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
