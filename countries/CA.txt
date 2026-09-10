@@ -1,12 +1,6 @@
 # Country CA
-# Updated: 2026-09-10 21:13:34 UTC
-# Count: 8
+# Updated: 2026-09-10 22:01:01 UTC
+# Count: 2
 
-vless://f2900749-7cff-42b7-9566-dfb03840d374@herd.zavqeron.ir:2053?path=%2Fde2-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=herd.zavqeron.ir&fp=chrome&type=ws&sni=zavqeron.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@172.64.152.23:443?path=%2Fws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=s2p.open-ml.ir&fp=chrome&type=ws&sni=s2p.open-ml.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://humanity@172.67.149.60:443?type=ws&security=tls&sni=www.ignitelimit.com&path=%2Fassignment&host=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://bc0d3c50-612d-05fe-fa4d-bc0600000002@104.24.18.153:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=ez-ffc5c2.ezaccess1435739.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ffc5c2.ezaccess1435739.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://ab42fcb5-6c01-0bd4-70fa-66f85551a915@147.182.157.72:8039?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.33.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50288&security=tls&sni=ccs2g.pai50288.uk&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
