@@ -1,6 +1,13 @@
 # Country CA
-# Updated: 2026-09-10 19:43:34 UTC
-# Count: 2
+# Updated: 2026-09-10 20:13:34 UTC
+# Count: 9
 
-vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.26.0.32:443?path=%2F%3Fu%3Dommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://acc591a0-04ae-4676-996a-e6fe01b26ed2@aljha.typeshoes.online:443?path=%2Fkdi&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&host=aljha.typeshoes.online&fp=chrome&type=ws&allowInsecure=0&sni=aljha.typeshoes.online#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:2087?security=tls&type=ws&path=/?ed=2560&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packetEncoding=none&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://02960dc5-ade0-4f85-a3ec-3e73b3599f0f@172.67.154.17:443?path=%2Fws&host=s2p.open-ml.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=0&type=ws&sni=s2p.open-ml.ir&encryption=none&insecure=0#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://69af4752-5c1f-4842-9a4b-14c491abd428@104.16.22.21:2053?type=ws&encryption=none&host=fin.roomode.ir&security=tls&sni=fin.roomode.ir&fp=chrome&path=%2F&headerType=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://87c2f6aa-083c-43a6-aecb-af881df16f41@104.16.22.21:2053?type=ws&encryption=none&host=paneluk.roomode.ir&security=tls&sni=paneluk.roomode.ir&path=%2F&fp=chrome&headerType=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://412bb6b0-2513-488f-8412-33e74c2bb47d@162.159.82.123:2053?type=ws&encryption=none&host=fr.roomode.ir&security=tls&sni=fr.roomode.ir&path=%2F&fp=chrome&headerType=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://06fb4201-259a-4d04-a608-6f49dccdff59@104.16.22.21:2053?type=ws&encryption=none&host=ca.roomode.ir&security=tls&sni=ca.roomode.ir&path=%2F&fp=chrome&headerType=none#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
