@@ -1,8 +1,8 @@
 # Country CA
-# Updated: 2026-09-10 18:43:34 UTC
+# Updated: 2026-09-10 19:13:34 UTC
 # Count: 4
 
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.26.0.32:443?path=%2F%3Fu%3Dommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=%2Fstream%2FPANEL_ZEUS%2F635698a6bb9c%2Floc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://50414e45-4c5f-5a45-5553-8ab06d2b3ccd@172.67.153.11:443?path=%2Fstream%2FPANEL_ZEUS%2F8ab06d2b3ccd%2Floc-0&security=tls&encryption=none&insecure=0&host=nfz5qieuu29s.66zqafe8uq8s.workers.dev&type=ws&allowInsecure=0&sni=nfz5qieuu29s.66zqafe8uq8s.workers.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://f2900749-7cff-42b7-9566-dfb03840d374@key.zavqeron.ir:2053?path=%2Ftr1-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=key.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
