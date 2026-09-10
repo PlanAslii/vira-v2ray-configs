@@ -1,8 +1,7 @@
 # Protocol trojan
-# Updated: 2026-09-10 17:43:34 UTC
-# Count: 4
+# Updated: 2026-09-10 18:13:34 UTC
+# Count: 3
 
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://MiTiVPN@167.82.76.27:443?security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&type=ws&host=mitivpn---ss--s---mitivpn-3.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Fastly%2C%20Inc.
 trojan://qo4a9nddlgupzd93@193.148.253.210:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=193.148.253.210&fp=chrome&ech=AGL%2BDQBeAAAgACDrJP%2FdVWMeomRtbuW9WXn79BFt4p%2F19elnElm1w9uwKAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xOTMuMTQ4LjI1My4yMTAAAA%3D%3D&type=ws&allowInsecure=0&sni=193.148.253.210#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20dataforest%20GmbH
-trojan://1iwRk90vG3eKMCPzS@188.114.97.8:2086?path=%2Ftr%2Fctw8tO5WkRzMcS5yTOOlKxXl%3Fed%3D2560&security=none&host=lb4sdd4culg0poecnla.nimakarimi1592-n.workers.dev&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
