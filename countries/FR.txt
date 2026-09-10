@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-09-10 04:13:34 UTC
-# Count: 2
+# Updated: 2026-09-10 04:43:34 UTC
+# Count: 1
 
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?encryption=none&flow=xtls-rprx-vision&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&security=reality&sid=1eb8ea8dae937ae0&sni=vk.ru&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22224?type=raw#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://6fb79584-30b8-4888-b358-98f7ef6b8697@fr-node.usel.pro:443?type=tcp&headerType=none&security=reality&fp=firefox&encryption=none&sni=yunohost.org&pbk=fTxan5odgqq8enNPQ-MOOYOaQKIaG01NQ1Yvs0Zd-SE&flow=xtls-rprx-vision#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Layer7%20Networks%20GmbH
