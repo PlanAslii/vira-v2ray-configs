@@ -1,5 +1,6 @@
 # Country LV
-# Updated: 2026-09-10 06:43:34 UTC
-# Count: 1
+# Updated: 2026-09-10 07:13:34 UTC
+# Count: 2
 
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&security=reality&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
 vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@nl.cloudtechone.org:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nl.cloudtechone.org&fp=firefox&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&sid=f93c9d5127e622e4&allowInsecure=1#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
