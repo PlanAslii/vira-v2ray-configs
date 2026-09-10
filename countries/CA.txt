@@ -1,13 +1,10 @@
 # Country CA
-# Updated: 2026-09-10 15:43:34 UTC
-# Count: 9
+# Updated: 2026-09-10 16:13:34 UTC
+# Count: 6
 
+vless://914ddcc5-ac68-45d8-9c45-2e83e49e2d45@eumenes.online:2087?host=eumenes.online&path=%2Fcfstream&security=tls&type=ws&fragment=10-100,10-50,tlshello#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://ab42fcb5-6c01-0bd4-70fa-66f85551a915@147.182.157.72:8039?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowInsecure=1#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=%2F&security=tls&encryption=none&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&sni=cfvvv-ev1.pages.dev#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.144.66:8443?encryption=none&type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443?encryption=none&type=ws&path=%2F&host=web-socket.tgdaosheng.ggff.net&security=tls&sni=web-socket.tgdaosheng.ggff.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-trojan://Telegram_healer_config@172.67.170.155:443?type=ws&security=tls&sni=JfW5fIi30I7-SC560AvFnfnH613.i6JSQ7mr66E-E14trd.WoRKErs.deV&fp=chrome&path=%2Ftr%2FBvZonkQYnXRYanP3KUCRjO%3Fed%3D2560#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://335a587a-4815-4ced-a702-8a3348403c45@eumenes.online:2087?host=eumenes.online&path=/cfstream&security=tls&type=ws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://acc591a0-04ae-4676-996a-e6fe01b26ed2@aljha.typeshoes.online:443?type=ws&security=tls&sni=aljha.typeshoes.online&host=aljha.typeshoes.online&path=%2Fkdi&fp=chrome#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
