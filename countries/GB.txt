@@ -1,7 +1,7 @@
 # Country GB
-# Updated: 2026-09-10 17:13:34 UTC
+# Updated: 2026-09-10 17:43:34 UTC
 # Count: 3
 
-vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@91.193.58.207:2087?path=%2Fproxyip%3D154.3.33.43&security=tls&encryption=none&host=mianfei-73q.pages.dev&type=ws&sni=mianfei-73q.pages.dev#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.172.12:22223?encryption=none&security=none&type=tcp#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
