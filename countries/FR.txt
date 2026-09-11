@@ -1,9 +1,6 @@
 # Country FR
-# Updated: 2026-09-11 18:21:51 UTC
-# Count: 5
+# Updated: 2026-09-11 18:51:51 UTC
+# Count: 2
 
 vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443/?type=tcp&encryption=none&sni=status.play.google.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&sid=5030#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.130.157:22224?encryption=none&headerType=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80/?type=ws&encryption=none&path=/vless/#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://3e05376a-fc71-420c-9091-946c4d9d1040@panell.app.runonflux.io:443?path=%2Fxvpnws%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panell.app.runonflux.io#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://699e5dc6-53d5-49f7-b1af-4904b9d95f6b@fran.gmail.com.vahidzhv.ir:22758?encryption=mlkem768x25519plus.native.0rtt.ILl0uQQxVTrAAAmh-mtfUewqZBP9qsOUL6gbOZDtWko&type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=-3y5_dgBRSVEKt8PviWtW0SSvehq7tO_ALg5C76V2Ao&sid=c617b8835b1712d1#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
