@@ -1,5 +1,7 @@
 # Protocol trojan
-# Updated: 2026-09-11 18:51:51 UTC
-# Count: 1
+# Updated: 2026-09-11 19:21:51 UTC
+# Count: 3
 
+trojan://j6qw5uat3m8yeyrw@193.148.253.210:2053?type=ws&security=tls&path=%2F&host=193.148.253.210#vira%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20Trojan%20%C2%B7%20dataforest%20GmbH
+trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@162.159.38.58:443?type=ws&path=%2Fx7f9k2m4p8&host=ot.hyas.space&security=tls&sni=ot.hyas.space#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
