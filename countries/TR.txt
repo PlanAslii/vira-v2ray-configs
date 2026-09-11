@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-09-11 18:21:51 UTC
-# Count: 2
+# Updated: 2026-09-11 19:21:51 UTC
+# Count: 1
 
-vless://69768555-bf07-4127-8ce5-eed7a0d0baba@sinavm.soft10.ir:443?encryption=none&type=ws&security=tls&sni=sinavm.soft10.ir&fp=chrome&alpn=http%2F1.1&path=%2Fassignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&host=sinavm.soft10.ir#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FibaCloud
-vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
+vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#vira%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
