@@ -1,9 +1,9 @@
 # Country CA
-# Updated: 2026-09-11 03:31:01 UTC
+# Updated: 2026-09-11 04:01:01 UTC
 # Count: 5
 
+vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@cf-vless-4cf55824.aimall.fr:443?path=%2Fconnect&security=tls&encryption=none&insecure=0&host=cf-vless-4cf55824.aimall.fr&fp=chrome&type=ws&allowInsecure=0&sni=cf-vless-4cf55824.aimall.fr#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none&type=ws&security=tls&sni=newwk1.f1w.de5.net&fp=chrome&host=newwk1.f1w.de5.net&path=%2F#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e149f4db-ef8d-414b-9b5b-8757df2642ad@s1b.syslogd.ir:443?path=%2Fpa-m-v2&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=prx.zirabserver.ir&fp=chrome&type=ws&allowInsecure=0&sni=f4d5c2729dd475d0.zirabserver.ir#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 trojan://humanity@104.18.152.103:443?type=ws&security=tls&sni=www.ignitelimit.com&fp=chrome&path=%2Fassignment#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://50414e45-4c5f-5a45-5553-cea58e4acf49@104.17.88.130:443?encryption=none&type=ws&security=tls&sni=web-app-aug8yr.app-f1qsy1.workers.dev&fp=chrome&host=web-app-aug8yr.app-f1qsy1.workers.dev&path=%2Fapi%2Fws#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://8d032cfc-4a8c-4769-bd29-4fa0ade77b14@172.64.88.251:8880?security=false&fp=chrome&type=ws&headerType=none&host=icy-frog-a2a2.245.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
