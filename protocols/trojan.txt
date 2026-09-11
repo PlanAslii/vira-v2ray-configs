@@ -1,5 +1,5 @@
 # Protocol trojan
-# Updated: 2026-09-11 03:01:01 UTC
+# Updated: 2026-09-11 03:31:01 UTC
 # Count: 1
 
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#vira%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://humanity@104.18.152.103:443?type=ws&security=tls&sni=www.ignitelimit.com&fp=chrome&path=%2Fassignment#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
