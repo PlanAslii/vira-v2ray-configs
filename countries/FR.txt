@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-09-11 15:51:51 UTC
-# Count: 4
+# Updated: 2026-09-11 16:21:51 UTC
+# Count: 2
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.130.157:22222?encryption=none&security=none&type=tcp#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?encryption=none&type=tcp&security=reality&sni=status.play.google.com&fp=chrome&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&sid=5030&spx=%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://b761689d-592e-46b2-b704-af7a9110b0ac@shop.theawesomenpl.ru:50715?security=reality&encryption=none&pbk=YyF_0swCrKvtCDKmnGhz9UshtvQxUbpemVO8d_Bj6Ro&headerType=none&fp=firefox&type=tcp&sni=www.nvidia.com&sid=75#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
