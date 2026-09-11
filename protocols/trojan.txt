@@ -1,5 +1,5 @@
 # Protocol trojan
-# Updated: 2026-09-11 00:31:01 UTC
+# Updated: 2026-09-11 01:31:01 UTC
 # Count: 1
 
-trojan://humanity@188.42.145.180:443?type=ws&security=tls&sni=www.volumeroot.com&fp=chrome&path=%2Fassignment&host=www.volumeroot.com#vira%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%20London%2C%20LLC
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
