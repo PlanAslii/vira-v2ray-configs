@@ -1,5 +1,6 @@
 # Country IT
-# Updated: 2026-09-11 03:01:01 UTC
-# Count: 1
+# Updated: 2026-09-11 03:31:01 UTC
+# Count: 2
 
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?encryption=none&type=ws&security=tls&sni=milan.adaspoloandco.com&path=%2FRoBeRt#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=tcp&encryption=none#vira%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
