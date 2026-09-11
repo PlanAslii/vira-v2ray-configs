@@ -1,6 +1,7 @@
 # Country FR
-# Updated: 2026-09-11 02:01:01 UTC
-# Count: 2
+# Updated: 2026-09-11 02:31:01 UTC
+# Count: 3
 
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=vk.ru&fp=random&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&headertype=none#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@195.216.168.158:443?type=grpc&security=reality&fp=firefox&pbk=JgAozyY8uYe10LDFxsY5KL6C54nPrFezT6lK5Rfvrjk&sid=3faf2070&sni=google.com&serviceName=MediaService#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hostman%20LTD
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?encryption=none&type=ws&security=tls&sni=bab-6.site&host=bab-6.site&path=%2Fvws%2F#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=vk.ru&fp=random&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&headertype=none#vira%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
