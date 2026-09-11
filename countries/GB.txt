@@ -1,11 +1,6 @@
 # Country GB
-# Updated: 2026-09-11 09:01:01 UTC
-# Count: 7
+# Updated: 2026-09-11 09:51:51 UTC
+# Count: 2
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&type=grpc&mode=gun&serviceName=vless#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
-vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?encryption=none&security=tls&type=ws#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://f85ba8bb-a3da-4389-a67a-2b0afde7bbc1@uk-tube-01.stre4m.net:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Evgenii%20Konstantinov
-vless://acc591a0-04ae-4676-996a-e6fe01b26ed2@aljha.typeshoes.online:443?path=%2Fkdi&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&host=aljha.typeshoes.online&fp=chrome&type=ws&allowInsecure=0&sni=aljha.typeshoes.online#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://b691d443-3d5b-47d3-9c6f-9b84beda2b13@31.76.39.163:443?encryption=none&flow=xtls-rprx-vision&pbk=UzVp3x9LEOVeF_j_X2XzJrumdyfLEiFS0d6qDGVB_3M&security=reality&sid=6252784c3b8de71a&sni=uk1.kramiliantha.sbs&type=tcp#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&encryption=none&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fd8cf7e1173f0edb#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
+vless://1996007c-e7bc-464b-999b-cac28cec6c3e@138.124.125.211:443?security=reality&encryption=none&pbk=RVj8E6YuWeOq9XzIVLQCKM39qa-Cknp-GYvVAA1UPFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=72cceb78#vira%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
