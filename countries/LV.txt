@@ -1,5 +1,5 @@
 # Country LV
-# Updated: 2026-09-11 22:51:51 UTC
+# Updated: 2026-09-11 23:51:51 UTC
 # Count: 1
 
-vless://773251ef-4691-453e-b062-27e3ed3ed784@169.40.1.62:1443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lv.pawnet.ink#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
+vless://773251ef-4691-453e-b062-27e3ed3ed784@169.40.1.62:1443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=lv.pawnet.ink&fp=firefox&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#vira%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
