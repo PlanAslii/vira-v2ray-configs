@@ -1,6 +1,5 @@
 # Country BG
-# Updated: 2026-09-11 13:51:51 UTC
-# Count: 2
+# Updated: 2026-09-11 15:51:51 UTC
+# Count: 1
 
-vless://3ab633de-99ed-4566-9749-c75c7f352106@nano.uicloud.tr:15451?encryption=none&security=none&type=grpc&headerType=none&serviceName=www.google.com%3A443&authority=www.mega.io&mode=gun#vira%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?encryption=none&security=reality&sni=bg3.univesalsrv.com&fp=chrome&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&type=grpc&serviceName=home.v1.ApiService&mode=gun#vira%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40TOOTFFARANGI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#vira%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
