@@ -1,7 +1,6 @@
 # Country TR
-# Updated: 2026-09-12 12:02:15 UTC
-# Count: 3
+# Updated: 2026-09-12 12:32:15 UTC
+# Count: 2
 
-vless://8d89622f-3150-424e-8446-06866a3d6b66@109.230.196.66:208?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20MUV%20Bilisim%20ve%20Telekomunikasyon%20Hizmetleri%20Ltd.%20Sti.
-vless://5ad5d8fb-d0d2-4a79-a130-1e1e20e6a780@213.156.152.105:8290?encryption=none&type=tcp&security=reality&sni=www.numpy.org&fp=chrome&pbk=yYjMMztcB_8Ao3sp9QIP9ZF0XtsUGXawIBUGWeIvglc&sid=130b94c8e5124031#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://79f98593-6a21-4783-a425-3d5609a79df1@app.life-pro.ir:8082?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
+vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@tr2.rockblack.site:8443?security=reality&encryption=none&pbk=fXsQV_dib6rKGAl6EncN6Pm-fTb6TqOa3uTCQWe86Dg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20GCS%20SER
+vless://79f98593-6a21-4783-a425-3d5609a79df1@app.life-pro.ir:8082?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
