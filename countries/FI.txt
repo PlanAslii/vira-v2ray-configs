@@ -1,6 +1,7 @@
 # Country FI
-# Updated: 2026-09-12 00:21:51 UTC
-# Count: 2
+# Updated: 2026-09-12 00:51:51 UTC
+# Count: 3
 
-vless://5ad5d8fb-d0d2-4a79-a130-1e1e20e6a780@62.238.115.33:15617?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=zAjmD7mwpdYpvo5W5iZvSJAJ1xnuXnFNEZAQ-NoSXwg&sid=8cf95f839e46a5c3&allowInsecure=1#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DELTA%20Fiber%20Nederland
+vmess://eyJhZGQiOiI2NS4xMDkuMTg5LjEyOCIsImlkIjoiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwibmV0IjoidGNwIiwicG9ydCI6IjIwODYiLCJwcyI6InZpcmEgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTWVzcyBcdTAwYjcgSGV0em5lciBPbmxpbmUgR21iSCIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSJ9
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?encryption=none&type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none#vira%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
