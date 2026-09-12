@@ -1,5 +1,7 @@
 # Country CA
-# Updated: 2026-09-12 22:52:00 UTC
-# Count: 1
+# Updated: 2026-09-12 23:22:00 UTC
+# Count: 3
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://12af43c3-84b4-4248-878b-b75f35835487@104.16.72.251:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=network&allowInsecure=0&sni=decdn.ramlike.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=shalana.xyz&fp=chrome&type=ws&allowInsecure=0&sni=shalana.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=shalana.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=shalana.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
