@@ -1,5 +1,5 @@
 # Protocol trojan
-# Updated: 2026-09-12 01:51:51 UTC
+# Updated: 2026-09-12 02:21:51 UTC
 # Count: 1
 
-trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#vira%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20Trojan%20%C2%B7%20Cloudflare%2C%20Inc.
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&allowinsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#vira%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20Trojan%20%C2%B7%20Porsche%20Informatik%20Gesellschaft%20m.b.H
