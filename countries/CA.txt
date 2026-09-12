@@ -1,10 +1,10 @@
 # Country CA
-# Updated: 2026-09-12 12:02:15 UTC
+# Updated: 2026-09-12 12:32:15 UTC
 # Count: 6
 
+vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?encryption=none&type=ws&security=tls&sni=ccs2g.pai50288.uk&fp=chrome&path=%2Fpai50288#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://a592b4ac-e209-4a13-3cef-539600000005@188.114.96.6:443?encryption=none&type=ws&security=tls&sni=0404.infinityconfig5.workers.dev&fp=chrome&path=%2Fsync&host=0404.infinityconfig5.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://30ba0daf-ae35-48de-8a38-71b13c6c0faa@172.67.156.190:2087?encryption=mlkem768x25519plus.native.0rtt.5bVxebChaE6f8nkad1gQdr-ndZAhBBBZr9YI3UHMkyk&type=ws&security=tls&sni=de1.zenvia.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&path=%2Fwss&host=de1.zenvia.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
