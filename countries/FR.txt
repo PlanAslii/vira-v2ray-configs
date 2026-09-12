@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-09-12 14:02:15 UTC
-# Count: 2
+# Updated: 2026-09-12 15:28:49 UTC
+# Count: 1
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22222?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.30.143:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://f751c2fe-0772-4613-a5df-12155d170b10@gcore-fr.behtarin-service.ir:10808?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=status.play.google.com&fp=firefox&pbk=qOgEhuyKBZEddP-JccfMnHnHMmxBy-xqtAEmpUK3Mhk&sid=cda75e9f52858109&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
