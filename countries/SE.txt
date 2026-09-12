@@ -1,5 +1,6 @@
 # Country SE
-# Updated: 2026-09-12 23:22:00 UTC
-# Count: 1
+# Updated: 2026-09-12 23:52:00 UTC
+# Count: 2
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@150.241.72.76:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=austria-2.moritech.net#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-3.moritech.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&fp=chrome#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@150.241.72.76:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=austria-2.moritech.net&fp=firefox&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
