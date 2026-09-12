@@ -1,7 +1,10 @@
 # Country CA
-# Updated: 2026-09-12 09:32:15 UTC
-# Count: 12
+# Updated: 2026-09-12 10:02:15 UTC
+# Count: 11
 
+vless://30ba0daf-ae35-48de-8a38-71b13c6c0faa@172.67.156.190:2087?encryption=mlkem768x25519plus.native.0rtt.5bVxebChaE6f8nkad1gQdr-ndZAhBBBZr9YI3UHMkyk&type=ws&security=tls&sni=de1.zenvia.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&path=%2Fwss&host=de1.zenvia.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.21.33.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.25.208:2096?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -10,7 +13,3 @@ vless://42c62a5a-cd31-4551-80ef-908732370287@104.16.157.175:8443?fp=chrome&host=
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.50.166:2087?encryption=none&type=ws&path=%2Fproxyip%3D154.3.33.43&host=mianfei-73q.pages.dev&security=tls&sni=mianfei-73q.pages.dev&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.26.0.113:2053?encryption=none&type=ws&path=%2Fproxyip%3D154.3.33.43&host=mianfei-73q.pages.dev&security=tls&sni=mianfei-73q.pages.dev&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.181.195:443?encryption=none&type=ws&path=%2Fproxyip%3D154.3.33.43&host=mianfei-73q.pages.dev&security=tls&sni=mianfei-73q.pages.dev&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.156.230:2053?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.50.227:2087?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
