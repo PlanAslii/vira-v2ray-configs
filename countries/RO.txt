@@ -1,6 +1,8 @@
 # Country RO
-# Updated: 2026-09-12 22:22:00 UTC
-# Count: 2
+# Updated: 2026-09-12 22:52:00 UTC
+# Count: 4
 
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma3.moritech.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=roma3.moritech.net&fp=qq&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Zergrush%20SRL
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma2.moritech.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&fp=edge&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Zergrush%20SRL
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@194.5.248.93:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=roma1.moritech.net&fp=firefox&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Zergrush%20SRL
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@194.5.248.70:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=roma3.moritech.net&fp=firefox&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Zergrush%20SRL
