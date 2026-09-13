@@ -1,8 +1,7 @@
 # Country GB
-# Updated: 2026-09-13 16:52:00 UTC
-# Count: 4
+# Updated: 2026-09-13 17:22:00 UTC
+# Count: 3
 
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.234:9460?encryption=none&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20HZ%20Hosting%20Ltd
-vless://156ff3c8-4578-4fcf-82be-ddc792d98928@104.194.149.180:8443?encryption=none&fp=edge&pbk=Vktj1xTermYXMcgW4MwH0mpCdOCE2JeZLvKWbXy0YkY&security=reality&sid=ffb43069c9bb&sni=www.sony.com&spx=%2FovLJBaau0eWJ1e1&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FranTech%20Solutions
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.6.135:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://156ff3c8-4578-4fcf-82be-ddc792d98928@104.194.149.180:8443?security=reality&encryption=none&pbk=Vktj1xTermYXMcgW4MwH0mpCdOCE2JeZLvKWbXy0YkY&fp=edge&spx=%2FovLJBaau0eWJ1e1&type=tcp&sni=www.sony.com&sid=ffb43069c9bb#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FranTech%20Solutions
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.234:9460?encryption=none&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20HZ%20Hosting%20Ltd
