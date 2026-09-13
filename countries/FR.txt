@@ -1,10 +1,6 @@
 # Country FR
-# Updated: 2026-09-13 09:52:00 UTC
-# Count: 6
+# Updated: 2026-09-13 10:22:00 UTC
+# Count: 2
 
+vmess://eyJhZGQiOiIxNTIuMjI4LjE0NS41IiwiYWlkIjoiMCIsImlkIjoiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IE9WSCBTQVMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 vless://becd3b04-62a8-4b74-be67-be746008b4c2@185.236.8.83:443?mode=gun&security=reality&encryption=none&pbk=KIWwTEe2oqmJF69P3KkR85kTvv0vhf2biYT5KJ0VCRs&fp=firefox&type=grpc&serviceName=grpc&sni=mesh-nlwey.spliceflowtech.com&sid=f1c3e7a9d4b06285#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@152.89.253.169:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kama1.api3-max.ru&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@217.179.6.154:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kama4.api3-max.ru&fp=firefox&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=usejh2.neobo-tooth.ru&fp=ios#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&host=v2raynplus--v2raynplus--v2raynplus&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?packet-encoding=xudp&type=ws&headerType=none&host=OV-France1.09vpn.com&path=%2Fvless%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
