@@ -1,7 +1,6 @@
 # Country FR
-# Updated: 2026-09-13 14:52:00 UTC
-# Count: 3
+# Updated: 2026-09-13 15:22:00 UTC
+# Count: 2
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.112.22:22222?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.53:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vmess://eyJhZGQiOiIxNTIuMjI4LjE0NS41IiwiYWlkIjoiMCIsImlkIjoiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IE9WSCBTQVMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.112.22:22224?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
