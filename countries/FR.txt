@@ -1,7 +1,6 @@
 # Country FR
-# Updated: 2026-09-12 23:52:00 UTC
-# Count: 3
+# Updated: 2026-09-13 00:22:00 UTC
+# Count: 2
 
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@kama1.api3-max.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=kama1.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@167.104.216.148:443?security=reality&encryption=none&pbk=YzcD3L8gMsXxNBiGsPaLsy6DMip_MK6xu7voH_HriA8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr3.esimpson.org&sid=cd41f54066ca4672#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.146.129:22222?encryption=none&type=tcp&insecure=1&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@kama1.api3-max.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=kama1.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
