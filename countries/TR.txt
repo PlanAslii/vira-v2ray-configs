@@ -1,6 +1,6 @@
 # Country TR
-# Updated: 2026-09-13 12:22:00 UTC
-# Count: 8
+# Updated: 2026-09-13 12:52:00 UTC
+# Count: 7
 
 vless://993cd4f7-c8b6-4de2-a594-c9eb13913bc7@tr-tls1.th3team.ir:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&headerType=http&host=play.google.com&path=%2F&security=tls&sni=tr-tls1.th3team.ir&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
 vless://ed46de0c-c070-471b-8c7d-b282a54a2c3e@tr-t1.easyodin.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
@@ -9,4 +9,3 @@ vless://993cd4f7-c8b6-4de2-a594-c9eb13913bc7@tr-t1.easyodin.ir:443?encryption=no
 vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20HZD%20TEKNOLOJI%20VE%20INOVASYON%20SAN.%20VE%20TIC.%20LTD.%20STI.
 vless://3de1313f-e378-4a2a-8aa6-a4a522439e1a@158.94.216.134:53341?security=reality&encryption=mlkem768x25519plus.native.0rtt.C01N560fAWEkiQCWh4qPi7rnKJ-wCiCGT7h3NnBRb3w&pbk=eSSad_b1os9tgoQHJD2qjRfD873Md_c0iaWSVBqM9DI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9dc0c499daa85792#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
 vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@r1l9qn4652qh6gqxocls.novexgroup.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=fb8f35b7a67cf423#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@partaa2.api3-max.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=partaa2.api3-max.ru#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
