@@ -1,10 +1,12 @@
 # Country CA
-# Updated: 2026-09-13 11:22:00 UTC
-# Count: 6
+# Updated: 2026-09-13 11:52:00 UTC
+# Count: 8
 
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@yellow-breeze-989b.348-9b8.workers.dev:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&encryption=none&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://12af43c3-84b4-4248-878b-b75f35835487@104.16.72.251:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=network&allowInsecure=0&sni=decdn.ramlike.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://121c3728-2b6b-4b69-bac6-170b13658d74@www.zsu.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=falling-darkness-95ea.289.workers.dev&packetEncoding=xudp&encryption=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://8666ab45-8e3d-4988-841b-2561d91e32d5@172.66.1.247:2053?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=mianfei-73q.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=mianfei-73q.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?path=%2F&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&type=ws&allowInsecure=0#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://0de87762-7d50-49e7-a5ae-7ac85760e083@104.21.56.202:8880?path=%2Fpyip&security=none&encryption=none&host=delicate-fog-bbae.205-635.workers.dev&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://0de87762-7d50-49e7-a5ae-7ac85760e083@skk.moe:8880?path=%2Fpyip&security=none&encryption=none&host=delicate-fog-bbae.205-635.workers.dev&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://8b9986f7-889c-4213-bc64-fafe012fabd6@104.18.10.118:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=morning-cell-adfc.99-c38.workers.dev&packetEncoding=xudp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
