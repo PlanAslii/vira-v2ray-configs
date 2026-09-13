@@ -1,10 +1,6 @@
 # Country CA
-# Updated: 2026-09-13 15:52:00 UTC
-# Count: 6
+# Updated: 2026-09-13 16:22:00 UTC
+# Count: 2
 
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.33.7:8443?security=tls&type=ws&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=none&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query&sni=fq.jp188.dpdns.org&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://5a829c25-3056-4717-9ecd-a00a4bae823a@x3rb0vl8uk.varfina.ir:8443?security=reality&encryption=none&pbk=H4CGZ7Ww5jslyTzgTdlR6zeyNoU5JSqiQ3pDR_JvyGw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=f7273ebb60699af8#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@172.66.1.247:2053?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=mianfei-73q.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=mianfei-73q.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=shalana.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=shalana.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.240:2096?security=tls&fp=chrome&packet-encoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.33.7:8443?security=tls&type=ws&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=none&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=fq.jp188.dpdns.org&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.60:2087?security=tls&type=ws&path=/?ed=2560&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packetEncoding=none&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
