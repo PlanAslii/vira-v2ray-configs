@@ -1,7 +1,5 @@
 # Country FR
-# Updated: 2026-09-13 07:52:00 UTC
-# Count: 3
+# Updated: 2026-09-13 08:22:00 UTC
+# Count: 1
 
 vless://becd3b04-62a8-4b74-be67-be746008b4c2@185.236.8.83:443?mode=gun&security=reality&encryption=none&pbk=KIWwTEe2oqmJF69P3KkR85kTvv0vhf2biYT5KJ0VCRs&fp=firefox&type=grpc&serviceName=grpc&sni=mesh-nlwey.spliceflowtech.com&sid=f1c3e7a9d4b06285#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@kama4.api3-max.ru:443?alpn=http/1.1,h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kama4.api3-max.ru&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://97ecaad4-452c-45ec-b591-d68d3308aad4@217.179.6.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kama4.api3-max.ru&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
