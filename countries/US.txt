@@ -1,7 +1,9 @@
 # Country US
-# Updated: 2026-09-13 02:52:00 UTC
-# Count: 11
+# Updated: 2026-09-13 03:22:00 UTC
+# Count: 12
 
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@64.49.38.3:8443?mode=gun&security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=download.autodesk.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20PureVoltage%20Hosting%20Inc.
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@140.235.168.2:8443?mode=gun&security=reality&encryption=none&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20PureVoltage%20Hosting%20Inc.
 vless://b8908b7c-8e63-4d0b-a4da-8f47c6c9dd6a@199.232.78.159:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&host=Fijji.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://4b1075a7-9245-4364-8c2c-c07cbd3f0727@199.232.78.159:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&host=fancii.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://d851005c-2f3d-4cb4-b449-5f8ded287175@ezaccess1-sulgx-ezaccess1-7eab.up.railway.app:443?encryption=none&security=tls&type=ws&host=ezaccess1-sulgx-ezaccess1-7eab.up.railway.app&path=/ws/d851005c-2f3d-4cb4-b449-5f8ded287175&sni=ezaccess1-sulgx-ezaccess1-7eab.up.railway.app&fp=chrome&alpn=http/1.1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Railway
@@ -12,4 +14,3 @@ vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@ww10.levikogjgfdd.ir:55861?encrypti
 vless://XpnTeam-21@199.232.78.170:443?type=ws&security=tls&sni=ssl.fastly.com&host=Appxdn.global.ssl.fastly.net&path=%2F&fp=chrome&alpn=http%2F1.1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://XpnTeam-21@140.248.186.45:443?type=ws&security=tls&sni=ssl.fastly.com&host=Appxdn.global.ssl.fastly.net&path=%2F&fp=chrome&alpn=http%2F1.1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@ww9.levikogjgfdd.ir:36925?encryption=none&flow=xtls-rprx-vision&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&security=reality&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
-vless://624208cf-54e0-4341-823b-1bee6595fce9@upload.tbotapi.ru:443?security=reality&encryption=none&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=upload.tbotapi.ru#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MYHOSTING365
