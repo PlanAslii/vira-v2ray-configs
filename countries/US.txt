@@ -1,7 +1,12 @@
 # Country US
-# Updated: 2026-09-13 09:52:00 UTC
-# Count: 16
+# Updated: 2026-09-13 10:22:00 UTC
+# Count: 13
 
+vless://d7282b41-1f2a-47bb-8593-f464fd6b6d78@199.232.78.159:443?encryption=none&security=tls&sni=global.fastly.com&fp=firefox&type=ws&host=BechBad.global.ssl.fastly.net&path=%2F#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://a6c38e42-394e-48c9-b4df-d4bfe21cb640@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?mode=gun&security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20PureVoltage%20Hosting%20Inc.
+vless://Channel%3Atelegram%3ATurboConfigs@38.107.233.95:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Newserverlife%20LLC
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@151.101.56.6:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://XpnTeam-22@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://624208cf-54e0-4341-823b-1bee6595fce9@upload.tbotapi.ru:443?security=reality&encryption=none&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=upload.tbotapi.ru#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MYHOSTING365
 vless://624208cf-54e0-4341-823b-1bee6595fce9@45.135.128.5:443?encryption=none&flow=xtls-rprx-vision&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&security=reality&sni=upload.tbotapi.ru&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MYHOSTING365
@@ -10,11 +15,3 @@ vless://3606cbc2-927b-4522-91b8-ff5436f467ce@199.232.78.159:443?encryption=none&
 vless://1e49ee8c-33be-4db8-8445-7203f18aecfa@8.35.211.115:2087?encryption=none&fp=chrome&host=mysheep.dpdns.org&path=%2F&security=tls&sni=mysheep.dpdns.org&type=ws#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://XpnTeam-21@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=firefox&allowinsecure=0&type=ws&host=c12.com&path=%2F#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://88b44962-7f99-4846-9113-6b0624b5a6a4@a2.arshia-nova.ir:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2F&host=c12.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://XpnTeam-21@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiYWlkIjoiMCIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicG9ydCI6IjQ0MyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyBcdTAwYjcgWGljb21tIExMQyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://de7ac7a7-1edf-5a0f-95f2-c80d3f1412d2@199.232.78.170:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://d7282b41-1f2a-47bb-8593-f464fd6b6d78@199.232.78.159:443?encryption=none&security=tls&sni=global.fastly.com&fp=firefox&type=ws&host=BechBad.global.ssl.fastly.net&path=%2F#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@8.35.211.171:8443?security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://a6c38e42-394e-48c9-b4df-d4bfe21cb640@usamfdsjfkhsdpoanelmarzzzzz.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://a6c38e42-394e-48c9-b4df-d4bfe21cb640@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=polandb.global.ssl.fastly.net.&type=ws&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
