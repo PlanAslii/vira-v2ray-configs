@@ -1,7 +1,8 @@
 # Country CA
-# Updated: 2026-09-13 21:22:00 UTC
-# Count: 3
+# Updated: 2026-09-13 21:52:00 UTC
+# Count: 4
 
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.185:443?encryption=none&type=ws&security=tls&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://55343f30-0ca4-47ea-9265-a60bd83f6b88@www.canva.com:443?path=/sdvhjldsob&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=shop.lilium-rozh.ir&fp=chrome&type=ws&allowInsecure=0&sni=shop.lilium-rozh.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://55343f30-0ca4-47ea-9265-a60bd83f6b88@www.medium.com:443?path=/sdvhjldsob&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=shop.lilium-rozh.ir&fp=chrome&type=ws&allowInsecure=0&sni=shop.lilium-rozh.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&security=reality&sid=3d3c1e645f763ee3&sni=www.speedtest.net&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
