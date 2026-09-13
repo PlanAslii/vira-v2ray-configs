@@ -1,10 +1,6 @@
 # Country TR
-# Updated: 2026-09-13 19:22:00 UTC
-# Count: 6
+# Updated: 2026-09-13 19:52:00 UTC
+# Count: 2
 
-vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@skffvhsdfikvnerkjcnerkluccnekjcdnejkldnewlkudn.mexicoserver.ir:443?security=reality&encryption=none&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=9ec76c42649e1923#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://98c7936c-073e-456f-8992-dad9a7074602@144.225.65.178:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=www.upwork.com&sid=d7397feef49deef9#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
+vless://49958fcb-5a73-4c89-98cc-b3df613b5d83@89.251.8.205:6060?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@213.156.152.75:8443?security=reality&encryption=none&pbk=72SJFDXHCtB2fWWRrjMj23J8iJ8T_2jvj-iNThmLREs&headerType=none&fp=firefox&type=tcp&sni=play-apps-features.googleusercontent.com&sid=8dc4f3de3846efa9#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@tr.iramssmoth.ir:8443?security=reality&encryption=none&pbk=72SJFDXHCtB2fWWRrjMj23J8iJ8T_2jvj-iNThmLREs&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=8dc4f3de3846efa9#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://993cd4f7-c8b6-4de2-a594-c9eb13913bc7@tr-t1.easyodin.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
-vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20HZD%20TEKNOLOJI%20VE%20INOVASYON%20SAN.%20VE%20TIC.%20LTD.%20STI.
