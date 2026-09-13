@@ -1,6 +1,9 @@
 # Country SE
-# Updated: 2026-09-13 17:52:00 UTC
-# Count: 2
+# Updated: 2026-09-13 18:22:00 UTC
+# Count: 5
 
+vless://a0d181f9-e82f-454c-8dea-79d8e630ab96@177.3.209.179:8443?security=reality&encryption=none&pbk=EsGa1C0nTVYyW4luB4-VBu0ECgbm2-61A5mjUDzpwSA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.telia.se&sid=9794b16a7080255c#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
+vless://15553b23-a621-4dfd-995e-2fe28d124526@193.25.216.175:18555?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&security=reality&sid=89e0494514ec&sni=www.oracle.com&type=tcp#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
+vless://15553b23-a621-4dfd-995e-2fe28d124526@se.chick-team.ru:24443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uUI9qoHBKhlrPy4BRJSQQygc4jstmLKLrhRI6jqhYxw&security=reality&sid=8df4211d612176a5&sni=se.chick-team.ru&type=tcp#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://b89196b1-7b72-4b81-83d0-e4d4df79f678@31.77.144.220:443?encryption=none&type=tcp&security=reality&sni=se.yabloko.top&fp=chrome&pbk=FKCgA1tnUGhUOUa62mQ_-GK23pk-qe99YLqBxbqHpzk&sid=5c1c370e313a9460&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@150.241.72.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=austria-2.moritech.net&type=tcp#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
