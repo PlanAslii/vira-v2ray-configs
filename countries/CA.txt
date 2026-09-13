@@ -1,6 +1,7 @@
 # Country CA
-# Updated: 2026-09-13 16:22:00 UTC
-# Count: 2
+# Updated: 2026-09-13 16:52:00 UTC
+# Count: 3
 
+vless://17472e79-4abe-06f8-eb2e-5095135e1e24@www.speedtest.net:443?path=%2Fv2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree4.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.185:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.33.7:8443?security=tls&type=ws&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=none&ech=cloudflare-ech.com%2Bhttps://dns.alidns.com/dns-query&sni=fq.jp188.dpdns.org&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://5a829c25-3056-4717-9ecd-a00a4bae823a@x3rb0vl8uk.varfina.ir:8443?security=reality&encryption=none&pbk=H4CGZ7Ww5jslyTzgTdlR6zeyNoU5JSqiQ3pDR_JvyGw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=f7273ebb60699af8#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
