@@ -1,5 +1,5 @@
 # Country FR
-# Updated: 2026-09-13 04:22:00 UTC
+# Updated: 2026-09-13 04:52:00 UTC
 # Count: 1
 
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@167.104.216.148:443?type=tcp&security=reality&sni=fr3.esimpson.org&fp=firefox&flow=xtls-rprx-vision&pbk=YzcD3L8gMsXxNBiGsPaLsy6DMip_MK6xu7voH_HriA8&sid=cd41f54066ca4672#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@167.104.216.148:443?security=reality&encryption=none&pbk=YzcD3L8gMsXxNBiGsPaLsy6DMip_MK6xu7voH_HriA8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr3.esimpson.org&sid=cd41f54066ca4672#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
