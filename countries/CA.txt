@@ -1,5 +1,7 @@
 # Country CA
-# Updated: 2026-09-13 22:52:00 UTC
-# Count: 1
+# Updated: 2026-09-13 23:22:00 UTC
+# Count: 3
 
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.185:443?encryption=none&type=ws&security=tls&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://2f3f58c9-7a49-4783-9722-7fcae7e3a203@37.221.110.249:2085?encryption=none&type=grpc&serviceName=vless&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
