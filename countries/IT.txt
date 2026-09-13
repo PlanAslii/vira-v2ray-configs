@@ -1,5 +1,6 @@
 # Country IT
-# Updated: 2026-09-13 02:22:00 UTC
-# Count: 1
+# Updated: 2026-09-13 04:52:00 UTC
+# Count: 2
 
-vless://df677fac-8183-4658-b448-307511ee6572@57.131.19.226:443?security=reality&encryption=none&pbk=9mgAr9QUQzxncMwhYf7Xg8SSJ49444K1rUxq7LPGAFk&fp=chrome&spx=%2F29479a3fed14bf0&type=tcp&sni=www.sony.com.au&sid=f1e2d15f#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://b3051b10-716d-455b-9811-aefcce3d633e@57.131.32.191:80?security=none&type=ws&host=ov-italy1.09vpn.com&path=/vless/#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?path=%2F+&security=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
