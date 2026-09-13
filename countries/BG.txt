@@ -1,7 +1,5 @@
 # Country BG
-# Updated: 2026-09-12 23:52:00 UTC
-# Count: 3
+# Updated: 2026-09-13 00:22:00 UTC
+# Count: 1
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=bg3.univesalsrv.com&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&serviceName=home.v1.ApiService&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40TOOTFFARANGI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
