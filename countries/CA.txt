@@ -1,11 +1,10 @@
 # Country CA
-# Updated: 2026-09-14 06:52:00 UTC
-# Count: 7
+# Updated: 2026-09-14 07:22:00 UTC
+# Count: 6
 
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&security=reality&sid=3d3c1e645f763ee3&sni=www.speedtest.net&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://baeb2038-827e-f3fb-432b-18b49e5dd676@147.182.157.72:1161?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://73796e63-0000-4000-8000-000000000008@104.21.64.198:2095?encryption=none&type=ws&path=%2Fsync&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://2f3f58c9-7a49-4783-9722-7fcae7e3a203@37.221.110.249:2085?encryption=none&type=grpc&serviceName=vless&mode=gun#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://c2c3de71-5ec5-430c-b096-81969b16ff8d@104.24.219.225:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdnfree.abdollahvand2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdnfree.abdollahvand2.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://baeb2038-827e-f3fb-432b-18b49e5dd676@147.182.157.72:1161?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
-vless://6346ee2b-aefa-4a58-963a-bb851ed08f41@proxy.bingtao.xyz:443?encryption=none&host=proxy.bingtao.xyz&path=%2Fvless&security=tls&sni=proxy.bingtao.xyz&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
