@@ -1,9 +1,6 @@
 # Country FR
-# Updated: 2026-09-14 11:52:00 UTC
-# Count: 5
+# Updated: 2026-09-14 12:22:00 UTC
+# Count: 2
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.17.252:22222?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://a42eec3c-9491-0280-04b3-0c9730410bfb@130.49.77.4:8443?mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.221.118:22222?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.214.236:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr2.hat.onl&fp=firefox&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://16b37572-636e-4f46-8d45-203fccd4bff8@31.185.105.168:443?security=reality&encryption=none&pbk=HH_Dv5LCJ6IWzd70u52Zg1pWd54PSqxncooWfmtsTU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=26979079057b6598#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
