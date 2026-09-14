@@ -1,5 +1,6 @@
 # Country FR
-# Updated: 2026-09-14 09:22:00 UTC
-# Count: 1
+# Updated: 2026-09-14 09:52:00 UTC
+# Count: 2
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.221.118:22223?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://16b37572-636e-4f46-8d45-203fccd4bff8@31.185.105.168:443?security=reality&encryption=none&pbk=HH_Dv5LCJ6IWzd70u52Zg1pWd54PSqxncooWfmtsTU4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=26979079057b6598#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
