@@ -1,8 +1,7 @@
 # Country CA
-# Updated: 2026-09-14 04:22:00 UTC
-# Count: 4
+# Updated: 2026-09-14 04:52:00 UTC
+# Count: 3
 
+vless://2f3f58c9-7a49-4783-9722-7fcae7e3a203@37.221.110.249:2085?encryption=none&type=grpc&serviceName=vless&mode=gun#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@skk.moe:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=purple-disk-f68d.14-360.workers.dev&packetEncoding=xudp&encryption=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev:443?path=%2FeyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&encryption=none&png=Off&insecure=0&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=CgxGqchEiAMnA-jkS01FiDlsnqOjwF-S.ALIAmA.WOrKErS.DeV#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&fp=unsafe&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
