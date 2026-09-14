@@ -1,8 +1,6 @@
 # Country RS
-# Updated: 2026-09-14 06:22:00 UTC
-# Count: 4
+# Updated: 2026-09-14 07:22:00 UTC
+# Count: 2
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?encryption=none&type=grpc&security=reality&sni=rs4.univesalsrv.com&fp=chrome&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&serviceName=media.v1.StreamService&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=rs4.univesalsrv.com&fp=chrome&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&serviceName=media.v1.StreamService&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://ea9cad18-1543-4e7b-8b48-182a86c4d58b@neeetherland-sgood.wopd.butnorwa.butter.whooisthebest.ir:9000?encryption=none&type=tcp&security=reality&sni=sheets.google.com&fp=chrome&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&sid=cd0a1986719e44c8&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Benthost%20LLC
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
+vless://ea9cad18-1543-4e7b-8b48-182a86c4d58b@neeetherland-sgood.wopd.butnorwa.butter.whooisthebest.ir:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Benthost%20LLC
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
