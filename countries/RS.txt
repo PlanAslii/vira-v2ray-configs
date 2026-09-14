@@ -1,5 +1,5 @@
 # Country RS
-# Updated: 2026-09-14 19:52:00 UTC
+# Updated: 2026-09-14 20:52:00 UTC
 # Count: 1
 
-vless://4360f941-b541-43d4-8507-2de3763e0cfd@150.40.126.28:443?type=tcp&flow=xtls-rprx-vision&headerType=none&fp=qq&encryption=none&sid=00a61d55a07de885&security=reality&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sni=rs.convert-flow.net#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?encryption=none&type=grpc&security=reality&sni=rs1.univesalsrv.com&fp=firefox&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&serviceName=node.v2.ObjectService&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
