@@ -1,9 +1,7 @@
 # Country GB
-# Updated: 2026-09-14 17:52:00 UTC
-# Count: 5
+# Updated: 2026-09-14 18:22:00 UTC
+# Count: 3
 
+vless://1b4b3567-559f-4d78-a5c4-c00d1f61d62f@any.zavqeron.ir:2053?encryption=none&type=ws&security=tls&sni=zavqeron.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Fde1-cdn&host=any.zavqeron.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
+vless://1b4b3567-559f-4d78-a5c4-c00d1f61d62f@land.zavqeron.ir:2053?encryption=none&type=ws&security=tls&sni=zavqeron.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Fuk-cdn&host=land.zavqeron.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://4b12552d-8d3a-4c10-b985-2963fa53a0a1@91.245.226.179:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pay.zanet.baby&fp=firefox&pbk=HM4lmaGrw2ARxZ_8ZLwvET7RzBAtFrtYlcap4QK-QFE&sid=7ed51bf6&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?encryption=none&type=grpc&serviceName=vless&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&type=grpc&serviceName=vless&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://6806dc9a-8f5c-4981-b64d-3527b9522b62@46.33.8.20:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=filesconvert.org&fp=chrome&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=a61d99e920140145&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
