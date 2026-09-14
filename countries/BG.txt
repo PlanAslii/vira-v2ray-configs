@@ -1,7 +1,6 @@
 # Country BG
-# Updated: 2026-09-14 17:52:00 UTC
-# Count: 3
+# Updated: 2026-09-14 18:22:00 UTC
+# Count: 2
 
 vless://50414e45-4c5f-5a45-5553-32fdb7d237c3@45.142.120.29:443?path=%2Fstream%2FPANEL_ZEUS%2F32fdb7d237c3%2Floc-0&security=tls&encryption=none&host=adzm4decu3ys.p8zxwce1u55s.workers.dev&type=ws&sni=adzm4decu3ys.p8zxwce1u55s.workers.dev#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=bg2.univesalsrv.com&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&serviceName=api.v2.PushService&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
