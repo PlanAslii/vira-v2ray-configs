@@ -1,10 +1,6 @@
 # Country TR
-# Updated: 2026-09-14 10:52:00 UTC
-# Count: 6
+# Updated: 2026-09-14 11:22:00 UTC
+# Count: 2
 
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://c86fbf4e-ba2f-40cf-984b-347c4a108783@tuOf-cDn-APPLE-9t6ni35l8n2CKw6d.moranosd.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=xn--cdn-google-922p938m204clvxe.com.gvt1.com&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
 vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?security=reality&encryption=none&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=books.blackbigdog.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://4fa0a993-6003-45c1-991e-4c40eae45d38@87.120.106.181:8443?security=reality&encryption=none&pbk=UNxylQLY4RHp8gIhGvV5o5K_Xj053tFm6hkA6eOpZTM&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=641ca295f26e1a25#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://4fa0a993-6003-45c1-991e-4c40eae45d38@153.52.92.95:8443?security=reality&encryption=none&pbk=SfzKLQcFvQUq9t7zldsfai_gel-u2093qJXvn8sWlXY&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=e940f4af3553f928#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://56831930-677b-4fdc-aa9a-46c9a77f9f7d@204.10.192.92:42452?security=reality&encryption=mlkem768x25519plus.native.0rtt.iJDWj9Lns5tx_5aUEJSSWlokbmvK6wWw0s9nNcVbvh0&pbk=mtn90iIV7DvC2QL_mpTWQigkoKDr5FIGhXt36AHuaGU&headerType=none&fp=chrome&type=tcp&sni=store-images.s-microsoft.com&sid=342ccbbf31566468#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc%20Cloud%20%26%20Hosting%20Services
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
