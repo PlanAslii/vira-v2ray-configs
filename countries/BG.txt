@@ -1,5 +1,6 @@
 # Country BG
-# Updated: 2026-09-14 21:22:00 UTC
-# Count: 1
+# Updated: 2026-09-14 22:22:00 UTC
+# Count: 2
 
+vless://52984d2b-dd82-4f06-9cab-4c5e1a09cb87@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20DA%20International%20Group%20Ltd.
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=bg3.univesalsrv.com&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&serviceName=home.v1.ApiService&mode=gun#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
