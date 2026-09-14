@@ -1,5 +1,6 @@
 # Country UA
-# Updated: 2026-09-14 04:22:00 UTC
-# Count: 1
+# Updated: 2026-09-14 04:52:00 UTC
+# Count: 2
 
+vless://2f3f58c9-7a49-4783-9722-7fcae7e3a203@104.143.223.218:2085?encryption=none&type=grpc&serviceName=vless&mode=gun#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&allowinsecure=0&type=grpc&mode=gun&serviceName=TunService#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Transit%20Systems%20LLC
