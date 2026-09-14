@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-09-14 13:22:00 UTC
-# Count: 2
+# Updated: 2026-09-14 13:52:00 UTC
+# Count: 1
 
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20OC%20NETWORKS%20LIMITED
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@2.27.42.33:443?security=reality&encryption=none&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi.willo.help&sid=abcd1234#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
