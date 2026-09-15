@@ -1,5 +1,6 @@
 # Country FR
-# Updated: 2026-09-15 02:22:00 UTC
-# Count: 1
+# Updated: 2026-09-15 02:52:00 UTC
+# Count: 2
 
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@carina.yokkastars.com:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
