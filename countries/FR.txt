@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-09-15 20:52:00 UTC
-# Count: 4
+# Updated: 2026-09-15 21:22:00 UTC
+# Count: 2
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.35.121:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://4141d4ab-dba8-4da5-a4e6-dc89c34ded3e@31.77.61.62:50051?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&sni=jobinvest.ru&sid=cd1dd1e4a801f54b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Evgenii%20Konstantinov
-vless://a66588d6-8d52-49ad-a137-6547607ed7e3@aqua.athforce.ir:1585?type=tcp&headerType=http&host=play.google.com&path=/&security=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://ae0dc695-4e12-400b-9db3-550b4e1d7c3b@wsfrmarz.horlutr.ir:1280?path=%2F&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://a66588d6-8d52-49ad-a137-6547607ed7e3@aqua.athforce.ir:1585?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@130.49.77.5:8443?encryption=none&type=grpc&security=reality&sni=www.philips.com&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&serviceName=TunService&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
