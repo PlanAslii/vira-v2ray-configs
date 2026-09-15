@@ -1,6 +1,7 @@
 # Country FI
-# Updated: 2026-09-15 14:22:00 UTC
-# Count: 2
+# Updated: 2026-09-15 14:52:00 UTC
+# Count: 3
 
+vless://Channel%3Atelegram%3ATurboConfigs@65.109.205.148:9099?encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://34b36719-7312-4608-ad2f-3776fd004fcc@193.35.17.133:8443?security=reality&encryption=none&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=086007#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://APWMxJ1Tllud6a@am.rvpn.online:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=onlycats.photos&fp=chrome&pbk=BaQEowZQVUchOqA_XqBG_ZPuw-CF4gPfciGSwUQ5LhE&sid=2fd1f962&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Ihor%20Hosting%20LTD
-vless://34b36719-7312-4608-ad2f-3776fd004fcc@193.35.17.133:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&sid=086007#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
