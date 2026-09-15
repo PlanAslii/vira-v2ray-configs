@@ -1,8 +1,11 @@
 # Country FI
-# Updated: 2026-09-15 17:22:00 UTC
-# Count: 4
+# Updated: 2026-09-15 17:52:00 UTC
+# Count: 7
 
-vless://9bbe5565-56fa-4935-940d-1442f443fcc8@fi.godnet20.ir:63589?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@2.27.42.33:443?security=reality&encryption=none&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.willo.help&sid=abcd1234#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://Channel%3Atelegram%3ATurboConfigs@65.109.205.148:9099?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://9bbe5565-56fa-4935-940d-1442f443fcc8@65.109.206.69:56092?security=none&encryption=none&host=Weather.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://APWMxJ1Tllud6a@am.rvpn.online:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=onlycats.photos&fp=chrome&pbk=BaQEowZQVUchOqA_XqBG_ZPuw-CF4gPfciGSwUQ5LhE&sid=2fd1f962&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Ihor%20Hosting%20LTD
+vless://fd69c965-aae8-46bc-9bce-794a86900f7c@fl.wANfiRa.IR:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://fd69c965-aae8-46bc-9bce-794a86900f7c@Multif.savlix.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dynu.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://fd69c965-aae8-46bc-9bce-794a86900f7c@fln.savlix.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=xn--cdn-apple-9t6ni35l8n2ckw6d.com.gvt1.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://fd69c965-aae8-46bc-9bce-794a86900f7c@fail4.moranosd.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
