@@ -1,6 +1,5 @@
 # Country GB
-# Updated: 2026-09-15 18:22:00 UTC
-# Count: 2
+# Updated: 2026-09-15 18:52:00 UTC
+# Count: 1
 
-vless://96d241e9-bc3b-4808-9d85-004742eab723@upload.she-happ.com:443?encryption=none&type=grpc&security=tls&sni=upload.she-happ.com&fp=firefox&alpn=h2&serviceName=push.v2.RelayService#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
-vless://By7uBvXuVtQAgS@uk.rvpn.online:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=fxEtcYbRvgVuK706sdpQ-zisF4OOMWb3QVKHahHPQmM&sid=153a80b3&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
+vless://By7uBvXuVtQAgS@uk.rvpn.online:443?security=reality&encryption=none&pbk=fxEtcYbRvgVuK706sdpQ-zisF4OOMWb3QVKHahHPQmM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=153a80b3#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
