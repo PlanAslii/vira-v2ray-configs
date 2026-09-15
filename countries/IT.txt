@@ -1,7 +1,5 @@
 # Country IT
-# Updated: 2026-09-15 22:52:00 UTC
-# Count: 3
+# Updated: 2026-09-15 23:52:00 UTC
+# Count: 1
 
 vless://992d34a2-f976-4b18-8f97-1bf86fed6a79@212.237.9.189:5555?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Aruba%20S.p.A.
-vless://f1aa0323-e523-4060-986e-255124f5708b@it1x.crocodil.ir:12040?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=aa74a7a98e86f2ed#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
-vless://f1aa0323-e523-4060-986e-255124f5708b@it2s.crocodil.ir:12040?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=8101b9ba16eb77c7#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
