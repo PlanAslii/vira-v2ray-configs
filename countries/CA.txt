@@ -1,7 +1,8 @@
 # Country CA
-# Updated: 2026-09-15 07:22:00 UTC
-# Count: 13
+# Updated: 2026-09-15 07:52:00 UTC
+# Count: 8
 
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBcdTI1MDcgVk1lc3MgXHUwMGI3IEdMT0JBTFRFTEVIT1NUIENvcnAuIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
 vless://f6b5a6a3-f3e1-63ca-bb68-bdc400000000@104.18.28.234:443?path=%2F&security=tls&encryption=none&insecure=0&host=netlivpn5505.ffffdsaaa.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netlivpn5505.ffffdsaaa.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e48e4049-58bb-4355-9a9a-433b9524d928@172.67.165.125:443?insecure=0&path=%2Fvl%2FFx1O4r0oHuQMNuKFQzcoV2yl31&security=tls&encryption=none&type=ws&allowInsecure=0&sni=z8Z7LoVOPd53iz6ivD2m.FixinG00PonviP.woRkers.DEV&host=z8Z7LoVOPd53iz6ivD2m.FixinG00PonviP.woRkers.DEV#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?allowInsecure=0&security=tls&type=ws&encryption=none&insecure=0#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -9,9 +10,3 @@ vless://3c6fdda8-b5ae-4666-abd6-4e76449ea769@188.114.97.6:443?path=%2Fid-dnva&se
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://f5267873-5379-409e-b67a-145ea54deb70@undef.network:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://c71d6d78-76f9-4e8f-ab88-45f4305cf21e@vf670.cc.cd:443?sni=somersby.pt.vf670.cc.cd&allowInsecure=0&host=somersby.pt.vf670.cc.cd&encryption=none&path=%2Fsg-akl&type=ws&security=tls&insecure=0#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://14b9ccc8-9a79-4c54-90a6-6b3c85a6f9ae@vf670.cc.cd:443?encryption=none&type=ws&host=somersby.pt.vf670.cc.cd&path=/sg-cntb&security=tls&sni=somersby.pt.vf670.cc.cd#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://20a25a96-61df-4a4f-8424-165fc9cfc84e@172.64.144.162:2096?encryption=none&type=ws&security=tls&sni=empty-band-d17d.raana2710.workers.dev&path=%2F&host=empty-band-d17d.raana2710.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443?encryption=none&type=ws&security=tls&sni=nuclear.us.kg&path=%2Ffree%2F103.101.153.32%3A443&host=nuclear.us.kg#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://682d30e4-3dfc-49f2-a017-9049119e3497@172.67.148.163:443?encryption=none&type=ws&security=tls&sni=free.server7peekconfig.workers.dev&fp=chrome&alpn=http%2F1.1&path=%2FeyJqdW5rIjoiRm5kaUkxZVFtRVJBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&host=free.server7peekconfig.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.185:443?encryption=none&type=ws&security=tls&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
