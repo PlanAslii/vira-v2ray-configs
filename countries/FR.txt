@@ -1,10 +1,7 @@
 # Country FR
-# Updated: 2026-09-15 08:22:00 UTC
-# Count: 6
+# Updated: 2026-09-15 08:52:00 UTC
+# Count: 3
 
+vless://cac601e3-30b5-4751-a237-00532ef5d745@80.93.217.39:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=l2hpxpoof7c0.dopgangster.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22222?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=grpc&serviceName=TunService#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
-vless://cac601e3-30b5-4751-a237-00532ef5d745@80.93.217.39:443?encryption=none&security=tls&sni=l2hpxpoof7c0.dopgangster.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@carina.yokkastars.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&sid=e496c7fe1cefc9ff&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22223?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.25.107:22224?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&security=reality&sni=deepl.com&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
