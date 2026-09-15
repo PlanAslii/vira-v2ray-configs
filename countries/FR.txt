@@ -1,7 +1,7 @@
 # Country FR
-# Updated: 2026-09-15 08:52:00 UTC
+# Updated: 2026-09-15 09:22:00 UTC
 # Count: 3
 
+vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
 vless://cac601e3-30b5-4751-a237-00532ef5d745@80.93.217.39:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=l2hpxpoof7c0.dopgangster.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.182.161:22222?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@130.49.77.4:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=grpc&serviceName=TunService#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
