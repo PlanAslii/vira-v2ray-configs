@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-09-15 22:52:00 UTC
-# Count: 4
+# Updated: 2026-09-15 23:22:00 UTC
+# Count: 3
 
-vless://9bbe5565-56fa-4935-940d-1442f443fcc8@fi.godnet20.ir:56092?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://992d34a2-f976-4b18-8f97-1bf86fed6a79@2.hfrryuu.ir:36636?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://9a06775c-7fcd-48a1-8bb1-c99ab5719576@fnht2.sorcepack.ir:29774?encryption=mlkem768x25519plus.native.0rtt.zv7nj9KQIs5kh06GTsRh3Do0zBi9SyJukxjxZOr210U&security=none&type=tcp&headerType=http&host=azki.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://9fd994ad-d36c-476d-96c7-25f10bbdf2cb@31.77.140.4:8443?security=reality&encryption=none&pbk=3oXLSdYW2x9TMuDRu2Bo4XGXfVtU8cQqBaL2pcWCNEk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.io.ozone.ru&sid=a20d3ed244c76426#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://bbc6ee2f-a5ed-4db2-9791-8c19c5cbcdfa@cng.sannest.ir:30558?security=reality&encryption=mlkem768x25519plus.native.0rtt.LiAC5NZeBub5qyAnJR--Asb2urMAuRkrGwLexToWPhU&pbk=GaiQyQDjRBb4FPg89ifTpLhA5eV4J5X0Othj_uZOxRc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=00587e87ebfbad1d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://9bbe5565-56fa-4935-940d-1442f443fcc8@fi.godnet20.ir:56092?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
