@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-09-15 11:52:00 UTC
-# Count: 3
+# Updated: 2026-09-15 12:52:00 UTC
+# Count: 1
 
-vless://960e6852-9d2b-48bb-b1cf-5cb27ec27473@turkyea.vanguardia.ir:33138?headerType=none&alpn=h2%2Chttp%2F1.1&encryption=none&allowInsecure=0&insecure=0&security=tls&sni=turkyea.vanguardia.ir&type=tcp&fp=chrome#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FibaCloud
-vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?type=tcp&security=reality&encryption=none&sni=books.blackbigdog.com&fp=firefox&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&flow=xtls-rprx-vision&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://c5bfd30b-a287-42c8-b39f-06d3a717094d@144.225.65.231:1390?security=none&encryption=mlkem768x25519plus.native.0rtt.L8wuMugPNsKtdnyav9YFbUHrbzri8O6E2djNQc-Ik2E&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
+vmess://eyJhZGQiOiIxNDQuMjI1LjY1LjE3MyIsImFpZCI6IjAiLCJpZCI6ImRlMmFmYWIyLTM0NGItNDEzZi05M2E5LTVlNjJjOGUyMTlkNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImdycGMiLCJwY3MiOiIiLCJwb3J0IjoiMjkxOTkiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IEFjZSBEYXRhIENlbnRlcnMgSUkiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIiwidmNuIjoiIn0
