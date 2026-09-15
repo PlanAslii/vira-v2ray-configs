@@ -1,5 +1,6 @@
 # Country AE
-# Updated: 2026-09-15 10:22:00 UTC
-# Count: 1
+# Updated: 2026-09-15 11:22:00 UTC
+# Count: 2
 
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@45.88.13.4:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
+vless://28753844-40fe-4515-89fb-83990a0fa6bd@ae-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=delivery.mp.microsoft.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://0ab925b6-35f7-6e27-e713-925bea65455e@45.88.13.4:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&mode=gun#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
