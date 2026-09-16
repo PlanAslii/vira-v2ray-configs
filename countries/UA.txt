@@ -1,7 +1,5 @@
 # Country UA
-# Updated: 2026-09-16 15:52:00 UTC
-# Count: 3
+# Updated: 2026-09-16 20:52:00 UTC
+# Count: 1
 
-vless://56723d46-eb02-9384-2ad8-08f625bca9bf@104.245.240.4:8443?encryption=none&type=grpc&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&serviceName=TunService&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Transit%20Systems%20LLC
-vless://56723d46-eb02-9384-2ad8-08f625bca9bf@104.245.240.2:8443?encryption=none&type=grpc&security=reality&sni=www.canon.com&fp=chrome&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&serviceName=TunService&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Transit%20Systems%20LLC
-vless://56723d46-eb02-9384-2ad8-08f625bca9bf@104.245.240.3:8443?encryption=none&type=grpc&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&serviceName=TunService&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Transit%20Systems%20LLC
+vless://1e8565d3-d5fe-4ade-aaf3-30c186b4538c@104.143.223.67:2085?encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
