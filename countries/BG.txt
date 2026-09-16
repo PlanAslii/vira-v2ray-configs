@@ -1,5 +1,6 @@
 # Country BG
-# Updated: 2026-09-16 10:22:00 UTC
-# Count: 1
+# Updated: 2026-09-16 10:52:00 UTC
+# Count: 2
 
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
 vless://f2381f29-c724-4491-95a3-a17bd6eea47f@2.27.105.49:443?security=reality&encryption=none&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg.willo.help&sid=abcd1234#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Netgrid%20Host%20LTD
