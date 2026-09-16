@@ -1,5 +1,6 @@
 # Country IT
-# Updated: 2026-09-16 12:52:00 UTC
-# Count: 1
+# Updated: 2026-09-16 13:52:00 UTC
+# Count: 2
 
-vless://89418511-64f9-4e74-ac6b-ffc1b828106f@ittt.chainmark.ir:1003?security=reality&encryption=none&pbk=32R_r7HDUYslCRzhfFhBuipplnVAygudK2a9M_URfmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app.stiga.com&sid=a8cf1a1235375630#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Kamatera%2C%20Inc.
+vless://89418511-64f9-4e74-ac6b-ffc1b828106f@ittt.chainmark.ir:1003?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=app.stiga.com&fp=chrome&pbk=32R_r7HDUYslCRzhfFhBuipplnVAygudK2a9M_URfmU&sid=a8cf1a1235375630#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Kamatera%2C%20Inc.
+vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@2.56.121.43:443?encryption=none&flow=xtls-rprx-vision&pbk=vnUSQFujh6K08KR6FHYWoBkZCAEZNWSKji0PPw9eMWM&security=reality&sid=86229a5e3b1e6ef4&sni=www.ikea.com&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20WorkTitans%20B.V
