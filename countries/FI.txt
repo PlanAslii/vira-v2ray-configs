@@ -1,10 +1,7 @@
 # Country FI
-# Updated: 2026-09-16 17:52:00 UTC
-# Count: 6
+# Updated: 2026-09-16 18:22:00 UTC
+# Count: 3
 
+vless://b2593749-691c-428c-9481-14979cba3446@fi1.zuoai.cf:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip%3Dus.xiabibi.cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://f4624900-8e6a-470e-bd4f-0a967c489d43@fin2.mguard-pro.com:443?security=reality&encryption=none&pbk=MtmGCsKtdqbV4YkfUT5B8hiTLkGCq2rc8B7u_XXl80g&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=d7c4f94e3d27ce57#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
 vless://f4624900-8e6a-470e-bd4f-0a967c489d43@fin.mguard-pro.com:443?security=reality&encryption=none&pbk=Z1UivFVOtTlb87QzDlTffo2uK2SC5sZp4e4SQV85Jk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=ca10c23232ebbaf4#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
-vless://184cec13-e22c-434b-973d-24cd9ea8942b@fl.wANfiRa.IR:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://184cec13-e22c-434b-973d-24cd9ea8942b@fail2.irgonde.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dynu.com&fp=ios&pbk=V6On6_zIe4JN7EkmDKe1EQFXDcEYmq3DPTRQ-qQDHSo&sid=d89c82ccb993887e&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://184cec13-e22c-434b-973d-24cd9ea8942b@fln.savlix.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=xn--cdn-apple-9t6ni35l8n2ckw6d.com.gvt1.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://184cec13-e22c-434b-973d-24cd9ea8942b@ff4.savlix.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=Gyp24YnZcGXmgfNwngZRoZ6YOOeW9emreS4r_ST2viY&sid=0507386f1b1277e0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
