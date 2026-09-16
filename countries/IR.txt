@@ -1,5 +1,5 @@
 # Country IR
-# Updated: 2026-09-16 20:22:00 UTC
+# Updated: 2026-09-16 20:52:00 UTC
 # Count: 1
 
-vless://15a43fd2-8db7-4836-87e9-de96259adf95@94.182.107.175:443?encryption=mlkem768x25519plus.xorpub.0rtt.27afpCsCxUdAB91cOSDwQ3APWyC7x1hc1Z0F2uPqLSc&flow=xtls-rprx-vision&fp=chrome&pbk=BpLEeQUnkXzU-p3gX_iRoxNfpIIergA7nkcJ_ojlS1c&security=reality&sid=37b15a45552087&sni=digikala.com&spx=%2F7cd8544caf64d92&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SHATEL%20Network%20%E2%94%87%20%F0%9F%94%B4
+vless://6e288a6d-88ba-464e-8750-d616e31dc874@hamta.northforex.ir:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Sefroyek%20Pardaz%20Engineering%20PJSC%20%E2%94%87%20%F0%9F%94%B4
