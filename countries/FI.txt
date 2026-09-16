@@ -1,6 +1,8 @@
 # Country FI
-# Updated: 2026-09-16 15:22:00 UTC
-# Count: 2
+# Updated: 2026-09-16 17:22:00 UTC
+# Count: 4
 
-vless://2713d763-325f-4dcb-8656-cca54cbea4d9@2.29.42.188:443?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://0e7b66f1-567a-4527-b330-5a7b006d198c@144.31.28.21:443?security=reality&encryption=none&pbk=T0hPoN_eVwntNZZ3Djyfi8AQK8U0dGRmygP5jNJ6bk8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=finland.biznes.lol#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
+vless://184cec13-e22c-434b-973d-24cd9ea8942b@fl.wANfiRa.IR:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://184cec13-e22c-434b-973d-24cd9ea8942b@fail2.irgonde.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dynu.com&fp=ios&pbk=V6On6_zIe4JN7EkmDKe1EQFXDcEYmq3DPTRQ-qQDHSo&sid=d89c82ccb993887e&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://184cec13-e22c-434b-973d-24cd9ea8942b@fln.savlix.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=xn--cdn-apple-9t6ni35l8n2ckw6d.com.gvt1.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://184cec13-e22c-434b-973d-24cd9ea8942b@ff4.savlix.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=Gyp24YnZcGXmgfNwngZRoZ6YOOeW9emreS4r_ST2viY&sid=0507386f1b1277e0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
