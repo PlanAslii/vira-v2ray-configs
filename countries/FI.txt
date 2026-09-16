@@ -1,6 +1,6 @@
 # Country FI
-# Updated: 2026-09-16 10:52:00 UTC
+# Updated: 2026-09-16 11:22:00 UTC
 # Count: 2
 
+vless://0e7b66f1-567a-4527-b330-5a7b006d198c@finland.biznes.lol:443?security=reality&encryption=none&pbk=T0hPoN_eVwntNZZ3Djyfi8AQK8U0dGRmygP5jNJ6bk8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=finland.biznes.lol#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
 vless://b60cab55-e7a1-413d-a297-ddd7bad3fb62@107.181.151.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=bbcab8fa80a3&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://b2593749-691c-428c-9481-14979cba3446@fi1.zuoai.cf:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip%3Dus.xiabibi.cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
