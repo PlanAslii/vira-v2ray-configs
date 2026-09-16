@@ -1,5 +1,7 @@
 # Country GB
-# Updated: 2026-09-16 17:52:00 UTC
-# Count: 1
+# Updated: 2026-09-16 18:22:00 UTC
+# Count: 3
 
-vless://889671d3-3b23-4d81-842e-c98a1e23c8fd@dv4.kontabox.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CLOUDFLARE
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
+vless://e7b5bf92-1d74-48d4-862f-668ba9fe01d1@dl.bamarambash.ir:2602?security=reality&encryption=none&pbk=RdhlZ8FX6D8znsqujb8fJ29mGJocrN2m8DEbdULkV0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.notion.so&sid=3a622700e73c6642#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
