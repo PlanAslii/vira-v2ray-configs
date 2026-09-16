@@ -1,5 +1,5 @@
 # Country SC
-# Updated: 2026-09-16 20:22:00 UTC
+# Updated: 2026-09-16 20:52:00 UTC
 # Count: 1
 
-vless://77def4e6-6f8a-47b5-9b4f-e51c61bced9e@IP1.xQNetWork.iR:443?encryption=none&type=ws&security=tls&sni=www.Comonet.ir&fp=chrome&alpn=http%2F1.1&path=%2Fcompute%2Ftensor-sync-de%2Fllama-3-70b-weights#DailyCfg%20%F0%9F%87%B8%F0%9F%87%A8%20%E2%94%87%20VLESS%20%C2%B7%20RAPIDSEEDBOX
+vless://77def4e6-6f8a-47b5-9b4f-e51c61bced9e@ip1.xqnetwork.ir:443?path=%2Fcompute%2Ftensor-sync-de%2Fllama-3-70b-weights&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.Comonet.ir#DailyCfg%20%F0%9F%87%B8%F0%9F%87%A8%20%E2%94%87%20VLESS%20%C2%B7%20RAPIDSEEDBOX
