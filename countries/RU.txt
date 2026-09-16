@@ -1,7 +1,9 @@
 # Country RU
-# Updated: 2026-09-16 16:22:00 UTC
-# Count: 8
+# Updated: 2026-09-16 16:52:00 UTC
+# Count: 9
 
+vless://5cd162b5-69a0-44d6-a137-57d1d9488ccd@russia.storageservice.info:8008?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.intel.com&fp=firefox&pbk=LSro6ZRkw41yEZzs_udFG44r0JkZWYnpS311CGKmdV4&sid=071f25d7e9e20168&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&serviceName=grpc-tunnel&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
 vless://57ae2ef6-2aef-0007-b0c1-b8c9d4dfc233@93.115.203.93:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn-hip-msk-macaron.attention-game.ru&fp=chrome&pbk=SYJXYtJTiFXD3NzHEk6qyqR7laes9QxnhvDm_VbykDE&sid=f4fcfded61e398f5&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&serviceName=grpc-tunnel&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
@@ -9,4 +11,3 @@ vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@api.betust.net:443?security=reality
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Miglovets%20Egor%20Andreevich
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://319af567-863b-57dc-88fd-9ed525322d91@0fzn523o1n.tg.rutube.info:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=08#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20BEGET.RU
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&serviceName=grpc-tunnel&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
