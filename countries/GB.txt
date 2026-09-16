@@ -1,10 +1,9 @@
 # Country GB
-# Updated: 2026-09-16 20:52:00 UTC
-# Count: 6
+# Updated: 2026-09-16 21:22:00 UTC
+# Count: 5
 
+vless://c04bfdea-a7e5-4a23-87d9-425151c140cc@dv4.kontabox.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
 vless://a9e2a8a2-0210-4e8b-b7c7-490fa16b74c4@db454cb5a7a962.darzelo.ir:443?encryption=none&security=reality&type=tcp&headerType=none&host=edit.bulkorder.ftc.gov&sni=region1.app-analytics-services-att.com&fp=qq&alpn=h2&pbk=9PvgtF8C3VYNIw7a_33VIxZ80A0Cdy-NoO-L5gzDaUM&sid=8295c2e0d189fd34#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Only%20Servers
 vless://a9e2a8a2-0210-4e8b-b7c7-490fa16b74c4@b7277b34d2fe42.tenvixa.ir:30009?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=dQIpV-usJaRynSr99wN4f0hZcVIuHXIsFjnfqPvb1XE&sid=b046d0cb20a17fb7#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
 vless://77def4e6-6f8a-47b5-9b4f-e51c61bced9e@45.136.175.60:5223?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=b32ehIZ13spBF7bsVjn2VEPgVVjSYTIZ3BH9QYSNSxI&sid=2f044875971f417b&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20UK%20Dedicated%20Servers%20Limited
 vless://77def4e6-6f8a-47b5-9b4f-e51c61bced9e@vanguarddl.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=vanguarddl.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20UK%20Dedicated%20Servers%20Limited
-vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@178.128.161.135:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
-vless://c04bfdea-a7e5-4a23-87d9-425151c140cc@dv4.kontabox.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
