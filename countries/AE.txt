@@ -1,6 +1,5 @@
 # Country AE
-# Updated: 2026-09-16 20:22:00 UTC
-# Count: 2
+# Updated: 2026-09-16 20:52:00 UTC
+# Count: 1
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&host=uae.unixzone.us&path=/&security=none&type=ws#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Cloudmir
+vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Cloudmir
