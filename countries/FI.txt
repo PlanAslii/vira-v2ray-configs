@@ -1,5 +1,7 @@
 # Country FI
-# Updated: 2026-09-16 07:52:00 UTC
-# Count: 1
+# Updated: 2026-09-16 08:22:00 UTC
+# Count: 3
 
-vless://Channel%3Atelegram%3ATurboConfigs@65.109.205.148:8084?headerType=http&host=play-apps-features.googleusercontent.com&encryption=none&type=tcp&security=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://9fd994ad-d36c-476d-96c7-25f10bbdf2cb@31.77.140.4:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.io.ozone.ru&fp=firefox&pbk=3oXLSdYW2x9TMuDRu2Bo4XGXfVtU8cQqBaL2pcWCNEk&sid=a20d3ed244c76426&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://b2593749-691c-428c-9481-14979cba3446@fi1.zuoai.cf:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip%3Dus.xiabibi.cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://Channel%3Atelegram%3ATurboConfigs@65.109.205.148:8084?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
