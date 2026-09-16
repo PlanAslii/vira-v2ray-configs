@@ -1,8 +1,5 @@
 # Country GB
-# Updated: 2026-09-16 17:22:00 UTC
-# Count: 4
+# Updated: 2026-09-16 17:52:00 UTC
+# Count: 1
 
 vless://889671d3-3b23-4d81-842e-c98a1e23c8fd@dv4.kontabox.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.115.28:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://33abfd21-27ae-4f19-a2f7-cc381781d06e@web-app-hpi4v.app-19dj6e.workers.dev:443?encryption=none&security=tls&sni=web-app-hpi4v.app-19dj6e.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=web-app-hpi4v.app-19dj6e.workers.dev&path=%2Fapi%2Fws#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.42.199:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
