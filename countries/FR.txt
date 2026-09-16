@@ -1,7 +1,6 @@
 # Country FR
-# Updated: 2026-09-16 16:52:00 UTC
-# Count: 3
+# Updated: 2026-09-16 17:22:00 UTC
+# Count: 2
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://889671d3-3b23-4d81-842e-c98a1e23c8fd@Digikala.soft98.horlutr.ir:1280?path=%2F&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://213308a5-dd4c-45cc-9d4e-a7c726a0b34f@france.lasventuras.xyz:20527?encryption=mlkem768x25519plus.random.0rtt.BisNidGUnMHmCAZWRE8RJmiJva7L7JZPvkgY8YfUExI&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://184cec13-e22c-434b-973d-24cd9ea8942b@Fac.novexnet.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
