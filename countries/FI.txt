@@ -1,6 +1,9 @@
 # Country FI
-# Updated: 2026-09-17 10:22:00 UTC
-# Count: 2
+# Updated: 2026-09-17 10:52:00 UTC
+# Count: 5
 
-hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
-hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?security=tls&obfs=salamander&obfs-password=detgimgm8qh8i2g2&insecure=0&sni=assets.gateway-stream.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?obfs-password=x5y77oxwfcl868u3&sni=assets.gateway-stream.com&alpn=h3&insecure=0&security=tls&obfs=salamander#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52029?sni=assets.gateway-stream.com&obfs-password=v8h63irhnay97090&insecure=0&security=tls&obfs=salamander&alpn=h3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52067?security=tls&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com&obfs=salamander&alpn=h3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
