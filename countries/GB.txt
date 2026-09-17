@@ -1,10 +1,6 @@
 # Country GB
-# Updated: 2026-09-17 21:22:00 UTC
-# Count: 6
+# Updated: 2026-09-17 21:52:00 UTC
+# Count: 2
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
 vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&encryption=none&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fd8cf7e1173f0edb#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vless://30be805e-7266-4207-8f0c-8075ef4874fe@u.farshadqw1.ir:8880?encryption=none&type=ws&path=%2Fpgcfws-r4&host=u.farshadqw1.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20UPCLOUD-LON
-vless://12461138-739d-422c-8fb9-938cf53a173a@db454cb5a7a962.darzelo.ir:443?encryption=none&security=reality&type=tcp&headerType=none&host=edit.bulkorder.ftc.gov&sni=region1.app-analytics-services-att.com&fp=qq&alpn=h2&pbk=9PvgtF8C3VYNIw7a_33VIxZ80A0Cdy-NoO-L5gzDaUM&sid=8295c2e0d189fd34#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Only%20Servers
-vless://12461138-739d-422c-8fb9-938cf53a173a@r7c2f9a41d3e8b6.salzivo.ir:31020?encryption=none&security=reality&type=tcp&headerType=none&host=edit.bulkorder.ftc.gov&sni=region1.app-analytics-services-att.com&fp=qq&alpn=h2&pbk=9PvgtF8C3VYNIw7a_33VIxZ80A0Cdy-NoO-L5gzDaUM&sid=8295c2e0d189fd34#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Only%20Servers
-vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?security=reality&encryption=none&pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=1aa9f3c9021280c0#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20IOMART
