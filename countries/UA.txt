@@ -1,6 +1,5 @@
 # Country UA
-# Updated: 2026-09-17 17:22:00 UTC
-# Count: 2
+# Updated: 2026-09-17 18:22:00 UTC
+# Count: 1
 
-vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.2:8443?mode=gun&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Transit%20Systems%20LLC
-vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.3:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Transit%20Systems%20LLC
+vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.2:8443?encryption=none&type=grpc&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&serviceName=TunService&mode=gun#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Transit%20Systems%20LLC
