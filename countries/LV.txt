@@ -1,6 +1,5 @@
 # Country LV
-# Updated: 2026-09-17 13:22:00 UTC
-# Count: 2
+# Updated: 2026-09-17 15:22:00 UTC
+# Count: 1
 
-vless://tmp_user@atomic-prase23893.my-vm.work:8088?type=ws&headerType=none&security=none&encryption=none&path=%2Fapi&host=queuev4.vk.com#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SEBEK%20sp.%20z%20o.o
-vless://de78ba38-5600-47d1-b93b-b45bdf280ac0@195.123.212.60:15392?security=reality&encryption=none&pbk=TgaE-83sqLrJ6auwPP2Nq7vDO_xuFqa6uMnG4Au18jg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=intel.com&sid=82#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Green%20Floid%20LLC
+vless://98a8663a-ef3e-468d-b27c-48e47254b0b7@31.57.61.143:51847?security=none&encryption=mlkem768x25519plus.native.0rtt.7O5YWS72sIPnoNwexwjaLlRkqb3ZfBFt2l6MvflLpy4&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
