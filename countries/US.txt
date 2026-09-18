@@ -1,7 +1,10 @@
 # Country US
-# Updated: 2026-09-18 12:22:00 UTC
-# Count: 10
+# Updated: 2026-09-18 12:52:00 UTC
+# Count: 11
 
+vless://1e358d6d-5232-4f83-9979-fc880a90e54c@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=%2Ffdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20ITGLOBAL
+vless://1f7524d0-d191-46a9-a6df-4844e37de66c@199.232.78.159:443?path=%2F&sni=ssl.fastly.com&encryption=none&allowInsecure=0&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&security=tls&insecure=0#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://XpnTeam-3@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://XpnTeam-4@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJlY2hDb25maWdMaXN0IjoiIiwiZWNoRm9yY2VRdWVyeSI6IiIsImVjaFNlcnZlcktleXMiOiIiLCJmYWtlaG9zdF9kb21haW4iOiIiLCJpZCI6IjRkNjk5N2NmLTc4NTYtNGFhYi04NWU1LWYyMjE2OWU1NmU2NSIsImludGVydmFsIjoiIiwibGVuZ3RoIjoiIiwibXV4IjoiIiwibXV4Q29uY3VycmVuY3kiOiIiLCJuZXQiOiJ0Y3AiLCJwYWNrZXRzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBcdTI1MDcgVk1lc3MgXHUwMGI3IENsb3VkIFNvZnR3YXJlIC0gRlpDTyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ
@@ -10,5 +13,3 @@ vless://59d75dc8-0de0-452d-bf3b-10a4b1925abc@199.232.78.159:443?path=%2FTELEGRAM
 vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgQFJheWRpa2FseCB8IDJCOTdDRiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MTgwMDAsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBcdTI1MDcgVk1lc3MgXHUwMGI3IEdUSG9zdCJ9
 vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&host=c12.com&fp=firefox&type=ws&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.40.97:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Timeweb%2C%20LLP
-vless://d45452c2-bb24-4882-a5e9-fa87350f5186@31.57.185.137:27904?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Pfcloud%20UG%20%28haftungsbeschrankt%29
-vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
