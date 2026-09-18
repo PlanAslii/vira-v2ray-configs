@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-09-18 13:22:00 UTC
-# Count: 1
+# Updated: 2026-09-18 13:52:00 UTC
+# Count: 2
 
-vless://18444d92-1d84-4fd2-916c-0d7e9598ab6e@poi.mobileemdad.top:42542?encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://8f9c5260-9456-472b-8ee2-444500ba6cab@31.76.245.13:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=poland.snappycore.com&fp=chrome&pbk=SCuasCPva4lPGu-QRP955zZB8f6i7ydHBQh6bsSlrgo&sid=3d87c490ddd41305&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
+vless://c8d51e6c-7c24-4474-b587-1e75cd2fc00e@87.58.147.66:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=Miro.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
