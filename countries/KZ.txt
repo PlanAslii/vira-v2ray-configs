@@ -1,5 +1,7 @@
 # Country KZ
-# Updated: 2026-09-18 16:22:00 UTC
-# Count: 1
+# Updated: 2026-09-18 19:22:00 UTC
+# Count: 3
 
-vless://ee7dd2fe-0a16-468a-bd45-55c221b2a8e2@213.155.20.83:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lavkin.kz&fp=chrome&pbk=RR_T91yZY_QUPN53wQNakGmCN3mq0i_Ozom7etyh4RI&allowInsecure=1#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20PS%20Internet%20Company%20LLP
+vless://f6b58665-c524-4c60-a939-d8f27123e079@kz-1.bnc-gt.co.uk:443?path=%2Fws%2F&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=a.kz-1.bnc-gt.co.uk#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20PE%20Fedinyak%20Sergey%20Vyacheslavovich
+vless://b2593749-691c-428c-9481-14979cba3446@31.43.179.137:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip%3Dus.xiabibi.cf#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://b2593749-691c-428c-9481-14979cba3446@kz3.zuoai.cf:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
