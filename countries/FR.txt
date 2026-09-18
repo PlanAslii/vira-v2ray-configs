@@ -1,7 +1,12 @@
 # Country FR
-# Updated: 2026-09-18 18:52:00 UTC
-# Count: 3
+# Updated: 2026-09-18 19:22:00 UTC
+# Count: 8
 
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://ddc234a7-e2b4-4558-8465-2b35cf513223@fr-cdg-1.blook.network:443?security=reality&encryption=none&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr-cdg-1.blook.network&sid=5babfbd717bb#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://f6b58665-c524-4c60-a939-d8f27123e079@fr-2.bnc-gt.co.uk:443?security=reality&encryption=none&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=b.fr-2.bnc-gt.co.uk&sid=7be1e9c243451b14#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
+vless://588456a5-f724-46a7-a08b-5d336d9f8f56@194.76.155.80:40443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&sid=e496c7fe1cefc9ff&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
 vless://5ea9ae84-3274-404e-a070-d8718e36ae11@141.11.5.238:443?security=reality&encryption=none&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr.whotellme.com&sid=f74c6a18133e2e72#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ipxo%20141%2011
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.230.204:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=a8ae#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
