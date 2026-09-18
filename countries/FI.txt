@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-09-18 08:22:00 UTC
-# Count: 1
+# Updated: 2026-09-18 09:22:00 UTC
+# Count: 2
 
-vless://Teelegram%3ANap_v2ray@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://b2593749-691c-428c-9481-14979cba3446@212.104.128.206:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip%3Dus.xiabibi.cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://b2593749-691c-428c-9481-14979cba3446@212.104.128.0:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip%3Dus.xiabibi.cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
