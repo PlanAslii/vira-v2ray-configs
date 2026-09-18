@@ -1,11 +1,6 @@
 # Country FR
-# Updated: 2026-09-18 22:22:00 UTC
-# Count: 7
+# Updated: 2026-09-18 22:52:00 UTC
+# Count: 2
 
 vless://ba6b7300-be34-43ef-a883-eee182dfb2d6@31.57.109.221:443?encryption=none&type=tcp&security=reality&sni=Miro.com&fp=chrome&pbk=Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc&sid=c7514dbbd2af28b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&headerType=http&host=play.google.com&path=/&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://12199879-8fe6-46c1-a721-4d0642302b3f@fr-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.fr-1.bnc-gt.co.uk&fp=qq&path=%2Fws%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
-vless://12199879-8fe6-46c1-a721-4d0642302b3f@fr-2.bnc-gt.co.uk:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=b.fr-2.bnc-gt.co.uk&fp=qq&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
-vless://7186d793-2b14-4f55-ac58-b49e4cd598b6@fr-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.fr-1.bnc-gt.co.uk&fp=qq&alpn=h2&serviceName=grpc&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&fp=chrome&alpn=h2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
