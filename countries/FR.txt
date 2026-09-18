@@ -1,9 +1,7 @@
 # Country FR
-# Updated: 2026-09-18 05:22:00 UTC
-# Count: 5
+# Updated: 2026-09-18 05:52:00 UTC
+# Count: 3
 
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:8443?mode=gun&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&type=tcp&security=reality&sni=deepl.com&fp=qq&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://c08f2e82-b02d-48cf-a742-6b4e4a49f8cd@31.57.109.221:443?encryption=none&type=tcp&security=reality&sni=Miro.com&fp=chrome&pbk=Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc&sid=c7514dbbd2af28b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22224?security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:8443?mode=gun&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
