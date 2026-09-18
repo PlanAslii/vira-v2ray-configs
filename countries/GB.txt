@@ -1,11 +1,6 @@
 # Country GB
-# Updated: 2026-09-18 19:52:00 UTC
-# Count: 7
+# Updated: 2026-09-18 20:22:00 UTC
+# Count: 2
 
 vless://247cb3f9-d7de-4cbc-af89-992038d96ad6@172.239.123.100:443?security=reality&encryption=none&pbk=mth8t_q1bnRl3glb7EqTUTDhyr2dKCfFTob3hIsJmw8&headerType=none&fp=chrome&spx=%2FawIEBfgB5Lqp&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=147dffd60fb36817#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
-vless://7e4a4b85-4b5c-4247-af37-d53eb1bc5706@uk-lhr-2.blook.network:443?security=reality&encryption=none&pbk=p0MkIIxkklgPs4vJJP5Qp9RxdqgMnjmgoIt5t8g6uSU&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=uk-lhr-2.blook.network&sid=0d04d56e#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.76.39.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=gb.superbuba.top&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
-vless://2fa4235a-51a7-452b-a760-498951646043@land.zavqeron.ir:2053?encryption=none&type=ws&security=tls&sni=zavqeron.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Ffi-cdn&host=land.zavqeron.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://e580c6ba-f942-49d2-a224-bf07fbff9b96@50.7.193.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&security=reality&sid=535a3304&sni=os.betust.net&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://2fa4235a-51a7-452b-a760-498951646043@any.zavqeron.ir:2053?type=ws&host=any.zavqeron.ir&path=/de1-cdn&security=tls&sni=zavqeron.ir&alpn=h3,h2,http/1.1&fp=chrome#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
