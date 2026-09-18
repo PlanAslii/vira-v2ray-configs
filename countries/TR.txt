@@ -1,6 +1,6 @@
 # Country TR
-# Updated: 2026-09-18 15:22:00 UTC
+# Updated: 2026-09-18 15:52:00 UTC
 # Count: 2
 
-vless://7c393e48-7104-4d4c-98b4-c1640d80d509@213.156.152.124:443?security=reality&encryption=none&pbk=MQwKv7mfS-Rd1h3cDtteSq5r8buY-EskhxLb2OA-LCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=3149ce78f70b78fe#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://779317ef-3964-4189-8e0c-d3094a9ffe01@turkey.senbilarsin.ir:4896?security=reality&encryption=mlkem768x25519plus.native.0rtt.IDdSFAfZ-fcUmp18l1JubLy9Rl9TP78lyG4LMY0UyFA&pbk=OB-zrDNApRBNMSqcZagc5NUpWGQSGXOgLO4M91GzoVo&headerType=none&fp=random&type=tcp&sni=www.trthaber.com&sid=1b94d025d119dd86#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.3:3090?encryption=none&type=grpc&serviceName=vless&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
+vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?encryption=none&type=grpc&serviceName=vless&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
