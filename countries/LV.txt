@@ -1,5 +1,5 @@
 # Country LV
-# Updated: 2026-09-18 07:52:00 UTC
+# Updated: 2026-09-18 19:22:00 UTC
 # Count: 1
 
-vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?host=queuev4.vk.com&path=%2Fapi&sni=atomic-prase23893.my-vm.work&type=ws#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SEBEK%20sp.%20z%20o.o
+vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?encryption=none&type=ws&path=%2Fapi&host=queuev4.vk.com#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SEBEK%20sp.%20z%20o.o
