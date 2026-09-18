@@ -1,6 +1,10 @@
 # Country FR
-# Updated: 2026-09-18 22:52:00 UTC
-# Count: 2
+# Updated: 2026-09-18 23:22:00 UTC
+# Count: 6
 
-vless://ba6b7300-be34-43ef-a883-eee182dfb2d6@31.57.109.221:443?encryption=none&type=tcp&security=reality&sni=Miro.com&fp=chrome&pbk=Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc&sid=c7514dbbd2af28b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
-vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&headerType=http&host=play.google.com&path=/&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://12199879-8fe6-46c1-a721-4d0642302b3f@fr-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.fr-1.bnc-gt.co.uk&fp=qq&path=%2Fws%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
+vless://12199879-8fe6-46c1-a721-4d0642302b3f@fr-2.bnc-gt.co.uk:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=b.fr-2.bnc-gt.co.uk&fp=qq&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
+vless://7186d793-2b14-4f55-ac58-b49e4cd598b6@fr-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.fr-1.bnc-gt.co.uk&fp=qq&alpn=h2&serviceName=grpc&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.31.153:22222?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://ddc234a7-e2b4-4558-8465-2b35cf513223@fr-cdg-1.blook.network:443?security=reality&encryption=none&pbk=CL5aeP6smcd4ie9upZlYVEvuHDwLAt46BOIfHOjkMis&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fr-cdg-1.blook.network&sid=5babfbd717bb#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
+vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
