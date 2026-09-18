@@ -1,7 +1,6 @@
 # Country FI
-# Updated: 2026-09-18 10:52:00 UTC
-# Count: 3
+# Updated: 2026-09-18 11:52:00 UTC
+# Count: 2
 
-vless://b2593749-691c-428c-9481-14979cba3446@212.104.128.206:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://d2e00857-9581-4030-96e2-9d1ed0b95049@141.98.85.88:443?security=reality&encryption=none&pbk=hSCJ3zKX3Pb_-0EYSwUK7XHy2QqzVGWqoiVS9HKLjy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.jyu.fi&sid=675a2ad9f7969dd7#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://c8d51e6c-7c24-4474-b587-1e75cd2fc00e@87.58.147.66:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=Miro.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
+vless://c8d51e6c-7c24-4474-b587-1e75cd2fc00e@87.58.147.66:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=Miro.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
+vless://8f9c5260-9456-472b-8ee2-444500ba6cab@31.76.245.13:443?security=reality&encryption=none&pbk=SCuasCPva4lPGu-QRP955zZB8f6i7ydHBQh6bsSlrgo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=poland.snappycore.com&sid=3d87c490ddd41305#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
