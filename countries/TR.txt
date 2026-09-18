@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-09-18 16:22:00 UTC
-# Count: 3
+# Updated: 2026-09-18 16:52:00 UTC
+# Count: 1
 
 vless://6483241e-1102-470c-91d8-bb260e431960@185.87.24.8:2085?mode=multi&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Prosto%20Solution%20LLC
-vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.3:3090?encryption=none&type=grpc&serviceName=vless&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?encryption=none&type=grpc&serviceName=vless&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
