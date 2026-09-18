@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-09-18 04:22:00 UTC
-# Count: 1
+# Updated: 2026-09-18 04:52:00 UTC
+# Count: 2
 
-vless://d65a82af-a403-405e-8b7b-27a68b830511@g1.haxat.bestvbest.ir:20610?security=reality&encryption=none&pbk=lcXIrYi2o8yXrYHR321qQ--5lqVT8a6TKbaGpYTq4CI&headerType=none&fp=chrome&type=tcp&sni=doctor-yab.ir&sid=1d1a8f9fefeff5e6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PISHGAMAN
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgVmFyZXNoIENsb3VkIiwiYWRkIjoiaXJjLmphaGFuY2xvdWQuY2ZkIiwicG9ydCI6NDQzLCJpZCI6Ijc5ZTM3YjE4LWMxOWQtNDQ0MS04OWIyLWRiYmQwMjk4M2JiMyIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiYWlkIjowLCJ0bHMiOiJub25lIn0
+vless://2241f9c0-97a1-4180-9e31-7aa114a16e07@test.netfa360.ir:10265?security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.ej79qYWofIwiySjKHulae3PuxzpTQM8GIg9yG1QyBE0&insecure=0&fp=chrome&type=tcp&allowInsecure=0&sni=test.netfa360.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20tejarat%20Electornic%20nojhan%20pardazesh
