@@ -1,9 +1,7 @@
 # Country GB
-# Updated: 2026-09-18 18:22:00 UTC
-# Count: 5
+# Updated: 2026-09-18 18:52:00 UTC
+# Count: 3
 
 vless://2fa4235a-51a7-452b-a760-498951646043@herd.zavqeron.ir:2053?path=%2Fde2-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=herd.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
 vless://a1f536b5-f948-4f0e-b1e6-eead9253100d@Caput.varzeshfotsal.ir:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&sni=Caput.varzeshfotsal.ir&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.76.39.141:443?security=reality&encryption=none&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb.superbuba.top&sid=4fa44664f6a566d3#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBcdTI1MDcgVk1lc3MgXHUwMGI3IEdUSG9zdCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
