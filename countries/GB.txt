@@ -1,5 +1,5 @@
 # Country GB
-# Updated: 2026-09-18 08:52:00 UTC
+# Updated: 2026-09-18 09:52:00 UTC
 # Count: 1
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&type=grpc&mode=gun&serviceName=vless#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@165.232.35.68:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
