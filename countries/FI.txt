@@ -1,8 +1,6 @@
 # Country FI
-# Updated: 2026-09-18 16:22:00 UTC
-# Count: 4
+# Updated: 2026-09-18 16:52:00 UTC
+# Count: 2
 
 vless://1a5e7720-abf3-4b9b-bc9b-9a900a04b434@94.156.79.93:443?security=reality&encryption=none&pbk=_0fpFqEEuCso3B8K7AAcMjctwG_xfCxO2PdKzGd_-hg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f129dcdbf64f#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://361451c5-245e-46d8-b13e-d206c4f0536b@xn--km-wr72a9a49m.netbazshop.ir:33017?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://7b72f74b-ec38-4869-8fb8-cb6ed178e714@94.249.186.244:443?encryption=none&type=grpc&security=reality&sni=s15.cdn-vk.org&fp=firefox&pbk=P_7tcOoyW2v6Bu0KMzIpdIWQwJKZL5Yrbun4o_tPR3M&sid=9342ba7550d672ab&serviceName=nl1-grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Tom%20Gewiese
-vless://7b72f74b-ec38-4869-8fb8-cb6ed178e714@s22.cdn-vk.org:8443?encryption=none&type=grpc&security=reality&sni=s22.cdn-vk.org&fp=chrome&pbk=rHmseGPb3BvyqrJA9Hc74u0BFTs-7ss3Ns3NUV9_WGQ&sid=5c69990ba3db0be7&serviceName=grpcservice&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
