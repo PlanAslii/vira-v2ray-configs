@@ -1,6 +1,5 @@
 # Country CZ
-# Updated: 2026-09-18 16:52:00 UTC
-# Count: 2
+# Updated: 2026-09-18 19:22:00 UTC
+# Count: 1
 
-vless://4172c2af-6f65-46d0-a3fc-9e5d539c9c76@153.76.185.89:3090?mode=multi&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Reliable%20Communications%20s.r.o
-vless://36801b97-1e11-489c-baca-5fcb6653a047@153.76.185.182:3090?mode=multi&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Reliable%20Communications%20s.r.o
+vless://f6b58665-c524-4c60-a939-d8f27123e079@cz-1.bnc-gt.co.uk:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=qq&type=grpc&serviceName=grpc&allowInsecure=0&sni=b.cz-1.bnc-gt.co.uk#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Mastersoft%20S.R.L.
