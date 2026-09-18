@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-09-18 21:52:00 UTC
-# Count: 4
+# Updated: 2026-09-18 22:22:00 UTC
+# Count: 3
 
+vless://ba6b7300-be34-43ef-a883-eee182dfb2d6@87.58.147.66:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=Miro.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
 vless://74117310-1dc8-4035-830e-6c29f10ac170@fi-3.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.fi-3.bnc-gt.co.uk&fp=qq&path=%2Fws%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
 vless://7186d793-2b14-4f55-ac58-b49e4cd598b6@fi-3.bnc-gt.co.uk:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=a.fi-3.bnc-gt.co.uk&fp=qq&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@est1313.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=est1313.ggisopi.su#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20OC%20NETWORKS%20LIMITED
-vless://cd3c6f92-6b01-4e52-a85b-73f5ee6f0df8@fi-hel-3.blook.network:443?security=reality&encryption=none&pbk=XV4Of6VCSeRWn9-3fIYIdy09wM8a1oSVGOhZ5_MsHyc&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fi-hel-3.blook.network&sid=420e#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Web1%20Oy
