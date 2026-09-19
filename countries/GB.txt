@@ -1,9 +1,7 @@
 # Country GB
-# Updated: 2026-09-19 16:52:00 UTC
-# Count: 5
+# Updated: 2026-09-19 17:22:00 UTC
+# Count: 3
 
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.140.45:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com
 vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?security=reality&encryption=none&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&headerType=none&fp=chrome&spx=%2F4gd6xNvGqQ6Uz6c&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=75adf1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de1.edge-9d7c.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=de1.edge-9d7c.com&fp=safari&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
