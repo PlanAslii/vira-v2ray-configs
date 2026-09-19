@@ -1,5 +1,7 @@
 # Country FI
-# Updated: 2026-09-19 19:22:00 UTC
-# Count: 1
+# Updated: 2026-09-19 19:52:00 UTC
+# Count: 3
 
+vless://5adaf80e-2347-481f-84cb-46109d582c95@2.26.9.243:3454?mode=gun&security=reality&encryption=none&pbk=Bz2EFAfox-uD9nn8qAVKy86A1kDKO2OpYQhMO4fCrCg&fp=firefox&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=159b4efc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@fi1.cache-4d8a.com:443?encryption=none&type=grpc&security=reality&sni=fi1.cache-4d8a.com&fp=qq&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571&spx=%2F&serviceName=grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Datacamp%20Limited
 vless://c4b13d22-205f-4ed2-a331-bdd912ffb692@dfn2.pconnectq.ir:8020?encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
