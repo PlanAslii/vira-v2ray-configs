@@ -1,7 +1,5 @@
 # Country BG
-# Updated: 2026-09-19 06:22:00 UTC
-# Count: 3
+# Updated: 2026-09-19 06:52:00 UTC
+# Count: 1
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime11.workers.dev&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime08.workers.dev&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
