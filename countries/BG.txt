@@ -1,6 +1,5 @@
 # Country BG
-# Updated: 2026-09-19 16:52:00 UTC
-# Count: 2
+# Updated: 2026-09-19 18:52:00 UTC
+# Count: 1
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&spx=%2FHesarWeb&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
