@@ -1,6 +1,5 @@
 # Country MD
-# Updated: 2026-09-19 06:22:00 UTC
-# Count: 2
+# Updated: 2026-09-19 06:52:00 UTC
+# Count: 1
 
-vless://0dbe4d34-30c9-4f8a-b229-e5950087232d@94.103.2.79:443?security=reality&encryption=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.callibri.ru&sid=24bd5167#DailyCfg%20%F0%9F%87%B2%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20GIR%20SER
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?encryption=none&type=grpc&security=reality&sni=md5.univesalsrv.com&fp=chrome&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&serviceName=app.v1.PushService&allowInsecure=1#DailyCfg%20%F0%9F%87%B2%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20MOLDTELECOM%20SA
+vless://0dbe4d34-30c9-4f8a-b229-e5950087232d@94.103.2.79:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.callibri.ru&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=24bd5167&allowInsecure=1#DailyCfg%20%F0%9F%87%B2%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20GIR%20SER
