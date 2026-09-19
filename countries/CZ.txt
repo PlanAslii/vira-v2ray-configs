@@ -1,6 +1,5 @@
 # Country CZ
-# Updated: 2026-09-18 23:52:00 UTC
-# Count: 2
+# Updated: 2026-09-19 22:22:00 UTC
+# Count: 1
 
-vless://33e5de7c-8233-44b1-9254-f3036e800a5e@cz-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=b.cz-1.bnc-gt.co.uk&fp=qq&path=%2Fws%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Mastersoft%20S.R.L.
-vless://7186d793-2b14-4f55-ac58-b49e4cd598b6@cz-1.bnc-gt.co.uk:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=b.cz-1.bnc-gt.co.uk&fp=firefox&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Mastersoft%20S.R.L.
+vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&security=reality&sid=4af4102cb26e59&sni=origin.vpnoodles.ru&spx=%2F42618003b1db127&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
