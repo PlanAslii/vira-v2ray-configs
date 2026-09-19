@@ -1,6 +1,8 @@
 # Country FI
-# Updated: 2026-09-19 09:52:00 UTC
-# Count: 2
+# Updated: 2026-09-19 10:22:00 UTC
+# Count: 4
 
+vless://b08b481f-d99f-4362-944d-1bd21b425e4f@dfn2.pconnectq.ir:1151?encryption=mlkem768x25519plus.native.0rtt.TQ0B5_0rpx7E8iFfVZO_nGhBYPsytSZVX5QTHhYnAkU&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=2a2ce9e42980&sni=www.mozilla.org#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://b2593749-691c-428c-9481-14979cba3446@fi1.zuoai.cf:443?encryption=none&host=xi.tbv.ccwu.cc&path=%2F&security=tls&sni=xi.tbv.ccwu.cc&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://ccc252f4-7f23-43b4-a8d5-6c0aee8633f0@freeman.cvbesty.ir:10210?encryption=none&type=grpc&security=reality&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&sid=13121b7150ad7fc6&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60500a63ad12#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
