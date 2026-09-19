@@ -1,9 +1,6 @@
 # Country TR
-# Updated: 2026-09-19 20:22:00 UTC
-# Count: 5
+# Updated: 2026-09-19 20:52:00 UTC
+# Count: 2
 
-vless://0f4d212d-bfda-49ff-8afc-5a55ca0a1469@sb5.centeriran.shop:1280?path=%2F&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hosting%20Dunyam%20Bilisim%20Teknolojileri%20Ticaret%20Limited%20Sirketi
-vless://0f4d212d-bfda-49ff-8afc-5a55ca0a1469@us.artamireo.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hosting%20Dunyam%20Bilisim%20Teknolojileri%20Ticaret%20Limited%20Sirketi
-vless://My-chanel-Telegram-ATOVPN%20@167.104.219.12:35671?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://6c258a80-c068-4b9b-9991-88aa69be4810@93.190.8.18:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@nl.node-edge09.com:443?encryption=none&type=grpc&security=reality&sni=nl.node-edge09.com&fp=safari&pbk=S6t9-gOX2mxWKNGvGSJ8NxDdlJy78d4gN2-wv2d0hFw&sid=8319913f2e5f5711&spx=%2F&serviceName=grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Makdos%20Bilisim%20Teknolojileri%20Sanayi%20Ticaret%20Limited%20Sirketi
+vless://6c258a80-c068-4b9b-9991-88aa69be4810@93.190.8.18:3090?encryption=none&security=none&type=grpc&mode=multi&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
