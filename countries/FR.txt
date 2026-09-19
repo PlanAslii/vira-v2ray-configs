@@ -1,13 +1,10 @@
 # Country FR
-# Updated: 2026-09-19 14:22:00 UTC
-# Count: 9
+# Updated: 2026-09-19 14:52:00 UTC
+# Count: 6
 
+vless://218ae360-0e5f-4856-91f3-1823adfc9037@mrs.sepporated.com:443?sni=mrs.sepporated.com&security=tls&path=%2Fws&host=mrs.sepporated.com&type=ws&insecure=0&allowInsecure=0&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bedge%20CO%20Limited
+vless://218ae360-0e5f-4856-91f3-1823adfc9037@149.104.79.85:443?sni=mrs.sepporated.com&path=%2Fws&host=mrs.sepporated.com&security=tls&insecure=0&type=ws&encryption=none&allowInsecure=0&fp=firefox#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bedge%20CO%20Limited
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.98.1:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://588456a5-f724-46a7-a08b-5d336d9f8f56@194.76.155.80:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
 vless://826f4c26-5e01-472d-a1f1-1bd8e2cb25fb@carina.yokkastars.com:2443?mode=gun&security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&fp=qq&spx=%2F&type=grpc&serviceName=rex-grpc&sni=deepl.com&sid=e496c7fe1cefc9ff#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
 vless://c1fc52ab-a0f7-432c-a0aa-12b82ef15d70@155.117.233.218:443?security=reality&encryption=none&pbk=Um3lZiDJYH-F1DfTB3Ja6Yy8Bg5B8jAd6Y5t2w1YVh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=362e332740155de1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.255.113:22223?security=none&type=tcp&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e8913f2b-e84b-469a-9c8f-2f51250059a2@155.117.233.218:443?security=reality&encryption=none&pbk=Um3lZiDJYH-F1DfTB3Ja6Yy8Bg5B8jAd6Y5t2w1YVh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=362e332740155de1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@carina.yokkastars.com:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
