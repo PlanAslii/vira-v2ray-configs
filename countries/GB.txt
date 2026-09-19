@@ -1,10 +1,8 @@
 # Country GB
-# Updated: 2026-09-19 18:22:00 UTC
-# Count: 6
+# Updated: 2026-09-19 18:52:00 UTC
+# Count: 4
 
+vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?security=reality&encryption=none&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=75adf1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
 vless://f778d2eb-1bec-4d19-b0bf-0a5e39feed4f@88.216.184.243:443?encryption=none&type=grpc&security=reality&sni=launcher.starfallchampions.net&fp=chrome&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=0b4ed7b65e6abff8&serviceName=moktana.net.v1.StreamService&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de1.edge-9d7c.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=de1.edge-9d7c.com&fp=safari&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0IiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiJ9
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?security=reality&encryption=none&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=75adf1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
