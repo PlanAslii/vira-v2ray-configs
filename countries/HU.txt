@@ -1,5 +1,5 @@
 # Country HU
-# Updated: 2026-09-18 01:52:00 UTC
+# Updated: 2026-09-19 19:22:00 UTC
 # Count: 1
 
-trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#DailyCfg%20%F0%9F%87%AD%F0%9F%87%BA%20%E2%94%87%20Trojan%20%C2%B7%20ATW%20Internet%20Kft
+vless://a8b746e4-e096-4cd7-b4c9-214096f1dc53@217.13.105.43:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=avito.st&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI#DailyCfg%20%F0%9F%87%AD%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Rackhost%20Zrt.
