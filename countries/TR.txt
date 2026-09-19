@@ -1,7 +1,6 @@
 # Country TR
-# Updated: 2026-09-19 11:22:00 UTC
-# Count: 3
+# Updated: 2026-09-19 12:22:00 UTC
+# Count: 2
 
-vless://57c43227-ab71-4147-b479-e18035c9e03e@tr.mlbaz.ir:1000?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://My-chanel-Telegram-ATOVPN @167.104.219.66:18361?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://2a7d20bf-e65f-49a8-9e60-889776701a7c@cardpayment.cleanfoodshop.org:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=cardpayment.cleanfoodshop.org#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AltunHOST%20LTD
+vless://63f92f15-b423-47f4-a2ab-24c94070d88e@Gaming.ark-cloudservice.ir:59789?security=tls&encryption=mlkem768x25519plus.native.0rtt.6E4Ody2E-1P-obY5c8xU9tL3g4m5cvDEWQnNBEgqwDA&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=Gaming.ark-cloudservice.ir#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
+vless://My-chanel-Telegram-ATOVPN%20@167.104.219.66:18361?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
