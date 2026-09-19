@@ -1,8 +1,10 @@
 # Country FR
-# Updated: 2026-09-19 21:22:00 UTC
-# Count: 4
+# Updated: 2026-09-19 21:52:00 UTC
+# Count: 6
 
+vless://c1fc52ab-a0f7-432c-a0aa-12b82ef15d70@155.117.233.218:443?security=reality&encryption=none&pbk=Um3lZiDJYH-F1DfTB3Ja6Yy8Bg5B8jAd6Y5t2w1YVh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=362e332740155de1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://588456a5-f724-46a7-a08b-5d336d9f8f56@194.76.155.80:40443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=firefox&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&sid=e496c7fe1cefc9ff&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.102.10:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.179.100:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://c096503a-4ff2-439d-b1e6-6ceeea2f5ce6@82.25.63.167:24443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=1.1.1.1&fp=safari&pbk=Z7qCWk7Iy_8zyhVnGBFrheFvzZJ38wHoTMNLfwvYZ3s&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
