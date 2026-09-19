@@ -1,7 +1,10 @@
 # Country FR
-# Updated: 2026-09-19 17:52:00 UTC
-# Count: 3
+# Updated: 2026-09-19 18:22:00 UTC
+# Count: 6
 
+vless://826f4c26-5e01-472d-a1f1-1bd8e2cb25fb@carina.yokkastars.com:2443?encryption=none&type=grpc&security=reality&sni=deepl.com&fp=qq&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&sid=e496c7fe1cefc9ff&spx=%2F&serviceName=rex-grpc&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
+vless://aa920853-1dec-4b17-afd4-d367635adfc4@80.93.217.193:443?security=tls&encryption=none&type=tcp&sni=qbvlpz4b8508.dop100.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://e300474f-fe07-427e-a115-d470af1b6e12@95.182.81.213:443?encryption=none&fp=chrome&pbk=F_c9Kxf5B3iSoSI8d0B8sfS1D6agPJMBEuSwqcWqmlA&security=reality&sid=e4b52c03&sni=timeline.www.cloudflare.com&spx=%2Fcf4c9df8dac21e8&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.98.1:22222?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@fr1.nevcore.ru:8443?security=reality&encryption=none&pbk=hztGDSWUKLodQ2yFIWau4NPZ-xWTKP--433nv66BHyM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=d6f4f099ff3ab83d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:8443?mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
-vless://aa920853-1dec-4b17-afd4-d367635adfc4@80.93.217.193:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://153476d5-e616-46e5-9da7-e34223b394b5@aqua.athforce.ir:1585?type=tcp&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
