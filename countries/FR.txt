@@ -1,5 +1,7 @@
 # Country FR
-# Updated: 2026-09-19 00:22:00 UTC
-# Count: 1
+# Updated: 2026-09-19 00:52:00 UTC
+# Count: 3
 
+vless://826f4c26-5e01-472d-a1f1-1bd8e2cb25fb@carina.yokkastars.com:2443?mode=gun&security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&fp=qq&spx=%2F&type=grpc&serviceName=rex-grpc&sni=deepl.com&sid=e496c7fe1cefc9ff#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.230.204:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&security=none&type=tcp&headerType=http&host=play.google.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
