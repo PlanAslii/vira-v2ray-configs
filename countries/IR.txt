@@ -1,9 +1,6 @@
 # Country IR
-# Updated: 2026-09-19 22:52:00 UTC
-# Count: 5
+# Updated: 2026-09-19 23:22:00 UTC
+# Count: 2
 
 vless://d0fe5813-d98c-4bd4-a1a8-63d3bf7b2b13@94.184.43.78:8088?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Telecommunication%20Company%20of%20Iran
 vless://b089ba12-b84d-4e50-a1cc-120136645d3f@94.184.12.247:25657?security=reality&encryption=none&pbk=fbcxBGG2fQXAXhon5sT0VC4M7oW10D4LPpSYb6YhNVI&headerType=none&fp=chrome&spx=%2FTBw1roKDjScYqih&type=tcp&sni=aws.amazon.com&sid=4e71983d0055b8#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FanAvaran%20Mihan%20Mizban%20PJSC%20%E2%94%87%20%F0%9F%94%B4
-vless://801b75cb-3998-44ab-8552-62bd1438aaff@arvancloud.ir:2095?path=%2Fpgcfws-r4&security=none&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=dash.zowe.ir&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%20Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%9F%A2
-vless://801b75cb-3998-44ab-8552-62bd1438aaff@varzesh3.com:2095?path=%2Fpgcfws-r4&security=none&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=boxi.safari-df.ir&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
-vless://801b75cb-3998-44ab-8552-62bd1438aaff@snapp.ir:80?path=%2Fws&security=none&encryption=mlkem768x25519plus.native.0rtt.cjwaUg7DKG2TZrfYn6e_dHjdlB9S4qE7rMiahyj3cFA&host=dash.yuwe.ir&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
