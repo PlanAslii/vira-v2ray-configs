@@ -1,16 +1,10 @@
 # Country FR
-# Updated: 2026-09-19 16:22:00 UTC
-# Count: 12
+# Updated: 2026-09-19 16:52:00 UTC
+# Count: 6
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.98.1:22222?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:8443?mode=gun&security=reality&encryption=none&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Fast%20Servers%20%28Pty%29%20Ltd
 vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&fp=chrome&alpn=h2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://nasnet@162.19.10.99:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&fp=chrome#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://218ae360-0e5f-4856-91f3-1823adfc9037@149.104.79.85:443?sni=mrs.sepporated.com&path=%2Fws&host=mrs.sepporated.com&security=tls&insecure=0&type=ws&encryption=none&allowInsecure=0&fp=firefox#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bedge%20CO%20Limited
 vless://218ae360-0e5f-4856-91f3-1823adfc9037@mrs.sepporated.com:443?sni=mrs.sepporated.com&security=tls&path=%2Fws&host=mrs.sepporated.com&type=ws&insecure=0&allowInsecure=0&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bedge%20CO%20Limited
-vless://2c538cc2-10bd-4db8-bf31-69201326ca14@51.75.118.169:20172?encryption=none&type=grpc&serviceName=knight-grpc&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://153476d5-e616-46e5-9da7-e34223b394b5@aqua.athforce.ir:1585?type=tcp&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@fr1.nevcore.ru:8443?security=reality&encryption=none&pbk=hztGDSWUKLodQ2yFIWau4NPZ-xWTKP--433nv66BHyM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=d6f4f099ff3ab83d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://f608f2b8-f258-4912-9726-3e755644da6b@p1real6.greewebservices.ir:1280?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://f608f2b8-f258-4912-9726-3e755644da6b@p1real7.greewebservices.ir:1290?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://f608f2b8-f258-4912-9726-3e755644da6b@p11real2.greewebservices.ir:1040?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://f608f2b8-f258-4912-9726-3e755644da6b@p11real33.greewebservices.ir:2202?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://f608f2b8-f258-4912-9726-3e755644da6b@p11real444.greewebservices.ir:3303?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
