@@ -1,8 +1,6 @@
 # Country FI
-# Updated: 2026-09-20 08:22:00 UTC
-# Count: 4
+# Updated: 2026-09-20 08:52:00 UTC
+# Count: 2
 
 vless://d78de562-872e-43dd-be48-e9d7b06c87a3@62.238.103.54:2083?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=d059fb98048c5318&pbk=tADYkZWWksM_mCqqwlRHCciSCXnP3JMYrPi5eoRHh2s&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DELTA%20Fiber%20Nederland
 vless://5adaf80e-2347-481f-84cb-46109d582c95@2.26.9.243:3454?encryption=none&type=grpc&security=reality&sni=yandex.ru&fp=firefox&pbk=Bz2EFAfox-uD9nn8qAVKy86A1kDKO2OpYQhMO4fCrCg&sid=159b4efc&serviceName=google.android.location.SyncService&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://9586a204-dca4-4f1f-92db-264a363cb056@sr6.hexli.fun:8443?security=reality&encryption=none&pbk=xmdtRdNTtp9XB0HkeA1G6dVT2m5oapMT6FiyscJbSRQ&headerType=none&fp=chrome&type=tcp&sni=fi1.hexli.fun&sid=613352d6a1f0db55#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@xff8ftxqj.rpzk.ir:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
