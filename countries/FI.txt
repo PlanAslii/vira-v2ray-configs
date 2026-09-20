@@ -1,11 +1,12 @@
 # Country FI
-# Updated: 2026-09-20 20:52:00 UTC
-# Count: 7
+# Updated: 2026-09-20 21:22:00 UTC
+# Count: 8
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.31.28.106:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=%2Ftrade&security=tls&sni=cdn8848.776676.xyz&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@152.233.54.104:443?encryption=none&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571&fp=firefox&fm=AhmadV2ray&spx=%2FAhmadV2ray&type=grpc&sni=fi1.cache-4d8a.com&security=reality&serviceName=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Datacamp%20Limited
 vless://bd70f457-3ec8-4c93-9e5d-b2299b98cd80@pnia2.pastilbastani.ir:20888?fp=random&security=reality&encryption=mlkem768x25519plus.native.0rtt.tC9O9Ycapxrrb4E7Kp1kwLuQOqzGFtHMTpwje0itL20&type=tcp&sid=3007a113b7917442&pbk=wJQx7lkO3WgOPya9Syjd5N20NTiz6PM-kqIV6f-cXnI&headerType=none&sni=play.google.com&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://86057b8b-7d53-4c72-8828-9178934daf27@150.241.70.61:47443?encryption=none&type=grpc&security=reality&sni=addons.mozilla.org&fp=safari&pbk=sIL-QI4Lh8Py2BtI5IXW2T9fGKdww9n45dyp-Ritg1Y&sid=316ae6c8c6a50b66&serviceName=grpc-vps152&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
 vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@150.241.103.208:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=safari&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
 vless://e5d73666-1ac5-49fc-8e4d-5c8cad769588@148.135.185.21:8445?encryption=none&type=grpc&security=reality&sni=hetzner.com&fp=safari&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&sid=6ba85179e30d4fc2&serviceName=Google&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://c4107be5-6cf0-8e55-7913-f45b832d6da8@finland.hosting-96.ir:2242?security=reality&encryption=none&pbk=u8Lf72dhxHTC-UIxj9BlZTW52UiyjP-DfqssndWZI24&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google-analytics.com&sid=82e62428#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://b4232e57-46bd-4490-9e29-7b6683c66c72@144.31.90.116:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.deepl.com&fp=firefox&pbk=tGKPIClxh5UrLDCEzcCSque9EIE9yQKu0gdO3yIEoFQ&sid=f35ec2ab265c5afd#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.38.139.23:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Fjumping%252Fclass%252Fbt%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
