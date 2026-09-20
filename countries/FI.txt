@@ -1,5 +1,7 @@
 # Country FI
-# Updated: 2026-09-20 00:52:00 UTC
-# Count: 1
+# Updated: 2026-09-20 01:22:00 UTC
+# Count: 3
 
+vless://5adaf80e-2347-481f-84cb-46109d582c95@2.26.9.243:3454?mode=gun&security=reality&encryption=none&pbk=Bz2EFAfox-uD9nn8qAVKy86A1kDKO2OpYQhMO4fCrCg&fp=firefox&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=159b4efc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://03446511-2806-0021-b02f-f10d2d3a33c6@5.61.91.221:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=4a7b1c8d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Haminan%20Energia%20Oy
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
