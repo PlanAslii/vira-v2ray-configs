@@ -1,6 +1,5 @@
 # Country RU
-# Updated: 2026-09-20 22:52:00 UTC
-# Count: 2
+# Updated: 2026-09-20 23:22:00 UTC
+# Count: 1
 
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=chrome#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.162.100:9880?type=grpc&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&serviceName=grpc-tunnel#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
