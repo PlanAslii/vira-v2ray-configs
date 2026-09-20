@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-09-20 01:52:00 UTC
-# Count: 2
+# Updated: 2026-09-20 02:22:00 UTC
+# Count: 1
 
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://c096503a-4ff2-439d-b1e6-6ceeea2f5ce6@82.25.63.167:24443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=1.1.1.1&fp=safari&pbk=Z7qCWk7Iy_8zyhVnGBFrheFvzZJ38wHoTMNLfwvYZ3s&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
