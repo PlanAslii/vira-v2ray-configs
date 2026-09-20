@@ -1,5 +1,6 @@
 # Country TR
-# Updated: 2026-09-20 18:52:00 UTC
-# Count: 1
+# Updated: 2026-09-20 19:22:00 UTC
+# Count: 2
 
-vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@213.156.152.212:8290?security=reality&encryption=none&pbk=yYjMMztcB_8Ao3sp9QIP9ZF0XtsUGXawIBUGWeIvglc&headerType=none&fp=firefox&type=tcp&sni=www.numpy.org&sid=130b94c8e5124031#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://8ff5836e-850f-41b8-9817-bd310b9fb13b@t1.legendbusiness.cloud:8443?security=reality&encryption=none&pbk=6iaYmqXybcUmdOG9RlXlphFieBhU6bNPmoukO7WNdGw&headerType=none&fp=chrome&type=tcp&sni=storage-p2.googleapis.com&sid=377d#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Big%20Core%20LLC
+vless://26cb110e-bb1e-4c87-971b-dc485b89b879@turkish.v2zoro.ir:59755?encryption=mlkem768x25519plus.native.0rtt.bPKn9zinS8ESdQ-C2m50iwihparweQzQ3X1_OejTMlA&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
