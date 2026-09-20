@@ -1,13 +1,10 @@
 # Country CA
-# Updated: 2026-09-20 13:22:00 UTC
-# Count: 9
+# Updated: 2026-09-20 14:22:00 UTC
+# Count: 6
 
-vless://2bff0b26-c183-4240-8556-5b3f80bf69a2@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://6795c884-7f09-4777-b779-76d0d6d6c0a1@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://8c016c41-1e60-457f-bbdf-e66729612079@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBcdTI1MDcgVk1lc3MgXHUwMGI3IEdMT0JBTFRFTEVIT1NUIENvcnAuIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vless://c19dcd53-1fed-4147-bdb6-b3d318c8d9f3@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://6795c884-7f09-4777-b779-76d0d6d6c0a1@151.101.1.194:80?path=/&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://2bff0b26-c183-4240-8556-5b3f80bf69a2@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://8c016c41-1e60-457f-bbdf-e66729612079@151.101.1.194:80?path=/&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://e732cb07-4a31-49d3-9122-61dc1f68334e@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://3ed76962-2a7a-4d3f-cb64-1f4e67f87314@51.79.29.205:55368?mode=gun&security=reality&encryption=none&pbk=dRr0vACepXMHCyOwaQ_-KqXjHJxIap-xpY4Ev0n2YSA&fp=chrome&type=grpc&sni=play-apps-features.googleusercontent.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?security=reality&encryption=none&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://f6c29358-4b06-445a-bf01-360a418aca1e@51.79.29.205:10103?security=reality&encryption=none&pbk=BEbRvaOBf0Vm-HovuysfKge6jHMgK4AGl4U0kA7w8QI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
