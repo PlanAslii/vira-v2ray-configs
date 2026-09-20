@@ -1,6 +1,6 @@
 # Country SE
-# Updated: 2026-09-20 08:52:00 UTC
+# Updated: 2026-09-20 09:22:00 UTC
 # Count: 2
 
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=swebz.loozerp.wiki&fp=chrome&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20InterConnects
-vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.21:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=auth.figmafound.org&sid=711ad7f475c35e5e#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Nexttranslate%20LTD
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@auth.figmafound.org:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=auth.figmafound.org&fp=random&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Nexttranslate%20LTD
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.21:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=auth.figmafound.org&fp=firefox&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&sid=711ad7f475c35e5e#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Nexttranslate%20LTD
