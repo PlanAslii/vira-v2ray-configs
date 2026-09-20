@@ -1,6 +1,9 @@
 # Country FR
-# Updated: 2026-09-20 09:22:00 UTC
-# Count: 2
+# Updated: 2026-09-20 09:52:00 UTC
+# Count: 5
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.173.125.214:2087?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Fredirect%252Fchina%252Fview%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.58.76.68:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Fnew%252Fdh%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.102.10:22224/?type=tcp&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://c096503a-4ff2-439d-b1e6-6ceeea2f5ce6@82.25.63.167:24443?security=reality&encryption=none&pbk=Z7qCWk7Iy_8zyhVnGBFrheFvzZJ38wHoTMNLfwvYZ3s&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=1.1.1.1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=firefox&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&fp=chrome&alpn=h2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
