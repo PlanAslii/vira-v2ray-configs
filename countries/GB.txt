@@ -1,6 +1,6 @@
 # Country GB
-# Updated: 2026-09-20 07:52:00 UTC
+# Updated: 2026-09-20 08:22:00 UTC
 # Count: 2
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@95.133.242.211:443?fp=chrome&type=tcp&sid=10debbdf94767541&headerType=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sni=filesconvert.org&encryption=none&flow=xtls-rprx-vision&security=reality#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
+vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?security=reality&encryption=none&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&headerType=none&fp=chrome&spx=%2F4gd6xNvGqQ6Uz6c&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=75adf1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@95.133.242.211:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
