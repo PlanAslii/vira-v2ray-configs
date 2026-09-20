@@ -1,5 +1,5 @@
 # Country LT
-# Updated: 2026-09-20 06:22:00 UTC
+# Updated: 2026-09-20 06:52:00 UTC
 # Count: 1
 
-vless://05e54129-c3c6-4735-a66a-bebefa96ee38@5.199.169.162:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=westcostlt.responsiblecare.uk&sid=c459c753b7ed9723#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
+vless://36cd557b-2b3d-46d3-8071-c77dd9cf7623@31.76.83.118:2053?encryption=none&type=grpc&security=reality&sni=www.philips.com&fp=ios&pbk=Snqizwey11Sp7A3JOzYATE-bcWTOPz1uFblMUiZToVY&sid=f3836ba5541bdc9e&serviceName=grpc&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
