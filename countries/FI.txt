@@ -1,10 +1,7 @@
 # Country FI
-# Updated: 2026-09-20 17:22:00 UTC
-# Count: 6
+# Updated: 2026-09-20 17:52:00 UTC
+# Count: 3
 
 vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@152.233.54.104:443?encryption=none&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571&fp=firefox&fm=AhmadV2ray&spx=%2FAhmadV2ray&type=grpc&sni=fi1.cache-4d8a.com&security=reality&serviceName=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Datacamp%20Limited
 vless://c0d50d44-de29-43e8-bb83-f05a80552b6d@31.76.53.20:2053?security=reality&encryption=none&pbk=Jl60WixqwUX4OaCW-jWb0j8kylBB4ogJPc1K5G2EYGw&fp=safari&spx=%2FUOKuL6KD7hqMr6h&type=grpc&sni=dl.google.com&sid=ffbb5b9f#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.31.28.106:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=%2Ftrade&security=tls&sni=cdn8848.776676.xyz&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
-vless://f49c5069-0e07-4906-9729-3eee035270a3@99qj3.pastilbastani.ir:14145?encryption=mlkem768x25519plus.native.0rtt.ZcEMq-KGOuFAhBiAfVdmZLz1FrdfqKY2VOqB9Df2xSw&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=random&pbk=ZXrxKI3ue0MAB4-kzeLRn2KjBr72ydT7R9hXl30CxHs&sid=8d6c8115e015a06c#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://f49c5069-0e07-4906-9729-3eee035270a3@pnia2.pastilbastani.ir:20888?encryption=mlkem768x25519plus.native.0rtt.tC9O9Ycapxrrb4E7Kp1kwLuQOqzGFtHMTpwje0itL20&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=random&pbk=wJQx7lkO3WgOPya9Syjd5N20NTiz6PM-kqIV6f-cXnI&sid=3007a113b7917442#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
