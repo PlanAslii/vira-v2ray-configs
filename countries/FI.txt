@@ -1,8 +1,8 @@
 # Country FI
-# Updated: 2026-09-20 22:52:00 UTC
+# Updated: 2026-09-20 23:22:00 UTC
 # Count: 4
 
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@152.233.54.104:443?mode=gun&security=reality&encryption=none&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&fp=firefox&type=grpc&serviceName=grpc&sni=fi1.cache-4d8a.com&sid=0a30e2aee95a7571#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Datacamp%20Limited
 vless://c4107be5-6cf0-8e55-7913-f45b832d6da8@finland.hosting-96.ir:2242?security=reality&encryption=none&pbk=u8Lf72dhxHTC-UIxj9BlZTW52UiyjP-DfqssndWZI24&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google-analytics.com&sid=82e62428#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.31.28.106:8443?path=%2Ftrade&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.228.142.148:8443?path=%252Fact%252Frank%252Flang%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Ihor%20Hosting%20LTD
-vless://7cbc0c1f-9aa1-4a4c-a052-45ccc855df10@2.27.48.140:443?security=reality&encryption=none&pbk=Ax1xKjjBS7afZ94zHY-9iI7hohBmzA-EpS-eRILX2CA&headerType=none&fp=safari&spx=%2FgxJ2LuqKGpioj1l&type=tcp&flow=xtls-rprx-vision&sni=intel.com&sid=c66279532e2e#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Chsl%20ONE%20LTD
