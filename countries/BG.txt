@@ -1,5 +1,6 @@
 # Country BG
-# Updated: 2026-09-20 17:22:00 UTC
-# Count: 1
+# Updated: 2026-09-20 18:52:00 UTC
+# Count: 2
 
-vless://e633de28-bfc0-4aca-aa67-e2e12e2c9e58@45.9.156.103:443?security=reality&encryption=none&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=mzone.bg.3cloudhost.com#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?encryption=none&path=%2Fvless-test&security=none&type=ws#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
