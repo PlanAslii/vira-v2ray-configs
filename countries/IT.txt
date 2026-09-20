@@ -1,6 +1,7 @@
 # Country IT
-# Updated: 2026-09-20 20:22:00 UTC
-# Count: 2
+# Updated: 2026-09-20 20:52:00 UTC
+# Count: 3
 
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
 vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@vbbb.chainmark.ir:11111?encryption=none&type=tcp&security=reality&sni=primevideo.com&fp=chrome&pbk=ADrXq9ZfvfkMCAjtS3G6bskFCuztVbMeIux2po4gGjM&sid=d1967fc42889dd66&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Kamatera%2C%20Inc.
 vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@dcvv.chainmark.ir:22222?encryption=none&type=tcp&security=reality&sni=primevideo.com&fp=chrome&pbk=kZDvkY7Oyct6TL6FsoRLbPsF3ldMpbilDTRCOG0bd3U&sid=cf15d1c059a349b9&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Kamatera%2C%20Inc.
