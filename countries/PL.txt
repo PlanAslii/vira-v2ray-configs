@@ -1,7 +1,5 @@
 # Country PL
-# Updated: 2026-09-20 23:22:00 UTC
-# Count: 3
+# Updated: 2026-09-20 23:52:00 UTC
+# Count: 1
 
-vless://1ce68480-ed58-488b-965a-758fe9d6da76@138.124.64.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=safari&pbk=_4ATNuZQh5uHkrwQY5Z4h0HsudsGqTRIBkuJSRmQuBU&sid=6ba85179e30d4fc2#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://068976fe-881d-416f-a0c1-d1ee740ac198@194.61.121.148:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=pl.greatecloud.com&fp=safari&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20BlueVPS%20OU
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
+vless://01f71144-39d2-401a-9dc3-dda5ccdcb0bd@kpiqasf9n1vzmnuo.client.lightningcdn.cc:443?security=reality&encryption=none&pbk=QLu2h7-oywCUDhQf6rN5W1WUoNxnDggwt51LkxJyGW4&headerType=none&fp=edge&spx=%2Fapi%2Fv1%2Fvideo%2Finit&type=tcp&flow=xtls-rprx-vision&sni=kpiqasf9n1vzmnuo.client.lightningcdn.cc&sid=b0d8f964b7ac8ac0#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20TIGRIS
