@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-09-20 00:22:00 UTC
-# Count: 2
+# Updated: 2026-09-20 00:52:00 UTC
+# Count: 1
 
-vless://d78de562-872e-43dd-be48-e9d7b06c87a3@62.238.103.54:2083?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=tADYkZWWksM_mCqqwlRHCciSCXnP3JMYrPi5eoRHh2s&sid=d059fb98048c5318&spx=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DELTA%20Fiber%20Nederland
-vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?security=reality&encryption=none&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=48fd192dc4e46bc0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20ONEPROVIDER
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
