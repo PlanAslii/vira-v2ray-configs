@@ -1,8 +1,6 @@
 # Country TR
-# Updated: 2026-09-20 09:22:00 UTC
-# Count: 4
+# Updated: 2026-09-20 09:52:00 UTC
+# Count: 2
 
 vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@198.105.123.26:8443?flow=xtls-rprx-vision&sid=ba86aaa222fa2ee1&fp=firefox&spx=%2FAhmadV2ray&sni=slfs3.ardor-cloud.ru&fm=AhmadV2ray&type=tcp&pbk=fiE-KoxoQgOIuvm1EuBTeZp9TFZLq9FYbZPrcWes-GM&security=reality&encryption=none&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://613fc411-78e1-4d68-a663-6abeb46a97e7@93.190.9.15:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://f579aee6-d850-4dd8-87de-4ae4b5df9d94@93.190.8.25:3090?mode=multi&security=none&serviceName=vless&encryption=none&type=grpc#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://e6e669e0-9cf2-4ce8-99ab-01c393e6a01d@93.190.9.19:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
