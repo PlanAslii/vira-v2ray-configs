@@ -1,5 +1,6 @@
 # Country AM
-# Updated: 2026-09-20 10:22:00 UTC
-# Count: 1
+# Updated: 2026-09-20 11:22:00 UTC
+# Count: 2
 
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@aotocon.ggisopi.su:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=aotocon.ggisopi.su&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B2%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@aotocon.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=aotocon.ggisopi.su#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B2%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://877317b3-c7e4-4f1d-af37-4f32e670bbd4@gaming.storm.montago-shop.ir:25260?security=none&encryption=mlkem768x25519plus.native.0rtt.cuN6cXnBDhYXhCEg94t_zLjTBFe03di3HkklXASjRRQ&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B2%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
