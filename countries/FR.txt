@@ -1,9 +1,7 @@
 # Country FR
-# Updated: 2026-09-20 14:22:00 UTC
-# Count: 5
+# Updated: 2026-09-20 14:52:00 UTC
+# Count: 3
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.147.23:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&security=reality&sni=www.nvidia.com&fp=firefox&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&allowinsecure=0&type=grpc&mode=gun&serviceName=grpc-common3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.5.137:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@144.31.214.172:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2bc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
