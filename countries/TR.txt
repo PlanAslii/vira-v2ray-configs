@@ -1,7 +1,6 @@
 # Country TR
-# Updated: 2026-09-20 13:22:00 UTC
-# Count: 3
+# Updated: 2026-09-20 13:52:00 UTC
+# Count: 2
 
-vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@fgh.clofidexa.ir:8290?encryption=none&type=tcp&security=reality&sni=www.numpy.org&fp=chrome&pbk=yYjMMztcB_8Ao3sp9QIP9ZF0XtsUGXawIBUGWeIvglc&sid=130b94c8e5124031&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@cdx.eldenringking.ir:23441?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://6c96a2d3-6951-4577-b09d-6fb82291894f@93.190.9.22:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
+vless://10cb2689-72fc-418d-8d21-cf625e558bec@212.64.210.109:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tr.responsiblecare.uk&sid=c324fdcf18f3390e#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Atlas%20On-Line
+vless://6c96a2d3-6951-4577-b09d-6fb82291894f@93.190.9.22:3090?serviceName=vless&mode=multi&encryption=none&type=grpc&security=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
