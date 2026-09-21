@@ -1,7 +1,5 @@
 # Country GB
-# Updated: 2026-09-21 13:22:00 UTC
-# Count: 3
+# Updated: 2026-09-21 13:52:00 UTC
+# Count: 1
 
-vless://aabcb69e-9f17-44bd-aaac-552dd23e9691@57.128.177.218:30963?mode=gun&security=reality&encryption=none&pbk=XxNAqnYJDizM_4_ycJxyaa9xbx29hpDfwAtCv1Wga1M&fp=firefox&type=grpc&serviceName=grpc_common1&sni=us.vrzn.download.nvidia.com&sid=c776352067#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0IiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiJ9
-vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@107.181.134.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=roskaa6.api3-max.ru&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cisco.com&fp=chrome&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&sid=75adf1&spx=%2F4gd6xNvGqQ6Uz6c&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
