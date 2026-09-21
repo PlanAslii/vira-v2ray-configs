@@ -1,7 +1,5 @@
 # Country FI
-# Updated: 2026-09-21 00:22:00 UTC
-# Count: 3
+# Updated: 2026-09-21 00:52:00 UTC
+# Count: 1
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.228.142.148:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Fact%252Frank%252Flang%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Ihor%20Hosting%20LTD
-vless://4b55becd-697c-4162-a23e-16e740d2f2e1@65.109.180.37:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.31.28.106:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=%2Ftrade&security=tls&sni=cdn8848.776676.xyz&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
