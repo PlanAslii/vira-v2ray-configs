@@ -1,8 +1,7 @@
 # Country TR
-# Updated: 2026-09-21 13:22:00 UTC
-# Count: 4
+# Updated: 2026-09-21 13:52:00 UTC
+# Count: 3
 
-vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
-vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@tuss.starzone.ir:443?security=reality&encryption=none&pbk=-Nw4pIuzq_vnQiII34vwq-_Hot3THgvXB6teTaX1jiQ&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=56c0d432cdf36f66#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
 vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:443?encryption=none&host=www.cloudflare.com&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@206.1.97.61:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=d7397feef49deef9#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
+vless://24051e17-a1c9-4566-a331-789e6b681007@turkeynewvdflvvjfkdsjvlk3jvoijuvoisdfjvoi3ju2voisfjdoivodfsiv.nevoxa.ir:32210?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://My-chanel-Telegram-ATOVPN @167.104.219.193:40185?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
