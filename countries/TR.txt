@@ -1,8 +1,5 @@
 # Country TR
-# Updated: 2026-09-21 16:52:00 UTC
-# Count: 4
+# Updated: 2026-09-21 17:22:00 UTC
+# Count: 1
 
 vless://1d375df0-ea6a-4d04-b0c4-947961da6cba@93.190.9.32:3090?encryption=none&type=grpc&serviceName=vless&mode=multi#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
-vless://1My-chanel-Telegram-ATOVPN%20@167.104.219.193:40185?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:2052?alpn=h2%2Chttp%2F1.1&encryption=none&fp=ios&security=tls&sni=www.sorfema.ir&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
