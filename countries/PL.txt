@@ -1,6 +1,6 @@
 # Country PL
-# Updated: 2026-09-21 16:22:00 UTC
+# Updated: 2026-09-21 16:52:00 UTC
 # Count: 2
 
-vless://040e129c-f6bc-4f7c-8351-bcbab5078cd1@91.196.161.218:2054?mode=gun&security=reality&encryption=none&pbk=LZEcqc7M6ypBzgtrnT-LjZKCbEQ8m-IgGhz24iezfDc&fp=safari&spx=%2F&type=grpc&serviceName=grpc&sni=www.ibm.com&sid=54b24594713b5f13#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&fp=chrome#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
+vless://040e129c-f6bc-4f7c-8351-bcbab5078cd1@91.196.161.218:2054?encryption=none&type=grpc&security=reality&sni=www.ibm.com&fp=safari&pbk=LZEcqc7M6ypBzgtrnT-LjZKCbEQ8m-IgGhz24iezfDc&sid=54b24594713b5f13&spx=%2F&serviceName=grpc&mode=gun#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
