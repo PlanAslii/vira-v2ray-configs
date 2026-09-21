@@ -1,10 +1,13 @@
 # Country FR
-# Updated: 2026-09-21 07:52:00 UTC
-# Count: 6
+# Updated: 2026-09-21 08:22:00 UTC
+# Count: 9
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.174:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://438e4ce2-36df-48dc-8196-dc898932d7ce@bazaar.ir.aparat.ir.alibaba.ir.fr.shagreatgain.roomode.ir:2023?type=tcp&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lw0JrDLsQtANuYqDnmvWWjbG4IjRsThDKzxrkvw8LRU&sid=21ddd0109c0be7b6#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@91.108.240.205:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=safari&pbk=wK66Ve91QmwuclMGLWiN3ADL0i4-VwEK-_P4sDynogo&sid=ce019009&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
+vless://3b0bd6df-4d11-4418-9543-e4bab64cf9a5@107.161.160.104:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=paris.nemefisto.online&fp=safari&pbk=6Je7M9xACRBOjpdsN3NUkcYkyIuIQHVoSN1H4Dlj4Ac&sid=f6f0cbe8e50b71da&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@145.223.70.30:9443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=safari&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=ad20d2bc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
 vless://24051e17-a1c9-4566-a331-789e6b681007@francecadscr3qcr3v4213xwbterny54vtw4rfsedvr23vfdszc.nevoxa.ir:32210?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.1.52:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://d619964d-26d6-452d-9860-6f058f03ba8e@34.155.10.226:443?encryption=none&pbk=6tH_NDFcxWn60B3s-MgrkBTU2yUUBY42ZG1av50Ywhk&security=reality&sid=ae682368818bd6c5&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Google%20LLC
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.194.93:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&security=reality&sni=www.nvidia.com&fp=firefox&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&type=grpc&serviceName=grpc-common3&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.174:22223?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
