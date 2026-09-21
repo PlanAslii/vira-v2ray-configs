@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-09-21 14:22:00 UTC
-# Count: 3
+# Updated: 2026-09-21 15:22:00 UTC
+# Count: 1
 
-vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:443?encryption=none&host=www.cloudflare.com&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://24051e17-a1c9-4566-a331-789e6b681007@turkeynewvdflvvjfkdsjvlk3jvoijuvoisdfjvoi3ju2voisfjdoivodfsiv.nevoxa.ir:32210?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://My-chanel-Telegram-ATOVPN @167.104.219.193:40185?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:2052?encryption=none&security=tls&sni=www.sorfema.ir&alpn=h2%2C%20http%2F1.1&fp=ios&allowinsecure=0&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
