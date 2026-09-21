@@ -1,12 +1,10 @@
 # Country FR
-# Updated: 2026-09-21 15:52:00 UTC
-# Count: 8
+# Updated: 2026-09-21 16:22:00 UTC
+# Count: 6
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.65.33:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.105.155:22222?type=tcp&headerType=none&encryption=none&security=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vmess://eyJhZGQiOiI0NS44MC4yMTUuOCIsImFpZCI6IjAiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgRy1Db3JlIExhYnMgUy5BLiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.22.220:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.139.162:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&sni=www.nvidia.com&sid=52add08b86a5ccea&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&security=reality&fp=firefox&serviceName=grpc-common3&type=grpc&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.65.33:22224?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://c096503a-4ff2-439d-b1e6-6ceeea2f5ce6@82.25.63.167:24443?security=reality&encryption=none&pbk=Z7qCWk7Iy_8zyhVnGBFrheFvzZJ38wHoTMNLfwvYZ3s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=1.1.1.1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@144.31.214.172:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2bc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.105.155:22222?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
