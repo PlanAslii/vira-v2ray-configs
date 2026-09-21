@@ -1,6 +1,5 @@
 # Country BG
-# Updated: 2026-09-21 10:22:00 UTC
-# Count: 2
+# Updated: 2026-09-21 13:52:00 UTC
+# Count: 1
 
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@cats-n-dogs.rumainco.cl:443?encryption=none&flow=xtls-rprx-vision&pbk=mGPCrFElfsioK3y3nOyW66ahpIocDnnyzfUnoN7ULFc&security=reality&sid=c2cdd5&sni=cats-n-dogs.rumainco.cl&type=tcp#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20IPNET
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@45.141.235.191:443?encryption=none&flow=xtls-rprx-vision&pbk=mGPCrFElfsioK3y3nOyW66ahpIocDnnyzfUnoN7ULFc&security=reality&sid=c2cdd5&sni=cats-n-dogs.rumainco.cl&type=tcp#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20IPNET
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@45.141.235.191:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cats-n-dogs.rumainco.cl&pbk=mGPCrFElfsioK3y3nOyW66ahpIocDnnyzfUnoN7ULFc&sid=c2cdd5&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20IPNET
