@@ -1,5 +1,6 @@
 # Country GB
-# Updated: 2026-09-21 07:52:00 UTC
-# Count: 1
+# Updated: 2026-09-21 08:22:00 UTC
+# Count: 2
 
-vless://3bff8ab5-5718-49d9-bc79-6e4468cb45c3@31.76.39.240:443?security=reality&sid=832d9228ddd3&fp=firefox&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&spx=%2FAhmadV2ray&sni=brito.serveroff.net&flow=xtls-rprx-vision&fm=AhmadV2ray&type=tcp&headerType=none&encryption=none#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
+vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cisco.com&fp=chrome&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&sid=75adf1&spx=%2F4gd6xNvGqQ6Uz6c&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0IiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiJ9
