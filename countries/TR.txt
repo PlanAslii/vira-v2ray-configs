@@ -1,7 +1,9 @@
 # Country TR
-# Updated: 2026-09-21 07:52:00 UTC
-# Count: 10
+# Updated: 2026-09-21 08:22:00 UTC
+# Count: 9
 
+vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
+vless://72f8e59f-7a0d-44f2-a8db-b4c3e1e36716@167.104.219.38:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.bybit.com&fp=safari&pbk=Fbxmh8lfqihiGCBMZH8REImrxM0eqW-57Zw7YA9-ZDI&sid=caa051f01bcfe547&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://My-chanel-Telegram-ATOVPN%20@167.104.219.193:40185?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://585fdc07-0305-427c-abfb-7c94dc83466e@93.190.9.11:3090?mode=multi&encryption=none&fm=AhmadV2ray&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
 vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.58:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
@@ -9,6 +11,3 @@ vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.41:3090?encryption=none&mo
 vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.45:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
 vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.44:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
 vless://24051e17-a1c9-4566-a331-789e6b681007@turkeynewvdflvvjfkdsjvlk3jvoijuvoisdfjvoi3ju2voisfjdoivodfsiv.nevoxa.ir:32210?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://443b2e33-8e9c-4f7b-a48a-383a93895d1e@144.225.65.177:443?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
-vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.40:3090?encryption=none&security=none&type=grpc&mode=multi&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.34:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
