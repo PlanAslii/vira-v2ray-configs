@@ -1,10 +1,8 @@
 # Country FR
-# Updated: 2026-09-22 13:22:00 UTC
-# Count: 6
+# Updated: 2026-09-22 13:52:00 UTC
+# Count: 4
 
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@145.223.70.129:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2bc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
 vless://3e188eb2-0a3a-4efe-a7bf-bd3c36d65a85@f1r.starzone.ir:8735?encryption=none&type=tcp&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=1bfe954cb07fb70a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&security=reality&serviceName=grpc-common3&sid=52add08b86a5ccea&sni=www.nvidia.com&type=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.211.208:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@145.223.70.129:9443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=safari&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=ad20d2bc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.119.98:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=a8ae#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FBW%20NETWORKS%20SAS
