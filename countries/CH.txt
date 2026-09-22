@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-09-22 18:22:00 UTC
-# Count: 1
+# Updated: 2026-09-22 18:52:00 UTC
+# Count: 2
 
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&type=ws&path=%2Fvless-test#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
 vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@179.255.191.40:8443?path=%2Fassets&security=tls&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=switz.luxes.network#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Host%20Telecom%20LTD
