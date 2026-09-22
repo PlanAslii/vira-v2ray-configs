@@ -1,8 +1,7 @@
 # Country IR
-# Updated: 2026-09-22 22:52:00 UTC
-# Count: 4
+# Updated: 2026-09-22 23:22:00 UTC
+# Count: 3
 
 vless://98926dce-3e74-440b-badd-8978d56c6723@lahmacunhalis.bizimoglan.ir:8880?encryption=mlkem768x25519plus.native.0rtt.iUBi1EaCqeKnPsc4Dab84iG2QF8SLglBELAkDZZ0kw4&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&pbk=zQIULUATF7uOiQoSJJLyIiCLtEHMQae1dn0GtiegpmA&sid=6476092111d6d235#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Giti%20Secure%20Cloud%20LLC%20%E2%94%87%20%F0%9F%9F%A2
 vless://98926dce-3e74-440b-badd-8978d56c6723@almaniytun.paslanmaz.ir:2096?encryption=mlkem768x25519plus.native.0rtt.ls_wRDTFGu6uazaqkXIutttM4V_1Z_t315G_WSnoyyI&security=reality&type=tcp&headerType=none&sni=www.speedtest.net&fp=chrome&pbk=5tqD_dp1WAw31L6rpCvMQ9DTCKzGP-Cx_ZVvvbttO1s&sid=ac4914274b3c6868#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Giti%20Secure%20Cloud%20LLC%20%E2%94%87%20%F0%9F%9F%A2
 vless://98926dce-3e74-440b-badd-8978d56c6723@northlandtun.paslanmaz.ir:2087?encryption=mlkem768x25519plus.native.0rtt.cWonov9DLEfPtsVMKF_MPG3G84Js7pWU8LaA_TkdnQk&security=reality&type=tcp&headerType=none&sni=www.speedtest.net&fp=firefox&pbk=erwrG6aJTpoMP4i5OTJflXJQCTtF4Az8FhZZiWLEBSI&sid=e49d9409f198fb36#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Giti%20Secure%20Cloud%20LLC%20%E2%94%87%20%F0%9F%9F%A2
-vless://4d0f8942-a438-4eed-adaf-d8da54ba7221@testwolf.aping.casa:2082?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2F&security=tls&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Peyman%20Ertebatat%20Pouya%20Company%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
