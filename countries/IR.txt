@@ -1,6 +1,7 @@
 # Country IR
-# Updated: 2026-09-22 21:52:00 UTC
-# Count: 2
+# Updated: 2026-09-22 22:22:00 UTC
+# Count: 3
 
+vless://4d0f8942-a438-4eed-adaf-d8da54ba7221@testwolf.aping.casa:2082?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2F&security=tls&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Peyman%20Ertebatat%20Pouya%20Company%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
 vless://21675c30-e08e-4abb-977b-2cdbbbf4873e@ts.ultranv.ir:8585?encryption=none&security=tls&type=ws&headerType=none&path=live&host=tls.codmaxx.ir&sni=tls.codmaxx.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SHATEL%20Network
 vless://21675c30-e08e-4abb-977b-2cdbbbf4873e@ts2.ultranv.ir:8282?encryption=none&security=tls&type=ws&headerType=none&path=live&host=tls.codmaxx.ir&sni=tls.codmaxx.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SHATEL%20Network%20%E2%94%87%20%F0%9F%94%B4
