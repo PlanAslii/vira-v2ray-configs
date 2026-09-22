@@ -1,8 +1,5 @@
 # Country TR
-# Updated: 2026-09-22 20:22:00 UTC
-# Count: 4
+# Updated: 2026-09-22 20:52:00 UTC
+# Count: 1
 
-vless://621137e4-e33d-4645-974b-1f4ef4bb2007@trr2.banibus.ir:1280?encryption=none&security=none&type=ws&path=%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vmess://eyJhZGQiOiIyMDYuMS45Ny4yMTIiLCJhaWQiOiIwIiwiaWQiOiJOaXRyb19Ta3lib3RAIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODM1MSIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ29nZW50IENvbW11bmljYXRpb25zIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://4da4f49d-2597-4ac2-883f-3f1fcb046e24@206.1.97.61:443?encryption=none&type=tcp&security=reality&sni=Miro.com&fp=chrome&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&sid=d7397feef49deef9&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
-vless://b3e950f6-b446-4fe1-808b-29e10a1c2479@194.146.47.87:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=trcdn2.nome-rkp.net#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AltunHOST%20LTD
+vmess://eyJhZGQiOiIyMDYuMS45Ny4yMTIiLCJhaWQiOiIwIiwiaWQiOiJOaXRyb19Ta3lib3RAIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODM1MSIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ29nZW50IENvbW11bmljYXRpb25zIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
