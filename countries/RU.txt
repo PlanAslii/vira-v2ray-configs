@@ -1,7 +1,6 @@
 # Country RU
-# Updated: 2026-09-22 03:22:00 UTC
-# Count: 3
+# Updated: 2026-09-22 03:52:00 UTC
+# Count: 2
 
 vless://1cc07f3d-0217-4dc3-8137-b8f7c05a1c3b@87.228.32.207:443?encryption=none&type=grpc&security=tls&sni=cdn19.global-cdn.org&fp=safari&alpn=h2&serviceName=vlgrpc&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
 vless://1cc07f3d-0217-4dc3-8137-b8f7c05a1c3b@87.228.33.67:443?encryption=none&type=grpc&security=tls&sni=cdn13.global-cdn.org&fp=safari&alpn=h2&serviceName=vlgrpc&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Miglovets%20Egor%20Andreevich
