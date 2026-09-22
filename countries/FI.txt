@@ -1,7 +1,8 @@
 # Country FI
-# Updated: 2026-09-22 05:52:00 UTC
-# Count: 3
+# Updated: 2026-09-22 06:22:00 UTC
+# Count: 4
 
+vless://a1c20e5e-3430-4f7e-b2e8-bdb1f436f796@147.78.181.93:56789?security=reality&encryption=none&pbk=-3FPglNmTIB-6d9hzVcq5cwiAGv3t4fIwt74UMqdYHs&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=h.card-choice.ru&sid=146fcdd432d98962#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://5cdfb212-6257-42a7-8185-8b33f0d23bc6@fl.rushoppingforwomen.com:443?security=reality&encryption=none&pbk=kSelqiijospUZVwgMaK2wAH6EIVVGBi4YEMI1RvqzGM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl.rushoppingforwomen.com&sid=b9fcb125d1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
 vless://ec7a4183-3e7b-49c4-90dc-fe352e1b0ad0@193.35.17.29:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi03.mcloud.mov&fp=safari&pbk=fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://bd70f457-3ec8-4c93-9e5d-b2299b98cd80@77.42.34.2:30558?encryption=mlkem768x25519plus.native.0rtt.LiAC5NZeBub5qyAnJR--Asb2urMAuRkrGwLexToWPhU&flow=xtls-rprx-vision&type=raw&security=reality&sni=play.google.com&fp=random&pbk=GaiQyQDjRBb4FPg89ifTpLhA5eV4J5X0Othj_uZOxRc&sid=00587e87ebfbad1d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
