@@ -1,6 +1,5 @@
 # Country RU
-# Updated: 2026-09-22 03:52:00 UTC
-# Count: 2
+# Updated: 2026-09-22 04:22:00 UTC
+# Count: 1
 
-vless://1cc07f3d-0217-4dc3-8137-b8f7c05a1c3b@87.228.32.207:443?encryption=none&type=grpc&security=tls&sni=cdn19.global-cdn.org&fp=safari&alpn=h2&serviceName=vlgrpc&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
-vless://1cc07f3d-0217-4dc3-8137-b8f7c05a1c3b@87.228.33.67:443?encryption=none&type=grpc&security=tls&sni=cdn13.global-cdn.org&fp=safari&alpn=h2&serviceName=vlgrpc&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
