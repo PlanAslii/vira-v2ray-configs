@@ -1,6 +1,8 @@
 # Country FR
-# Updated: 2026-09-22 16:22:00 UTC
-# Count: 2
+# Updated: 2026-09-22 16:52:00 UTC
+# Count: 4
 
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://cc01f435-d561-4525-bf1f-7a9876d33207@130.49.218.208:5432?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&fp=safari#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://02996123-6769-4bfd-bc5d-a2f45f4aa9de@f1r.starzone.ir:8735?encryption=none&type=tcp&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=1bfe954cb07fb70a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.211.208:22222?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@145.223.70.129:9443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=safari&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=ad20d2bc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
