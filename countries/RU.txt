@@ -1,12 +1,10 @@
 # Country RU
-# Updated: 2026-09-22 09:52:00 UTC
-# Count: 8
+# Updated: 2026-09-22 10:22:00 UTC
+# Count: 6
 
+vless://a5a311a8-6b0b-4ddc-b354-79acb4e19d67@185.211.170.77:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=polka3.cryposikel.ru&fp=safari#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://89a0fe83-dcb3-4e3c-92ed-407fc668e7b1@77.110.105.102:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru-1.brodvpn.com&fp=safari&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://a76f6959-7d88-40c5-8984-4d888aa42389@89.110.96.166:3111?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=419ec9.relay-edge.net&fp=safari&pbk=4YFpLhV9HbwlCXzvCL8EfvYe-V-VCuXZIaOWS11lKXI&sid=11f303a9ff001d7c&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Hosting%20technology%20LTD
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?encryption=none&type=ws&security=tls&sni=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&host=wstg.datasynctrue.online#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://8057eabc-921d-0002-9acb-80ccc6b48379@92.255.79.246:443?encryption=none&security=reality&sni=supbober.mafioznik.xyz&fp=safari&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&type=grpc&serviceName=Lizat&mode=multi#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20Hysteria2%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://a5a311a8-6b0b-4ddc-b354-79acb4e19d67@185.211.170.77:443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=polka3.cryposikel.ru#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://89a0fe83-dcb3-4e3c-92ed-407fc668e7b1@77.110.105.102:443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ru-1.brodvpn.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
