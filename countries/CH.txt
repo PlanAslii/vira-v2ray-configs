@@ -1,5 +1,5 @@
 # Country CH
-# Updated: 2026-09-22 09:22:00 UTC
+# Updated: 2026-09-22 09:52:00 UTC
 # Count: 1
 
-vless://e5d73666-1ac5-49fc-8e4d-5c8cad769588@82.38.139.24:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=safari&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://dc002c10-29ea-4a03-9971-399d046121bb@84.75.255.140:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ch2.responsiblecare.uk&fp=safari&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=98c637e074b03225&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20UP-NETWORK%20Sarl
