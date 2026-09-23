@@ -1,7 +1,5 @@
 # Country PL
-# Updated: 2026-09-23 00:22:00 UTC
-# Count: 3
+# Updated: 2026-09-23 00:52:00 UTC
+# Count: 1
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=pl3.moritech.net&fp=firefox&alpn=h2#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
+vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=safari&flow=xtls-rprx-vision&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&sid=fa3ea655619a3e78#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
