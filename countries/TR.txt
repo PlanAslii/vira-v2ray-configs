@@ -1,8 +1,7 @@
 # Country TR
-# Updated: 2026-09-23 19:22:00 UTC
-# Count: 4
+# Updated: 2026-09-23 19:52:00 UTC
+# Count: 3
 
+vless://ab1e0e78-f18b-46de-ac84-2961ea45be1c@digi.netbazshop.ir:33017?encryption=mlkem768x25519plus.native.0rtt.YoqVHL7fCzI4qbWSy3TN6inQG32vJD01ZGgUKvLoQFY&host=digi.netbazshop.ir&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://ab1e0e78-f18b-46de-ac84-2961ea45be1c@fiso.netbazshop.ir:33017?encryption=mlkem768x25519plus.native.0rtt.YoqVHL7fCzI4qbWSy3TN6inQG32vJD01ZGgUKvLoQFY&host=fiso.netbazshop.ir&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
 vless://4d69277c-02cf-475b-977f-949c3b0a0d36@87.120.106.180:443?security=reality&encryption=none&pbk=f09CLVED0WnerTVrfS_nZ7UUuTHtT_TIiDeJ0z9WCHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.upwork.com&sid=a96e5dd96c4b902d#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://989e5485-36be-4074-bb01-251241a10a24@bb1fb703b23b.darzelo.ir:31026?security=reality&encryption=none&pbk=fpvq17vVafOk9QsKEa5t0OblzoEXTIcCBNkMwJ80YVE&host=edit.bulkorder.ftc.gov&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=region1.app-analytics-services-att.com&sid=16cf4d939d05074b#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
-vless://43562697-135a-479a-92c8-4c96b46ace07@194.135.34.157:6443?security=tls&encryption=none&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=turkey-api.locallynet.org#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi
-vless://85a8a9bc-77bc-4ef6-a0a2-8466136957aa@tr.drive-host.uk:443?security=reality&encryption=none&pbk=OkpVqxUj7ycs77ceBMx3hzabS-5kk8nKVQUs0Ow1nkQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tr.drive-host.uk&sid=f74c6a18133e2e72#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Sunucun%20Bilgi%20Iletisim%20Teknolojileri%20ve%20Ticaret%20Ltd.%20Sti.
