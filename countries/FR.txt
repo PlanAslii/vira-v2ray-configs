@@ -1,6 +1,13 @@
 # Country FR
-# Updated: 2026-09-23 05:22:00 UTC
-# Count: 2
+# Updated: 2026-09-23 05:52:00 UTC
+# Count: 9
 
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@92.119.126.189:8443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=%252F&security=tls&sni=shuma.ccwu.cc&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20velia.net%20Internetdienste%20GmbH
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@217.60.252.115:443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=%252F&security=tls&sni=shuma.ccwu.cc&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@95.182.82.191:443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=%252F&security=tls&sni=shuma.ccwu.cc&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@217.60.37.28:8443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=%252F&security=tls&sni=shuma.ccwu.cc&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@138.124.58.31:8443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=%252F&security=tls&sni=shuma.ccwu.cc&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.95.192:22224?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.230.69:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vmess://eyJhZGQiOiI0NS44MC4yMTUuOCIsImFpZCI6IjAiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgRy1Db3JlIExhYnMgUy5BLiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
