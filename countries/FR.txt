@@ -1,6 +1,7 @@
 # Country FR
-# Updated: 2026-09-23 06:52:00 UTC
-# Count: 2
+# Updated: 2026-09-23 07:22:00 UTC
+# Count: 3
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.95.192:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://140d54e9-fe85-4c63-8259-5bf9b3e29349@fr.gmail.com.vipneninet.ir:57505?security=reality&encryption=mlkem768x25519plus.native.0rtt.aBucp3paG5j70ZZA_4peDpGIQd5p6jqLl1e2oJryp0E&pbk=iSaeShaeqtDvENOIputRF3d9-QR_IWccSL0CnxlcqmQ&headerType=none&fp=chrome&type=tcp&sni=zoomila.com&sid=2bcb1e3382a66c60#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.230.69:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
