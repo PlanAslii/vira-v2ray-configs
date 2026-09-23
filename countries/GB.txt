@@ -1,9 +1,6 @@
 # Country GB
-# Updated: 2026-09-23 16:52:00 UTC
-# Count: 5
+# Updated: 2026-09-23 17:22:00 UTC
+# Count: 2
 
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@194.150.166.108:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2ba#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.56.185:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.142.136:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e0fc8dbc-d564-459f-b565-33074732c102@213.193.255.188:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=only-cur1.voxicheck.com&fp=safari&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&sid=abcd1234&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
-vless://e0fc8dbc-d564-459f-b565-33074732c102@164.37.101.244:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=only-cur4.voxicheck.com&fp=safari&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&sid=abcd1234&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
-vless://e0fc8dbc-d564-459f-b565-33074732c102@194.46.59.4:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=only-cur3.voxicheck.com&fp=safari&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&sid=1122334455667788&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
