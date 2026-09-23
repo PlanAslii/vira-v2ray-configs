@@ -1,8 +1,8 @@
 # Country FI
-# Updated: 2026-09-22 23:52:00 UTC
+# Updated: 2026-09-23 00:22:00 UTC
 # Count: 4
 
+vless://588152b9-2452-4495-be14-4b44eae3aa1f@9a2a6a9663a1d454.fn-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nr6.nl&sid=b684d13617792bb2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://e84e0918-68ca-4fcc-a1d1-b566fd9ac7ee@193.23.201.65:5432?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&fp=safari#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@31.76.80.230:8443?encryption=none&type=ws&security=tls&sni=fin.luxes.network&fp=safari&alpn=http%2F1.1&path=%2Fassets#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://d929e993-8053-488a-8a22-0ae09f706a2e@171.22.114.98:443?security=reality&encryption=none&pbk=3Qh9roHIRJtLEM-gV_hudQrY6wPK_Dc3ePVtWLGqYho&headerType=none&fp=chrome&type=tcp&sni=www.goo.gl&sid=ef7db38f625526f5#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20WorkTitans%20B.V.
-vless://588152b9-2452-4495-be14-4b44eae3aa1f@9a2a6a9663a1d454.fn-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nr6.nl&sid=b684d13617792bb2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
