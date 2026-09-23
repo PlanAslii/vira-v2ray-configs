@@ -1,10 +1,9 @@
 # Country GB
-# Updated: 2026-09-23 16:22:00 UTC
-# Count: 6
+# Updated: 2026-09-23 16:52:00 UTC
+# Count: 5
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.56.185:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.142.136:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e0fc8dbc-d564-459f-b565-33074732c102@213.193.255.188:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=only-cur1.voxicheck.com&fp=safari&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&sid=abcd1234&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
 vless://e0fc8dbc-d564-459f-b565-33074732c102@164.37.101.244:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=only-cur4.voxicheck.com&fp=safari&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&sid=abcd1234&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
 vless://e0fc8dbc-d564-459f-b565-33074732c102@194.46.59.4:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=only-cur3.voxicheck.com&fp=safari&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&sid=1122334455667788&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
-vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiJ2MnJheU5wbHVzLXYycmF5TnBsdXMtdjJyYXlOcGx1cyIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgXHUyNTA3IFZNZXNzIFx1MDBiNyBHVEhvc3QiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXlucGx1cy12MnJheW5wbHVzLXYycmF5bnBsdXMiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
