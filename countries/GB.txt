@@ -1,7 +1,5 @@
 # Country GB
-# Updated: 2026-09-23 14:22:00 UTC
-# Count: 3
+# Updated: 2026-09-23 14:52:00 UTC
+# Count: 1
 
-vless://fc43ef0c-0e50-432c-9047-eac98cbab49f@if89baq3.selqora.ir:51595?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20UK%20Limited
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@194.150.166.230:9443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=safari&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=ad20d2ba&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiJ2MnJheU5wbHVzLXYycmF5TnBsdXMtdjJyYXlOcGx1cyIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgXHUyNTA3IFZNZXNzIFx1MDBiNyBHVEhvc3QiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXlucGx1cy12MnJheW5wbHVzLXYycmF5bnBsdXMiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@194.150.166.230:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2ba#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
