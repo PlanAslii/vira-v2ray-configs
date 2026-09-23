@@ -1,12 +1,5 @@
 # Country TR
-# Updated: 2026-09-23 10:22:00 UTC
-# Count: 8
+# Updated: 2026-09-23 10:52:00 UTC
+# Count: 1
 
 vless://2d3c9d3f-c072-4776-a1d2-de22721e6c0d@212.64.211.207:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tr.drive-host.uk&fp=safari&pbk=OkpVqxUj7ycs77ceBMx3hzabS-5kk8nKVQUs0Ow1nkQ&sid=f74c6a18133e2e72&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Sunucun%20Bilgi%20Iletisim%20Teknolojileri%20ve%20Ticaret%20Ltd.%20Sti.
-vless://256509dc-bedd-4804-ae6e-596e009b8380@93.190.9.192:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://b33d4960-8bfd-469f-9092-35ea28d75a5e@93.190.9.38:3090?mode=gun&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://256509dc-bedd-4804-ae6e-596e009b8380@93.190.9.16:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://b33d4960-8bfd-469f-9092-35ea28d75a5e@93.190.9.162:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://256509dc-bedd-4804-ae6e-596e009b8380@93.190.9.25:3090?mode=gun&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://256509dc-bedd-4804-ae6e-596e009b8380@93.190.9.7:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://b33d4960-8bfd-469f-9092-35ea28d75a5e@93.190.9.5:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
