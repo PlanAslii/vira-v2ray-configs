@@ -1,8 +1,7 @@
 # Country FR
-# Updated: 2026-09-24 22:22:00 UTC
-# Count: 4
+# Updated: 2026-09-24 22:52:00 UTC
+# Count: 3
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.167.181:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fra.loozerp.wiki&sid=ff776ff77be48b88#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.27:22224?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://72c9846e-3cef-4454-83f4-59a7e5d8841e@france-sgood.wopd.butnorwa.butter.melon.shoes.bye.whooisthebest.ir:9000?encryption=none&type=tcp&security=reality&headerType=none&sni=sheets.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&sid=cd0a1986719e44c8#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Verycloud%20SAS
