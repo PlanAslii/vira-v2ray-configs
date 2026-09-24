@@ -1,6 +1,8 @@
 # Country FI
-# Updated: 2026-09-24 19:52:00 UTC
-# Count: 2
+# Updated: 2026-09-24 20:22:00 UTC
+# Count: 4
 
-vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=reality&encryption=none&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&headerType=none&fp=edge&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=144.31.27.215&sid=568d87a47271344e#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20U1%20DIGITAL%20SERVICES%20LTD
-vless://ec825a3d-4136-40db-b39f-2ef40f19aa19@nothing.quickpl.ir:32569?security=none&encryption=mlkem768x25519plus.native.0rtt.jyflF0RHRYv7QHkxAwAK4c49BDolRTl6P5o07q9mbnE&host=snapp.ir&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://236b5084-9605-4b6d-b4eb-22408e22d84a@2.26.97.14:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mzone.fi.3cloudhost.com&fp=safari&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
+vless://ba6ed797-4f9f-4c7c-9178-f32616502770@144.31.150.210:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi-4.extra-solutions.ru&fp=safari&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
+vless://ba6ed797-4f9f-4c7c-9178-f32616502770@144.31.150.209:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi-3.extra-solutions.ru&fp=safari&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
+vless://6caa9944-1c60-48db-bee1-7d7a8239364b@87.121.82.158:5432?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&fp=safari#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
