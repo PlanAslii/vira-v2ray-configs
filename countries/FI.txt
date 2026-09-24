@@ -1,7 +1,8 @@
 # Country FI
-# Updated: 2026-09-24 18:22:00 UTC
-# Count: 3
+# Updated: 2026-09-24 18:52:00 UTC
+# Count: 4
 
+vless://8e826a69-63f6-0001-a67d-4a1958e8b2d2@138.124.121.231:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=chrome&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Intezio%20Worldwide%20Limited
+vmess://eyJhZGQiOiJtZTQubW92aWVzZXJ5YWxpcmFuaS5pciIsImhvc3QiOiJicGkiLCJpZCI6ImZiODIxZDRjLTAyNDEtNGZjZi1iMTgzLTlkOTY2M2JmMGFmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MTQ5OTEsInNjeSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgXHUyNTA3IFZNZXNzIFx1MDBiNyBIZXR6bmVyIE9ubGluZSBHbWJIIn0
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@2.27.175.71:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.AssetService&sni=assets-fi.pleiades.codes&type=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
 vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=reality&encryption=none&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&headerType=none&fp=edge&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=144.31.27.215&sid=568d87a47271344e#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20U1%20DIGITAL%20SERVICES%20LTD
-vless://c8c48cda-09c0-4742-850f-5ef910aa730b@65.109.199.174:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=Miro.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
