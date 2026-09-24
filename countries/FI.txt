@@ -1,7 +1,7 @@
 # Country FI
-# Updated: 2026-09-24 12:52:00 UTC
+# Updated: 2026-09-24 13:22:00 UTC
 # Count: 3
 
-hysteria2://497714ak02q0mtoa@karo.rick313.dpdns.org:2096?alpn=h3&obfs=salamander&obfs-password=karo123&security=tls&sni=karo.rick313.dpdns.org#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://607fbd26-4bd6-4e16-a74b-a0d9894866e7@2.26.3.81:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi03.mcloud.mov&fp=safari&pbk=fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
-vless://ee2f0150-689b-417d-95d7-42cba6c61d8b@9f0dc6af54d451b5.fn-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nr6.nl&sid=b684d13617792bb2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=144.31.27.215&fp=safari&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&sid=568d87a47271344e&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20U1%20DIGITAL%20SERVICES%20LTD
+hysteria2://497714ak02q0mtoa@karo.rick313.dpdns.org:2096?alpn=h3&obfs=salamander&obfs-password=karo123&security=tls&sni=karo.rick313.dpdns.org#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20Hysteria2%20%C2%B7%20Hetzner%20Online%20GmbH
