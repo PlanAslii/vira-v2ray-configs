@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-09-24 15:22:00 UTC
-# Count: 1
+# Updated: 2026-09-24 15:52:00 UTC
+# Count: 2
 
-vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@193.151.108.35:43000?security=reality&encryption=none&pbk=iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=193.151.108.35&sid=75df7f65ba2a8155#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@193.151.108.35:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=193.151.108.35&fp=safari&pbk=iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ&sid=75df7f65ba2a8155&spx=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&type=ws&path=%2Fvless-test#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
