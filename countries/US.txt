@@ -1,16 +1,11 @@
 # Country US
-# Updated: 2026-09-24 18:22:00 UTC
-# Count: 12
+# Updated: 2026-09-24 18:52:00 UTC
+# Count: 7
 
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
+vless://XpnTeam-27@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Alibaba%20Cloud%20LLC
 vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=%2F&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://dffab367-7769-4c6c-86f2-66fc6bd03003@136.117.218.86:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM&sid=f1955f72763eb2fb&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Google%20LLC
 vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@151.101.56.6:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://XpnTeam-28@199.232.78.160:443?security=tls&type=ws&host=Appxdn.global.ssl.fastly.net&allowInsecure=0&sni=ssl.fastly.com&insecure=0&encryption=none&alpn=http%2F1.1&path=%2F&fp=chrome#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://f44ca7a0-9990-4799-9144-a0aa64d16be6@simpleto.asan-ps.ir:443?security=tls&type=ws&host=simorghjap.global.ssl.fastly.net&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://f44ca7a0-9990-4799-9144-a0aa64d16be6@simpleone.asan-ps.ir:443?security=tls&type=ws&host=fstazdgerman.global.ssl.fastly.net&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://1f47dacf-f31a-4850-a6d6-80c7a808d115@37.9.33.235:443?security=reality&encryption=none&pbk=JQksC6x-9OOKJoJ0MdQm9OIzk89up0_SUBnLnHqfQBc&headerType=none&fp=chrome&type=tcp&sni=ai.android&sid=58a8ca0c5ebee33e#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
-vless://8bba8133-5c2f-a174-7998-f7594d4c98dd@newpalace-production-a231.up.railway.app:443?path=%2Fws%2F8bba8133-5c2f-a174-7998-f7594d4c98dd&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newpalace-production-a231.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=newpalace-production-a231.up.railway.app#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Railway
-vless://XpnTeam-27@199.232.78.170:443?security=tls&host=Appxdn.global.ssl.fastly.net&encryption=none&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&path=%2F&fp=chrome&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Alibaba%20Cloud%20LLC
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Hysteria2%20%C2%B7%20DigitalOcean%2C%20LLC
