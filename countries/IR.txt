@@ -1,6 +1,5 @@
 # Country IR
-# Updated: 2026-09-24 22:22:00 UTC
-# Count: 2
+# Updated: 2026-09-24 22:52:00 UTC
+# Count: 1
 
-vless://21909bee-7f8f-488e-939b-8c7e9fece3ea@tun-arm-2.coixconqwe2.ir:80?encryption=none&type=ws&path=%2Fnews&host=play-apps-features.googleusercontent.com&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Iran%20Cell%20Service%20and%20Communication
-vless://21909bee-7f8f-488e-939b-8c7e9fece3ea@193.151.132.102:443?encryption=none&type=tcp&security=reality&sni=www.aparat.com&fp=edge&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
+vless://b9f2cecd-68b7-4a4e-a048-2f2ac120fc0c@193.151.158.55:3000?security=none&encryption=mlkem768x25519plus.native.0rtt.d5uV_Zsp95FHCXuY1bimdQEuqpynfAIyt5XVEr4oNVU&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
