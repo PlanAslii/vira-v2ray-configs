@@ -1,6 +1,5 @@
 # Country RS
-# Updated: 2026-09-24 14:22:00 UTC
-# Count: 2
+# Updated: 2026-09-24 20:22:00 UTC
+# Count: 1
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
+vless://236b5084-9605-4b6d-b4eb-22408e22d84a@150.40.126.104:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mzone.rs.3cloudhost.com&fp=safari&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
