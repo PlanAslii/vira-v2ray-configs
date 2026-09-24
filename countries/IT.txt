@@ -1,8 +1,7 @@
 # Country IT
-# Updated: 2026-09-24 09:22:00 UTC
-# Count: 4
+# Updated: 2026-09-24 09:52:00 UTC
+# Count: 3
 
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTWVzcyBcdTAwYjcgRy1Db3JlIExhYnMgUy5BLiIsImFkZCI6Ijg5LjQxLjE3Mi44NSIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiJ9
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.77.201.33:443?security=reality&encryption=none&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&host=italia.superbuba.top&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=italia.superbuba.top&sid=4fa44664f6a566d3#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
 vless://4ca49915-aee9-41c4-bfa5-1555c7447faa@151.101.240.148:80?encryption=none&type=ws&path=%2F&host=jabaat.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.77.154.14:8443?security=reality&encryption=none&pbk=3O__mdy-whzI07V-QEyR6GQnag1FNwtHijDxt2_jkDQ&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=swscan.apple.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
-vless://95d03d8d-b4e9-404e-86e5-bfe1eb266260@31.77.154.36:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=GOa29oDnuV7oi4QaNSBLxJ6ViNMclpuqJq0yXsNB-VA&sid=e77ef1d553efced7&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
-vless://fed5c436-f9aa-4a60-b25f-876052fdf578@31.76.113.108:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=rome.spbculture.org&fp=safari&pbk=EpCXTNjfOio49u5WHJDERuPmwc_e7HZQcS5aSOovo04&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
