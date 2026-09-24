@@ -1,7 +1,5 @@
 # Country FR
-# Updated: 2026-09-24 22:52:00 UTC
-# Count: 3
+# Updated: 2026-09-24 23:22:00 UTC
+# Count: 1
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.167.181:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fra.loozerp.wiki&sid=ff776ff77be48b88#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.27:22224?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
