@@ -1,7 +1,6 @@
 # Country IT
-# Updated: 2026-09-24 21:22:00 UTC
-# Count: 3
+# Updated: 2026-09-24 21:52:00 UTC
+# Count: 2
 
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443/?type=ws&encryption=none&host=milan.adaspoloandco.com&path=%2FRoBeRt&security=tls&sni=milan.adaspoloandco.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://cf3022cf-4d7f-4d38-b826-a576aa0fa036@151.101.240.148:80?path=%2F&security=none&encryption=none&host=jabaat.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://b1b4f2c7-2a5b-4b46-8cef-c8e853919eeb@31.77.154.6:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=static.responsiblecare.uk&fp=safari&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=05cf93ad9f36e28e&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
