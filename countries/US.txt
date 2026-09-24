@@ -1,7 +1,11 @@
 # Country US
-# Updated: 2026-09-24 17:52:00 UTC
-# Count: 15
+# Updated: 2026-09-24 18:22:00 UTC
+# Count: 12
 
+vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=%2F&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://dffab367-7769-4c6c-86f2-66fc6bd03003@136.117.218.86:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM&sid=f1955f72763eb2fb&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Google%20LLC
+vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@151.101.56.6:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://XpnTeam-28@199.232.78.160:443?security=tls&type=ws&host=Appxdn.global.ssl.fastly.net&allowInsecure=0&sni=ssl.fastly.com&insecure=0&encryption=none&alpn=http%2F1.1&path=%2F&fp=chrome#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://f44ca7a0-9990-4799-9144-a0aa64d16be6@simpleto.asan-ps.ir:443?security=tls&type=ws&host=simorghjap.global.ssl.fastly.net&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://f44ca7a0-9990-4799-9144-a0aa64d16be6@simpleone.asan-ps.ir:443?security=tls&type=ws&host=fstazdgerman.global.ssl.fastly.net&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
@@ -10,10 +14,3 @@ vless://8bba8133-5c2f-a174-7998-f7594d4c98dd@newpalace-production-a231.up.railwa
 vless://XpnTeam-27@199.232.78.170:443?security=tls&host=Appxdn.global.ssl.fastly.net&encryption=none&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&path=%2F&fp=chrome&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Alibaba%20Cloud%20LLC
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20Hysteria2%20%C2%B7%20DigitalOcean%2C%20LLC
-vless://XpnTeam-27@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://e9ed3344-200c-41a0-a7ea-b398fe3df3bc@151.101.56.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=kayko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@k2.cloud--vpn.site:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@151.101.56.6:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://XpnTeam-28@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://52ecd83b-b6c1-41ee-bc36-049755bd33d2@5.78.159.214:80?flow=xtls-rprx-vision&fp=chrome&pbk=NTXb7QGg9EyPkpG-7lmBNNaqf4473p_l8ITmTH-xmHg&security=reality&sid=0db5c018ed7bb596&sni=5.78.159.214&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://11f21602-47aa-42e2-9149-69120f2e6df6@us05.shifor01.life:443?type=tcp&security=reality&sni=us05.shifor01.life&fp=chrome&flow=xtls-rprx-vision&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&sid=169fc2df88419465#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Netgrid%20Host%20LTD
