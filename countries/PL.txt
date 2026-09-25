@@ -1,9 +1,5 @@
 # Country PL
-# Updated: 2026-09-25 15:22:00 UTC
-# Count: 5
+# Updated: 2026-09-25 15:52:00 UTC
+# Count: 1
 
-vless://4f73ecc6-4b5d-4d9a-a129-9435ff80e719@31.77.113.21:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=safari&pbk=kFTOE5YLP_2_6XYXCf4GpezBa3oMQI5QuLdcVsc8Q00&sid=ac14fc8efd29af1e&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://fe6846fc-788c-4866-a994-4bc2d3e80903@144.31.2.109:443?encryption=none&type=ws&security=tls&sni=quotedetail.nemoi-self.co.uk&fp=safari&path=%2Fmedia%2Fws%2F#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://fe6846fc-788c-4866-a994-4bc2d3e80903@144.31.2.103:443?encryption=none&type=ws&security=tls&sni=runnerretry.obsch-self.co.uk&fp=safari&path=%2Fmedia%2Fws%2F#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://fe6846fc-788c-4866-a994-4bc2d3e80903@144.31.5.97:443?encryption=none&type=ws&security=tls&sni=vertexsocket.stratos-fn.com&fp=safari&path=%2Fmedia%2Fws%2F#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://340f3560-c595-14a1-80c6-54445afc09d4@185.141.227.178:443?encryption=none&type=ws&security=tls&sni=6b9iw.guardora.pro&fp=safari&path=%2FogVAL8moh5SB#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Cloud%20Network%20LLC
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
