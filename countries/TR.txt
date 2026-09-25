@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-09-25 22:52:00 UTC
-# Count: 3
+# Updated: 2026-09-25 23:22:00 UTC
+# Count: 1
 
 vless://552ca1e2-d1d4-4d9d-b0ea-9fabd287ad14@93.114.98.221:8443?encryption=mlkem768x25519plus.native.0rtt.NQcOpgEn7mEG-CgYvLvb7qDbbZd7WyQw2SSzgNog1X8&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://6933bb34-cb01-4605-88c3-f335e4307d23@37.221.79.226:18443?security=reality&encryption=none&pbk=9hnmqap98ULg2y1fk4aqAtQEtPLQPIypZNmnrb42VWs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.sony.com&sid=50d9ee91#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://1817eee9-f405-4347-b58c-98f2a2ef4a32@free.ammd.mhxp1.com:16932?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=sddd.ammd.mhxp1.com&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
