@@ -1,5 +1,7 @@
 # Country CH
-# Updated: 2026-09-25 16:52:00 UTC
-# Count: 1
+# Updated: 2026-09-25 19:52:00 UTC
+# Count: 3
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&type=ws&path=%2Fvless-test#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
+vless://ba0fb679-cbdc-4f37-8f51-dfac199bb3f8@179.237.69.149:34567?encryption=none&type=grpc&security=reality&sni=addons.mozilla.org&fp=safari&pbk=fc-02gpCn-N_bd4WEd-iIHH5IHR3C8YFVz_5zXERvA0&sid=debec78ff21222&serviceName=grpc-relay&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
+vless://47f8bb8f-db50-4be1-96ba-41b874f185d8@167.148.183.113:443?encryption=none&type=tcp&security=reality&sni=ngse.krusofiya.fun&fp=safari&pbk=V6Po_D5X63_izuWRFKKLslwHkSZltg4QimcaxQIdCQI&sid=b95ccde0455fdc82&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Netgrid%20Host%20LTD
+vless://Ui7dxZ3RQAcVuL@45.90.56.101:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=Afp-zSDm7jmmT3KaKqmVyafpsPfNGKNzGPoWe97Sf3M&sid=61c6594c&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
