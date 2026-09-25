@@ -1,5 +1,6 @@
 # Country UA
-# Updated: 2026-09-25 18:22:00 UTC
-# Count: 1
+# Updated: 2026-09-25 18:52:00 UTC
+# Count: 2
 
-vless://02bd8b5a-170b-4a79-8e68-9cec710272c7@nl2.gursub.com:443?security=reality&encryption=none&pbk=ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl2.gursub.com&sid=a1b2c3d4e5f6a1b2#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
+vless://02bd8b5a-170b-4a79-8e68-9cec710272c7@nl2.gursub.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl2.gursub.com&pbk=ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk&sid=a1b2c3d4e5f6a1b2&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
+vless://552d68c0-dccf-4623-9eca-f4203e2203d1@104.143.223.221:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
