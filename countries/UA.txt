@@ -1,6 +1,5 @@
 # Country UA
-# Updated: 2026-09-25 13:22:00 UTC
-# Count: 2
+# Updated: 2026-09-25 13:52:00 UTC
+# Count: 1
 
-vless://86863a94-436f-4b42-87a9-ada20223fc98@msc.serverslocal.ru:443?security=reality&encryption=none&pbk=NpjfIgHAsqyICXFW8V0z-ZyG1pqxoA33pzTuu2frrF4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msc.serverslocal.ru&sid=32361b3578f68f5d#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
-vless://02bd8b5a-170b-4a79-8e68-9cec710272c7@nl2.gursub.com:443?security=reality&encryption=none&pbk=ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl2.gursub.com&sid=a1b2c3d4e5f6a1b2#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
+vless://02bd8b5a-170b-4a79-8e68-9cec710272c7@nl2.gursub.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl2.gursub.com&pbk=ltHl15Wq549qC2JdAtesy-POs6Hwm_BbrlzuwDkWoUk&sid=a1b2c3d4e5f6a1b2&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
