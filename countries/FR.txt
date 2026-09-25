@@ -1,13 +1,8 @@
 # Country FR
-# Updated: 2026-09-25 22:52:00 UTC
-# Count: 9
+# Updated: 2026-09-25 23:22:00 UTC
+# Count: 4
 
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@185.171.202.106:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fra2.loozerp.wiki&sid=ff776ff77be48b88#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra.loozerp.wiki&sid=ff776ff77be48b88#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.68.85:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://8844da6c-0083-4f72-86c1-bec6cfa61d7f@95g.gmail.com.admni.ir:10967?encryption=mlkem768x25519plus.native.0rtt.dfxDMusGDRD0mu_pr8_zsINClGiqAKqSyoJaGfj-nEI&security=reality&sni=zoomila.com&fp=chrome&pbk=8yjnlabt9Q1RK7bLtd0PJq5zE54oZcObXKzSkX4zhwc&sid=2faf6a44b4f47d84&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
-vless://a11cb858-4a42-4735-b40b-4cba1560b959@p11real444.greewebservices.ir:3303?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://a11cb858-4a42-4735-b40b-4cba1560b959@p1real7.greewebservices.ir:1290?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://a11cb858-4a42-4735-b40b-4cba1560b959@p1real6.greewebservices.ir:1280?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
