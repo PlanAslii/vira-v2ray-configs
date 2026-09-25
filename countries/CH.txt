@@ -1,5 +1,5 @@
 # Country CH
-# Updated: 2026-09-25 00:22:00 UTC
+# Updated: 2026-09-25 01:22:00 UTC
 # Count: 1
 
-vless://b1b4f2c7-2a5b-4b46-8cef-c8e853919eeb@82.21.4.149:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ch2.responsiblecare.uk&fp=safari&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=356a70f0d72b4e80&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20UP-NETWORK%20Sarl
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?path=%2Fvless-test&encryption=none&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
