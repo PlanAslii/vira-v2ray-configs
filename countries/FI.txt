@@ -1,7 +1,10 @@
 # Country FI
-# Updated: 2026-09-25 13:52:00 UTC
-# Count: 3
+# Updated: 2026-09-25 14:22:00 UTC
+# Count: 6
 
+vless://5ca0508d-caf8-42f3-8a4d-5c19260020f5@65.109.185.150:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CDXGcRZIy_cNiCrvU1p0uQsagNeElYVx99w5aFw-iRI&security=reality&sid=b346afc665d944c7&sni=storage.googleapis.com&spx=%2FUl59hoQK3LLQuiZ&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://8e826a69-63f6-0001-a67d-4a1958e8b2d2@138.124.121.231:443?security=reality&encryption=none&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=a696de84963656de#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Intezio%20Worldwide%20Limited
+vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=ee1716767f9b&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-fi.pleiades.codes:443?type=grpc&security=tls&fp=chrome&serviceName=cdn.v1.AssetService#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
 vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=reality&encryption=none&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&headerType=none&fp=edge&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=144.31.27.215&sid=568d87a47271344e#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20U1%20DIGITAL%20SERVICES%20LTD
 vless://ac76e123-d0e9-4448-8689-b6b984e73c40@srv-2.macau24.com:2565?path=%2Fapi%2Fv1%2Fgpu-stream%2Fsocket%3Fed%3D2560&security=none&encryption=mlkem768x25519plus.native.0rtt.OZkVYz6Uu5zyCKee6bqFh5SbH0yByTD-2jaNO0Y5Uyo&host=play.google.com&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://927a210d-ba1f-45f7-b24e-73414dcf7059@65.109.199.174:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
