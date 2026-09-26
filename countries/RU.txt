@@ -1,7 +1,5 @@
 # Country RU
-# Updated: 2026-09-25 23:22:00 UTC
-# Count: 3
+# Updated: 2026-09-26 00:22:00 UTC
+# Count: 1
 
-vless://933eb45b-0e97-4ed1-bfb9-e34bd0b4342c@45.67.56.25:443?security=reality&encryption=none&pbk=M7fn-U9PikoH_WXu6HbDE5bi9ej5cFN8bgWy8qF14WU&headerType=none&fp=firefox&type=tcp&sni=a.wb.ru&sid=76f547961a8ca082#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20BEGET.RU
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://b3c9b89b-b6b6-44d1-b46a-a0b7d99bb89d@46.17.44.194:48564?encryption=none&security=reality&sni=ai.android&fp=chrome&pbk=MjL1qkCDkJ3mW9NCTtUcgs-Yw_mHQNweRIvLfK07c3o&sid=cd34ce1bffe1&spx=%2Fd20ae0ff4029d24&type=grpc&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20BAXET
