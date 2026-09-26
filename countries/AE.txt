@@ -1,6 +1,5 @@
 # Country AE
-# Updated: 2026-09-26 03:22:00 UTC
-# Count: 2
+# Updated: 2026-09-26 06:22:00 UTC
+# Count: 1
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&sni=uae.unixzone.us#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?encryption=none&type=ws&path=%2F&host=vms.lifetime18.workers.dev&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20ENOC
