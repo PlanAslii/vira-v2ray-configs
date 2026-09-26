@@ -1,5 +1,6 @@
 # Country BG
-# Updated: 2026-09-26 12:52:00 UTC
-# Count: 1
+# Updated: 2026-09-26 13:52:00 UTC
+# Count: 2
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?encryption=none&path=/vless-test&security=none&type=ws#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
+vless://O5QiZGL2FLhXJF@91.92.128.174:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=onlycats.photos&fp=chrome&pbk=v6Ht9aFY5ueHtSQvQUGYM84TgwiCrPXe5xIAPL9XMUI&sid=696aab0f&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Belcloud%20LTD
+vless://tTSCcsSTeS1U3o@82.118.18.196:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=onlycats.photos&fp=chrome&pbk=dSvXI7MpNIg9cuv-tKXdr4kZ8wGA8lU0UYCtUrIzd3c&sid=71ac3655&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
