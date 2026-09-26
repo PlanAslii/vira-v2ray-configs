@@ -1,9 +1,9 @@
 # Country FI
-# Updated: 2026-09-26 06:22:00 UTC
+# Updated: 2026-09-26 06:52:00 UTC
 # Count: 5
 
+vless://3695cd51-4d9d-4226-ba73-84da238fb05a@65.109.199.174:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://10d85f65-f8d6-4504-b1e2-94649db1577a@95.217.24.236:2087?encryption=none&flow=xtls-rprx-vision&pbk=KN8tFlpIwPgJGwUCG7Pp9c9c0juYKPvNIv4kFHwqbyk&security=reality&sid=a32cfb5deca913ad&sni=95.217.24.236&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://482514e8-2979-4628-acf3-d04f607c4f12@78.17.85.30:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=flo.ufogame.tech&fp=safari&pbk=zsHnZqOsCsD1-WFxqIsQZAuS9KNyGLmFD7KFHf7PRF8&sid=04f1c6d2&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://7d1a5168-9407-4ee9-b04e-b5ada77b89cf@45.150.67.222:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=fast157.slopllex.app&fp=safari#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://3516526e-6708-4fd4-878f-093690761243@fandlandd2.ark-cloudservice.ir:52469?security=reality&encryption=mlkem768x25519plus.native.0rtt.zWN4IptkOoxGsYNqNwEDrtApAPVv5qa4TcWEC9pkAWA&pbk=i8ZQmLhGX1Mt1us_zdo1fwaul4vdQVrq81tho9vb6UM&headerType=none&fp=chrome&type=tcp&sni=aparat.com&sid=c41359a02972b42d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
