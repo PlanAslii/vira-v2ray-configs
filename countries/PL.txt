@@ -1,9 +1,6 @@
 # Country PL
-# Updated: 2026-09-26 22:22:00 UTC
-# Count: 5
+# Updated: 2026-09-26 23:22:00 UTC
+# Count: 2
 
-vless://24843110-9424-4bb7-8fe7-941f815c915e@144.31.2.109:443?encryption=none&type=ws&security=tls&sni=quotedetail.nemoi-self.co.uk&fp=safari&path=%2Fmedia%2Fws%2F#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://482514e8-2979-4628-acf3-d04f607c4f12@45.140.204.199:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=safari&pbk=FS94iBvy7Vx93IMVFkMmFgyHRD8YZ7hmj1yv7vpWwBQ&sid=c8b62f04&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://24843110-9424-4bb7-8fe7-941f815c915e@144.31.2.103:443?encryption=none&type=ws&security=tls&sni=runnerretry.obsch-self.co.uk&fp=safari&path=%2Fmedia%2Fws%2F#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@lineartronic-ii.subaru-volga.com:443?security=reality&encryption=none&pbk=Fy5oUXHjwXPsnyRzZAHohjOd4dYkDj9mlIhr-Xh6tTc&headerType=none&fp=random&type=tcp&sni=lineartronic-ii.subaru-volga.com&sid=6fddaa#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Moskalev%20Georgiy
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@82.47.63.156:2053?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
