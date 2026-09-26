@@ -1,12 +1,6 @@
 # Country CL
-# Updated: 2026-09-26 12:52:00 UTC
-# Count: 8
+# Updated: 2026-09-26 14:52:00 UTC
+# Count: 2
 
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&headerType=none&host=platform118.halalkhor.info&path=%2Fplatform118#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&host=platform108.halalkhor.info&path=%2Fplatform108#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?type=ws&headerType=none&host=platform102.halalkhor.info&path=%2Fplatform102#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?sni=platform113.halalkhor.info&type=ws&headerType=none&host=platform113.halalkhor.info&path=%2Fplatform113#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?sni=platform115.halalkhor.info&type=ws&headerType=none&host=platform115.halalkhor.info&path=%2Fplatform115#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&headerType=none&host=platform101.halalkhor.info&path=%2Fplatform101#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=%2Fplatform103#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?type=ws&headerType=none&host=platform117.halalkhor.info&path=%2Fplatform117#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?security=false&fp=chrome&type=ws&headerType=none&host=platform115.halalkhor.info&path=%2Fplatform115#DailyCfg%20%F0%9F%87%A8%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
