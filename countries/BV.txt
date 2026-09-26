@@ -1,5 +1,5 @@
 # Country BV
-# Updated: 2026-09-26 18:22:00 UTC
+# Updated: 2026-09-26 18:52:00 UTC
 # Count: 1
 
-vless://deea5046-3543-4b1b-a17f-3d08a65db91d@31.77.17.199:443?security=reality&encryption=none&pbk=fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi03.mcloud.mov#DailyCfg%20%F0%9F%87%A7%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II%2C%20L.L.C.
+vless://deea5046-3543-4b1b-a17f-3d08a65db91d@31.77.17.199:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi03.mcloud.mov&fp=safari&pbk=fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II%2C%20L.L.C.
