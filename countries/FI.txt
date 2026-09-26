@@ -1,11 +1,10 @@
 # Country FI
-# Updated: 2026-09-26 14:22:00 UTC
-# Count: 7
+# Updated: 2026-09-26 14:52:00 UTC
+# Count: 6
 
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vmess://eyJhZGQiOiI2NS4xMDkuMTc4LjkxIiwiYWlkIjoiMCIsImlkIjoiZTg0NWRmMTQtNjM5ZC00MGNhLTg0NGUtMzJjY2Q4M2FmYjYxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBcdTI1MDcgVk1lc3MgXHUwMGI3IEhldHpuZXIgT25saW5lIEdtYkgiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
 vless://442581ff-646e-4e99-af3e-a9d9a636a44b@iranibestv.pingxoxo.info:10210?encryption=none&type=grpc&security=reality&sni=firebaseperusertopics-pa.googleapis.com&fp=chrome&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&sid=13121b7150ad7fc6&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://f5ed18c8-9792-40a2-942a-2d23e5b9354e@144.31.150.210:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi-4.extra-solutions.ru&fp=safari&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
 vless://f5ed18c8-9792-40a2-942a-2d23e5b9354e@144.31.150.208:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi-2.extra-solutions.ru&fp=safari&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
 vless://f5ed18c8-9792-40a2-942a-2d23e5b9354e@144.31.150.209:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi-3.extra-solutions.ru&fp=safari&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
-vless://8bbe5178-a991-4a56-871c-553e2f8e9e70@103.245.229.32:443?security=reality&encryption=none&pbk=sUDdxp5g9lRHlVEH6meJWXah84yhLDyVI7KuZhW-MTQ&headerType=none&fp=firefox&spx=%2F3227d335801e57f&type=tcp&flow=xtls-rprx-vision&sni=adminvps.ru&sid=b4e44a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
-vless://482514e8-2979-4628-acf3-d04f607c4f12@78.17.85.30:443?sni=flo.ufogame.tech&fm=AhmadV2ray&security=reality&encryption=none&pbk=zsHnZqOsCsD1-WFxqIsQZAuS9KNyGLmFD7KFHf7PRF8&fp=random&headerType=none&sid=04f1c6d2&type=tcp&flow=xtls-rprx-vision&spx=%2FAhmadV2ray#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
