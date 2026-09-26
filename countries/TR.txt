@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-09-26 00:52:00 UTC
-# Count: 2
+# Updated: 2026-09-26 01:22:00 UTC
+# Count: 1
 
 vless://552ca1e2-d1d4-4d9d-b0ea-9fabd287ad14@93.114.98.221:8443?encryption=mlkem768x25519plus.native.0rtt.NQcOpgEn7mEG-CgYvLvb7qDbbZd7WyQw2SSzgNog1X8&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://4bea52c4-3843-4a41-8514-989560361e43@93.190.8.91:3090?encryption=none&security=none&type=grpc&mode=gun&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
