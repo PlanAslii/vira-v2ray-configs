@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-09-26 11:52:00 UTC
-# Count: 1
+# Updated: 2026-09-26 12:22:00 UTC
+# Count: 2
 
 vless://73b70752-8fd0-46a3-8db7-23a9cbbdbd73@IL4.kontabox.ir:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://6088b7a7-67c7-4be4-87c4-fd7e22e3e723@65.109.199.174:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
