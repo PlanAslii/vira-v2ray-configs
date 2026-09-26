@@ -1,9 +1,8 @@
 # Country TR
-# Updated: 2026-09-26 09:52:00 UTC
-# Count: 5
+# Updated: 2026-09-26 10:22:00 UTC
+# Count: 4
 
-vless://162ff214-21c8-4963-a80a-6200cbad787e@lahmacunye.bizimoglan.ir:6008?security=none&encryption=mlkem768x25519plus.native.0rtt.fYKwblQFFkxn9tc6wurCqLsGzGlwuyBQi7d1k283fGI&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://63d025be-5e23-437b-961d-84dbe25cd587@77.83.245.23:443?encryption=none&type=ws&security=tls&sni=detailruntime.stratos-fn.com&fp=safari&path=%2Fmedia%2Fws%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://63d025be-5e23-437b-961d-84dbe25cd587@194.146.47.110:443?encryption=none&type=ws&security=tls&sni=policymemo.nemoi-self.co.uk&fp=safari&path=%2Fmedia%2Fws%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AltunHOST%20LTD
-vless://768b300d-e07a-48d9-91c1-09bc58a02ce0@ciel.hlsd.ir:8000?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=m92Jrvm8L9_MIipNGvUfIdD6Vgl2QNvaelQ9zRXkT2E&sid=14ada98f&spx=%2F6469a52cd0e3335&type=grpc#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
 vless://162ff214-21c8-4963-a80a-6200cbad787e@206.1.103.65:6008?security=none&encryption=mlkem768x25519plus.native.0rtt.fYKwblQFFkxn9tc6wurCqLsGzGlwuyBQi7d1k283fGI&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vless://1db68ffa-7b23-4a4c-82b5-e21b95e64b3b@cdx.eldenringking.ir:23441?encryption=none&type=tcp&headerType=http&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://1db68ffa-7b23-4a4c-82b5-e21b95e64b3b@fgh.clofidexa.ir:8290?encryption=none&type=tcp&security=reality&sni=www.numpy.org&fp=chrome&pbk=yYjMMztcB_8Ao3sp9QIP9ZF0XtsUGXawIBUGWeIvglc&sid=130b94c8e5124031&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://162ff214-21c8-4963-a80a-6200cbad787e@lahmacunye.bizimoglan.ir:6008?security=none&encryption=mlkem768x25519plus.native.0rtt.fYKwblQFFkxn9tc6wurCqLsGzGlwuyBQi7d1k283fGI&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
