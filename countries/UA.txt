@@ -1,5 +1,5 @@
 # Country UA
-# Updated: 2026-09-27 21:52:00 UTC
+# Updated: 2026-09-27 22:52:00 UTC
 # Count: 1
 
-vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cosw.ggisopi.su&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
+vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
