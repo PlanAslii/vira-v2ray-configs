@@ -1,11 +1,9 @@
 # Country GB
-# Updated: 2026-09-27 12:52:00 UTC
-# Count: 7
+# Updated: 2026-09-27 13:22:00 UTC
+# Count: 5
 
+vless://fce05913-7bde-42e9-acd7-d7d33fa170e4@45.43.75.115:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=uk2.esimpson.org&fp=safari&pbk=qSMSmDT4RDMDdCoDQW71bEr5S3bt9lnSuIvgm7CqEB0&sid=688cf0bf&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&type=grpc&serviceName=vless&mode=gun#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.3.214:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://03a2a358-d5db-4185-bfc8-f97fd88afe33@94.156.250.58:443?encryption=none&security=none&type=tcp&headerType=http&host=dl.google.com%2Cspeedtest.net%2Cplay.google.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20BrainStorm%20Network%2C%20Inc
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@164.37.100.195:443?security=reality&encryption=none&pbk=s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tomaz1337shellbuy.vvzzkontaktezzvv.garden&sid=2e124af254a65e7c#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
-vless://0774160b-be44-4781-aad7-1a1745a36659@51.68.215.88:443?security=reality&encryption=none&pbk=x-oA2H8zwILFq4PCZvvJPzUlawE2ADkVUXG3h9m2-hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=6337fd42719a0912#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://fce05913-7bde-42e9-acd7-d7d33fa170e4@45.43.75.115:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=uk2.esimpson.org&fp=safari&pbk=qSMSmDT4RDMDdCoDQW71bEr5S3bt9lnSuIvgm7CqEB0&sid=688cf0bf&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
