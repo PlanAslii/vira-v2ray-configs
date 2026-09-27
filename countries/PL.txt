@@ -1,9 +1,6 @@
 # Country PL
-# Updated: 2026-09-27 19:22:00 UTC
-# Count: 5
+# Updated: 2026-09-27 19:52:00 UTC
+# Count: 2
 
 hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?fp=firefox&insecure=1&sni=mix.pantera-radio.ru#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Hysteria2%20%C2%B7%20Paul%20Sagov
 vless://df23d74c-c5ea-441c-a573-9d7b0e88dd14@31.77.59.225:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=D-Kt4_vBDB11deWnNmsK1OqF5Tt8tNcyuUPPXI0Y1yQ&sid=f43f3666afdec470&sni=pl.jokervpn.space#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@95.85.254.153:443?security=reality&encryption=none&sni=polka.stopingiphatered.shop&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&flow=xtls-rprx-vision&type=tcp#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Intezio%20Worldwide%20Limited
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=firefox&type=grpc&serviceName=TunService&sni=www.google.com#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20HZ%20Hosting%20Ltd
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
