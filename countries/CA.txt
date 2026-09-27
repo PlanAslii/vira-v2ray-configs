@@ -1,10 +1,9 @@
 # Country CA
-# Updated: 2026-09-27 23:22:00 UTC
-# Count: 6
+# Updated: 2026-09-27 23:52:00 UTC
+# Count: 5
 
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://814b65e0-7ab3-4fc3-bd1b-452c4c7e6559@104.18.4.130:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://a946af4b-b72f-4c12-8e5d-6469fcd6a9f5@151.101.1.194:80?path=%2F&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://342fcd7a-2294-4625-81c2-5fc5c575b969@port2.axiomed.ir:443?path=%2Fvl%2F5WclQoOqZCitXSOGscBcvfsoa1gaHm%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=9b6nclz-jyzkyd1zqelavtxvxrftuow.ade-1021.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=9B6NClZ-jYzkYD1ZQelaVtxVXrfTUow.ade-1021.WorKErs.DEV#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://cd4822e3-db34-4dc0-858a-22709bb33099@speedtest.net:80?encryption=none&type=ws&path=%2Fa7k9p2-ws&host=lexo-ws-a7k9p2.global.ssl.fastly.net&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://97532b08-357e-4140-a6f0-8e07f2ed3327@188.114.97.6:443?path=%2Fproxyip%3Dkr.william.us.ci&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=yf.962456.xyz&type=ws&allowInsecure=0&sni=yf.962456.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
