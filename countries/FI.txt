@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-09-27 03:22:00 UTC
-# Count: 1
+# Updated: 2026-09-27 03:52:00 UTC
+# Count: 2
 
+vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=2a2ce9e42980&sni=www.mozilla.org#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://835604a6-06b7-4270-a670-cb211af5c65c@65.109.178.91:9443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
