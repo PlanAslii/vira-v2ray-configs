@@ -1,6 +1,5 @@
 # Country AE
-# Updated: 2026-09-27 19:52:00 UTC
-# Count: 2
+# Updated: 2026-09-27 20:52:00 UTC
+# Count: 1
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&host=uae.unixzone.us&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://31fd2fde-ca69-450e-8c03-eaad819b06b9@146.70.102.82:443?encryption=none&flow=xtls-rprx-vision&pbk=GDer6NQYXdbccrFI0tLn2671PjCvrcSy0R7TKY8vG1k&security=reality&sid=002fb4ec7b3088cc&sni=www.datadoghq.com&type=tcp#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20M247%20Europe%20SRL
+vless://efb0b2f4-2308-48fb-a3eb-5cbec36944b5@pk-play.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=delivery.mp.microsoft.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
