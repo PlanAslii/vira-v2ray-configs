@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-09-27 00:22:00 UTC
-# Count: 2
+# Updated: 2026-09-27 04:22:00 UTC
+# Count: 1
 
-vless://412301b2-8715-4afd-b2f0-9768c63669f2@trn5.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://412301b2-8715-4afd-b2f0-9768c63669f2@trn9.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://7e24f2b1-04a0-4ab0-af87-3bef7eb78e25@185.87.24.174:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Prosto%20Solution%20LLC
