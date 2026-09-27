@@ -1,11 +1,7 @@
 # Country FI
-# Updated: 2026-09-27 16:22:00 UTC
-# Count: 7
+# Updated: 2026-09-27 16:52:00 UTC
+# Count: 3
 
 vless://6e00a0de-40ad-4255-84ae-b6083677e049@62.60.229.216:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=aezaf1.uni-plan.com&fp=safari&pbk=eh8WqxaSUlfNmlGzFLYFYrJzk1novnvfU6qmaLLOiX4&sid=72d410ce5f2036c9&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
 vless://002d14ac-2dc2-4300-ac63-b28b9c2329d5@142.228.52.45:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi4.cloud-static.org&fp=safari&pbk=97PwTn-dM13EOcl1TXD5baN6jCNR36SxHQdulYf_gWQ&sid=65cf4ad7f11c52ed&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Web1%20Oy
 vless://3d9daa27-6283-406d-a2d4-c6f22c635a14@fi.astrafic.ru:443?encryption=none&type=grpc&security=tls&sni=fi.astrafic.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&serviceName=vless-grpc&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Inios%20Oy
-vless://442581ff-646e-4e99-af3e-a9d9a636a44b@iranibestv.pingxoxo.info:10210?mode=gun&security=reality&encryption=none&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&fp=chrome&type=grpc&sni=firebaseperusertopics-pa.googleapis.com&sid=13121b7150ad7fc6#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=18e4d2d21241#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://ba72d912-b2ed-426a-8091-c16cd86e460c@finggg.danqela.ir:51595?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://8c22ef07-c9c7-4b0e-9d22-8247aff14f51@144.31.90.228:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fl.convert-flow.net&sid=00a61d55a07de885#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
