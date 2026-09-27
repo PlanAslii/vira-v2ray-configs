@@ -1,5 +1,7 @@
 # Country KZ
-# Updated: 2026-09-27 16:22:00 UTC
-# Count: 1
+# Updated: 2026-09-27 17:22:00 UTC
+# Count: 3
 
-vless://9c1d51b8-c4ac-4c79-9f85-e77e35e02aca@83.229.15.64:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=miro.com&fp=chrome&pbk=7jTiYKZRtfhTdNKqBVecCi5NS22opdJm2WVfn7HMYVc&sid=1a765b3b86b3cba2#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@93.183.87.85:24446?encryption=none&type=grpc&security=reality&sni=willow.cdn.cachefleet.com&fp=chrome&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&serviceName=telegram-bridge&allowInsecure=1#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20VK%20Tech%20Kazakhstan%20LLP
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@87.199.130.119:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=kazartip.thewalkingded.life&fp=chrome&pbk=5JhqvTTHIhhA_2Jjc3_y6pwLmKfe4wtwq3vSt43P00I&sid=7cf408996c82639f&allowInsecure=1#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20PS%20Internet%20Company%20LLC
+vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Kazakhtelecom%20Data%20Network%20Administration
