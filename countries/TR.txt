@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-09-27 21:22:00 UTC
-# Count: 3
+# Updated: 2026-09-27 22:22:00 UTC
+# Count: 1
 
-vless://9081f4d6-7271-49ba-bb9e-b4bb6dc0bb1e@87.120.106.125:8443?encryption=mlkem768x25519plus.native.0rtt.1lGe9O2qKwtl0zId0iuGBw1-PzwnDEMKYuPU4CdK61o&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://efb0b2f4-2308-48fb-a3eb-5cbec36944b5@trn1.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=9ed2fa#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://efb0b2f4-2308-48fb-a3eb-5cbec36944b5@trn3.mobileemdad.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://8bc4d8c1-a923-4fc0-a3f1-bee9eed7af36@turkeygame.authortycenter.com:2035?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=firefox&pbk=hCiOvsBKJ6T4XAwYwAiA58J89IIO2bFrLdWi5vWLKWo&sid=b9565b60e226c64d&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20
