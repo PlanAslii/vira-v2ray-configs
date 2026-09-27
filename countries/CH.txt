@@ -1,6 +1,5 @@
 # Country CH
-# Updated: 2026-09-26 22:22:00 UTC
-# Count: 2
+# Updated: 2026-09-27 03:52:00 UTC
+# Count: 1
 
-vless://d430ab24-de5a-4ab7-a4a8-f92cc1c66038@31.7.56.139:8443?encryption=none&type=ws&security=tls&sni=sw-ws.ducknet.digital&fp=safari&path=%2Fws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
-vless://14af8b56-0f21-462b-95e5-6705bc6125db@84.75.255.49:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ch2.responsiblecare.uk&fp=safari&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=356a70f0d72b4e80&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20UP-NETWORK%20Sarl
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@103.63.30.73:443?security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20HostHatch
