@@ -1,7 +1,5 @@
 # Country CH
-# Updated: 2026-09-27 19:52:00 UTC
-# Count: 3
+# Updated: 2026-09-27 21:52:00 UTC
+# Count: 1
 
-vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@45.90.57.251:443?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&sid=fd4f9db207ff64db&serviceName=grpc-tunnel_nl&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
-vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@179.255.191.131:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mail.univer.live&fp=chrome&pbk=4tKriwpqhfu1WW98K2UZjNGyRv6AZXP15pNEMnbFimw&sid=7c4a91e2d8f630b5&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Host%20Telecom%20LTD
-vless://b817f3f5-8cdc-4b96-8412-15ce44c46f90@31.76.4.144:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=edge-0cf004.cdn-edge-cache.art&fp=chrome&pbk=iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ&sid=4c12aa04e8842266&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@4.lega13.store:443?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=firefox&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&sid=fd4f9db207ff64db&serviceName=grpc-tunnel_nl&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
