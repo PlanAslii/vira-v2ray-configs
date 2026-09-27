@@ -1,6 +1,6 @@
 # Country PL
-# Updated: 2026-09-27 19:52:00 UTC
+# Updated: 2026-09-27 20:22:00 UTC
 # Count: 2
 
-hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?fp=firefox&insecure=1&sni=mix.pantera-radio.ru#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20Hysteria2%20%C2%B7%20Paul%20Sagov
-vless://df23d74c-c5ea-441c-a573-9d7b0e88dd14@31.77.59.225:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=D-Kt4_vBDB11deWnNmsK1OqF5Tt8tNcyuUPPXI0Y1yQ&sid=f43f3666afdec470&sni=pl.jokervpn.space#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
