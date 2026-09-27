@@ -1,8 +1,5 @@
 # Country FR
-# Updated: 2026-09-27 01:22:00 UTC
-# Count: 4
+# Updated: 2026-09-27 01:52:00 UTC
+# Count: 1
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.167.120:22222?headerType=none&type=tcp&security=none&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.175.72:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://663cbfd7-5eca-4586-a3a0-945b33265023@185.154.155.160:443?encryption=none&security=none&type=tcp&headerType=http&host=dl.google.com,speedtest.net,play.google.com&path=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20VIRTUA-SYSTEMS
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra.loozerp.wiki&sid=ff776ff77be48b88#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
