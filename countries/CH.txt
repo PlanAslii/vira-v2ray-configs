@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-09-27 11:22:00 UTC
-# Count: 1
+# Updated: 2026-09-27 12:22:00 UTC
+# Count: 2
 
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
+vless://b817f3f5-8cdc-4b96-8412-15ce44c46f90@31.76.4.144:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=edge-0cf004.cdn-edge-cache.art&fp=safari&pbk=iEIUvfQSP4eHihDkzb-qAQ-9zGaIINRJDvgwOrt6bkQ&sid=4c12aa04e8842266&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@179.255.191.131:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mail.univer.live&fp=safari&pbk=4tKriwpqhfu1WW98K2UZjNGyRv6AZXP15pNEMnbFimw&sid=7c4a91e2d8f630b5&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Host%20Telecom%20LTD
