@@ -1,6 +1,9 @@
 # Country IT
-# Updated: 2026-09-28 11:22:00 UTC
-# Count: 2
+# Updated: 2026-09-28 11:52:00 UTC
+# Count: 5
 
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.77.154.14:8443?security=reality&encryption=none&pbk=3O__mdy-whzI07V-QEyR6GQnag1FNwtHijDxt2_jkDQ&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=swscan.apple.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?security=reality&flow=xtls-rprx-vision&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&sni=www.apple.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://75dcb053-9958-4447-8d5b-089982180455@51.194.80.236:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=it.stream-cdn.ru&fp=safari&pbk=aCA4ZNWd8mu7StKqm8sjlXdo8hxCSyewWyJPyPQq5gM&sid=6b8da5fa62e88409&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Datacamp%20Limited
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
