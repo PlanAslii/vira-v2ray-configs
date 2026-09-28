@@ -1,5 +1,6 @@
 # Country IT
-# Updated: 2026-09-28 10:52:00 UTC
-# Count: 1
+# Updated: 2026-09-28 11:22:00 UTC
+# Count: 2
 
 vless://75dcb053-9958-4447-8d5b-089982180455@51.194.80.236:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=it.stream-cdn.ru&fp=safari&pbk=aCA4ZNWd8mu7StKqm8sjlXdo8hxCSyewWyJPyPQq5gM&sid=6b8da5fa62e88409&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Datacamp%20Limited
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
