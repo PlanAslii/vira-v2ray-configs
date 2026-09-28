@@ -1,9 +1,8 @@
 # Country FI
-# Updated: 2026-09-28 14:52:00 UTC
-# Count: 5
+# Updated: 2026-09-28 15:22:00 UTC
+# Count: 4
 
 vless://5cd8e5fe-7595-4387-95f9-79b0f18eb125@213.108.23.184:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.fi.forge-relay.com&fp=firefox&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.26:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Ihor%20Hosting%20LTD
 vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@static6.pcapps.ir:2041?encryption=mlkem768x25519plus.random.0rtt.5TsQef1M4OsXkGx5TqJ9W-ul464KCTuQ3ui4l84phHg&security=none&type=tcp&headerType=http&path=%2F&host=booking.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@android.pcapps.ir:2085?encryption=none&security=reality&type=tcp&headerType=none&sni=booking.com&fp=chrome&pbk=khVfcjtJeIhqSvWh5pXlBlZrRN2evKtlerhMozeul28&sid=6ba85179e30d4fc2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=18e4d2d21241#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
