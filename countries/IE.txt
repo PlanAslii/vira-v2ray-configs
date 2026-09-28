@@ -1,6 +1,5 @@
 # Country IE
-# Updated: 2026-09-28 13:22:00 UTC
-# Count: 2
+# Updated: 2026-09-28 13:52:00 UTC
+# Count: 1
 
-vless://49ca3a76-2043-41cc-bdd3-4ae653c649fb@198.13.142.193:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eef33.lumariqis.com&fp=safari&pbk=JDUHaCWFryv7gFDYFcjcbdZiMJ7ympfTJGB8JXDwEnU&sid=798467fa&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20TeraSwitch%20Networks%20Inc.
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=grok.setlisting.ru&fp=safari&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20IBIS
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
