@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-09-28 03:52:00 UTC
-# Count: 2
+# Updated: 2026-09-28 04:22:00 UTC
+# Count: 1
 
-vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=firefox&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Mykyta%20Skorobohatko
-vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=18e4d2d21241#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@31.76.245.63:443?security=reality&type=tcp&packetEncoding=xudp&sni=dzen.ru&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4e5f67890&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
