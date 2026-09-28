@@ -1,5 +1,6 @@
 # Country IT
-# Updated: 2026-09-28 07:22:00 UTC
-# Count: 1
+# Updated: 2026-09-28 09:22:00 UTC
+# Count: 2
 
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
+vless://75dcb053-9958-4447-8d5b-089982180455@51.194.80.236:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=it.stream-cdn.ru&fp=safari&pbk=aCA4ZNWd8mu7StKqm8sjlXdo8hxCSyewWyJPyPQq5gM&sid=6b8da5fa62e88409&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Datacamp%20Limited
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
