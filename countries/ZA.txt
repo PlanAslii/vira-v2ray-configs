@@ -1,9 +1,5 @@
 # Country ZA
-# Updated: 2026-09-28 04:52:00 UTC
-# Count: 5
+# Updated: 2026-09-28 07:22:00 UTC
+# Count: 1
 
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?host=%5B%27platform113.halalkhor.info%27%5D&path=%2Fplatform113&security=none&type=ws#DailyCfg%20%F0%9F%87%BF%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform109&host=platform109.halalkhor.info&sni=platform109.halalkhor.info#DailyCfg%20%F0%9F%87%BF%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?host=platform117.halalkhor.info&path=%2Fplatform117&security=none&sni=platform117.halalkhor.info&type=ws#DailyCfg%20%F0%9F%87%BF%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?host=platform101.halalkhor.info&path=%2Fplatform101&security=none&sni=platform101.golnamakcert.top&type=ws#DailyCfg%20%F0%9F%87%BF%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?path=%2Fplatform115&security=none&type=ws#DailyCfg%20%F0%9F%87%BF%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?encryption=none&host=platform106.halalkhor.info&path=%2Fplatform106&sni=platform106.halalkhor.info&type=ws#DailyCfg%20%F0%9F%87%BF%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20The%20Constant%20Company%2C%20LLC
