@@ -1,6 +1,6 @@
 # Country TR
-# Updated: 2026-09-28 20:22:00 UTC
+# Updated: 2026-09-28 20:52:00 UTC
 # Count: 2
 
-vless://9807575f-5b45-4c68-a39d-95fa381e05e1@202.133.90.105:57680?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
+vless://9807575f-5b45-4c68-a39d-95fa381e05e1@202.133.90.105:57680?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
