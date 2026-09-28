@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-09-28 04:52:00 UTC
-# Count: 2
+# Updated: 2026-09-28 05:52:00 UTC
+# Count: 1
 
-vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.9.52:3090?type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://52e8bce3-b255-486d-beb2-aa1b549c44b1@93.190.8.86:3090?type=grpc&mode=multi&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
+vless://4533a4e1-46ff-42d8-92b3-24c273481025@93.190.9.49:3090?type=grpc&mode=multi&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
