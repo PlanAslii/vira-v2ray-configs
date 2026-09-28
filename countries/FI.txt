@@ -1,7 +1,6 @@
 # Country FI
-# Updated: 2026-09-28 03:22:00 UTC
-# Count: 3
+# Updated: 2026-09-28 03:52:00 UTC
+# Count: 2
 
 vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=firefox&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Mykyta%20Skorobohatko
 vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=18e4d2d21241#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@107.181.151.39:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.foxsports.com&fp=firefox&insecure=0&allowInsecure=0&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=8325360e8bd2&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
