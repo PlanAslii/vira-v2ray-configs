@@ -1,10 +1,6 @@
 # Country TR
-# Updated: 2026-09-28 10:52:00 UTC
-# Count: 6
+# Updated: 2026-09-28 11:22:00 UTC
+# Count: 2
 
-vless://25477f54-7856-4a2f-a045-04ea1f69e6cf@93.190.8.20:3090?encryption=none&type=grpc&serviceName=vless&mode=multi&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://c6fb05ea-7e56-44e6-bdf6-d0b34d419e4c@62.60.233.79:8000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=tr.krianse.com&fp=safari#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://93789157-8850-456b-8c3f-990e16b410c8@132.243.173.195:8443?encryption=none&type=ws&security=tls&sni=tr.pad-sservice.lat&fp=safari&path=%2FTR1&host=tr.pad-service.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
-vless://49ca3a76-2043-41cc-bdd3-4ae653c649fb@167.148.90.1:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=98728.selvarieno.cc&fp=safari&pbk=rmzt4nEpcRRyTmuIpwlY6V-Bv_PH8GBbcywTtdsbr2M&sid=6f8857d6&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Lite%20Digital%20LTD
 vless://33e8bd3a-26f0-4e57-bc27-e5552a81c880@77.245.156.185:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tr-img1.stream-live.ru&fp=safari&pbk=FTgLF1OeRXGTTAEg_p0Qkt84DusfqABr2ixi-C2Hrlc&sid=52fd6b00b1c882bc&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Niobe%20Bilisim%20Ltd.%20Sti.
 vless://75dcb053-9958-4447-8d5b-089982180455@77.245.156.198:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tr-img2.stream-live.ru&fp=safari&pbk=UFJ3xkZjhbyY-xTgy7C9hJ0cuJvmp4JCJ7hQ6tQuHxk&sid=09f79e78e59c3c56&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Niobe%20Bilisim%20Ltd.%20Sti.
