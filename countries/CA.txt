@@ -1,12 +1,14 @@
 # Country CA
-# Updated: 2026-09-28 18:22:00 UTC
-# Count: 8
+# Updated: 2026-09-28 18:52:00 UTC
+# Count: 10
 
+vless://05fb2c23-4e23-49e8-be9f-6f931b5716de@188.114.98.0:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://05fb2c23-4e23-49e8-be9f-6f931b5716de@188.114.97.6:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://05fb2c23-4e23-49e8-be9f-6f931b5716de@172.67.180.92:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://68a3a52a-a17f-4d6d-8f18-2e52cd77908f@c-2.mrcloudi.ir:443?path=%2F%3Fed%3D3580&security=tls&encryption=none&type=ws&sni=testt.mandelin.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@140.238.144.211:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
 vless://3c100bda-00a7-4543-9408-21dbae8c15d8@www.canva.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=shop.lilium-rozh.ir&path=%2Fsdvhjldsob&security=tls&sni=shop.lilium-rozh.ir&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://3c100bda-00a7-4543-9408-21dbae8c15d8@www.udemy.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=shop.lilium-rozh.ir&path=%2Fsdvhjldsob&security=tls&sni=shop.lilium-rozh.ir&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://3c100bda-00a7-4543-9408-21dbae8c15d8@www.medium.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=shop.lilium-rozh.ir&path=%2Fsdvhjldsob&security=tls&sni=shop.lilium-rozh.ir&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiIyMjMyNCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycC4iLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://68a3a52a-a17f-4d6d-8f18-2e52cd77908f@c-2.mrcloudi.ir:443?path=%2F%3Fed%3D3580&security=tls&encryption=none&type=ws&sni=testt.mandelin.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
