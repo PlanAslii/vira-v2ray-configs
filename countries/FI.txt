@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-09-28 05:22:00 UTC
-# Count: 2
+# Updated: 2026-09-28 05:52:00 UTC
+# Count: 1
 
-vless://3d9daa27-6283-406d-a2d4-c6f22c635a14@153.52.117.131:443?encryption=none&type=grpc&security=tls&sni=fi.astrafic.ru&serviceName=vless-grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Inios%20Oy
-vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?security=reality&encryption=none&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=firefox&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Mykyta%20Skorobohatko
+vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?mode=gun&security=reality&encryption=none&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=firefox&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Mykyta%20Skorobohatko
