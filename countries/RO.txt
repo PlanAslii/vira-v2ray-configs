@@ -1,5 +1,6 @@
 # Country RO
-# Updated: 2026-09-28 16:52:00 UTC
-# Count: 1
+# Updated: 2026-09-28 17:22:00 UTC
+# Count: 2
 
-vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@85.115.209.170:2018?sid=cd5f260bcdd9c92d&type=tcp&pbk=Sn8z3wbt2Zpoo3mO3HLW6TZTjN8231Ylka7apFNb2X0&encryption=none&sni=gemini.com&security=reality&headerType=none&fp=random#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Godlike%20Digital%20Solutions%20S.R.L.
+vless://d7c94b82-657a-4bb7-9b24-2ae566669835@romania.cdn-europe.org:10443?security=reality&encryption=none&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=romania.cdn-europe.org&sid=624ef62512cfcbef#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20FlokiNET%20ehf
+vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@85.115.209.170:2018?encryption=none&type=tcp&security=reality&sni=gemini.com&fp=random&pbk=Sn8z3wbt2Zpoo3mO3HLW6TZTjN8231Ylka7apFNb2X0&sid=cd5f260bcdd9c92d&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Godlike%20Digital%20Solutions%20S.R.L.
