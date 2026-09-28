@@ -1,6 +1,5 @@
 # Country RO
-# Updated: 2026-09-28 10:52:00 UTC
-# Count: 2
+# Updated: 2026-09-28 11:52:00 UTC
+# Count: 1
 
-vless://9d7f24c6-0de9-4201-a30c-a19622a78d75@wfft56s.12l.ir:7945?security=reality&encryption=none&pbk=w-PwQo3nWiR9Ff3BMRoQAtSLseRYeOddnZxr3mJIGD0&headerType=none&fp=chrome&type=tcp&sni=storage-p2.googleapis.com%3A443&sid=0a779d41c9005be3#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
-vless://d7c94b82-657a-4bb7-9b24-2ae566669835@romania.cdn-europe.org:10443?security=reality&encryption=none&pbk=oTSZ8s1btblYQ-19eX0u8wQePodvAld45JfSEwnfHR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=romania.cdn-europe.org&sid=624ef62512cfcbef#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20FlokiNET%20ehf
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
