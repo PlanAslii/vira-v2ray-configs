@@ -1,9 +1,5 @@
 # Country FI
-# Updated: 2026-09-28 07:52:00 UTC
-# Count: 5
+# Updated: 2026-09-28 08:22:00 UTC
+# Count: 1
 
 vless://002d14ac-2dc2-4300-ac63-b28b9c2329d5@142.228.52.45:443?security=reality&encryption=none&pbk=97PwTn-dM13EOcl1TXD5baN6jCNR36SxHQdulYf_gWQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fi4.cloud-static.org&sid=65cf4ad7f11c52ed#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Web1%20Oy
-vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?security=reality&encryption=none&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=firefox&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Mykyta%20Skorobohatko
-vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=8325360e8bd2&sni=www.foxsports.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://06d05a0a-f298-4be9-8fab-3de32e3fb770@acfl.astro-wall.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=acfl.astro-wall.online&pbk=RMjWKm3Jj09ytfHD-90J0c3qdpQtjqJ4muUSAuF2eXQ&sid=fbbda5&fp=firefox#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40ICV2RAY&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
