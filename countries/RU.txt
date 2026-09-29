@@ -1,12 +1,9 @@
 # Country RU
-# Updated: 2026-09-29 10:22:00 UTC
-# Count: 8
+# Updated: 2026-09-29 10:52:00 UTC
+# Count: 5
 
+vless://f700bce1-ed95-43d4-b9d4-d620fe840006@92.53.97.27:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ee89xws8ykli.contentpop.best#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://f700bce1-ed95-43d4-b9d4-d620fe840006@45.151.182.162:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=e75wqnk8db.streamedge.best#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?encryption=none&type=ws&security=tls&sni=wstg.datasynctrue.online&alpn=GHOFLSHCAN--GHOFLSHCAN--GHOFLSHCAN--GHOFLSHCAN--GHOFLSHCAN--GHOFLSHCAN--GHOFLSHCAN--GHOFLSHCAN&path=%2Fapi%2Fconnect&host=wstg.datasynctrue.online#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://ebd6f9cc-441d-41bc-b4fe-2ace69a5d0e8@185.22.235.47:443?path=%2Fapi%2Fv1%2Fevents&security=tls&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=no1.moremmra.zip#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20IHC
 vless://a795d6ce-9fde-40da-8883-02c7174b982a@135.106.229.71:11010?encryption=mlkem768x25519plus.native.0rtt.0HlXC4rNa9of9WrxZAGdWvLtID0wSmhAHGUhMtApyA0&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
-vless://3e2591b2-4739-4c59-b540-344f0b6505ac@193.163.203.199:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=x6.megabitvpn.org&fp=safari&pbk=xa2v36oJSdYGM1SSiMYyehw9RTdlBHOLcE5-YOK6unE&sid=3c7ab85b281ecc8f&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Miglovets%20Egor%20Andreevich
-vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@138.124.255.165:25535?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&sid=7642ce57308852e7&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yakovlev%20Denis%20Alexandrovich
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.152:9894?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&serviceName=grpc-tunnel&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://da995272-468e-4151-acfd-9707ecc118ab@138.124.254.192:25573?encryption=none&type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=4K3Ri1ETidhwNbbVKziPB4RZZ4xhP81iNlWPXf6jOUE&sid=4500f27c7f4daede&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yakovlev%20Denis%20Alexandrovich
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
