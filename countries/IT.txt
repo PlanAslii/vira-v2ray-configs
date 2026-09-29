@@ -1,6 +1,5 @@
 # Country IT
-# Updated: 2026-09-29 10:22:00 UTC
-# Count: 2
+# Updated: 2026-09-29 11:22:00 UTC
+# Count: 1
 
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&host=milan.adaspoloandco.com&path=%2FRoBeRt&security=tls&sni=milan.adaspoloandco.com&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@ooqe994.6551935.xyz:443?sni=nvidia.com&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
