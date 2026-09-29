@@ -1,8 +1,8 @@
 # Country FI
-# Updated: 2026-09-29 13:52:00 UTC
+# Updated: 2026-09-29 14:22:00 UTC
 # Count: 4
 
+vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?encryption=none&type=ws&path=/&packetEncoding=xudp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://3e35a939-d3e8-4781-8680-3021950b0ed9@65.109.253.202:80?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://30215a58-3504-42d0-b739-2f2392e898b6@kmmm1w24.danqela.ir:51595?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=AJjXkgHlDAdrUkG8hK3_ECdPa-baeGYacNmLPyc_hEo&sid=ea36049247370f47#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://794990ea-dc34-4eff-8a43-020a92fec381@65.109.249.114:80?encryption=none&security=none&type=ws&path=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
