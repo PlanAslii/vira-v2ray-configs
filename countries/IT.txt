@@ -1,6 +1,6 @@
 # Country IT
-# Updated: 2026-09-29 06:22:00 UTC
+# Updated: 2026-09-29 06:52:00 UTC
 # Count: 2
 
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Oracle%20Corporation
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://d02fcca7-e77f-42f1-94bf-5545eec68f0a@it.ketabkhan24.ir:2053?security=reality&pbk=fY4zG7EPbiRzlabmT4p_LFuHj6vfMAEdxNoCt-bCPz8&type=tcp&fp=chrome&sni=play.google.com&encryption=none&headerType=none&sid=5c56ebc08e4ad1d9#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://82944947-de0f-4c1e-a0a0-a6d7ecc09d0c@it.d1.starzone.ir:29247?security=reality&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9af7c9c0334675be&fp=edge&sni=ajax.googleapis.com&type=tcp&headerType=none&host=ajax.googleapis.com&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
