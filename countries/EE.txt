@@ -1,5 +1,5 @@
 # Country EE
-# Updated: 2026-09-29 05:52:00 UTC
+# Updated: 2026-09-29 07:22:00 UTC
 # Count: 1
 
-vless://7013d889-14f4-4475-a5ff-a5ecd992b522@179.254.126.173:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.google.com&fp=random&pbk=9H_heZMEI3tShkb5pXRrlAzwGWIzGFCRX_HgyPdktnU&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
+vless://7013d889-14f4-4475-a5ff-a5ecd992b522@179.254.126.173:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=safari&pbk=9H_heZMEI3tShkb5pXRrlAzwGWIzGFCRX_HgyPdktnU&allowInsecure=1#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
