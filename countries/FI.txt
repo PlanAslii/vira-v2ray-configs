@@ -1,7 +1,9 @@
 # Country FI
-# Updated: 2026-09-30 10:52:00 UTC
-# Count: 3
+# Updated: 2026-09-30 11:22:00 UTC
+# Count: 5
 
+vless://cfd0c89a-8c2d-4cfa-adaf-1f945ca73012@fn-m1.starzone.ir:29247?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=ajax.googleapis.com&sid=29a833ab20778306#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://1c26f714-dfe5-462d-9ae9-88a247ea0e84@a22153e87716e83e.vOlTcOrE.Ir:1310?encryption=none&host=dynu.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://cfd0c89a-8c2d-4cfa-adaf-1f945ca73012@fn-m2.starzone.ir:29247?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=ajax.googleapis.com&sid=545df9caf95f7cd8#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://0690b613-5e41-4f50-90f8-caaaddf833fe@9huijtnj.danqela.ir:51595?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=AJjXkgHlDAdrUkG8hK3_ECdPa-baeGYacNmLPyc_hEo&sid=ea36049247370f47&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@31.76.245.63:443?security=reality&type=tcp&packetEncoding=xudp&sni=dzen.ru&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4e5f67890&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
-vless://8c6f00f1-7f55-4723-a378-796b0eecde4d@haven46.fars-remen.ir:443?security=none&encryption=mlkem768x25519plus.native.0rtt.6XAhG-3vvjxLWvQoTSFut1URhEh1kjoyTcVJBd1YBQk&host=dynu.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
