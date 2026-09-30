@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-09-30 00:22:00 UTC
-# Count: 1
+# Updated: 2026-09-30 00:52:00 UTC
+# Count: 2
 
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ru-test.omuservice.tech:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ozone.nl&pbk=yyH7Fyfh1ULPH4L5mFVtqPf_rB1IY6jwDgOuIRY7-wA&sid=9409a3561ba49f30&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://ba9b6cf7-ddcf-41bd-aca6-b76004f1dcc1@msk-de.avara.fit:443?path=%2Fapi%2Fv1%2Fstream%2Ftelemetry&security=tls&encryption=none&insecure=0&host=msk-de.avara.fit&type=ws&allowInsecure=0&sni=msk-de.avara.fit#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20node
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
