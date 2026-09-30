@@ -1,11 +1,8 @@
 # Country RU
-# Updated: 2026-09-30 16:52:00 UTC
-# Count: 7
+# Updated: 2026-09-30 17:22:00 UTC
+# Count: 4
 
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=example.com&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
+vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=du-rov.secureservice.top&fp=random&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af&type=tcp#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?sni=assets-de2.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=chrome&security=tls#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Mikhail%20Fedorov
 vless://027d304a-90a9-48c4-ad3c-599d4fabd59d@62.109.27.97:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=fast146.slopllex.app#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20IOT
-vless://6bf6596c-e7de-4a2d-91fd-27ef84e8ece2@104.171.128.153:1443?security=reality&encryption=none&pbk=ocG6EJZEOhettlC_iezs_K6GttZjpP1zLs2cKrtxygY&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0aa749fc5434630a#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=chrome&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Moscow%20region
-vless://e1548ac3-90c0-4b80-9214-15c15db73a79@rus1.foxxxyvpn.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=rus1.foxxxyvpn.online&pbk=aXyu_1tZDo2eXsJxtwb6fh75YXvh-pXkDWqMRf1sNxg&sid=bb4d978ef9b3b3d9#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://e1f3079a-06e9-4282-a7f0-123378539e7c@46.17.41.178:12180?mode=gun&security=reality&encryption=none&pbk=3j3n6pV48Pe20lNbV3oZwl8Edg0cpD_ayz8Vp3GcfUk&fp=chrome&spx=/8afc9c8f8d5c05b&type=grpc&sni=it.nvidia.com&sid=b060d8ad6e2f6dc7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20BAXET
