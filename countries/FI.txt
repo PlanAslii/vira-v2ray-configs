@@ -1,7 +1,6 @@
 # Country FI
-# Updated: 2026-09-30 00:52:00 UTC
-# Count: 3
+# Updated: 2026-09-30 01:22:00 UTC
+# Count: 2
 
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@31.76.245.63:443?type=tcp&security=reality&sni=dzen.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&sid=a1b2c3d4e5f67890#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
-vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=2a2ce9e42980&sni=www.mozilla.org#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
