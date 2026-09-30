@@ -1,7 +1,8 @@
 # Country GB
-# Updated: 2026-09-30 09:22:00 UTC
-# Count: 3
+# Updated: 2026-09-30 09:52:00 UTC
+# Count: 4
 
+vless://8551ef0a-8c45-41cf-99ef-61f643820121@de2.paxiva.ir:443?path=%2Fa1cc2482&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de2.paxiva.ir&fp=chrome&type=ws&allowInsecure=0&sni=de2.paxiva.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
+vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@213.178.141.33:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=germa12.ggisopi.su#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20
 vless://7b93e3f1-c5bf-43cd-8fcd-e0e745c92d10@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Voxility%20LLP
 vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@nl-ded.gamma-kvn.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@213.178.141.33:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=germa12.ggisopi.su#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20
