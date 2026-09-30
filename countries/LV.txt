@@ -1,5 +1,6 @@
 # Country LV
-# Updated: 2026-09-30 19:22:00 UTC
-# Count: 1
+# Updated: 2026-09-30 20:22:00 UTC
+# Count: 2
 
-vless://b7535f22-982a-4e6f-b30d-916d51392ab6@31.56.196.18:57529?encryption=none&headerType=http&host=www.cloudflare.com&path=%2F&security=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://35ce8894-4d47-400d-a7fc-5d3924b5ff5f@31.56.196.18:57529?encryption=none&headerType=http&host=www.cloudflare.com&path=%2F&security=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://b7535f22-982a-4e6f-b30d-916d51392ab6@31.56.196.18:57529?security=none&encryption=none&host=www.cloudflare.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
