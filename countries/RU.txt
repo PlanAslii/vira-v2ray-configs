@@ -1,7 +1,9 @@
 # Country RU
-# Updated: 2026-09-30 14:52:00 UTC
-# Count: 3
+# Updated: 2026-09-30 15:22:00 UTC
+# Count: 5
 
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ru-test.omuservice.tech:8443?security=reality&encryption=none&pbk=yyH7Fyfh1ULPH4L5mFVtqPf_rB1IY6jwDgOuIRY7-wA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=9409a3561ba49f30#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?sni=eh.vk.ru&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Moscow%20region
+vless://e1f3079a-06e9-4282-a7f0-123378539e7c@46.17.41.178:12180?mode=gun&security=reality&encryption=none&pbk=3j3n6pV48Pe20lNbV3oZwl8Edg0cpD_ayz8Vp3GcfUk&fp=chrome&spx=%2F8afc9c8f8d5c05b&type=grpc&sni=it.nvidia.com&sid=b060d8ad6e2f6dc7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20BAXET
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://6bf6596c-e7de-4a2d-91fd-27ef84e8ece2@104.171.128.153:1443?security=reality&encryption=none&pbk=ocG6EJZEOhettlC_iezs_K6GttZjpP1zLs2cKrtxygY&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0aa749fc5434630a#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://ff65fb9b-552f-426f-8321-4c85024377e6@194.55.239.148:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=my.selectel.ru&fp=random&pbk=-GzslqnFGVkpNJvcZt7uKnMGOn8R2v_z6sLOtmci6B0&sid=2fff0b51ab07386a&spx=%2FAhmadV2ray&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20New%20Hosting%20Technologies%20LLC
