@@ -1,7 +1,6 @@
 # Country FI
-# Updated: 2026-10-01 18:22:00 UTC
-# Count: 3
+# Updated: 2026-10-01 18:52:00 UTC
+# Count: 2
 
-vless://ba9c0361-143e-4ee4-9c5c-22a222988907@Apple.f15.gymyoga.ir:80?encryption=mlkem768x25519plus.native.0rtt.oEfFlk7NfA_QAF1u_5EXbuXfD_8q-oPbaHXmxAjLAS0&type=ws&path=%2F&host=apple.f15.gymyoga.ir#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://a55538b8-801e-4e45-80d6-d8a8eea31e4f@Apple.G55.gymyoga.ir:80?encryption=mlkem768x25519plus.native.0rtt.oEfFlk7NfA_QAF1u_5EXbuXfD_8q-oPbaHXmxAjLAS0&type=ws&path=%2F&host=apple.G55.gymyoga.ir#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://21d0929a-ba27-4822-9b50-bda9ee54a494@n35.himoy.space:443?security=reality&encryption=none&pbk=Zc9tK-kpMfFZeOhNG7EEMtJUo0M_m35lAnwPA2I2Ujw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=n35.himoy.space&sid=75c0f9da081a1278#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
+vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://3721913e-0ab1-4ee5-a05d-c9e85c72311c@77.42.28.120:1280?path=%2F&encryption=none&host=is1-ssl.mzstatic.com&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
