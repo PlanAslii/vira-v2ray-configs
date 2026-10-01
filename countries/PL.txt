@@ -1,11 +1,7 @@
 # Country PL
-# Updated: 2026-10-01 15:52:00 UTC
-# Count: 7
+# Updated: 2026-10-01 16:22:00 UTC
+# Count: 3
 
-vless://4314a583-3a39-45e1-883e-70bf570d252a@95.85.253.202:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl0001.kubservice.icu#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OC%20NETWORKS%20LIMITED
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@179.254.71.20:52006?encryption=none&type=tcp&security=tls&sni=pl.setlisting.ru&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=pl3.moritech.net&fp=chrome#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://0f4081e7-612b-425f-8def-eebf144aedba@149.86.227.200:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=waypoint.connectserverix.com&fp=safari&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&sid=9e15546f267baa64&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Cogent%20Communications
+vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SkyPass%20Solutions%20Sp.%20z.o.o.
 vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SkyPass%20Solutions%20Sp.%20z.o.o.
-vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.241.78:443?encryption=none&flow=xtls-rprx-vision&fp=safari&headerType=none&pbk=6NIpIulg7Pzn5prCK2Qk6TWEcm2b72CD_z2_XLG8tyc&security=reality&sid=31db3f825e83e2b0&sni=sh-pl-01.mintrocket.org&type=tcp#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://4314a583-3a39-45e1-883e-70bf570d252a@95.85.253.202:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl0001.kubservice.icu#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OC%20NETWORKS%20LIMITED
