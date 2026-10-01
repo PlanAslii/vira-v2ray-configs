@@ -1,6 +1,5 @@
 # Country LT
-# Updated: 2026-10-01 22:22:00 UTC
-# Count: 2
+# Updated: 2026-10-01 22:52:00 UTC
+# Count: 1
 
-vless://5786d86f-7731-4174-b1a3-84297e54b015@litva.ali-bard.online:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=litva.ali-bard.online#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
-vless://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=online.1c.ru&fp=safari&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&sid=6a&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20%22Interneto%20vizija%22
+vless://5786d86f-7731-4174-b1a3-84297e54b015@litva.ali-bard.online:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=litva.ali-bard.online&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
