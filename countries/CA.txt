@@ -1,12 +1,9 @@
 # Country CA
-# Updated: 2026-10-01 22:22:00 UTC
-# Count: 8
+# Updated: 2026-10-01 22:52:00 UTC
+# Count: 5
 
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiIsImFkZCI6IjE4OC4xMTQuOTYuMTkiLCJwb3J0IjoiODAiLCJpZCI6ImFlZDg4ZTc5LTU3NjItNGQyZi04NmZhLWY0MzhmMzJhNzY1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmhlc2FuaWQ4LmlyLiIsInBhdGgiOiIvIiwidGxzIjoiIn0
+vless://daed3ca3-6b04-44e3-bd55-a9995e88d70b@minimize-evenness.cdn-content.com:443?host=minimize-evenness.cdn-content.com&encryption=none&type=ws&security=tls&fp=chrome&alpn=http/1.1&path=/ws&insecure=0&allowInsecure=0&sni=minimize-evenness.cdn-content.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://566e98ad-4a56-4c1d-9dbc-83987079731b@minimize-evenness.cdn-content.com:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=minimize-evenness.cdn-content.com&fp=chrome&type=ws&allowInsecure=0&sni=minimize-evenness.cdn-content.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?alpn=http/1.1&encryption=none&path=/var/www/html/video/preview/download/i8o0la&security=tls&sni=www.large-files.info&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoxODAwMCwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIiwibmFtZSI6IkNBIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IEBSYXlkaWthbHggfCBBNTNEQUMiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBcdTI1MDcgVk1lc3MgXHUwMGI3IEdMT0JBTFRFTEVIT1NUIENvcnAuIn0
-vless://N@188.114.96.2:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://N@104.18.4.130:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://N@chatgpt.com:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://N@188.114.97.6:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://N@188.114.98.0:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://N@172.67.180.92:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
