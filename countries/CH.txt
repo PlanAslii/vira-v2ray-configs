@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-10-01 10:22:00 UTC
-# Count: 1
+# Updated: 2026-10-01 13:52:00 UTC
+# Count: 2
 
-vless://0b21158e-00f5-4a2f-b242-e3e5574f68a0@ch.zango.tech:443?security=reality&encryption=none&pbk=B-q_vYkpKjiiaHyUfr7NutnusdvsmoWEeyr0QJfTfmw&fp=qq&spx=%2F&type=grpc&sni=bunny.net&sid=447abeb4fb111a9c#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
+vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
+vless://e0bd9dfa-0cf9-47c0-92ac-7dba08ebcff8@179.237.103.152:443?encryption=none&flow=xtls-rprx-vision&pbk=8PZTYkhNhSgagVdaI-iqSCPXJwDhHU23IUwZIu08zH4&security=reality&sid=9de8ae53dabf1dc2&sni=www.google.com&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
