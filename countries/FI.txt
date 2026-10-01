@@ -1,7 +1,9 @@
 # Country FI
-# Updated: 2026-10-01 22:52:00 UTC
-# Count: 3
+# Updated: 2026-10-01 23:22:00 UTC
+# Count: 5
 
+vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@45.149.147.97:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=safari&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&sid=d345ad4657adeef9&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Tabunscic%20Anatoli
+vless://f0a52dd3-4377-4402-a450-210bc81bcf25@144.31.249.204:443?security=reality&encryption=none&pbk=WHb-QaDcaJMJ0S8Jtw83C_AdCK2anMZvTd3YCdcNanc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=sh-fi-01.mintrocket.org&sid=e4d61fb3192a14a3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
 vless://68cf8d29-5aa0-44b3-88a9-f1a576b6e84c@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.microsoft.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=73a9e631a09b&headertype=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?security=reality&type=raw&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=9409f73c2fd7&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=8325360e8bd2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
