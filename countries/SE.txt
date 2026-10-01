@@ -1,5 +1,6 @@
 # Country SE
-# Updated: 2026-10-01 16:22:00 UTC
-# Count: 1
+# Updated: 2026-10-01 16:52:00 UTC
+# Count: 2
 
+vless://30dab345-4de9-4b70-ad9f-8ebd5c66686f@81.90.21.168:443?security=reality&encryption=none&pbk=GRxGFwibgoUjG9OL5Dl1OLyK56yw8WaG5BdFP8ifVgQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=26f7082dd0e36ca1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
 vless://4b274084-bede-4677-b58f-c73bcb3b2a4a@se-3554899f.sishka.network:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=se-3554899f.sishka.network&fp=firefox&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&sid=0ececd9b2731357d&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Gabriele%20Sabatino
