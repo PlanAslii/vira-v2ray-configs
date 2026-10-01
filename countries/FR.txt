@@ -1,9 +1,7 @@
 # Country FR
-# Updated: 2026-09-30 23:52:00 UTC
-# Count: 5
+# Updated: 2026-10-01 00:22:00 UTC
+# Count: 3
 
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=fr.setlisting.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
-vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=chrome&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vmess://eyJhZGQiOiI0NS44MC4yMTUuOCIsImFpZCI6IjAiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgRy1Db3JlIExhYnMgUy5BLiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
-vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.185.105.86:443?security=reality&encryption=none&pbk=G-Fy0uWH2NeeFRM1bgEq_rdx1bV3IB9xJefI8Of-Nxc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlcdn.apache.org&sid=ce73972832e06812#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
+vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.185.105.86:443?sid=ce73972832e06812&fp=firefox&pbk=G-Fy0uWH2NeeFRM1bgEq_rdx1bV3IB9xJefI8Of-Nxc&sni=dlcdn.apache.org&security=reality&spx=%2FAhmadV2ray&headerType=none&encryption=none&fm=AhmadV2ray&type=tcp&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@217.60.63.5:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=/&security=tls&sni=shephe.dpdns.org&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@143.246.208.113:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=cdn.v1.AssetService&allowInsecure=0&sni=assets-fr4.pleiades.codes#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
