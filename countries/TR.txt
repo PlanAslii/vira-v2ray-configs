@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-10-01 20:52:00 UTC
-# Count: 2
+# Updated: 2026-10-01 21:22:00 UTC
+# Count: 1
 
-vless://c0f6351a-d007-4a36-b6d2-5fa27071a912@93.190.9.229:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji%20A.S.
-vless://85163fd9-6f73-4eea-b1df-3b327dacbabf@83.217.9.140:43000?security=reality&encryption=none&pbk=ptE_QnAka3pXNEf8BYKpA9CHdgj4U4xXTixjYWOji0U&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=83.217.9.140&sid=68d2eb23#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20GCS%20SER
+vless://0746aefb-be17-456e-9b3c-820afae2d1f4@tr-ip.nxralns.com:300?encryption=none&security=reality&type=tcp&headerType=none&sni=in.tradingview.com&fp=chrome&pbk=3oswcmBDBnM_uYkFbNgUB_YVOrMd4Ox2RibNSZGoyS0&sid=b81def814bd29d49#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
