@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-10-01 19:22:00 UTC
-# Count: 2
+# Updated: 2026-10-01 19:52:00 UTC
+# Count: 1
 
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://3721913e-0ab1-4ee5-a05d-c9e85c72311c@77.42.28.120:1280?path=%2F&encryption=none&host=is1-ssl.mzstatic.com&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://3721913e-0ab1-4ee5-a05d-c9e85c72311c@77.42.28.120:1280?encryption=none&host=is1-ssl.mzstatic.com&path=%2F&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
