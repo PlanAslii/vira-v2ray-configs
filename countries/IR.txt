@@ -1,10 +1,11 @@
 # Country IR
-# Updated: 2026-10-01 16:52:00 UTC
-# Count: 6
+# Updated: 2026-10-01 17:22:00 UTC
+# Count: 7
 
+vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@194.32.214.50:31079?encryption=none&security=none&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
+vless://96197f9d-bcad-4753-b708-81870edbbe9d@79.175.176.203:8675?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=ZPXGb7KLrSyNIxs1GpIgYumMqR-7j4rBhBstkIk3WTU&sid=175b8d62164690ee&spx=%2F&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AFranet%20Co%20%E2%94%87%20%F0%9F%94%B4
+vless://5f424b45-29e5-4cbe-b752-88ac535c11b7@www.asamping.ir:2052?encryption=none&type=ws&path=%2F&host=www.asamping.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Vandad%20Vira%20Hooman%20LLC%20%E2%94%87%20%F0%9F%94%B4
 vless://ce4b2104-f1fe-4216-ad67-8c21869b9118@109.94.164.185:10210?encryption=none&type=grpc&security=reality&sni=firebaseperusertopics-pa.googleapis.com&fp=chrome&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&sid=13121b7150ad7fc6&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Mohammad%20Taha%20Mashhorrodi%20%E2%94%87%20%F0%9F%9F%A2
 vless://ce4b2104-f1fe-4216-ad67-8c21869b9118@iran.mstr.pingxoxo.info:36171?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=IYhfI8lsuJrFV8zzp1XXbh9sPkvBlBNOTtJwBubhxxw&sid=e4eb3ada03de9e92&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Mohammad%20Taha%20Mashhorrodi
 vless://e6a26f69-5369-4a37-b243-e7869de3e4bf@3mmfl0796s.codesystem.ir:43234?security=reality&encryption=none&pbk=A-WcezAbYc6GrL7gqM9Kg89OAgLBp2nxC_wrpenGlDg&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=b7e45d3a65bfc319#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Baran%20Information%20Technologists%20LLC%20%E2%94%87%20%F0%9F%9F%A2
 vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@31.14.123.220:49433?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Afranet%20Co%20%E2%94%87%20%F0%9F%94%B4
-vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@194.32.214.50:31079?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
-vless://96197f9d-bcad-4753-b708-81870edbbe9d@79.175.176.203:2083?security=reality&encryption=none&pbk=O8fk-DpfkW-rK0f67O2JYAfDvSBILi4e7qunbRDlmQA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=df9d0981db4cbc6b#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AFranet%20Co%20%E2%94%87%20%F0%9F%94%B4
