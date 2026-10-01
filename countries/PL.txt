@@ -1,8 +1,8 @@
 # Country PL
-# Updated: 2026-10-01 04:22:00 UTC
+# Updated: 2026-10-01 04:52:00 UTC
 # Count: 4
 
+vless://8dbcb4ef-65bf-4890-a257-c32073689ee8@83.168.68.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smotret.tv&fp=edge&security=reality&pbk=UmiO58uvMjH4a9DIkUbLCy5EJYncSsraFFtiJS_oinU&sid=4e85d77e533afc1c#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SkyPass%20Solutions%20Sp.%20z.o.o.
 vless://68ad9a6d-2463-4c31-92a7-31547b9d4783@95.81.75.9:57160?security=reality&encryption=none&pbk=Tbu7sr_pvHngDWFIa0ApL5UL9vEGxlHESd9g53KQehw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=funpay.com&sid=77b5#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Oner%20Investments%20Limited
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?encryption=none&fp=firefox&mode=gun&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=pl.srv.vbuste-bot.com&type=grpc#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
 vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SkyPass%20Solutions%20Sp.%20z.o.o.
-vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=google.com&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&sid=d345ad4657adeef9&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SkyPass%20Solutions%20Sp.%20z.o.o.
