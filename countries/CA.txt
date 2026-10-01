@@ -1,12 +1,8 @@
 # Country CA
-# Updated: 2026-10-01 17:22:00 UTC
-# Count: 8
+# Updated: 2026-10-01 17:52:00 UTC
+# Count: 4
 
+vless://018a6ab7-f54c-4a1c-bfc5-d6b04e6545d1@151.101.129.242:443?encryption=none&fp=firefox&host=ghosts-spasm.quick-cdn.net&path=/ws&security=tls&sni=ghosts-spasm.quick-cdn.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://b2aa6d03-4d3e-478d-98aa-2447f09d4cb1@piracy-android.video-streams.org:443?encryption=none&type=ws&path=%2Fws&security=tls&alpn=http%2F1.1&fp=chrome&sni=piracy-android.video-streams.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://abd924f4-132d-4ad3-ac2a-3aa01b8e5923@piracy-android.video-streams.org:443?encryption=none&type=ws&security=tls&sni=piracy-android.video-streams.org&alpn=http%2F1.1&fp=chrome&host=piracy-android.video-streams.org&path=%2Fws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiIsImFkZCI6IjE4OC4xMTQuOTYuMTkiLCJwb3J0IjoiODAiLCJpZCI6ImFmNGJlNTJhLWFhYjMtNGRiMS1hNmJiLWMyMzcwMGRjYjljMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsInBhdGgiOiIvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAiLCJ0bHMiOiIifQ
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiIsImFkZCI6IjE4OC4xMTQuOTYuMTkiLCJwb3J0IjoiODAiLCJpZCI6ImFlZDg4ZTc5LTU3NjItNGQyZi04NmZhLWY0MzhmMzJhNzY1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJwYXRoIjoiLyIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycC4iLCJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiJ9
-vless://69848b7f-3ee7-4c30-b035-6cff5e08ac4a@188.114.96.3:8443?path=/assets&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=us.luxes.network#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://f80cfcb4-9bd1-4a0d-a50b-28e3eea107d8@grimness-backlogs.cdn-content.com:443?encryption=none&security=tls&sni=grimness-backlogs.cdn-content.com&fp=chrome&alpn=http%2F1.1&type=ws&host=grimness-backlogs.cdn-content.com&path=%2Fws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@piracy-android.video-streams.org:443?encryption=none&type=ws&security=tls&sni=piracy-android.video-streams.org&alpn=http%2F1.1&fp=chrome&host=piracy-android.video-streams.org&path=%2Fws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
