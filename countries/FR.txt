@@ -1,8 +1,9 @@
 # Country FR
-# Updated: 2026-10-02 01:22:00 UTC
-# Count: 4
+# Updated: 2026-10-02 01:52:00 UTC
+# Count: 5
 
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20Hysteria2%20%C2%B7%20Scaleway%20SAS
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@104.252.111.38:8443?security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Digital%20LLC
 vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@143.246.208.113:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=cdn.v1.AssetService&allowInsecure=0&sni=assets-fr4.pleiades.codes#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
