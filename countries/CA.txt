@@ -1,6 +1,5 @@
 # Country CA
-# Updated: 2026-10-02 23:22:00 UTC
-# Count: 2
+# Updated: 2026-10-02 23:52:00 UTC
+# Count: 1
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://88ee0e1e-a2a2-477e-88ce-4875c058aeba@103.21.220.248:29608?fp=firefox&host=123.714541.xyz&path=%2FRa-vl&security=tls&sni=123.714541.xyz&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20Hong%20Kong%20Limited
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
