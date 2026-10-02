@@ -1,11 +1,6 @@
 # Country TR
-# Updated: 2026-10-02 19:52:00 UTC
-# Count: 7
+# Updated: 2026-10-02 20:22:00 UTC
+# Count: 2
 
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@176.96.131.251:1280?path=%2F&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Hosting%20Dunyam%20Bilisim%20Teknolojileri%20Ticaret%20Limited%20Sirketi
 vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.datadoghq.com&fp=firefox&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&sid=f46cd3ea3d1eb72d&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pixoof%20Teknoloji%20Anonim%20Sirketi
-vless://6a382839-d4d4-4e5a-a061-328b74ee9ada@93.114.98.79:443?encryption=none&type=tcp&security=tls&sni=adslndif63f4.dop666.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vmess://eyJhZGQiOiIyMDYuMS45OS4xNjAiLCJhaWQiOiIwIiwiaWQiOiJOaXRyb19Ta3lib3QiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQxMzEwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBOZXRsZW4gSW50ZXJuZXQgSGl6bWV0bGVyaSBMdGQuIFN0aS4iLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0
-vless://c23055f0-81d7-4811-a7cf-02dad2effad0@158.94.216.42:110?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
-vless://e688f2f5-ad67-4530-a3ad-8ea042171217@78.135.77.214:9090?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://3f67fdf4-f7cf-4b36-9485-5a5b747cc3f0@158.94.216.42:110?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
-vless://067250a3-6fbe-4631-914e-5182ea0e8593@158.94.216.42:110?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
