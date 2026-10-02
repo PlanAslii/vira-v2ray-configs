@@ -1,10 +1,11 @@
 # Country RU
-# Updated: 2026-10-02 04:52:00 UTC
-# Count: 6
+# Updated: 2026-10-02 05:22:00 UTC
+# Count: 7
 
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.134:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
+vless://ea954244-bd25-4233-a77e-bf04b7a7fd5a@189.74.114.110:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoyprichal.cc&type=tcp#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
+vless://ea954244-bd25-4233-a77e-bf04b7a7fd5a@189.74.114.135:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.setevoyprichal.cc&sid=a8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?sni=assets-de2.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=chrome&security=tls#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Mikhail%20Fedorov
 vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yakovlev%20Denis%20Alexandrovich
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://ea954244-bd25-4233-a77e-bf04b7a7fd5a@api.setevoyprichal.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.setevoyprichal.cc&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&encryption=none&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz1.animeteka.info&sid=232b1b09e45325a4#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
