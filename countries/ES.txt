@@ -1,6 +1,6 @@
 # Country ES
-# Updated: 2026-10-02 21:52:00 UTC
+# Updated: 2026-10-02 22:22:00 UTC
 # Count: 2
 
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@assets-es.pleiades.codes:443?type=grpc&security=tls&fp=firefox&sni=assets-es.pleiades.codes&serviceName=cdn.v1.AssetService#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Green%20Floid%20LLC
 vless://0b4b1548-c7ca-45a5-9096-6c3cc4b1c43b@34.175.44.113:443?encryption=none&pbk=iI9J--AfPKCXbVle3Om-WMn_g-3bO3SsVzUCNtwUkU0&security=reality&sid=fe85cb6a5c84e64c&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Google%20LLC
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@45.154.206.88:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&sid=ecca56e9a9963ed7#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20BrainStorm%20Network%2C%20Inc
