@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-10-02 18:22:00 UTC
-# Count: 2
+# Updated: 2026-10-02 18:52:00 UTC
+# Count: 1
 
-vless://8aa18536-0382-4f81-a90b-2456699c64fc@japaajvagajakahav.f15.gymyoga.ir:80?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.oEfFlk7NfA_QAF1u_5EXbuXfD_8q-oPbaHXmxAjLAS0&host=Japaajvagajakahav.f15.gymyoga.ir&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://ff40696b-06d6-443b-9481-8d01eddd13e1@server.slavkiti.monster:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=d659da01fb94&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
