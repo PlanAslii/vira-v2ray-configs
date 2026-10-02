@@ -1,6 +1,5 @@
 # Country EE
-# Updated: 2026-10-02 01:22:00 UTC
-# Count: 2
+# Updated: 2026-10-02 04:22:00 UTC
+# Count: 1
 
-vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@140.150.227.51:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us51.mech-pro.online&sid=16e0f049#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Customer
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&encryption=none&sni=estproxy4.lockdwn.com&fp=chrome&type=tcp&path=%2f#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20EternityCloud
+vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@212.87.190.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&security=reality&sid=16e0f049&sni=ee174.mech-pro.online&type=tcp#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
