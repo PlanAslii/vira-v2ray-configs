@@ -1,7 +1,7 @@
 # Country FR
-# Updated: 2026-10-02 15:22:00 UTC
+# Updated: 2026-10-02 15:52:00 UTC
 # Count: 3
 
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fra.loozerp.wiki&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=fr.setlisting.ru&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Scaleway%20SAS
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@fra.loozerp.wiki:443?encryption=none&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=fra.loozerp.wiki&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
