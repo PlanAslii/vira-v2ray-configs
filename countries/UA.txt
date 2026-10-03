@@ -1,5 +1,5 @@
 # Country UA
-# Updated: 2026-10-01 16:52:00 UTC
+# Updated: 2026-10-03 00:22:00 UTC
 # Count: 1
 
-vless://29af4c23-f998-4301-ae03-e174fd9075a7@104.143.223.220:2085?encryption=none&type=grpc&serviceName=vless&mode=multi&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
+vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
