@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-10-03 16:22:00 UTC
-# Count: 4
+# Updated: 2026-10-03 16:52:00 UTC
+# Count: 3
 
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
-vless://452f869f-7720-47c3-a175-b6673e31d3e8@fi1.rovilo.ir:443?security=reality&encryption=none&pbk=i_cD6qpNHvE-j2vFGxEBmXNvX5U8PE4-lBkxcti8Ry8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=714369014b7679bf#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://03a7ce81-061b-4d22-a057-40a12aa48bae@Hevevshshwg.apple.gymyoga.ir:80?encryption=mlkem768x25519plus.native.0rtt.oEfFlk7NfA_QAF1u_5EXbuXfD_8q-oPbaHXmxAjLAS0&type=ws&path=%2F&host=Hevevshshwg.apple.gymyoga.ir#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://61bd5829-a243-4548-97f0-a210c2069fec@179.254.109.69:443?security=reality&encryption=none&pbk=u9_Ta0DYmqruY94DwuZv4g_gnvY1xGMF1iT1SdV3cT8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=m.swegg.daxaryx.fun&sid=d3a09fd1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
+vless://452f869f-7720-47c3-a175-b6673e31d3e8@fi1.rovilo.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=firefox&pbk=i_cD6qpNHvE-j2vFGxEBmXNvX5U8PE4-lBkxcti8Ry8&sid=714369014b7679bf&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://61bd5829-a243-4548-97f0-a210c2069fec@179.254.109.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.swegg.daxaryx.fun&fp=safari&pbk=u9_Ta0DYmqruY94DwuZv4g_gnvY1xGMF1iT1SdV3cT8&sid=d3a09fd1&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
