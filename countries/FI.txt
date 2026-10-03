@@ -1,6 +1,6 @@
 # Country FI
-# Updated: 2026-10-03 02:22:00 UTC
+# Updated: 2026-10-03 02:52:00 UTC
 # Count: 2
 
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://ed042cf7-efe0-49bd-848b-8d7e655111ff@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.mozilla.org&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=1036b2383b72&headertype=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@77.42.28.120:1280?type=ws&headerType=none&host=is1-ssl.mzstatic.com&path=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
