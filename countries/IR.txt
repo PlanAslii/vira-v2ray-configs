@@ -1,7 +1,5 @@
 # Country IR
-# Updated: 2026-10-03 08:52:00 UTC
-# Count: 3
+# Updated: 2026-10-03 09:22:00 UTC
+# Count: 1
 
-vless://37307f53-9b0b-407c-b8a8-ec1c3998ee4c@ir2f1.artativa.ir:1320?security=reality&encryption=none&pbk=KZLp_cZajilUYAQ8guKDfeG_gJWKhqBV3d3ZL23PwDk&headerType=none&fp=chrome&type=tcp&sni=soft98.ir&sid=9995846367252a27#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20GeniusMind%20S.A.
-vless://9cdcec15-2c73-40d5-b50f-d00381fddd26@stsr.hospitaldt.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=stsr.hospitaldt.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PTE%20%E2%94%87%20%F0%9F%94%B4
-vless://4ca3213e-3263-4363-b18c-342d37cc5869@pstork.ramcalshoping.ir:28797?encryption=none&type=tcp&security=reality&sni=telehome.ai&fp=chrome&pbk=PUZCF7VLGQwkAzwRlWDHBvgBHr9GCZB9pdarAbTzXBc&sid=f9&spx=%2Fb1bb21d11cf687f&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29
+vmess://eyJhZGQiOiJmZGZnZXNrZGhlcmRqZGYtbmpkc19uc2RqLW1zZGouaXN0Z2FoZmlsbS5pciIsImFpZCI6IjAiLCJpZCI6IjgwNDMzNWM3LTE5OGQtNDJkNy04NGM4LTk4YjEwY2IzZWJkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgQWJyQmFyYW5JREMiLCJzY3kiOiJhdXRvIiwic25pIjoicGRkLmlzdGdhaGZpbG0uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
