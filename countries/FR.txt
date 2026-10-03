@@ -1,6 +1,6 @@
 # Country FR
-# Updated: 2026-10-03 00:52:00 UTC
+# Updated: 2026-10-03 01:22:00 UTC
 # Count: 2
 
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=fr.setlisting.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
