@@ -1,9 +1,6 @@
 # Country FI
-# Updated: 2026-10-03 07:52:00 UTC
-# Count: 5
+# Updated: 2026-10-03 08:22:00 UTC
+# Count: 2
 
-vless://57f03653-3af9-4f11-895b-23672338b0ac@62.238.31.173:8081?mode=gun&security=none&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://a5dd2dd9-0995-449e-be67-4a409890dc42@2.27.207.30:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=jdbdb.huinaduok.fans&fp=chrome&pbk=nG28Y1q-Ul2oBH-FegAkzGtvY6IRCIwras1k8CLwdGo&sid=da4d87fa&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
-vless://d676e069-4821-4a52-a913-b32140b9a7c3@65.109.208.97:28243?encryption=none&headerType=http&path=/&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://7078e8e7-94d0-4736-97cd-b981419a41ef@t-fin1.fpradius.com:443?security=reality&encryption=none&pbk=mXdCqI9f5K_OU_uHSm18G3hXTBS9cglSL5GMZZENdXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=t-fin1.fpradius.com&sid=9e12f2df4fdd9fa3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
+vless://57f03653-3af9-4f11-895b-23672338b0ac@62.238.31.173:8081?mode=gun&encryption=none&type=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@177.3.214.93:443?security=reality&encryption=none&pbk=KRjk7rvHj6sRNk6jhW12W9Ed9duywFEBNQXhnCJEPAI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=myfinlandfirtsdate.live#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
