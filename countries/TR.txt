@@ -1,8 +1,5 @@
 # Country TR
-# Updated: 2026-10-03 21:22:00 UTC
-# Count: 4
+# Updated: 2026-10-03 22:52:00 UTC
+# Count: 1
 
-vless://04a7d3f9-a7cb-49a3-9ac0-a684d6909f0c@206.1.103.51:18534?encryption=none&type=grpc&security=reality&sni=play.google.com&fp=chrome&pbk=2YbVhbRxQ-FL2jI5hEPuittjBceKAomX60K07FnoHH0&sid=f7&spx=%2Fcd580e25234535d&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://de377cde-61e6-4ebd-a54f-c46451ae2891@206.1.103.51:24847?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=PAIC5eQw5uNpZZ57RJSGS7TiYstON17-khLVcjeaGD4&sid=cdc859&spx=%2F55c51b19b4c903f&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://bf155a74-0560-46ff-ba40-9c8d34917f0e@188.132.174.125:5589?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=rlWw1txOKfyTIegqGc5YUQo1CxqZEXBPeQZppA6H014&sid=8f798d413a5dbf01&spx=%2Flink&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://bf155a74-0560-46ff-ba40-9c8d34917f0e@tr.xelnivo.ir:5589?security=reality&encryption=none&pbk=rlWw1txOKfyTIegqGc5YUQo1CxqZEXBPeQZppA6H014&headerType=none&fp=firefox&spx=%2Flink&type=tcp&sni=play.google.com&sid=8f798d413a5dbf01#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@tot3.povrak.ir:15952?security=none&encryption=mlkem768x25519plus.native.0rtt.lPXVWoupPp8pw-foTUSjXNYhKvrJRnt_O6h1SUGpVG0&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
