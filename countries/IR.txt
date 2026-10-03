@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-10-03 09:22:00 UTC
-# Count: 1
+# Updated: 2026-10-03 09:52:00 UTC
+# Count: 2
 
+vless://9cdcec15-2c73-40d5-b50f-d00381fddd26@stsr.hospitaldt.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=stsr.hospitaldt.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PTE%20%E2%94%87%20%F0%9F%94%B4
 vmess://eyJhZGQiOiJmZGZnZXNrZGhlcmRqZGYtbmpkc19uc2RqLW1zZGouaXN0Z2FoZmlsbS5pciIsImFpZCI6IjAiLCJpZCI6IjgwNDMzNWM3LTE5OGQtNDJkNy04NGM4LTk4YjEwY2IzZWJkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgQWJyQmFyYW5JREMiLCJzY3kiOiJhdXRvIiwic25pIjoicGRkLmlzdGdhaGZpbG0uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
