@@ -1,8 +1,6 @@
 # Country IR
-# Updated: 2026-10-03 10:52:00 UTC
-# Count: 4
+# Updated: 2026-10-03 11:22:00 UTC
+# Count: 2
 
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ist1d.lynch.ir:2045?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ABRARVAN
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ge1d.lynch.ir:2045?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ABRARVAN%20%E2%94%87%20%F0%9F%94%B4
-vless://5561e17d-938c-44ef-b6c3-5bdbc05d5d61@arvancloud.ir:80?path=%2Fpgcfws-r4&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=bbrt.yldl.ir&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
-vless://5561e17d-938c-44ef-b6c3-5bdbc05d5d61@varzesh3.com:80?path=%2Fpgcfws-r4&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=asan.zybox.ir&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%20Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%9F%A2
