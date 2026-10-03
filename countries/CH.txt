@@ -1,7 +1,6 @@
 # Country CH
-# Updated: 2026-10-03 18:52:00 UTC
-# Count: 3
+# Updated: 2026-10-03 19:22:00 UTC
+# Count: 2
 
-vless://a4b8d677-ecfe-4357-9b68-981c201f3701@areal5.greewebservices.ir:5455?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
+vless://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@179.255.191.8:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=api-gate-ch.kaneki.cfd&fp=chrome&pbk=4q6yUL1KfzigsPjcQvt2HlOSZ3eq2sp9UFlrKOLrKVo&sid=a4f8c92d&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Host%20Telecom%20LTD
 vless://d6bd3ec0-84f5-4df3-bd5a-ef69469ce642@45.90.59.119:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=shvec.mtmajestic.space&fp=safari&pbk=aHFq0S4UJBSUr5it5_mw4JN4sPG6lnHjdYXsWJVVdXk&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
-vless://e0bd9dfa-0cf9-47c0-92ac-7dba08ebcff8@179.237.103.152:443?security=reality&encryption=none&pbk=8PZTYkhNhSgagVdaI-iqSCPXJwDhHU23IUwZIu08zH4&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=9de8ae53dabf1dc2#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
