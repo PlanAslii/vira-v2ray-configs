@@ -1,7 +1,12 @@
 # Country US
-# Updated: 2026-10-03 02:22:00 UTC
-# Count: 13
+# Updated: 2026-10-03 02:52:00 UTC
+# Count: 14
 
+vless://XpnTeam-63@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@fast.jkerm.com:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2F&host=italyji.global.ssl.fastly.net.#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@199.232.78.159:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2F&host=sevenfeshab.global.ssl.fastly.net.#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@199.232.78.159:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@fast.jkerm.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0IiwiYWRkIjoiMTY3Ljg4LjYyLjEyNCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiJ9
@@ -11,7 +16,3 @@ vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.160.4:443?security=reality&enc
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.144:8081?path=%2Fvless-test&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Interserver%2C%20Inc
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
 vless://%58pnTeam-63@151.101.215.97:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://XpnTeam-63@199.232.78.160:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&path=%2F&host=Appxdn.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@fast.jkerm.com:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2F&host=italyji.global.ssl.fastly.net.#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@199.232.78.159:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2F&host=sevenfeshab.global.ssl.fastly.net.#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=%2F&host=pan2e.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
