@@ -1,7 +1,5 @@
 # Country IR
-# Updated: 2026-10-04 16:52:00 UTC
-# Count: 3
+# Updated: 2026-10-04 17:22:00 UTC
+# Count: 1
 
-vless://876c4968-df77-4b80-87b0-c180ffb0853c@188.213.198.25:37003?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.mP9UcobGtbJujNgEioZ5_Wroc0Ad0HSUfemu1_kZYkY&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20MCI%20%E2%94%87%20%F0%9F%94%B4
-vless://56cdba27-4aed-4013-a10c-f43254833005@tunn.musichubmel.ir:33737?encryption=none&type=ws&path=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tejarat%20Electronic%20Nojhan%20Pardazesh%20LLC%20%E2%94%87%20%F0%9F%9F%A2
-vless://bc2b006a-7539-4e3f-9f1e-3f31056c7e7f@94.139.180.250:4109?security=reality&encryption=none&pbk=cIT2rZEiec-gDgmnX-5l0KgIDw_Ik-qA-4pGzGoSkHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=d38a24b31d88527f#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parvaresh%20Dadeha%20Co.%20Private%20Joint%20Stock%20%E2%94%87%20%F0%9F%94%B4
+vless://eda15938-566a-4fd4-bbbc-8d069a5514ed@datdat.datgame.ir:2222?encryption=mlkem768x25519plus.native.0rtt.KD6Y1EkqmSMr2QAmKjrIKj0QbjZePcUBYel50XKMAXI&type=tcp&security=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tejarat%20Electronic%20Nojhan%20Pardazesh%20LLC%20%E2%94%87%20%F0%9F%9F%A2
