@@ -1,6 +1,5 @@
 # Country LT
-# Updated: 2026-10-03 11:52:00 UTC
-# Count: 2
+# Updated: 2026-10-04 10:22:00 UTC
+# Count: 1
 
-vless://9e4f37c8-487f-46b6-8507-6629c711a920@84.32.214.166:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt.dertux.com&fp=safari&pbk=-E25uxwBWgGrMJLCy5dMVD5xYnKmYzp54aDftbXOezg&sid=dd4540837fd8dcc1&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
-vless://0b1a7741-5cdd-490d-9530-0b2d16410133@84.32.214.145:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt.moordox.com&fp=safari&pbk=M9b0v2pBkl95UJ8aVX761VwqbwwAuZhMapDUw743NUU&sid=e9557191598d6d0f&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
+vless://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=repo1.maven.org&fp=safari&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&sid=bbfe4bd7d5dd0627&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20BACLOUD-COM
