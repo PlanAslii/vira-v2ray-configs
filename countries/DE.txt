@@ -1,6 +1,6 @@
 # Country DE
-# Updated: 2026-10-04 02:52:00 UTC
+# Updated: 2026-10-04 03:22:00 UTC
 # Count: 2
 
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.109.35:443?security=reality&encryption=none&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&sid=494afdc75f8c2fa8#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Andris%20Jakovlevs
-vless://149fe131-6a9d-4e8e-862b-17ba84f907e1@apadana.gamingnet.ir:33483?path=%2F&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://149fe131-6a9d-4e8e-862b-17ba84f907e1@apadana.gamingnet.ir:33483?encryption=none&type=ws&path=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ber1d.lynch.ir:4040?encryption=none&security=reality&type=tcp&headerType=none&sni=www.actionvfx.com&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
