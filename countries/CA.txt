@@ -1,9 +1,7 @@
 # Country CA
-# Updated: 2026-10-04 10:52:00 UTC
-# Count: 5
+# Updated: 2026-10-04 11:22:00 UTC
+# Count: 3
 
-vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy8.iiproxy.com:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=iiproxy8.iiproxy.com&fp=chrome&type=ws&sni=iiproxy8.iiproxy.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://436ae796-c75f-4b5f-816d-48a0d0ba3a1b@104.234.138.246:2083?encryption=none&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20WorldStream%20B.V.
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@www.speedtest.org:8443?encryption=none&type=ws&security=tls&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&sni=speed.dulacloud.store&fp=chrome&insecure=0&allowInsecure=0#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://76cbf63a-cdf3-40ab-8315-33af5bf27c9f@104.234.138.246:2084?encryption=none&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20WorldStream%20B.V.
