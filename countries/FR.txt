@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-10-04 18:52:00 UTC
-# Count: 4
+# Updated: 2026-10-04 19:22:00 UTC
+# Count: 2
 
+vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?mode=gun&security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=chrome&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr.setlisting.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
-vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
-vless://aef79ba1-438f-4cca-8ee6-9a6cf786065b@sr12.sabalan.shop:8443?security=reality&encryption=none&pbk=KkJioQ_EBOLAlPB4XSe04dBZJWPgyv_OCn6tN1UmnG4&headerType=none&fp=chrome&type=tcp&sni=s12.dailei.shop&sid=21c7f70410bb3e26#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
