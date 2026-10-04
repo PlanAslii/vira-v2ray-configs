@@ -1,5 +1,6 @@
 # Country TR
-# Updated: 2026-10-04 13:52:00 UTC
-# Count: 1
+# Updated: 2026-10-04 14:22:00 UTC
+# Count: 2
 
-vless://914a332b-8a4e-423f-bedd-e272ea033ecd@206.1.103.179:13054?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vmess://eyJhZGQiOiIyMDYuMS4xMDMuMTc5IiwiYWlkIjoiMCIsImlkIjoiNTk0NTI0OWEtYTJmOC00MmI1LTkwMDItMzlmNWE2ZDhlNzJhIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicG9ydCI6IjQzOTgwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBOZXRsZW4gSW50ZXJuZXQgSGl6bWV0bGVyaSBMdGQuIFN0aS4iLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://914a332b-8a4e-423f-bedd-e272ea033ecd@206.1.103.179:13054?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
