@@ -1,9 +1,7 @@
 # Country CA
-# Updated: 2026-10-04 14:22:00 UTC
-# Count: 5
+# Updated: 2026-10-04 14:52:00 UTC
+# Count: 3
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=corporate.amazon.com&fp=chrome&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&sid=33c0b6e213&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20ZhouyiSat%20Communications
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?encryption=none&security=tls&sni=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=a.cwvps.eu.org&path=%2Fws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?encryption=none&path=/var/www/html/video/preview/download/i8o0la&security=tls&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
