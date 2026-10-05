@@ -1,7 +1,7 @@
 # Country IR
-# Updated: 2026-10-05 13:22:00 UTC
+# Updated: 2026-10-05 13:52:00 UTC
 # Count: 3
 
-vless://7d5bdf4d-3e25-4326-91b7-dbe49dd344f1@snapp.ir:80?encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=Serch.zowe.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
 vless://cd1e9edc-e98c-4105-983d-501cb644dd52@p2tun01.greewebservices.ir:28830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
 vless://cd1e9edc-e98c-4105-983d-501cb644dd52@p2tun0.greewebservices.ir:28820?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
+vless://7d5bdf4d-3e25-4326-91b7-dbe49dd344f1@snapp.ir:80?encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=Serch.zowe.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
