@@ -1,7 +1,9 @@
 # Country CA
-# Updated: 2026-10-05 07:22:00 UTC
-# Count: 17
+# Updated: 2026-10-05 07:52:00 UTC
+# Count: 15
 
+vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy888.iiproxy.com:8443?encryption=none&security=tls&sni=iiproxy888.iiproxy.com&alpn=h2%2C%20http%2F1.1&fp=chrome&type=ws&host=iiproxy888.iiproxy.com&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?encryption=none&path=/var/www/html/video/preview/download/i8o0la&security=tls&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://86d998bc-a5a2-45d5-8169-b906259110a6@104.21.88.129:8880?type=ws&headerType=none&host=muddy-art-8cda.197-0c6.workers.dev&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?type=ws&security=tls&sni=a.cwvps.eu.org&encryption=none&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&allowInsecure=0&path=%2Fws&host=a.cwvps.eu.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://W@172.64.150.28:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -15,7 +17,3 @@ vless://W@188.114.97.6:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonf
 vless://W@188.114.98.0:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@188.114.97.6:8880?path=%2F&security=none&encryption=none&host=crimson-wind-71bc.19-5fd.workers.dev&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://a62a4c64-2270-4d41-828b-2591906c48ba@www.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=sweet-disk-a026.253-54b.workers.dev&packetEncoding=xudp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://682d30e4-3dfc-49f2-a017-9049119e3497@172.67.148.163:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server7peekconfig.workers.dev&path=%2FeyJqdW5rIjoiRm5kaUkxZVFtRVJBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=free.server7peekconfig.workers.dev&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://7c99dc89-bf49-45c9-acc5-e43f36657518@172.67.190.248:8443?security=tls&sni=www.large-files.info&type=ws&path=/var/www/html/video/preview/download/i8o0la&alpn=http/1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy888.iiproxy.com:8443?encryption=none&security=tls&sni=iiproxy888.iiproxy.com&alpn=h2%2C%20http%2F1.1&fp=chrome&type=ws&host=iiproxy888.iiproxy.com&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
