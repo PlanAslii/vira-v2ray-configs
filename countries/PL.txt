@@ -1,9 +1,6 @@
 # Country PL
-# Updated: 2026-10-05 12:52:00 UTC
-# Count: 5
+# Updated: 2026-10-05 13:22:00 UTC
+# Count: 2
 
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@179.254.71.20:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=pl.setlisting.ru&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
-vless://332f57d7-c5f4-4b66-b46f-57658966194f@201.10.90.37:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pl1.savex.space&fp=safari&pbk=fppF5Y_pciUnl7-CnuB8xa8N73DX2LKN7YKvwk8d0AI&sid=f7f8af36&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Moskalev%20Georgiy
-vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?encryption=none&type=grpc&security=reality&sni=tel.free-run.club&fp=safari&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&sid=025f065c&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20TAKEHOST%20OU
-vless://f39a15ee-e776-4b27-a5f0-50c02052771a@80.47.11.62:443?encryption=none&type=ws&security=tls&sni=ws1.confstage.app&fp=safari&path=%2F&host=ws1.confstage.app#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20MEVSPACE%20sp.%20z%20o.o.
