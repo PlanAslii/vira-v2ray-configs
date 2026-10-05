@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-10-05 14:22:00 UTC
-# Count: 1
+# Updated: 2026-10-05 18:22:00 UTC
+# Count: 2
 
-vless://332f57d7-c5f4-4b66-b46f-57658966194f@179.237.111.120:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sw.savex.space&fp=safari&pbk=F9uJky_J-5C3jqLsOk3yh4thAOoFxLBLyaLlL3CYOCk&sid=287453dd&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
+vless://a5fb9a19-5802-44ec-b074-e46d111d6de1@areal5.greewebservices.ir:5455?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
+vless://a5fb9a19-5802-44ec-b074-e46d111d6de1@p2real5.greewebservices.ir:1350?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
