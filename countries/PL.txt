@@ -1,11 +1,6 @@
 # Country PL
-# Updated: 2026-10-05 08:52:00 UTC
-# Count: 7
+# Updated: 2026-10-05 09:22:00 UTC
+# Count: 2
 
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://18f3b87e-3059-4dd7-a1e3-ac37ccb6db46@2.27.153.48:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.ign.com&fp=safari&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20German%20Kiselev
-vless://18f3b87e-3059-4dd7-a1e3-ac37ccb6db46@2.27.153.57:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=safari&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20German%20Kiselev
-vless://f39a15ee-e776-4b27-a5f0-50c02052771a@80.47.11.62:443?encryption=none&type=ws&security=tls&sni=ws1.confstage.app&fp=safari&path=%2F&host=ws1.confstage.app#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20MEVSPACE%20sp.%20z%20o.o.
-vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?encryption=none&type=grpc&security=reality&sni=tel.free-run.club&fp=safari&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&sid=025f065c&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20TAKEHOST%20OU
-vless://d3fd4488-fc7d-4207-9e48-29167f847113@222.167.246.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=gemini.google.com&fp=safari&pbk=10-YUPp0H9My88ycQMXB_Kd_D1Nz-LShX5VKwBbFZnE&sid=e6200f472d737c0a&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Netgrid%20Host%20LTD
-vless://0493aa7f-1bdc-4cda-93cc-6997d5cb0d8d@194.61.121.148:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=pl.greatecloud.com&fp=safari#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20BlueVPS%20OU
+vless://d3fd4488-fc7d-4207-9e48-29167f847113@222.167.246.23:443?security=reality&encryption=none&pbk=10-YUPp0H9My88ycQMXB_Kd_D1Nz-LShX5VKwBbFZnE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=gemini.google.com&sid=e6200f472d737c0a#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Netgrid%20Host%20LTD
