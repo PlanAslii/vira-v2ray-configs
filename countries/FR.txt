@@ -1,8 +1,9 @@
 # Country FR
-# Updated: 2026-10-05 13:22:00 UTC
-# Count: 4
+# Updated: 2026-10-05 13:52:00 UTC
+# Count: 5
 
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@31.185.105.22:443?encryption=none&type=grpc&security=reality&sni=samsung.com&fp=chrome&pbk=0V_2rGeVoX0_zwtgNG2XJBVNiu0j_b6s89tP2AfxFhw&serviceName=vless-grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
+vless://332f57d7-c5f4-4b66-b46f-57658966194f@45.13.119.67:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=man.savex.space&fp=safari&pbk=lIPiiovrA7bi_Fc4pKjZrxzkT71RpVB0P5WAJhNQpBs&sid=4d835e87&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&fp=chrome#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiNDc5NTI2Y2QtNTAxMS00M2NmLWE3ODgtNTA0ZGE5NWUwN2MyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@31.185.105.22:443?mode=gun&security=reality&encryption=none&pbk=0V_2rGeVoX0_zwtgNG2XJBVNiu0j_b6s89tP2AfxFhw&fp=firefox&type=grpc&serviceName=vless-grpc&sni=samsung.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
