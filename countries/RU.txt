@@ -1,7 +1,9 @@
 # Country RU
-# Updated: 2026-10-05 12:22:00 UTC
-# Count: 16
+# Updated: 2026-10-05 12:52:00 UTC
+# Count: 18
 
+vless://23a64225-0119-44ce-a24e-114eae8648a9@46.8.209.253:443?encryption=none&type=ws&security=tls&sni=admin1.veliknat.band&fp=safari&path=%2Fapi%2Fv1%2Fevents#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kontel%20LLC
+vless://7610be85-9855-4010-8929-ce16d4993969@188.225.25.142:443?security=reality&encryption=none&pbk=SxbaWzlvE_HQqqsA4PNX2PFcSYXTVE2nZlgLc7cPOgk&host=%2F&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=prime.betust.net&sid=8681edc9#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20TimeWeb%20Co.%20LTD
 vless://23a64225-0119-44ce-a24e-114eae8648a9@62.152.58.94:443?encryption=none&type=ws&security=tls&sni=adm1.ichveter.click&fp=safari&path=%2Fapi%2Fv1%2Fevents#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Datahouse.ru
 vless://7ea1beaf-66db-4c04-8709-c60a3f099852@31.130.150.167:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=chakipuki3.cryposikel.ru&fp=safari#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://7ea1beaf-66db-4c04-8709-c60a3f099852@217.149.19.127:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=romich.cryposikel.ru&fp=safari#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
