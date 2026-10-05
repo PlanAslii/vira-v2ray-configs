@@ -1,7 +1,5 @@
 # Country FR
-# Updated: 2026-10-05 06:22:00 UTC
-# Count: 3
+# Updated: 2026-10-05 06:52:00 UTC
+# Count: 1
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@143.246.208.113:443?encryption=none&type=grpc&security=tls&sni=assets-fr4.pleiades.codes&serviceName=cdn.v1.AssetService&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?encryption=none&type=grpc&security=reality&sni=www.sony.com&fp=chrome&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&sid=2fed44d8c59f7e71&serviceName=grpc_common3&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
