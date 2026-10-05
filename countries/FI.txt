@@ -1,9 +1,6 @@
 # Country FI
-# Updated: 2026-10-05 14:52:00 UTC
-# Count: 5
+# Updated: 2026-10-05 15:22:00 UTC
+# Count: 2
 
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
-vless://87964ea3-59f0-4cae-a546-0f6971c9efdb@finla1.povrak.ir:12168?security=none&encryption=mlkem768x25519plus.native.0rtt.D1xRBQkquFgasp4flDzeLrN24c5ofxC6iGJkYKy6r10&host=dynu.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://87964ea3-59f0-4cae-a546-0f6971c9efdb@fera2.povrak.ir:26988?security=none&encryption=mlkem768x25519plus.native.0rtt._G8fCKxCv0QnAioMqed4FNWE9jmHwtyx1WcjSvfA6lo&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@138.124.121.141:443?security=reality&encryption=none&authority=Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=i_Sd0kYj7__gC194xWMv-rFFwlY-ThG0W5crD3Ox8Rc&fp=firefox&type=grpc&serviceName=vless-grpc&sni=samsung.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Intezio%20Worldwide%20Limited
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?security=reality&encryption=none&pbk=QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=06e00e7c#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20First%20Server
+vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
