@@ -1,5 +1,12 @@
 # Country RU
-# Updated: 2026-10-05 14:52:00 UTC
-# Count: 1
+# Updated: 2026-10-05 15:22:00 UTC
+# Count: 8
 
+vless://7ea1beaf-66db-4c04-8709-c60a3f099852@31.130.150.167:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=chakipuki3.cryposikel.ru&fp=safari#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://7ea1beaf-66db-4c04-8709-c60a3f099852@217.149.19.127:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=romich.cryposikel.ru&fp=safari#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://7ea1beaf-66db-4c04-8709-c60a3f099852@83.217.201.60:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=micro1vk.cryposikel.ru&fp=safari#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://7ea1beaf-66db-4c04-8709-c60a3f099852@89.23.96.4:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=free7vk.cryposikel.ru&fp=safari#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.123:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
+vless://84c9ff14-75b9-420b-8a5c-dc25e19ec11a@189.74.114.148:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mediagavan.cc&sid=a8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
 vless://444623e9-f27d-487c-b7cc-436931967e79@188.130.209.216:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=emaar.ru&fp=safari&pbk=M7yPV6xLi9h6EevpqZfXLZBuxoey8kz1c6Bh0pK5fho&sid=170ab9ced015571f&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
