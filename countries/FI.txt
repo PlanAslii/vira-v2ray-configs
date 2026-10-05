@@ -1,6 +1,7 @@
 # Country FI
-# Updated: 2026-10-04 23:52:00 UTC
-# Count: 2
+# Updated: 2026-10-05 00:22:00 UTC
+# Count: 3
 
+vless://c5626335-54fd-4567-8841-0fc9d3bb7a4d@144.31.182.244:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.swift.com&fp=safari&insecure=1&allowInsecure=1&pbk=CDeCxSoBLrRTkNtmtaUTJv9J1ym6WxU08xOro-qmJjE&sid=19630e492b86c420&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20inetnum
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
 vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?security=reality&encryption=none&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=af0c601348f39d8a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
