@@ -1,9 +1,11 @@
 # Country FI
-# Updated: 2026-10-05 15:52:00 UTC
-# Count: 5
+# Updated: 2026-10-05 16:22:00 UTC
+# Count: 7
 
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@13.143.129.45:443?security=reality&encryption=none&pbk=CsoM3VUYii1XxgxnrT4VEe-EALgn60k6BaKMJVP9qAM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=7dd08043#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
+vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=1mcfn.67resserv67.info&fp=chrome&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&sid=29455a3a790acbd0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
+vless://47e8985a-317e-4ece-b283-61330bb27474@2.26.228.218:2083?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fin.vanekfree.xyz&fp=chrome&pbk=s80ri6u0H3ZKnkqjpgqu6HZlR4Byq5hhv6Gm9V43bEM&sid=a2aa&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
 vless://87964ea3-59f0-4cae-a546-0f6971c9efdb@fera2.povrak.ir:26988?security=none&encryption=mlkem768x25519plus.native.0rtt._G8fCKxCv0QnAioMqed4FNWE9jmHwtyx1WcjSvfA6lo&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://87964ea3-59f0-4cae-a546-0f6971c9efdb@finla1.povrak.ir:12168?security=none&encryption=mlkem768x25519plus.native.0rtt.D1xRBQkquFgasp4flDzeLrN24c5ofxC6iGJkYKy6r10&host=dynu.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://24915228-8387-48e5-875e-ad1c934ec937@areal2.greewebservices.ir:3435?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?security=reality&encryption=none&pbk=QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=06e00e7c#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20First%20Server
