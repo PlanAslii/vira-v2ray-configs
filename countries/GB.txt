@@ -1,9 +1,5 @@
 # Country GB
-# Updated: 2026-10-05 14:22:00 UTC
-# Count: 5
+# Updated: 2026-10-05 14:52:00 UTC
+# Count: 1
 
 vless://effd2c78-3ab8-4d3f-893f-49a703c27208@178.107.60.242:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20EE%20Limited
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&type=grpc&serviceName=vless&mode=gun#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://332f57d7-c5f4-4b66-b46f-57658966194f@31.76.39.92:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=gb.savex.space&fp=safari&pbk=ItWGPnv6JMskST-W9tM6Koiml8pJRnE7pparTj7SfXU&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Akenai-Products-AS
-vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy88.iiproxy.com:8443?encryption=none&fp=chrome&host=iiproxy88.iiproxy.com&security=tls&sni=iiproxy88.iiproxy.com&type=ws#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@node35.tomalgopas.fun:443?mode=gun&security=reality&encryption=none&pbk=BxlEx2j9ehglh9Lq7mPILI73gyxbvlAYiuZqXFaZEGI&fp=chrome&type=grpc&serviceName=vless-grpc&sni=samsung.com.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
