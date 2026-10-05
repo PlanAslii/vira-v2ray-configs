@@ -1,7 +1,11 @@
 # Country FR
-# Updated: 2026-10-05 08:22:00 UTC
-# Count: 3
+# Updated: 2026-10-05 08:52:00 UTC
+# Count: 7
 
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?encryption=none&type=grpc&security=reality&sni=www.sony.com&fp=chrome&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&sid=2fed44d8c59f7e71&serviceName=grpc_common3&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
+vless://9a4841c2-ebbc-4c46-b607-0d1571276ad7@ay6axoz5ad92.unfixablity.com:47617?encryption=mlkem768x25519plus.native.0rtt.ZV4yOfil6aS1cevjDmUn1dQppeziokFf6Mwajug5-lo&security=reality&sni=shield.nvidia.asia&fp=chrome&pbk=ljN704d8dTNsvaVCi5hkplHPRI8Qxduib4--cU6Adg8&sid=fe71bab77b&spx=%2Fe0556007817cf91&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://20948ce4-e2ea-4d93-9ec1-22e850d7e6bd@179.255.188.48:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=kookas.fi&fp=safari&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&sid=43dcff52289b81e6&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Host%20Telecom%20LTD
 vless://18f3b87e-3059-4dd7-a1e3-ac37ccb6db46@89.150.45.115:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.ign.com&fp=safari&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20HZ%20Hosting%20Ltd
 vless://9f11d368-614c-434e-8434-2c9f988b79f3@88.214.24.151:443?encryption=none&type=grpc&security=reality&sni=fr.freedomrun.club&fp=safari&pbk=gkwO3Y52aRyA7m3A2uuiA0LmEH69tZll5eA0ovmS6hI&sid=c93272ffed1e7691&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Layer7%20Networks%20GmbH
