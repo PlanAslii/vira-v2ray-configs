@@ -1,5 +1,6 @@
 # Country KZ
-# Updated: 2026-10-05 06:52:00 UTC
-# Count: 1
+# Updated: 2026-10-05 08:22:00 UTC
+# Count: 2
 
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@93.183.87.85:24446?encryption=none&type=grpc&security=reality&sni=willow.cdn.cachefleet.com&fp=chrome&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&serviceName=telegram-bridge&allowInsecure=1#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20VK%20Tech%20Kazakhstan%20LLP
+vless://20948ce4-e2ea-4d93-9ec1-22e850d7e6bd@185.91.126.213:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=safari&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&allowInsecure=1#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Goodhost.KZ%20LLP
+vless://51f43f39-bb49-4be2-9ab1-9dd1ef9968e6@196.198.111.106:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=api-6ac35101.adhil.uk&fp=safari&alpn=h2#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Orion%20Network%20Limited
