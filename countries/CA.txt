@@ -1,8 +1,6 @@
 # Country CA
-# Updated: 2026-10-06 20:52:00 UTC
-# Count: 4
+# Updated: 2026-10-06 21:22:00 UTC
+# Count: 2
 
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://99c0dbe0-e9de-4f70-ba91-937bf6575629@journalism-inquiries-substantial-customs.trycloudflare.com:443?path=%2Fkillpv2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=journalism-inquiries-substantial-customs.trycloudflare.com&fp=chrome&type=ws&allowInsecure=0&sni=journalism-inquiries-substantial-customs.trycloudflare.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://ab9929fd-ab22-48e3-8723-480733c0eca9@209.200.246.61:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ca.vpnskyline.com&fp=safari&pbk=NO3w10fOUvwK8L7vzCVPDLWIKYCHDaB6ealdMnv4jS4&sid=e287e3906e3c&spx=%2FbY0sVDMhkhu5E2G&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vless://04005cf1-0494-4ffd-aa8a-1ab035ac1868@simplefv.asan-ps.ir:443?security=tls&encryption=none&insecure=0&host=msbdisjehoo.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=msbdisjehoo.global.ssl.fastly.neT#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?encryption=none&type=ws&security=tls&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
