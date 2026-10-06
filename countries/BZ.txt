@@ -1,5 +1,6 @@
 # Country BZ
-# Updated: 2026-09-26 06:22:00 UTC
-# Count: 1
+# Updated: 2026-10-06 13:22:00 UTC
+# Count: 2
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?encryption=none&type=ws&path=%2F&host=vms.lifetime04.workers.dev&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://50414e45-4c5f-5a45-5553-9796dca828bf@45.131.209.79:443?path=%2Fstream%2FPANEL_ZEUS%2F9796dca828bf&security=tls&encryption=none&host=n5zed1eouhds.rjwn948.workers.dev&type=ws&insecure=0&fp=unsafe&allowInsecure=0&sni=n5zed1eouhds.rjwn948.workers.dev#DailyCfg%20%F0%9F%87%A7%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://50414e45-4c5f-5a45-5553-9796dca828bf@45.131.7.201:443?path=%2Fstream%2FPANEL_ZEUS%2F9796dca828bf&security=tls&encryption=none&host=n5zed1eouhds.rjwn948.workers.dev&type=ws&insecure=0&fp=unsafe&allowInsecure=0&sni=n5zed1eouhds.rjwn948.workers.dev#DailyCfg%20%F0%9F%87%A7%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
