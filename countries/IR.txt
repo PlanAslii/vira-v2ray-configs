@@ -1,16 +1,6 @@
 # Country IR
-# Updated: 2026-10-05 23:22:00 UTC
-# Count: 12
+# Updated: 2026-10-06 00:22:00 UTC
+# Count: 2
 
-vless://ae446a11-9834-4002-8194-ba11729fa804@d8z2w11988.claqera.ir:4592?encryption=none&type=ws&security=tls&sni=Tunde.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Papiliohost
-vless://ae446a11-9834-4002-8194-ba11729fa804@u137be5tiu.ev0lution.ir:4591?encryption=none&type=ws&security=tls&sni=Tunde2.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%94%B4
-vless://ae446a11-9834-4002-8194-ba11729fa804@qdo0ufxebn.sanzura.ir:4520?encryption=none&type=ws&security=tls&sni=Tunde3.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Papiliohost
-vless://ae446a11-9834-4002-8194-ba11729fa804@y7hcrpylfj.ev0lution.ir:2096?encryption=none&type=ws&security=tls&sni=Tun.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Baran%20Information%20Technologists%20LLC%20%E2%94%87%20%F0%9F%9F%A2
-vless://ae446a11-9834-4002-8194-ba11729fa804@q3k2apw14d.shopfastpro.ir:4570?encryption=none&type=ws&security=tls&sni=TunCanada.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
-vless://ae446a11-9834-4002-8194-ba11729fa804@w0hkpio33g.ginnaro.ir:4500?encryption=none&type=ws&security=tls&sni=tr.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%94%B4
-vless://ae446a11-9834-4002-8194-ba11729fa804@v5zc26yzsu.shopspeedi.ir:4530?encryption=none&type=ws&security=tls&sni=Tunnl.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Baran%20Information%20Technologists%20LLC%20%E2%94%87%20%F0%9F%9F%A2
-vless://ae446a11-9834-4002-8194-ba11729fa804@bvx3mv4eoh.tenzeuio.ir:4560?encryption=none&type=ws&security=tls&sni=it.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Baran%20Information%20Technologists%20LLC%20%E2%94%87%20%F0%9F%9F%A2
-vless://ae446a11-9834-4002-8194-ba11729fa804@l2mw99gs01.pasarguardms.ir:4590?encryption=none&type=ws&security=tls&sni=TunLv.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%9F%A2
-vless://ae446a11-9834-4002-8194-ba11729fa804@e4vesfjn2k.panmiva.ir:4593?encryption=none&type=ws&security=tls&sni=TunGb.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Soroush%20Rasanheh%20Company%20Ltd%20%E2%94%87%20%F0%9F%94%B4
-vless://ae446a11-9834-4002-8194-ba11729fa804@lfi4z0n9a8.sivnaro.ir:4550?encryption=none&type=ws&security=tls&sni=TunNlh.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
-vless://ae446a11-9834-4002-8194-ba11729fa804@qpw1buf948.eorvexo.ir:4510?encryption=none&type=ws&security=tls&sni=TunAl.pasarguardspeed.ir&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Papiliohost
+vmess://eyJhZGQiOiJpcjI4NDgyLmpkamNyLjM4NDIubWFyemFyYS5pciIsImFpZCI6IjAiLCJpZCI6ImJiYmQzNGMyLWJmNmMtNDhkMS04ZTkxLTNjZDEyZjE0ZjJmYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiIxMzA0MSIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgUGFycyBBYnIgVG9zZWVoIEVydGViYXRhdCBMVEQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://5b54a7ac-0d1d-427a-99dc-6015a374bd22@188.213.198.25:5678?path=%2F&encryption=mlkem768x25519plus.native.0rtt.OhfBJGP0-9Q5hICqB_LPziszcv8HhSEY2YDZGq5V-g4&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20MCI%20%E2%94%87%20%F0%9F%94%B4
