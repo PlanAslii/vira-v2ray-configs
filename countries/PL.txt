@@ -1,6 +1,9 @@
 # Country PL
-# Updated: 2026-10-06 07:22:00 UTC
-# Count: 2
+# Updated: 2026-10-06 07:52:00 UTC
+# Count: 5
 
-vless://86037609-3790-4901-bd2f-c698092fb1fc@144.31.241.80:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=po.skfv-mirror.ru&fp=safari&pbk=9Pg_ecqFPMfzOvJrmxE05FmLUDXbY9Mo1r2MgxFzYEQ&sid=4b523a98e1bbd15b&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@179.254.71.20:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=pl.setlisting.ru&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27
+vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SkyPass%20Solutions%20Sp.%20z.o.o.
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?encryption=none&type=grpc&security=reality&sni=tel.free-run.club&fp=safari&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&sid=025f065c&mode=gun#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20TAKEHOST%20OU
+vless://86037609-3790-4901-bd2f-c698092fb1fc@144.31.241.80:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=po.skfv-mirror.ru&fp=safari&pbk=9Pg_ecqFPMfzOvJrmxE05FmLUDXbY9Mo1r2MgxFzYEQ&sid=4b523a98e1bbd15b&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
