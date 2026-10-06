@@ -1,9 +1,7 @@
 # Country DE
-# Updated: 2026-10-06 10:52:00 UTC
-# Count: 5
+# Updated: 2026-10-06 11:22:00 UTC
+# Count: 3
 
-vless://1ef3cfdd-a0b7-4584-87b4-2b217d8a4581@64.188.115.219:443?security=reality&encryption=none&pbk=2tjr1gP8eecWi9xlKFB1SmPKOzRgDt40NBQcxhjaKCA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.swift.com&sid=270b5417f8ecb723#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@144.31.215.227:443?security=reality&encryption=none&pbk=LEoyslGYLVf2XWq9Bkq8Hod-EsB3ZoTlvR5AKK3rciQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cdn-de.bulkavpn.top&sid=c885e8f8#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
-vless://81d8f575-a9c3-03e7-be6b-c0e1dc1d2e20@91.233.8.141:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tnt-cloud.ru&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=6e5f2a3b&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20ITfM
-vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://ace5e70e-f9ab-447a-a86c-b7e884de13ec@179.254.127.63:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ir2.test.vplnte.info&fp=safari&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.35.55:443?security=reality&encryption=none&pbk=RTG-xTU5UuKTRrkk8_COe04GiUWrqrSdt9mqSak_XEc&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=e696e744#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.117:443?security=reality&encryption=none&pbk=-bn-69fLm8-ZIN4AWcFJTvliohVXnevdOK6E0HJF90Y&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=123c2bff#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
