@@ -1,5 +1,5 @@
 # Country CW
-# Updated: 2026-10-06 15:22:00 UTC
+# Updated: 2026-10-06 15:52:00 UTC
 # Count: 1
 
 vless://50414e45-4c5f-5a45-5553-4582210b90b8@62.72.166.66:443?pcs=a2db327314de104550166ccd1d00aa24958588a1d5d590074e843432d34695ef&path=%2Fstream%2FPANEL_ZEUS%2F4582210b90b8&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=rrzrlbe9utks.amirhoseyn-meshki.workers.dev&type=ws&allowInsecure=0&sni=rrzrlbe9utks.amirhoseyn-meshki.workers.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BC%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
