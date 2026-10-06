@@ -1,11 +1,8 @@
 # Country FI
-# Updated: 2026-10-06 10:22:00 UTC
-# Count: 7
+# Updated: 2026-10-06 10:52:00 UTC
+# Count: 4
 
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTWVzcyBcdTAwYjcgSGV0em5lciBPbmxpbmUgR21iSCIsImFkZCI6ImZpc2d3dy5wb3ZyYWsuaXIiLCJwb3J0IjoiNTgxNzkiLCJpZCI6IjQzZmMwYTY4LWY2ODItNDY4Yi1iYWVkLTk3OTAyNmFkNjE5OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@13.143.129.45:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=CsoM3VUYii1XxgxnrT4VEe-EALgn60k6BaKMJVP9qAM&sid=7dd08043#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
-vless://86037609-3790-4901-bd2f-c698092fb1fc@31.76.19.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.skfv-mirror.ru&fp=safari&pbk=qmfrMwVYth3lsYuv7qfr22YlTIlNtVjMl0v4Z5pX7hM&sid=3f200574d011010f&spx=%2F&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
-vmess://eyJhZGQiOiJmaXNnd3cucG92cmFrLmlyIiwiYWlkIjoiMCIsImlkIjoiMzgxZTA3ODItOTJiMC00MGVmLTgwNmYtNzZlYmJjZGUzYTE2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjU4MTc5IiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgXHUyNTA3IFZNZXNzIFx1MDBiNyBIZXR6bmVyIE9ubGluZSBHbWJIIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
-vmess://eyJhZGQiOiJmZXJhNC5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiaWQiOiIzODFlMDc4Mi05MmIwLTQwZWYtODA2Zi03NmViYmNkZTNhMTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODgiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBcdTI1MDcgVk1lc3MgXHUwMGI3IEhldHpuZXIgT25saW5lIEdtYkgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
