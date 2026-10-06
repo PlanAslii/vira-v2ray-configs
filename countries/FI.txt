@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-10-06 13:52:00 UTC
-# Count: 4
+# Updated: 2026-10-06 14:22:00 UTC
+# Count: 3
 
-vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@fl1.originmesh.online:443?security=reality&encryption=none&pbk=0V7SmsnnIasJwWkSpr4YgXTurHW-GMcjrwMa1TAVAyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=originmesh.online&sid=afee962d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
-vless://11a1238e-348b-47c7-ac36-47ed50dd911c@fln3.mobileemdad.top:42538?encryption=mlkem768x25519plus.native.0rtt.AVXFMcglKPJZWipMVvK2BeYTTGe4QD6Z1Srm7d7Q5Bk&host=dynu.com&headerType=http&type=tcp&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
-vmess://eyJhZGQiOiJmaXNnd3cucG92cmFrLmlyIiwiYWlkIjoiMCIsImlkIjoiZTcxNjM1YjgtNTNiOC00NWJjLTg3MWQtNDI4ZWZlNmVhZjdjIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjU4MTc5IiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgXHUyNTA3IFZNZXNzIFx1MDBiNyBIZXR6bmVyIE9ubGluZSBHbWJIIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?security=reality&encryption=none&pbk=QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=06e00e7c#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20First%20Server
+vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=1mcfn.67resserv67.info&fp=chrome&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&sid=29455a3a790acbd0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
