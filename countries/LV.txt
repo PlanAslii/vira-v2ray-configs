@@ -1,6 +1,5 @@
 # Country LV
-# Updated: 2026-10-06 09:52:00 UTC
-# Count: 2
+# Updated: 2026-10-06 12:22:00 UTC
+# Count: 1
 
-vless://1576a05a-d632-47fd-a00c-ea14ff382162@192.36.41.61:443?security=reality&encryption=none&pbk=xKVH7HF-c-ow2IfgT0UyBgb4N8BSTtwhZJhQFk8Y7mw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=1d11beb0b0d4ff10#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20EDIS%20GmbH
-vless://4461897d-b088-4846-878e-f799e0836303@lt.iblametech.ir:443?flow=xtls-rprx-vision&fp=chrome&pbk=kCop0IRv1_gschxGuuct3jm4CKkYxpo-QUzXwB_oRFc&security=reality&sid=a1b2c3d4&sni=www.yahoo.com&spx=%2F553353c19b90c14&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@geal6qyx.hivaphone.ir:2045?encryption=none&host=speedtest.net&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
