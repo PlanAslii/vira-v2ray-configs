@@ -1,6 +1,5 @@
 # Country AT
-# Updated: 2026-10-06 18:22:00 UTC
-# Count: 2
+# Updated: 2026-10-06 19:22:00 UTC
+# Count: 1
 
-vless://854cf533-dd7c-481d-9234-e82325744259@66.90.106.27:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=gosuslugi.ru&fp=safari&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://c283c008-672d-4765-aaf5-24f55a83acde@157.173.25.113:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pogovorim.su&fp=safari&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Evolus%20IT%20Solutions%20GmbH
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?security=reality&encryption=none&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=fa764ccf#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
