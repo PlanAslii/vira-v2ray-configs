@@ -1,5 +1,6 @@
 # Country LV
-# Updated: 2026-10-06 16:52:00 UTC
-# Count: 1
+# Updated: 2026-10-06 17:22:00 UTC
+# Count: 2
 
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Atlas%20IP%20Assets%20Limited
+vless://f5ff0387-1f72-4bcc-9565-ed347a001d3c@46.32.184.118:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=security.resetnet.ru&fp=safari&pbk=kkH0tUATetTE41pW0poDlzoVbuVMrUnz7RTOlqlArEw&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
+vless://d734f398-a28c-4fba-a529-715b1a8218fe@195.123.210.216:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=safari&pbk=CGGHg2iD-XfKpH4waR8pX-12a_zgoerqSWVc_vA7dkU&sid=cfe595ae&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Green%20Floid%20LLC
