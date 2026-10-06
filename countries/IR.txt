@@ -1,6 +1,7 @@
 # Country IR
-# Updated: 2026-10-06 12:22:00 UTC
-# Count: 2
+# Updated: 2026-10-06 12:52:00 UTC
+# Count: 3
 
+vless://af3a0935-2216-48a0-b371-e19d2f0692f4@p2tun01.greewebservices.ir:28830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
+vless://af3a0935-2216-48a0-b371-e19d2f0692f4@p2tun0.greewebservices.ir:28820?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
 vless://e447a924-704b-4b2b-a59d-80861138f73d@188.213.198.25:5456?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.lmTuJzP_UcH5ThrWl5pCFPVsehutrNnyTRDVbSUP7mo&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20MCI%20%E2%94%87%20%F0%9F%94%B4
-vmess://eyJhZGQiOiJpcjIuZmFzdHJheXRlbDk4ODAuaXIiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJpZCI6ImUwZjhjMTIxLTYxODItNDIwYi04ZjU3LThjNzExNGEyNTkxMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIyNjU1NyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgQmVyYmlkIE5ldHdvcmsiLCJzY3kiOiJhdXRvIiwic25pIjoicGFuZWxtLmZhc3RyYXl0ZWw5ODgwLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
