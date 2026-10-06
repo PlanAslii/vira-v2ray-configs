@@ -1,8 +1,9 @@
 # Country FI
-# Updated: 2026-10-06 05:22:00 UTC
-# Count: 4
+# Updated: 2026-10-06 05:52:00 UTC
+# Count: 5
 
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@193.148.57.60:24444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=l84FK9JIi4Bx-mhBZIm4K4Td5V_ekOobJmkvNAvklSM&sid=107acb307423c5aa&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Alinda%20LLC
+vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=1mcfn.67resserv67.info&fp=chrome&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&sid=29455a3a790acbd0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTWVzcyBcdTAwYjcgSGV0em5lciBPbmxpbmUgR21iSCIsImFkZCI6ImZlcmE0LnBvdnJhay5pciIsInBvcnQiOiIyNjk4OCIsImlkIjoiNTc0ZGY2MzMtMGJmYi00ZmRhLTg4ZDktNDM3ZTZhZDA1OTRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTWVzcyBcdTAwYjcgSGV0em5lciBPbmxpbmUgR21iSCIsImFkZCI6ImZpc2d3dy5wb3ZyYWsuaXIiLCJwb3J0IjoiNTgxNzkiLCJpZCI6IjU3NGRmNjMzLTBiZmItNGZkYS04OGQ5LTQzN2U2YWQwNTk0ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ
 vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=2a80364e93d9#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
