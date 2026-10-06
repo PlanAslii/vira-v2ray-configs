@@ -1,7 +1,9 @@
 # Country FR
-# Updated: 2026-10-06 16:22:00 UTC
-# Count: 3
+# Updated: 2026-10-06 16:52:00 UTC
+# Count: 5
 
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@45.140.165.192:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=france.nztvpn.com&fp=firefox&pbk=8EU4QO_Md_9ohyl1TfE5gtgPyxQ0QNTrXggljxOOvz0&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OuiHeberg%20-%20H%C3%A9bergeur%20%28Network%20V2%29
+vless://27eea947-0046-4b91-a2c6-e35582eeecb5@frr.thebirdinghome.org:443?security=reality&encryption=none&pbk=V1wO60MfptJ9jzeo94f1RKIcUPq6frrKoFWPp2Jutlo&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=3bbaf2c984e16a31#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@89.208.97.84:4040?encryption=none&type=tcp&security=reality&sni=www.actionvfx.com&fp=firefox&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?security=tls&alpn=h2%2C%20http%2F1.1&encryption=none&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr.setlisting.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Banatsync%20SRL
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@45.140.165.192:443?security=reality&encryption=none&pbk=8EU4QO_Md_9ohyl1TfE5gtgPyxQ0QNTrXggljxOOvz0&host=%2F%3FTELEGRAM-TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=france.nztvpn.com&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OuiHeberg%20-%20H%C3%A9bergeur%20%28Network%20V2%29
