@@ -1,6 +1,7 @@
 # Country CH
-# Updated: 2026-10-06 15:52:00 UTC
-# Count: 2
+# Updated: 2026-10-06 17:22:00 UTC
+# Count: 3
 
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Ontario%20Inc.
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.68.196.67:443?encryption=none&type=ws&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=fzo5i.ir46.90k.hh.ov0.kdns.fr#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20FORNEX
+vless://854cf533-dd7c-481d-9234-e82325744259@46.19.138.214:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mba.su&fp=safari&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
+vless://088fc987-98d3-4469-a304-caf7a2ecd35c@179.237.69.149:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=safari&pbk=rsWf4l7DQq91i1PW7iMW3d3no5F_i0ZIR9KYYGozdUE&sid=ec&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.68.196.67:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20FORNEX
