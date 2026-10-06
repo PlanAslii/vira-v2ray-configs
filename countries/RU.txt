@@ -1,9 +1,7 @@
 # Country RU
-# Updated: 2026-10-06 16:22:00 UTC
-# Count: 5
+# Updated: 2026-10-06 16:52:00 UTC
+# Count: 3
 
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
 vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?security=tls&encryption=none&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=vusr-6ac431f4.adhil.uk#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Fiber%20Grid%20INC
 vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@fi3.h1cloud.net:25090?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=firefox&pbk=biCk-kVr64zr2Vm6PRkrt3egFtuVXdJF5buWaG4wA1Y&sid=36e15949603e0e6e&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yandex%20enterprise%20network
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.252.139:9881?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&serviceName=grpc-tunnel&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@195.19.166.71:443?security=reality&encryption=none&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&host=%2F%3FTELEGRAM----TOOTFFARANGI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=viva.keeneticdocs.ru&sid=ee911749edaad12c#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Telecom-Birzha%2C%20LLC
