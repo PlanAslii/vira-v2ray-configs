@@ -1,5 +1,5 @@
 # Country UA
-# Updated: 2026-10-05 07:22:00 UTC
+# Updated: 2026-10-06 14:22:00 UTC
 # Count: 1
 
-vless://2f322254-c1e3-4ec1-80ac-822d44a2238a@104.143.223.59:2085?encryption=none&type=grpc&serviceName=vless&mode=multi&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
+vless://7a657573-730a-5bee-f194-84275af6e5cf@45.135.235.100:443?path=%2Fstream%2FPANEL_ZEUS%2F84275af6e5cf%2Floc-1&security=tls&encryption=none&insecure=0&host=zrzet4e9upos.its-awmir1.workers.dev&type=ws&allowInsecure=0&sni=zrzet4e9upos.its-awmir1.workers.dev#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Sipcom%20Ltd.
