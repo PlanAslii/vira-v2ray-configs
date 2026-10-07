@@ -1,8 +1,5 @@
 # Country FI
-# Updated: 2026-10-06 23:52:00 UTC
-# Count: 4
+# Updated: 2026-10-07 00:22:00 UTC
+# Count: 1
 
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
-vless://d342d11e-d224-4463-b982-532309285094@144.31.99.252:443?encryption=none&type=ws&security=tls&sni=ccc.010304.xyz&fp=chrome&path=%2F&host=ccc.010304.xyz#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20International%20Hosting%20Company%20Limited
-vless://86037609-3790-4901-bd2f-c698092fb1fc@31.76.19.168:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi.skfv-mirror.ru&fp=safari&pbk=qmfrMwVYth3lsYuv7qfr22YlTIlNtVjMl0v4Z5pX7hM&sid=3f200574d011010f&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@13.143.129.45:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=CsoM3VUYii1XxgxnrT4VEe-EALgn60k6BaKMJVP9qAM&sid=7dd08043&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
+vless://86037609-3790-4901-bd2f-c698092fb1fc@31.76.19.168:443?security=reality&encryption=none&pbk=qmfrMwVYth3lsYuv7qfr22YlTIlNtVjMl0v4Z5pX7hM&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi.skfv-mirror.ru&sid=3f200574d011010f#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
