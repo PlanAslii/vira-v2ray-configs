@@ -1,11 +1,12 @@
 # Country CA
-# Updated: 2026-10-07 09:22:00 UTC
-# Count: 7
+# Updated: 2026-10-07 09:52:00 UTC
+# Count: 8
 
+vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=corporate.amazon.com&fp=chrome&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&sid=33c0b6e213&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20ZhouyiSat%20Communications
+vless://9d672694-c146-422e-b3b5-3717a38a0fcc@fr.api-music-fa.com:2053?encryption=none&type=ws&security=tls&sni=fr.api-music-fa.com&fp=chrome&alpn=http%2F1.1&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@cctvhikvision.center:2053?encryption=none&type=ws&security=tls&sni=uwu.blueknightnet.qzz.io&fp=chrome&alpn=http%2F1.1&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&host=uwu.blueknightnet.qzz.io#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://682d30e4-3dfc-49f2-a017-9049119e3497@172.67.148.163:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server7peekconfig.workers.dev&path=%2FeyJqdW5rIjoiRm5kaUkxZVFtRVJBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=free.server7peekconfig.workers.dev&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@a5_alist.yzqiang.site:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=c379b284.vs-494.pages.dev&security=tls&sni=c379b284.vs-494.pages.dev&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@myanmar.visa.com:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=c379b284.vs-494.pages.dev&security=tls&sni=c379b284.vs-494.pages.dev&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?encryption=none&path=/var/www/html/video/preview/download/i8o0la&security=tls&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@fr.api-music-fa.com:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=chrome&type=ws&allowInsecure=0&sni=fr.api-music-fa.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
