@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-10-07 13:22:00 UTC
-# Count: 1
+# Updated: 2026-10-07 14:22:00 UTC
+# Count: 2
 
-vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
+vless://015be3bd-524f-4698-a3ac-06831b363fbd@p2real5.greewebservices.ir:1350?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
+vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
