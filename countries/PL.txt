@@ -1,5 +1,6 @@
 # Country PL
-# Updated: 2026-10-07 12:22:00 UTC
-# Count: 1
+# Updated: 2026-10-07 12:52:00 UTC
+# Count: 2
 
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Uphost%20Solutions%20Limited
 vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?security=reality&encryption=none&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&fp=safari&type=grpc&sni=tel.free-run.club&sid=025f065c#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20TAKEHOST%20OU
