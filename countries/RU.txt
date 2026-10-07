@@ -1,6 +1,6 @@
 # Country RU
-# Updated: 2026-10-07 12:52:00 UTC
+# Updated: 2026-10-07 13:22:00 UTC
 # Count: 2
 
-vless://98b3d53b-9f34-4cf1-ba87-3be5db6d4c5a@185.207.1.121:10470?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=chrome&pbk=90jWc7mGJ9NeEI0HpwQ844SjP0W9_MP5bNX6cDOdFnM&sid=53c6ae&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@82.202.141.141:9892?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&serviceName=grpc-tunnel&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@185.147.26.207:443?encryption=none&type=grpc&security=reality&sni=ru-pro.sworkingvpn.com&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&serviceName=API&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.169:9443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=plaincanvas.videoclothing.xyz&fp=chrome&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&sid=e336c9a786fae301&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
