@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-10-07 12:52:00 UTC
-# Count: 2
+# Updated: 2026-10-07 13:22:00 UTC
+# Count: 1
 
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=firefox&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.bulkavpn.top&fp=chrome&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.128.59:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws&sid=06e00e7c&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20First%20Server
