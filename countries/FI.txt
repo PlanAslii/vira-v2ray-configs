@@ -1,8 +1,9 @@
 # Country FI
-# Updated: 2026-10-07 19:52:00 UTC
-# Count: 4
+# Updated: 2026-10-07 20:22:00 UTC
+# Count: 5
 
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@w907rj.orbitacorp.dev:443?security=reality&encryption=none&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&fp=firefox&type=grpc&serviceName=1f251e273f&sni=fi9.eu-cdn294.com&sid=98e90c117acf8155#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20ONEPROVIDER
+vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@31.76.8.154:443?security=reality&encryption=none&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi2.yservice.help&sid=abcd1234#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://6bda1096-457f-4c70-9698-65eb5eee163b@77.42.28.120:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://3290c5f5-241c-464f-8098-c6b20bcadf94@fln3.mobileemdad.top:42538?encryption=mlkem768x25519plus.native.0rtt.AVXFMcglKPJZWipMVvK2BeYTTGe4QD6Z1Srm7d7Q5Bk&security=none&type=tcp&headerType=http&flow=xtls-rprx-vision&path=%2F&host=dynu.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://3290c5f5-241c-464f-8098-c6b20bcadf94@fnt.mobileemdad.top:80?encryption=mlkem768x25519plus.native.0rtt.AOpibOJqKdDZ8KwqwR839rg1ppbbJUqKrUJhR9771hs&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.bulkavpn.top&fp=chrome&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
