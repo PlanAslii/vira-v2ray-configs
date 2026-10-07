@@ -1,5 +1,5 @@
 # Country FR
-# Updated: 2026-10-07 09:52:00 UTC
+# Updated: 2026-10-07 10:22:00 UTC
 # Count: 1
 
-vless://db4fb2a7-a31d-46d8-b6d2-76eafe8cfe2a@fr2.vip-get.ru:443?encryption=none&type=ws&security=tls&sni=fr2.vip-get.ru&fp=firefox&path=%2Fapi%2Fdownload#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://db4fb2a7-a31d-46d8-b6d2-76eafe8cfe2a@fr2.vip-get.ru:443?path=%2Fapi%2Fdownload&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=fr2.vip-get.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
