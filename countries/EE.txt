@@ -1,5 +1,6 @@
 # Country EE
-# Updated: 2026-10-07 15:52:00 UTC
-# Count: 1
+# Updated: 2026-10-07 16:22:00 UTC
+# Count: 2
 
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@163.245.52.91:443?security=reality&encryption=none&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-ee1.cloud-cdn.xyz&sid=ad6e08b22389abd2#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
 vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20BlueVPS%20OU
