@@ -1,5 +1,5 @@
 # Country ID
-# Updated: 2026-10-07 21:52:00 UTC
+# Updated: 2026-10-08 05:52:00 UTC
 # Count: 1
 
-vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?security=reality&encryption=none&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20CSNET
+vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20CSNET
