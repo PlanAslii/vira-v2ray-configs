@@ -1,10 +1,6 @@
 # Country DE
-# Updated: 2026-10-07 23:52:00 UTC
-# Count: 6
+# Updated: 2026-10-08 00:22:00 UTC
+# Count: 2
 
-vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@1akdeta.serveroff.net:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=1akdeta.serveroff.net&sid=832d9228ddd3#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hostes%20LLC
-vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@31.56.18.108:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=1akdeta.serveroff.net&sid=832d9228ddd3#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hostes%20LLC
-vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@akdeta.serveroff.net:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=akdeta.serveroff.net&sid=832d9228ddd3#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hostes%20LLC
-vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@31.56.18.107:443?security=reality&encryption=none&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=akdeta.serveroff.net&sid=832d9228ddd3#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hostes%20LLC
 vless://@@ZhilaVPN@@@46.225.255.204:39100?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&sid=b76a6309&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Uphost%20Solutions%20Limited
