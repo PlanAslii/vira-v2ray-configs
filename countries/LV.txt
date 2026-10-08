@@ -1,5 +1,6 @@
 # Country LV
-# Updated: 2026-10-08 15:52:00 UTC
-# Count: 1
+# Updated: 2026-10-08 16:22:00 UTC
+# Count: 2
 
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@46.8.236.152:443?encryption=none&type=ws&security=tls&sni=bab-6.site&fp=chrome&path=%2Fvws%2F&host=bab-6.site#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?security=reality&encryption=none&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.nztvpn.com&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
