@@ -1,7 +1,9 @@
 # Country CA
-# Updated: 2026-10-08 12:52:00 UTC
-# Count: 42
+# Updated: 2026-10-08 13:22:00 UTC
+# Count: 39
 
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws&sni=hhlfy.twiladaphne.ndjp.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://9d672694-c146-422e-b3b5-3717a38a0fcc@172.67.185.98:2053?encryption=none&type=ws&security=tls&sni=fr.api-music-fa.com&alpn=http%2F1.1&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@104.17.148.44:443?path=t.me%2FTEAMNETGRATISCOL&security=tls&encryption=none&insecure=0&host=x.m-90.xyz&fp=firefox&type=ws&allowInsecure=0&sni=x.m-90.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
@@ -39,8 +41,3 @@ vless://4ea9c6dd-4d73-49f2-82ce-b80b1b5dd646@minimize-evenness.cdn-content.com:4
 vless://d4733e5a-5850-4523-942e-f28f82ebf4a9@www.speedtest.net:443?path=%2F&security=tls&encryption=none&insecure=0&host=party-5cn.pages.dev&type=ws&allowInsecure=0&sni=party-5cn.pages.dev#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://d342d11e-d224-4463-b982-532309285094@104.26.4.2:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@104.17.154.214:443?path=t.me%2FTEAMNETGRATISCOL&security=tls&encryption=none&insecure=0&host=x.m-90.xyz&type=ws&allowInsecure=0&sni=x.m-90.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@fr.api-music-fa.com:2053?encryption=none&type=ws&security=tls&fp=chrome&alpn=http%2F1.1&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&type=ws&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560&host=snip.edgeoneai.cc.cd#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://e3fb01b6-69b4-41d7-babf-696d992de194@172.67.181.232:2053?path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&alpn=h2&encryption=none&insecure=0&host=uwu.blueknightnet.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=uwu.blueknightnet.qzz.io#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@172.67.185.98:2053?encryption=none&type=ws&security=tls&sni=fr.api-music-fa.com&fp=chrome&alpn=http%2F1.1&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&host=fr.api-music-fa.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://33f13fd5-1553-4574-ac1a-432d2d762cbe@cip.navid.lat:443?encryption=none&type=ws&security=tls&sni=frc.navid.lat&fp=random&path=%2Fwebdl&host=frc.navid.lat#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
