@@ -1,10 +1,7 @@
 # Country FI
-# Updated: 2026-10-08 09:52:00 UTC
-# Count: 6
+# Updated: 2026-10-08 10:22:00 UTC
+# Count: 3
 
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@132.243.21.182:443?security=tls&encryption=none&insecure=0&host=asia.csmaster.site&fp=chrome&type=ws&allowInsecure=0&sni=asia.csmaster.site#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20First%20Server%20Limited
 vless://050f8129-ee72-4a60-9c8b-01bc6287f574@fi3.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi3.srv.safes-infrastructure.com&sid=e7d8f0aa#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://46ef8e51-66cf-4861-93e4-4e7ce111bd3d@hsz6gz.gomqiro.ir:443?encryption=none&host=play.google.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vmess://eyJhZGQiOiJmaW50ZXN0MS5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiaWQiOiI2Y2VjYWFhZC1mYWRjLTRmMWMtOWE3OS1iNWY3ZmE5OTUwNzYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiMzk0NTgiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBcdTI1MDcgVk1lc3MgXHUwMGI3IEhldHpuZXIgT25saW5lIEdtYkgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiJmZXJ0ZXN0LnBvdnJhay5pciIsImFpZCI6IjAiLCJpZCI6IjZjZWNhYWFkLWZhZGMtNGYxYy05YTc5LWI1ZjdmYTk5NTA3NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiI1NTI3NyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTWVzcyBcdTAwYjcgSGV0em5lciBPbmxpbmUgR21iSCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
-vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@fintest.povrak.ir:36465?encryption=mlkem768x25519plus.native.0rtt.opKdG01g_6N4XciPyF_LeRIlGsHRVgArleiuhLInRH8&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vmess://eyJhZGQiOiJmZXJ0ZXN0MS5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiaWQiOiI2Y2VjYWFhZC1mYWRjLTRmMWMtOWE3OS1iNWY3ZmE5OTUwNzYiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozNzQ4MywicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgXHUyNTA3IFZNZXNzIFx1MDBiNyBIZXR6bmVyIE9ubGluZSBHbWJIIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ
