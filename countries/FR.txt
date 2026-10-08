@@ -1,6 +1,6 @@
 # Country FR
-# Updated: 2026-10-08 07:22:00 UTC
+# Updated: 2026-10-08 07:52:00 UTC
 # Count: 2
 
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&security=reality&sid=b390e0a721d242b0&sni=www.icloud.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@157.228.155.238:443?encryption=none&flow=xtls-rprx-vision&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&security=reality&sid=6f76ad09&sni=addons.mozilla.org&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20First%20Server%20Limited
+vless://49ade50d-9cd6-81a9-db5d-8e4a7f56930b@51.75.118.165:20023?path=%2Fws%2F49ade50d-9cd6-81a9-db5d-8e4a7f56930b&encryption=none&host=51.75.118.165&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=e3k67dwms3-51255166202-direct.tavafog.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
