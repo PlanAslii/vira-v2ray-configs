@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-10-08 20:52:00 UTC
-# Count: 2
+# Updated: 2026-10-08 21:22:00 UTC
+# Count: 1
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@w907rj.orbitacorp.dev:443?encryption=none&type=grpc&security=reality&sni=fi9.eu-cdn294.com&fp=firefox&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&sid=98e90c117acf8155&serviceName=1f251e273f&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20ONEPROVIDER
-vless://588a50a7-6bbd-495c-9db2-7e2ace15f4d8@Fn2.aslishop.mobileahmadreza.ir:2091?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=dynu.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://39cbff7c-995d-40b5-8940-ea3057ee82f9@103.71.23.39:443?path=%2F&security=tls&encryption=none&insecure=0&host=5z7qudpfafl31d-2zmj5dk.nimamajor8080.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=5z7qudpfafl31d-2zmj5dk.nimamajor8080.workers.dev#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Ihor%20Hosting%20LTD
