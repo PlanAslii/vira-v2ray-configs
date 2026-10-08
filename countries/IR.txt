@@ -1,6 +1,5 @@
 # Country IR
-# Updated: 2026-10-08 18:52:00 UTC
-# Count: 2
+# Updated: 2026-10-08 19:22:00 UTC
+# Count: 1
 
-vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p1tun01.greewebservices.ir:38830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4f#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%9F%A2
-vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p1tun0.greewebservices.ir:38820?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=66ded2#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
+vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p1tun01.greewebservices.ir:38830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4f&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%9F%A2
