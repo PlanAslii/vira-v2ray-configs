@@ -1,6 +1,7 @@
 # Country US
-# Updated: 2026-10-08 02:22:00 UTC
-# Count: 2
+# Updated: 2026-10-08 02:52:00 UTC
+# Count: 3
 
-vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?encryption=none&type=ws&path=%2F&host=beat.ir#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
+vless://799b1006-3255-4e36-8ea0-64fe24d2bfa7@news.zoom.us:8443?security=tls&encryption=none&insecure=0&host=asia.csmaster.site&fp=chrome&type=ws&allowInsecure=0&sni=asia.csmaster.site#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?encryption=none&type=ws&path=%2F&host=beat.ir#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
