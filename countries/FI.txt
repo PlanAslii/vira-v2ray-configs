@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-10-08 21:22:00 UTC
-# Count: 1
+# Updated: 2026-10-08 21:52:00 UTC
+# Count: 2
 
+vless://7f0eb17f-c870-40d1-b227-53887811dd5c@fln2.mobileemdad.top:42538?security=none&encryption=mlkem768x25519plus.native.0rtt.AVXFMcglKPJZWipMVvK2BeYTTGe4QD6Z1Srm7d7Q5Bk&host=dynu.com&headerType=http&type=tcp&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://39cbff7c-995d-40b5-8940-ea3057ee82f9@103.71.23.39:443?path=%2F&security=tls&encryption=none&insecure=0&host=5z7qudpfafl31d-2zmj5dk.nimamajor8080.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=5z7qudpfafl31d-2zmj5dk.nimamajor8080.workers.dev#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Ihor%20Hosting%20LTD
