@@ -1,11 +1,5 @@
 # Country RU
-# Updated: 2026-10-08 22:52:00 UTC
-# Count: 7
+# Updated: 2026-10-08 23:52:00 UTC
+# Count: 1
 
-vless://eac04622-531b-000d-b85f-3c2ee67565c6@ru-001.zapretu.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ru-001.zapretu.net&fp=qq&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://98b3d53b-9f34-4cf1-ba87-3be5db6d4c5a@185.207.1.121:10470?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=random&pbk=90jWc7mGJ9NeEI0HpwQ844SjP0W9_MP5bNX6cDOdFnM&sid=53c6ae&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
-vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@87.242.94.90:8443?security=reality&encryption=none&pbk=pobC1laHCtpMK1EA520CyOpYeel0t90hEV_eRJExFAE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=20272c52657d22da#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://95621b8e-5cf7-4123-9df4-38d903054a1b@193.233.216.27:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.lenovo.com&fp=firefox&pbk=xV6-xT1D05e6ARRKCGLxfMeBnE_BSS3CiFUTtsdntmg&sid=6088b605366523fc&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
-vless://95621b8e-5cf7-4123-9df4-38d903054a1b@109.120.152.26:443?encryption=none&type=grpc&security=reality&sni=dl.google.com&fp=firefox&pbk=1HzJEMaYCrx2QQhuLLkcFiE5r2NegGHTBzHu0Sk1iWs&sid=4e34d88e858485db&spx=%2F&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
-vless://eac04622-531b-0002-b85f-3c2ee67565c6@ru-001.zapretu.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ru-001.zapretu.net&fp=qq&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://a6be94fc-e742-4714-8a38-c8d7410ae066@188.130.209.227:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.org&fp=random&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
+vless://95621b8e-5cf7-4123-9df4-38d903054a1b@109.120.152.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=firefox&pbk=QJzo15K3EUtRdJwrkaGRjHdKLyl-WUiEzQTTMsHm8y4&sid=b716462f7ff12219&spx=%2F&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
