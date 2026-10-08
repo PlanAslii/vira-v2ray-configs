@@ -1,6 +1,6 @@
 # Country FR
-# Updated: 2026-10-08 17:22:00 UTC
+# Updated: 2026-10-08 18:22:00 UTC
 # Count: 2
 
-vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=tyxyrytyro-51255165170-direct.araghchy.com&fp=chrome&alpn=h2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@90.127.143.135:443?path=t.me%2FTEAMNETGRATISCOL&security=tls&encryption=none&insecure=0&host=x.m-90.xyz&fp=firefox&type=ws&allowInsecure=0&sni=x.m-90.xyz#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20France%20Telecom%20Orange
