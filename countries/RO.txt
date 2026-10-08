@@ -1,6 +1,5 @@
 # Country RO
-# Updated: 2026-10-08 17:22:00 UTC
-# Count: 2
+# Updated: 2026-10-08 20:52:00 UTC
+# Count: 1
 
-vless://69d76969-4c52-40f5-ac1d-303571634362@46.183.16.4:2087?encryption=none&type=ws&security=tls&sni=ro1.b0w.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&path=%2F#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Oleksandr%20Radchenko
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@ger6.fytpn.com:56789?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&fp=firefox&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20NordicVM
