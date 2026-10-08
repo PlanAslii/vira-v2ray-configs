@@ -1,7 +1,9 @@
 # Country GB
-# Updated: 2026-10-08 10:22:00 UTC
-# Count: 6
+# Updated: 2026-10-08 10:52:00 UTC
+# Count: 8
 
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@50.7.221.243:443/?type=grpc&encryption=none&security=tls&sni=r4vsdfmsdlf8n3.fdc.video-mvm.ru#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
+vless://d2519b5e-495e-462e-9703-bbf68011d2f3@50.7.221.235:443/?type=grpc&encryption=none&security=tls&sni=glokwdlemdklmwss.fdc.video-mvm.ru#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
 vmess://eyJhZGQiOiJlbmdsaXNoLnBvdnJhay5pciIsImFpZCI6IjAiLCJpZCI6IjZjZWNhYWFkLWZhZGMtNGYxYy05YTc5LWI1ZjdmYTk5NTA3NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiIzNDIwNCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyBcdTAwYjcgWW90dGFTcmMiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@english.povrak.ir:39373?encryption=mlkem768x25519plus.native.0rtt.v59e-XvZ4_lM_de_LHmhEyuZ9RvnzlN3kYMASe34yy0&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
