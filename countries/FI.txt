@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-10-09 15:22:00 UTC
-# Count: 2
+# Updated: 2026-10-09 15:52:00 UTC
+# Count: 1
 
-vless://15f434b8-aaec-4306-98c9-dd8f5ef608d4@vpn.cyrionflare.xyz:2087?type=tcp&headerType=none&host=vpn.cyrionflare.xyz&path=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20UpCloud%20Ltd
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=web.eitaa.com&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
