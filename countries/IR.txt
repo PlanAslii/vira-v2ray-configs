@@ -1,7 +1,5 @@
 # Country IR
-# Updated: 2026-10-09 21:22:00 UTC
-# Count: 3
+# Updated: 2026-10-09 22:22:00 UTC
+# Count: 1
 
-vless://e9d5cda8-eca9-4100-adb0-d857a7221e4a@Morti.brifelo.ir:4231?security=reality&encryption=mlkem768x25519plus.native.0rtt.HNEUEly1HBXf2S4JNphFpIdxghAzE5EkoU1M7xCTpxU&pbk=YfpMcHPP5SGnjyLhIKtapygk6Zs7W3-Cva3e0wJSWGY&headerType=none&fp=chrome&type=tcp&sni=www.technolife.com&sid=02c02566dda3e2c6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CLOUDINOW%20%E2%94%87%20%F0%9F%94%B4
-vless://6835dcdb-4574-4bcf-a168-492184979903@194.107.116.109:6078?security=reality&encryption=mlkem768x25519plus.native.0rtt.-oxSFAlpYLE23hdgm5XDHDBQokCSkF6cUEQOr03qMWw&pbk=CwrIZS831H1hUz6u6TyCdNEuQLJRZgAawpnvTR_49iw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6a3b689be8cd1be3#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Baran%20Information%20Technologists%20LLC%20%E2%94%87%20%F0%9F%94%B4
-vmess://eyJhZGQiOiI5NC4xMzkuMTc5LjEyNCIsImFpZCI6IjAiLCJpZCI6IjljYjVlNzk5LWYzMDgtNGQ1Mi1iNzYxLTliNGU5YzJmZjg0MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiI1MDY1IiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBBdHJpbiBJbmZvcm1hdGlvbiAmIENvbW11bmljYXRpb25zIFRlY2hub2xvZ3kgQ29tcGFueSBQSlMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://4155973e-3df6-45fa-a649-6759d96bd5e0@Morti.brifelo.ir:4231?security=reality&encryption=mlkem768x25519plus.native.0rtt.HNEUEly1HBXf2S4JNphFpIdxghAzE5EkoU1M7xCTpxU&pbk=YfpMcHPP5SGnjyLhIKtapygk6Zs7W3-Cva3e0wJSWGY&headerType=none&fp=chrome&type=tcp&sni=www.technolife.com&sid=264d0aa9e38e20ab#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CLOUDINOW%20%E2%94%87%20%F0%9F%94%B4
