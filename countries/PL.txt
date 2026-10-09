@@ -1,5 +1,5 @@
 # Country PL
-# Updated: 2026-10-09 15:52:00 UTC
+# Updated: 2026-10-09 16:22:00 UTC
 # Count: 1
 
-vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
+vless://5ac49a12-f275-44b4-b11d-26505f3f268e@177.1.192.81:443?security=reality&sid=85766a81&headerType=none&pbk=JNr60Nnq_sdeAz5jd25bxNDx_c9CeYLu7DRbQH3P5xk&flow=xtls-rprx-vision&fp=chrome&type=tcp&sni=addons.mozilla.org&encryption=none#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Uphost%20Solutions%20Limited
