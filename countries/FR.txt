@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-10-09 10:22:00 UTC
-# Count: 2
+# Updated: 2026-10-09 10:52:00 UTC
+# Count: 1
 
 vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=e3k67dwms3-51255166202-direct.tavafog.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://186a7d6f-e360-4c5f-bafb-a816f79e231b@194.113.235.121:443?security=reality&encryption=none&pbk=f2a5R8ubMtjmFDxUt1VtikDOmgPgVWBPzcZjOOJpYlc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fr1-4v.zvcorp24.com&sid=12f319370b60ec2f#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
