@@ -1,7 +1,6 @@
 # Country FI
-# Updated: 2026-10-09 12:22:00 UTC
-# Count: 3
+# Updated: 2026-10-09 12:52:00 UTC
+# Count: 2
 
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@w907rj.orbitacorp.dev:443?encryption=none&type=grpc&security=reality&sni=fi9.eu-cdn294.com&fp=firefox&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&sid=98e90c117acf8155&serviceName=1f251e273f&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20ONEPROVIDER
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=web.eitaa.com&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://19c78abc-0f6f-4fa6-8614-0fbf0021273d@ngnix.velnix-services.ir:1081?encryption=none&security=reality&sni=www32.velnix-services.ir&fp=chrome&pbk=oBcBNqEqA-Iqc6VT25ZLWF0MhkZ1CSny7yWn_u1r-1Q&sid=fbc2f106a8cab706&type=tcp&headerType=none&host=www12.gameservice-iramn3.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@107.181.151.39:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=8325360e8bd2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
