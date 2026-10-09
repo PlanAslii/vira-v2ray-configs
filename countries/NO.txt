@@ -1,6 +1,5 @@
 # Country NO
-# Updated: 2026-10-09 20:52:00 UTC
-# Count: 2
+# Updated: 2026-10-09 21:52:00 UTC
+# Count: 1
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@c5fl8w.api-gate.org:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ca9.eu-cdn294.com&fp=firefox&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&sid=df3dc12b0b9b0c93&allowInsecure=1#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20BrainStorm%20Network%2C%20Inc
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.90.61.55:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ca9.eu-cdn294.com&fp=firefox&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&sid=df3dc12b0b9b0c93&allowInsecure=1#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20BrainStorm%20Network%2C%20Inc
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@c5fl8w.api-gate.org:443?security=reality&encryption=none&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca9.eu-cdn294.com&sid=df3dc12b0b9b0c93#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20BrainStorm%20Network%2C%20Inc
