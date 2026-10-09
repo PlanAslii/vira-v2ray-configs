@@ -1,6 +1,7 @@
 # Country IR
-# Updated: 2026-10-09 13:52:00 UTC
-# Count: 2
+# Updated: 2026-10-09 14:22:00 UTC
+# Count: 3
 
+vless://e1450159-f7fc-4aef-8ca7-776603c0217c@www.xenhost.ir:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=www.xenhost.ir&path=%2F&security=tls&sni=www.xenhost.ir&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
 vless://c9dae750-9cd2-4355-8ad8-dd3ef656840c@ir4.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=nobitex.ir&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
 vless://c9dae750-9cd2-4355-8ad8-dd3ef656840c@ir2.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=nobitex.ir&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
