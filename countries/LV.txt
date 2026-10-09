@@ -1,7 +1,6 @@
 # Country LV
-# Updated: 2026-10-09 09:22:00 UTC
-# Count: 3
+# Updated: 2026-10-09 09:52:00 UTC
+# Count: 2
 
+vless://a4801105-c0c7-4cab-87c6-f257ff2afc09@31.57.106.241:443?security=reality&encryption=none&pbk=4SJB--DChFNhmOUz0-BZK2dS3GhZ1yZwMVIhmpobB0o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.lmt.lv&sid=44f7c5615039ae1b#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vmess://eyJhZGQiOiIxOTMuMTY0LjE1NS4yOSIsImFpZCI6IjAiLCJpZCI6IjU1NTFkMmU4LWQzZDQtNDJkMi05NWM4LWZiNzgwYjRmNmU2ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiI2MDM5MiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTWVzcyBcdTAwYjcgQ0dJIEdMT0JBTCBMSU1JVEVEIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
-vmess://eyJhZGQiOiIxODguMTMwLjE1NC4xNzQiLCJhaWQiOiIwIiwiaWQiOiJmNmI4MDhlZC0wNjk1LTQ2YWYtOWMwMC04MTI4MjMyMjVjNGMiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMjA4MyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTWVzcyBcdTAwYjcgQ0dJIEdMT0JBTCBMSU1JVEVEIiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vless://a889fba5-5472-4022-a6b4-9710157fda2f@lit.fytpn.com:56789?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lit.fytpn.com&fp=chrome&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SEBEK%20sp.%20z%20o.o
