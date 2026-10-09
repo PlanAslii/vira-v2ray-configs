@@ -1,9 +1,7 @@
 # Country RU
-# Updated: 2026-10-09 06:52:00 UTC
-# Count: 5
+# Updated: 2026-10-09 07:22:00 UTC
+# Count: 3
 
 vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@87.242.94.90:8443?security=reality&encryption=none&pbk=pobC1laHCtpMK1EA520CyOpYeel0t90hEV_eRJExFAE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=20272c52657d22da#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
 vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@194.226.121.119:2087?security=reality&sni=www.apple.com&fp=chrome&pbk=sXOLkj_L8EpGL0yZA9laLDaPfpwVEcBVHLSvunPVQwA&sid=a644f94155c87551&type=grpc&serviceName=grpc&encryption=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?security=tls&flow=xtls-rprx-vision&sni=user-6a8d949a.noooo.win&type=tcp&headerType=none&path=%2F#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Kviktel%20LLC
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@gw1.edgemedia.lol:13443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://98b3d53b-9f34-4cf1-ba87-3be5db6d4c5a@185.207.1.121:10470?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=chrome&pbk=90jWc7mGJ9NeEI0HpwQ844SjP0W9_MP5bNX6cDOdFnM&sid=53c6ae&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Beget%20LLC
