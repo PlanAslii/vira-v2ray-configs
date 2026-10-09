@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-10-09 04:52:00 UTC
-# Count: 2
+# Updated: 2026-10-09 05:52:00 UTC
+# Count: 1
 
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.185:443?encryption=none&flow=xtls-rprx-vision&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&security=reality&sid=5ea112e8&sni=addons.mozilla.org&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20First%20Server%20Limited
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
