@@ -1,7 +1,5 @@
 # Country GB
-# Updated: 2026-10-09 04:52:00 UTC
-# Count: 3
+# Updated: 2026-10-09 06:52:00 UTC
+# Count: 1
 
-vless://ecbd69ca-1d3a-4f9a-ac8c-0a744e126bbc@english.povrak.ir:39373?security=none&encryption=mlkem768x25519plus.native.0rtt.v59e-XvZ4_lM_de_LHmhEyuZ9RvnzlN3kYMASe34yy0&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vmess://eyJhZGQiOiJlbmdsaXNoLnBvdnJhay5pciIsImFpZCI6IjAiLCJpZCI6IjI0YWJlZDIyLWQ1NTYtNDUwYS1iYjgzLTEzNGJhZGU2M2UzZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIzNDIwNCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyBcdTAwYjcgWW90dGFTcmMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiIyMDYuMjQ1LjE2Ni4xMzIiLCJhaWQiOiIwIiwiaWQiOiIyNGFiZWQyMi1kNTU2LTQ1MGEtYmI4My0xMzRiYWRlNjNlM2UiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiMzQyMDQiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBcdTI1MDcgVk1lc3MgXHUwMGI3IFlvdHRhU3JjIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?encryption=none&type=tcp&security=tls#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
