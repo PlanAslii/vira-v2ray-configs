@@ -1,5 +1,6 @@
 # Country LV
-# Updated: 2026-10-09 18:22:00 UTC
-# Count: 1
+# Updated: 2026-10-09 18:52:00 UTC
+# Count: 2
 
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=firefox&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
+vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?encryption=none&security=reality&sni=www.sony.ie&fp=chrome&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&sid=85cd&spx=%2F621de6b73e8bf3c&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=firefox&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
