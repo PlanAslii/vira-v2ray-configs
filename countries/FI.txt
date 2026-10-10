@@ -1,7 +1,8 @@
 # Country FI
-# Updated: 2026-10-10 14:52:00 UTC
-# Count: 7
+# Updated: 2026-10-10 15:22:00 UTC
+# Count: 8
 
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@138.124.15.231:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-2.ardesnode.ru&sid=9ea74b83f4993ca9#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-2.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-2.ardesnode.ru&sid=9ea74b83f4993ca9#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@w907rj.orbitacorp.dev:443?encryption=none&type=grpc&security=reality&sni=fi9.eu-cdn294.com&fp=firefox&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&sid=98e90c117acf8155&serviceName=1f251e273f&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20ONEPROVIDER
