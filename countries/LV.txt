@@ -1,7 +1,7 @@
 # Country LV
-# Updated: 2026-10-10 16:52:00 UTC
+# Updated: 2026-10-10 17:22:00 UTC
 # Count: 3
 
+vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?encryption=none&type=tcp&security=reality&sni=www.sony.com.hn&fp=chrome&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&sid=85cd&spx=%2F621de6b73e8bf3c&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://f7f48934-f14c-4819-b225-36e89bda5491@lv-bridge.shadowshroom.org:2443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv-bridge.shadowshroom.org&pbk=JN8xHIRpEVxnP5K3CbUfL6FqJUfVDEfk-_PD_guZOgM&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Versija%20SIA
 vless://f7f48934-f14c-4819-b225-36e89bda5491@185.220.223.109:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.shadowshroom.org&pbk=RdMrEyniUBYe4bPHFYIwdczUWW4vbZe_DboFu8gjN0w&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Versija%20SIA
-vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?encryption=none&security=reality&sni=www.sony.ie&fp=chrome&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&sid=85cd&spx=%2F621de6b73e8bf3c&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
