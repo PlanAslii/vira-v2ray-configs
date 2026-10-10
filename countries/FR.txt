@@ -1,5 +1,7 @@
 # Country FR
-# Updated: 2026-10-10 07:22:00 UTC
-# Count: 1
+# Updated: 2026-10-10 07:52:00 UTC
+# Count: 3
 
+vless://40fbeade-2b35-55e2-8e72-39893b5917ea@tyxyrytyro-51255165170-direct.araghchy.com:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tyxyrytyro-51255165170-direct.araghchy.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://40fbeade-2b35-55e2-8e72-39893b5917ea@51.255.165.170:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tyxyrytyro-51255165170-direct.araghchy.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://e182765b-d8c7-4054-8fc1-f8d3df11de10@45.67.139.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.haar.lol&fp=random&pbk=cW3RMz0RQpy85wGaG0wjb8yQ3b16CtZR_fd1ktwBKFs&sid=7e833df86314b137&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
