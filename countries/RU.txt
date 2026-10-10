@@ -1,5 +1,12 @@
 # Country RU
-# Updated: 2026-10-10 15:52:00 UTC
-# Count: 1
+# Updated: 2026-10-10 16:22:00 UTC
+# Count: 8
 
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@co-a.speedtec.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=co-pl.speedtec.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=co-pl.speedtec.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://43739740-c67a-0082-a405-399303ac75c5@31.76.71.49:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://43739740-c67a-0096-a405-399303ac75c5@209.182.100.218:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Start2%20LLC
+vless://54f22246-cc9c-4315-907a-6c94c901d20f@82.202.182.40:1443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=DPQZz0DSeKFq3Q6-h7PTWngUuITOs8r0-MQiXGgLRRE&sid=49900b0593d610&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20WELLSERVER
+vless://0ebb96b9-2490-4c83-b702-7e5e37ccc84d@138.124.254.249:443?encryption=none&type=grpc&security=reality&sni=optim.tildacdn.pub&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&serviceName=ebl&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yakovlev%20Denis%20Alexandrovich
+vless://0ebb96b9-2490-4c83-b702-7e5e37ccc84d@5.42.106.188:443?encryption=none&type=grpc&security=reality&sni=optim.tildacdn.pub&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&serviceName=ebl&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@cloud.korroh.com:443?security=tls&sni=cloud.korroh.com&fp=chrome&type=ws&path=/remote.php/dav/89f7661a0011ce46&host=cloud.korroh.com&encryption=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
