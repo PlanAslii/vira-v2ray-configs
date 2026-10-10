@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-10-10 04:52:00 UTC
-# Count: 2
+# Updated: 2026-10-10 05:52:00 UTC
+# Count: 1
 
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?security=reality&flow=xtls-rprx-vision&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&fp=firefox&sni=pl3.nztvpn.com&type=tcp&headerType=none&host=pl3.nztvpn.com&path=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20UniversCloud
+vless://49ade50d-9cd6-81a9-db5d-8e4a7f56930b@51.75.118.165:20023?path=%2Fws%2F49ade50d-9cd6-81a9-db5d-8e4a7f56930b&encryption=none&host=51.75.118.165&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
