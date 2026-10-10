@@ -1,6 +1,5 @@
 # Country SE
-# Updated: 2026-10-10 02:52:00 UTC
-# Count: 2
+# Updated: 2026-10-10 03:22:00 UTC
+# Count: 1
 
 vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@177.3.209.245:443?encryption=none&flow=xtls-rprx-vision&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&security=reality&sni=swidenlanzerotte.live&type=tcp#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
-vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=content.v1.Feed&allowInsecure=0&sni=se-twitch.global-cdn.org#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
