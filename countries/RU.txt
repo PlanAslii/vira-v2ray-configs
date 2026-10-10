@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-10-10 20:52:00 UTC
-# Count: 1
+# Updated: 2026-10-10 21:22:00 UTC
+# Count: 2
 
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://5f31357c-0a65-4317-b1e9-3eed4c6f1e65@ru.ezhikvpn.xyz:443?encryption=none&type=grpc&security=tls&sni=x7q2m9v4.ahegao.top&serviceName=cdn-service&mode=gun#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
+vless://efa9d618-443e-0004-9c67-c4b3d9d73995@pitercdn1.surverssss.pro:8443?mode=gun&security=reality&encryption=none&pbk=5GM_0NRxR5zX7i8OfgIlkcA-YmHgv75XNO7JH-z_OF4&type=grpc&serviceName=grpc&sni=pitercdn1.surverssss.pro#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
