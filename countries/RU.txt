@@ -1,7 +1,12 @@
 # Country RU
-# Updated: 2026-10-10 18:52:00 UTC
-# Count: 3
+# Updated: 2026-10-10 19:22:00 UTC
+# Count: 8
 
+vless://efa9d618-443e-0004-9c67-c4b3d9d73995@pitercdn1.surverssss.pro:8443?encryption=none&type=grpc&security=reality&sni=pitercdn1.surverssss.pro&pbk=5GM_0NRxR5zX7i8OfgIlkcA-YmHgv75XNO7JH-z_OF4&serviceName=grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@ru1.hidenet.xyz:8444?encryption=none&type=grpc&security=reality&sni=ru1.hidenet.xyz&pbk=-79Cv006f06g2GMLmvR76tnorlTs-NvwrI5GdVluV0Y&serviceName=grpc-yt&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://43739740-c67a-0096-a405-399303ac75c5@13.143.137.149:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://43739740-c67a-0082-a405-399303ac75c5@31.76.71.49:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://43739740-c67a-0096-a405-399303ac75c5@209.182.100.218:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Start2%20LLC
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=co-pl.speedtec.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://43739740-c67a-00be-a405-399303ac75c5@80.66.89.30:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20AZERTA.RU%20Hosting%20Solutions
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://f3765e79-995f-43a7-bf47-41695ab5e51c@188.225.77.44:4433?security=reality&encryption=none&pbk=S_s3FVodJIep88KnIgT0cZLUMB2tAJHTJEn0o-J03G8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=rufi.willo.help&sid=283f4b51fbe39ad9#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=du-rov.secureservice.top&sid=3cbc3d737fb9c4af#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
