@@ -1,10 +1,12 @@
 # Country US
-# Updated: 2026-10-09 23:52:00 UTC
-# Count: 6
+# Updated: 2026-10-10 00:22:00 UTC
+# Count: 8
 
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
+vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?encryption=none&type=ws&security=tls&sni=safa.fastly.com&path=%2F&host=pannn1.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
 vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&spx=%2Fa6f16ebc763b16c&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://ea85694a-67f1-47ca-b2d7-1fc0a8138fa1@199.232.78.159:443?path=%2F&security=tls&alpn=h2&encryption=none&host=az_man-eski_naro_Pesar_jOon.global.ssl.fastly.net&type=ws&sni=Axonsstriol.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://ea85694a-67f1-47ca-b2d7-1fc0a8138fa1@146.75.59.186:443?path=%2F&security=tls&alpn=h2&encryption=none&host=loogggaboijji.global.ssl.fastly.net&type=ws&sni=Axontriol.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.32.140:41705?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20NetLab%20Global
-vless://bc504cec-3f25-4ac0-a9b7-3a9a66589573@sepman-production-6cf4.up.railway.app:443?encryption=none&security=tls&sni=sepman-production-6cf4.up.railway.app&fp=chrome&alpn=http%2F1.1&type=ws&host=sepman-production-6cf4.up.railway.app&path=%2Fws%2F0e01d5ff-d37d-4721-8cfe-0ea362690542%3Fed%3D2560#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Railway
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
