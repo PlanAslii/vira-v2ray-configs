@@ -1,7 +1,5 @@
 # Country FI
-# Updated: 2026-10-10 23:22:00 UTC
-# Count: 3
+# Updated: 2026-10-10 23:52:00 UTC
+# Count: 1
 
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=web.eitaa.com&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@fi2.hidenet.xyz:8443?mode=gun&security=reality&encryption=none&pbk=Fcr_qsQtCw12qIvMiIDSnsWXAd0nk9QVP6c5hZPy0AI&type=grpc&serviceName=grpc&sni=fi2.hidenet.xyz#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20RAPIDSEEDBOX
-vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-3.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fn-3.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
