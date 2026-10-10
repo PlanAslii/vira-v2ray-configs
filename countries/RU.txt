@@ -1,8 +1,6 @@
 # Country RU
-# Updated: 2026-10-10 17:52:00 UTC
-# Count: 4
+# Updated: 2026-10-10 18:22:00 UTC
+# Count: 2
 
-vless://0ebb96b9-2490-4c83-b702-7e5e37ccc84d@138.124.254.249:443?encryption=none&type=grpc&security=reality&sni=optim.tildacdn.pub&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&serviceName=ebl&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yakovlev%20Denis%20Alexandrovich
-vless://0ebb96b9-2490-4c83-b702-7e5e37ccc84d@5.42.106.188:443?encryption=none&type=grpc&security=reality&sni=optim.tildacdn.pub&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&serviceName=ebl&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://58d6ef0f-b3ab-4f13-8bec-0777193f77b0@138.124.254.249:443?encryption=none&type=grpc&security=reality&sni=optim.tildacdn.pub&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&serviceName=ebl&mode=True&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Yakovlev%20Denis%20Alexandrovich
-vless://58d6ef0f-b3ab-4f13-8bec-0777193f77b0@5.42.106.188:443?encryption=none&type=grpc&security=reality&sni=optim.tildacdn.pub&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&serviceName=ebl&mode=True&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://f3765e79-995f-43a7-bf47-41695ab5e51c@188.225.77.44:4433?security=reality&encryption=none&pbk=S_s3FVodJIep88KnIgT0cZLUMB2tAJHTJEn0o-J03G8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=rufi.willo.help&sid=283f4b51fbe39ad9#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=du-rov.secureservice.top&sid=3cbc3d737fb9c4af#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
