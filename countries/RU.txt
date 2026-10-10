@@ -1,6 +1,5 @@
 # Country RU
-# Updated: 2026-10-10 20:22:00 UTC
-# Count: 2
+# Updated: 2026-10-10 20:52:00 UTC
+# Count: 1
 
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://513e7ad9-318b-4495-8f5b-d88c4302fdc1@msk.ai-boost.tech:443?encryption=none&host=msk.ai-boost.tech&path=%2F3a7lzIHlgUuz2QnV1CaQ&security=tls&sni=msk.ai-boost.tech&type=ws#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20HOSTKEY
