@@ -1,7 +1,9 @@
 # Country CA
-# Updated: 2026-10-10 15:22:00 UTC
-# Count: 3
+# Updated: 2026-10-10 15:52:00 UTC
+# Count: 5
 
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&host=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2Ffp&host=hhlfy.twiladaphne.ndjp.net&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://3a936dde-62f0-4275-ad40-66f02571d22c@ubuntu.grasbeck.workers.dev:443?encryption=none&security=tls&sni=ubuntu.grasbeck.workers.dev&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=ubuntu.grasbeck.workers.dev&path=%2F%40AzarAndoozVPNbot#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://fbcd6715-d1ed-4d2a-9ae6-9acd6d1cef52@104.24.143.37:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=bomb.pasta-makers.online&fp=chrome&ech=luxandlush.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=bomb.pasta-makers.online#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&type=ws&security=tls&sni=snip.edgeoneai.cc.cd&fp=unsafe&alpn=http%2F1.1&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=snip.edgeoneai.cc.cd#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
