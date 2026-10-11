@@ -1,9 +1,6 @@
 # Country FI
-# Updated: 2026-10-11 22:22:00 UTC
-# Count: 5
+# Updated: 2026-10-11 22:52:00 UTC
+# Count: 2
 
 vless://fd1d80da-3b27-457a-810b-2b28a309edc1@95.85.251.93:8443?security=reality&encryption=none&pbk=my0kaAJFk3-xpoZNZ0i-a8SsX7Y9fUP8bHsQILUK6hk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=18a1ed60#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
 vless://c7336a70-9d56-4ef9-8cb8-8eeb9c82a3e3@217.69.167.167:43000?security=reality&encryption=none&pbk=yVypeNRnQF6yM3z2FJLL6jJcvZY8SArZN34JQbiEzzY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.167&sid=5c97b3bc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Tom%20Gewiese
-vless://9f9b66ba-e964-4e0e-be38-293134868a67@toping.zovip2.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=toping.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=toping.zovip2.ir#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?security=reality&encryption=none&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.pythonsetupbib.online&sid=bdf5852d1423e694#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
-vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.bulkavpn.top&fp=firefox&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
