@@ -1,9 +1,9 @@
 # Country FR
-# Updated: 2026-10-11 16:52:00 UTC
+# Updated: 2026-10-11 17:22:00 UTC
 # Count: 5
 
+vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?security=reality&encryption=none&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&headerType=none&fp=firefox&spx=%2F8k3TDsPnYUrkk2v&type=tcp&flow=xtls-rprx-vision&sni=fr5.wizard.select&sid=984f#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
+vless://58756a39-0472-5f8a-89e3-a80fa94af59e@7q4eiwcseu-193708596-direct.rahbarii.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=7q4eiwcseu-193708596-direct.rahbarii.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://58756a39-0472-5f8a-89e3-a80fa94af59e@193.70.85.96:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=7q4eiwcseu-193708596-direct.rahbarii.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://40fbeade-2b35-55e2-8e72-39893b5917ea@51.255.165.170:443?security=tls&encryption=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@88.151.197.213:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=frafra.nztvpn.com&pbk=7gPPAdSE90GC5DWQhNH3-7oAHulpWz6iN8dIuKfBflc&sid=0da7e14db353e7d0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ouiheberg%20Sarl
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6IjgwIiwiaWQiOiJlNWU1NjNmYi1jZjcyLTQyNTAtYmZmZi1mYTAzODUzMDEwNjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
-vless://58756a39-0472-5f8a-89e3-a80fa94af59e@193.70.85.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=7q4eiwcseu-193708596-direct.rahbarii.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://58756a39-0472-5f8a-89e3-a80fa94af59e@7q4eiwcseu-193708596-direct.rahbarii.com:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=7q4eiwcseu-193708596-direct.rahbarii.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
