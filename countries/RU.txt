@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-10-11 05:22:00 UTC
-# Count: 1
+# Updated: 2026-10-11 06:22:00 UTC
+# Count: 2
 
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=co-pl.speedtec.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://12e95f93-443c-0002-9a2a-5b318b9124cf@46.182.24.15:443?security=reality&encryption=none&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&fp=random&type=tcp&flow=xtls-rprx-vision&sni=46.182.24.15#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@45.133.151.163:25895?security=reality&encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&fp=chrome&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
