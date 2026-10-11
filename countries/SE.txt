@@ -1,11 +1,6 @@
 # Country SE
-# Updated: 2026-10-11 20:52:00 UTC
-# Count: 7
+# Updated: 2026-10-11 21:22:00 UTC
+# Count: 2
 
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@136.148.223.212:25119?security=reality&encryption=none&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=10f517#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hostup%20AB
 vless://c193cfcb-8c8b-5b8c-8964-857162bc5971@se.illusion-vpn.ru:8443?encryption=none&flow=xtls-rprx-vision&pbk=j4xFKAF5O26vRXo4ebnV6hsHj-alYN7kbq2D6gOJ6zY&security=reality&sid=c89a78fa6ca8da28&sni=se.illusion-vpn.ru&type=tcp#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20GCS%20SER
-vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@specific3.kandnet.com:443?security=reality&encryption=none&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=specific3.kandnet.com#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
-vless://fd1d80da-3b27-457a-810b-2b28a309edc1@2.27.14.244:443?security=reality&encryption=none&pbk=uakxTTpl0pQZxA-wu_QEsyVDUlErAxEKmFcnQrzABXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=c24b46e36cc6d6fa#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II%2C%20L.L.C.
-vless://3db6eb7e-c548-11f1-9902-a337233c6cda@swe.wizard.select:443?security=reality&encryption=none&pbk=Sikc1gu5t_uwitf1xTTChP9tpT_sjY530p2tioHbmz0&headerType=none&fp=chrome&spx=%2FBKr15UryKI7MwSb&type=tcp&flow=xtls-rprx-vision&sni=swe.wizard.select&sid=3b20e438da99#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20SpaceDump%20Networks
-vless://c92abb58-a76b-4d87-b016-710a749481db@swe.qik-fin.uk:443?encryption=none&type=grpc&security=tls&sni=swe.qik-fin.uk&fp=chrome&alpn=h2&serviceName=assets&mode=gun#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20GCS%20SER
