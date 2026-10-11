@@ -1,6 +1,6 @@
 # Country FI
-# Updated: 2026-10-11 18:22:00 UTC
+# Updated: 2026-10-11 18:52:00 UTC
 # Count: 2
 
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.14.246.6:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-1.ardesnode.ru&sid=9ea74b83f4993ca9#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@13.143.166.18:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=firefox&pbk=0F1gTB2erb0KWXeMUp06kbj887WVHYd3lt-i8OSHBCI&sid=84fe6d42d253f1b1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
-vless://bffafdda-4515-41f3-8744-82a94de32c6f@senfi.animereze.site:1443?mode=gun&security=reality&encryption=none&pbk=tzXJk66qglPF_72IxD2hDsohL4WhlpJ_RKmmZdAxOwQ&fp=firefox&type=grpc&serviceName=grpc-reality&sni=www.bmw.com&sid=6b8bb068363319af#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
