@@ -1,7 +1,8 @@
 # Country FI
-# Updated: 2026-10-11 14:52:00 UTC
-# Count: 5
+# Updated: 2026-10-11 15:22:00 UTC
+# Count: 6
 
+vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.bulkavpn.top&fp=firefox&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Local%20NCC%20Ltd.
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-3.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-3.ardesnode.ru&sid=9ea74b83f4993ca9#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-2.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fn-2.ardesnode.ru&sid=9ea74b83f4993ca9#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://9f9b66ba-e964-4e0e-be38-293134868a67@gadfather.zovip2.ir:443?path=%2Fgropcdn%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gadfather.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=gadfather.zovip2.ir#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
