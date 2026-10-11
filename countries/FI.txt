@@ -1,9 +1,7 @@
 # Country FI
-# Updated: 2026-10-11 02:52:00 UTC
-# Count: 5
+# Updated: 2026-10-11 03:22:00 UTC
+# Count: 3
 
-vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?encryption=none&flow=xtls-rprx-vision&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&security=reality&sid=90ec9bba2019&sni=web.eitaa.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@85.192.48.142:443?encryption=none&flow=xtls-rprx-vision&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
-vless://3eec23c1-2a0d-4d53-afa5-62745a1f5ffe@170.168.4.59:17170?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=trail-grpc&sni=northerntrail.gazette.help&type=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Host%20Telecom%20LTD
+vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=web.eitaa.com&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
-vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@31.76.103.111:443?headerType=none&fp=random&pbk=pTwj1ZO_-CMRZyDx2__1IJfRW2aw774tMfASLf-4SDk&security=reality&sid=022f197e6c39&sni=fin01.deflink.net&type=tcp&flow=xtls-rprx-vision&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@138.124.15.176:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fn-3.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
