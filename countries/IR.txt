@@ -1,9 +1,7 @@
 # Country IR
-# Updated: 2026-10-11 16:22:00 UTC
-# Count: 5
+# Updated: 2026-10-11 16:52:00 UTC
+# Count: 3
 
 vless://4bab42ab-6370-45d1-86a3-69d2b58cd12c@ir2.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nobitex.ir&sid=f88610dd#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
 vless://4bab42ab-6370-45d1-86a3-69d2b58cd12c@ir5.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nobitex.ir&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
 vless://4bab42ab-6370-45d1-86a3-69d2b58cd12c@ir4.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nobitex.ir&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vless://68d6952f-05e4-4b4b-8dc1-792233a5f419@194.110.24.28:1819?path=%2Fskwkabsslanapspzkamvsksd&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=194.110.24.28&fp=chrome&ech=AGD%2BDQBcAAAgACBYy8dRa80c3Pvaud%2BtKD2vECiV7pfLn8ymHRx1xCJ4TQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA0xOTQuMTEwLjI0LjI4AAA%3D&type=ws&allowInsecure=0&sni=194.110.24.28#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
-vless://ac026cce-36fb-4af8-8e8f-a533af60b026@docs.sslforfree.shop:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=docs.sslforfree.shop&path=%2F&security=tls&sni=docs.sslforfree.shop&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Peimayesh%20Ertebat%20Oxin%20Co.
