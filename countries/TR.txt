@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-10-11 16:52:00 UTC
-# Count: 3
+# Updated: 2026-10-11 18:22:00 UTC
+# Count: 1
 
-vless://4bab42ab-6370-45d1-86a3-69d2b58cd12c@trn24.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=f88610dd#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
-vless://4bab42ab-6370-45d1-86a3-69d2b58cd12c@trn19.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
-vless://4bab42ab-6370-45d1-86a3-69d2b58cd12c@trn32.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
+vless://e1f786c1-bd8d-4568-88e8-f2ff537da0f6@185.157.217.4:8443?security=reality&headerType=none&encryption=none&pbk=X44dpyHVDlpzQMouk4RGzREF8OEL1XoPBCf6oY-EsmI&alpn=h2&fp=random&flow=xtls-rprx-vision&type=tcp&sid=d346e1a7eb724050&sni=play.google.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Eniyisunucum%20Veri%20Merkezi%20Bilisim%20Hizmetleri%20Ticaret%20VE%20Sanayi%20Limited%20Sirketi
