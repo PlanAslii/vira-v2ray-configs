@@ -1,7 +1,8 @@
 # Country FR
-# Updated: 2026-10-11 19:22:00 UTC
-# Count: 3
+# Updated: 2026-10-11 19:52:00 UTC
+# Count: 4
 
+vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?security=reality&encryption=none&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&fp=firefox&spx=%2F8k3TDsPnYUrkk2v&type=tcp&flow=xtls-rprx-vision&sni=fr5.wizard.select&sid=984f#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@88.151.197.213:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=frafra.nztvpn.com&fp=random&pbk=7gPPAdSE90GC5DWQhNH3-7oAHulpWz6iN8dIuKfBflc&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ouiheberg%20Sarl
 vless://c8a72f12-82f2-44ab-a3e2-3afd6395c129@51.75.118.79:20189?path=%2Fmb-vless&encryption=none&host=51.75.118.79&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://bffafdda-4515-41f3-8744-82a94de32c6f@frinf.animereze.site:443?security=reality&encryption=none&pbk=Ha7J8dVphS5bF36HQ6tJnFhN1MPl9g8avFUIPaM7cXg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=frinf.animereze.site&sid=6b8bb098363369af#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
