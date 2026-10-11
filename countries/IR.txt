@@ -1,11 +1,7 @@
 # Country IR
-# Updated: 2026-10-11 13:22:00 UTC
-# Count: 7
+# Updated: 2026-10-11 13:52:00 UTC
+# Count: 3
 
 vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@p1tun01.greewebservices.ir:38830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4f#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%9F%A2
 vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@p1tun0.greewebservices.ir:38820?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=66ded2#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
 vless://a1fb63f7-a942-4010-a830-bc395703a9a4@best.valaiqm.ir:3037?security=reality&encryption=none&pbk=cYQAluLQY4m0yBUkvqWo3LEXTp-_9In3gJUDoEMmn1U&headerType=none&fp=chrome&spx=%2F38495ba6ad5d0b1&type=tcp&sni=telewebion.ir&sid=a9c9#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pishgaman%20Toseeh%20Ertebatat%20Company%20%28Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%9F%A2
-vless://b092c099-67aa-45fd-bba7-56d30a5b3427@194.110.24.28:443?security=reality&encryption=none&pbk=LgMOyTPc56yUf_OHV67D2UAY_-_pL4UhDkzkE2yWzDs&headerType=none&fp=chrome&spx=%2F4db43a457e501c3&type=tcp&sni=snapp.ir&sid=207111#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
-vmess://eyJhZGQiOiJ2dnYyLnNlZXJ2ZXhvLmlyIiwiYWlkIjoiMCIsImlkIjoiNjU3M2QzNzItMGJjMC00YWFlLTg2MzYtNThmNmExZWEwN2NmIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDAyIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBTZXBlaHJTYWJ6IElEQyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-vmess://eyJhZGQiOiJ2aXAuc2VlcnZleG8uaXIiLCJhaWQiOiIwIiwiaWQiOiI2NTczZDM3Mi0wYmMwLTRhYWUtODYzNi01OGY2YTFlYTA3Y2YiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjEzOTUiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IENvbXB1dGVyIFJlc2VhcmNoIENlbnRlciBvZiBJc2xhbWljIFNjaWVuY2VzIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJWMnIuc2VlcnZleG8uaXIiLCJhaWQiOiIwIiwiaWQiOiI2NTczZDM3Mi0wYmMwLTRhYWUtODYzNi01OGY2YTFlYTA3Y2YiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTU5MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU2VwZWhyU2FieiBJREMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
