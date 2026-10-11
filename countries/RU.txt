@@ -1,8 +1,6 @@
 # Country RU
-# Updated: 2026-10-11 21:22:00 UTC
-# Count: 4
+# Updated: 2026-10-11 21:52:00 UTC
+# Count: 2
 
 vless://62610fc6-8333-41f9-9258-08915e4343ab@94.242.52.3:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=wibes.ru&fp=firefox&pbk=rFvQYQ4KYQBMKebx3L0xouI6DM5AJUhvLegp4UuTI2Q&sid=a3bec81d866878e1&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
 vless://62610fc6-8333-41f9-9258-08915e4343ab@217.198.12.231:443?encryption=none&type=grpc&security=reality&sni=m.47news.ru&fp=firefox&pbk=TPUch1O7z3njgsONtN-m3GEuwqQk7gCnvLq8a2NnPk8&sid=8156fa4b4f7a2522&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://c5b5ef33-819e-4972-9a5a-4ad91f38507f@185.229.9.234:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=fsyvGBPzzwpnSA0UnJML_cDqviNSEdj9zktpC1EeFhY&sid=743541f932fa3959&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Citytelecom%20LLC
