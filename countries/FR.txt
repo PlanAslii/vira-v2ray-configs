@@ -1,6 +1,6 @@
 # Country FR
-# Updated: 2026-10-11 08:52:00 UTC
+# Updated: 2026-10-11 09:22:00 UTC
 # Count: 2
 
+vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?encryption=none&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&spx=%2F3f9d322afd1602c&type=grpc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6IjgwIiwiaWQiOiJlNWU1NjNmYi1jZjcyLTQyNTAtYmZmZi1mYTAzODUzMDEwNjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
-vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=%2Falibodama-ws&encryption=none&host=51.75.118.149&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
