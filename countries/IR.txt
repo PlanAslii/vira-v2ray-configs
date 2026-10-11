@@ -1,8 +1,6 @@
 # Country IR
-# Updated: 2026-10-11 15:22:00 UTC
-# Count: 4
+# Updated: 2026-10-11 15:52:00 UTC
+# Count: 2
 
-vless://08275ed3-eef3-489d-80b0-b24ac0567cc7@phoenix.msphnx.ir:2019?encryption=none&fp=chrome&pbk=RYUCFGttyeR0jJRoAwx5RkkT7gVwtaj06hDf66GhuXU&security=reality&sid=5e8ef064a2f8&sni=digikala.com&spx=%2F46b2da84a2418a9&support-x25519mlkem768=true&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Padiz%20Dadeh%20Resan%20PJSC%20%E2%94%87%20%F0%9F%94%B4
-vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@p1tun0.greewebservices.ir:38820?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=66ded2#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
-vless://2d2f4f39-6340-4533-8b1a-c7c03d114efe@phoenix.msphnx.ir:2019?encryption=none&fp=chrome&pbk=RYUCFGttyeR0jJRoAwx5RkkT7gVwtaj06hDf66GhuXU&security=reality&sid=3a999078e3&sni=digikala.com&spx=%2Fa595c192164662a&support-x25519mlkem768=true&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Padiz%20Dadeh%20Resan%20PJSC%20%E2%94%87%20%F0%9F%94%B4
-vless://a1fb63f7-a942-4010-a830-bc395703a9a4@best.valaiqm.ir:3037?security=reality&encryption=none&pbk=cYQAluLQY4m0yBUkvqWo3LEXTp-_9In3gJUDoEMmn1U&headerType=none&fp=chrome&spx=%2F38495ba6ad5d0b1&type=tcp&sni=telewebion.ir&sid=a9c9#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pishgaman%20Toseeh%20Ertebatat%20Company%20%28Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%9F%A2
+vless://68d6952f-05e4-4b4b-8dc1-792233a5f419@194.110.24.28:1819?path=%2Fskwkabsslanapspzkamvsksd&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=194.110.24.28&fp=chrome&ech=AGD%2BDQBcAAAgACBYy8dRa80c3Pvaud%2BtKD2vECiV7pfLn8ymHRx1xCJ4TQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA0xOTQuMTEwLjI0LjI4AAA%3D&type=ws&allowInsecure=0&sni=194.110.24.28#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
+vless://ac026cce-36fb-4af8-8e8f-a533af60b026@docs.sslforfree.shop:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=docs.sslforfree.shop&path=%2F&security=tls&sni=docs.sslforfree.shop&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Peimayesh%20Ertebat%20Oxin%20Co.
