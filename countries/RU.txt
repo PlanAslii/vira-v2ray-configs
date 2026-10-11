@@ -1,7 +1,7 @@
 # Country RU
-# Updated: 2026-10-11 17:22:00 UTC
+# Updated: 2026-10-11 17:52:00 UTC
 # Count: 3
 
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@87.242.95.164:8444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&pbk=sEVENfWGiESvjQGk5I4MWGvOFpZHz8abDnh1jzALOA0&sid=1ededde9b458e0b3&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=144.48.11.97&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
+vless://bffafdda-4515-41f3-8744-82a94de32c6f@msk1.animereze.site:443?mode=gun&security=reality&encryption=none&authority=www.dell.com&pbk=oL0LzTElvD_F8qhoabfvTh6ON_fZv_bM52I9Xqb8CSg&fp=firefox&type=grpc&serviceName=MetricsSync&sni=www.dell.com&sid=848af9514e811495#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20VK
+vless://bffafdda-4515-41f3-8744-82a94de32c6f@uk1.animereze.site:443?mode=gun&security=reality&encryption=none&authority=www.siemens.com&pbk=Omnn-hLBW2_wutioaIBLXTYY-Id4eL0wKFEbVYTt4xI&fp=firefox&type=grpc&serviceName=DataFeed&sni=www.siemens.com&sid=fc05104e7d2a2eeb#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20VK
+vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@87.242.95.150:8448?security=reality&encryption=none&pbk=0CqG1bve7Hc-kLpAnxXVdfR_MJlf8L_GM7O9oTn8e34&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=9c90870157ed4bb3#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
