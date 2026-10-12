@@ -1,5 +1,7 @@
 # Country LV
-# Updated: 2026-10-12 07:22:00 UTC
-# Count: 1
+# Updated: 2026-10-12 07:52:00 UTC
+# Count: 3
 
-vless://62610fc6-8333-41f9-9258-08915e4343ab@72.56.52.35:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pap.pl&fp=firefox&pbk=Qny0nDXZPLi-EqG6kCxz4zZykkttmKgBcXU1DIMj32w&sid=4ab3ad05ce108450&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20GOOD
+vless://3f79805b-954e-40de-9d85-9f24b3acf4b6@72.56.52.35:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pap.pl&fp=firefox&pbk=Qny0nDXZPLi-EqG6kCxz4zZykkttmKgBcXU1DIMj32w&sid=4ab3ad05ce108450&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20GOOD
+vless://3f79805b-954e-40de-9d85-9f24b3acf4b6@natureoflatvia.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=natureoflatvia.top&fp=firefox&pbk=0RlpyDQNw2rAlZ6t6RIzoOVeGcDjRS-XO-cHBLW-JjI&sid=964c0252c22b16d4&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%202%20Cloud%20Ltd
+vless://a4df8fc2-660d-4d44-9b7d-070da3846de6@95.182.99.240:47680?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
