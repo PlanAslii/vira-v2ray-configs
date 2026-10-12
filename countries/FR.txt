@@ -1,6 +1,6 @@
 # Country FR
-# Updated: 2026-10-12 02:22:00 UTC
-# Count: 11
+# Updated: 2026-10-12 02:52:00 UTC
+# Count: 10
 
 vless://e3k67dwms3@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://593bf46b-8316-5050-9357-d8a41e4db78b@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
@@ -12,4 +12,3 @@ vless://58756a39-0472-5f8a-89e3-a80fa94af59e@193.70.85.96:443?security=tls&encry
 vless://40fbeade-2b35-55e2-8e72-39893b5917ea@51.255.165.170:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://40fbeade-2b35-55e2-8e72-39893b5917ea@tyxyrytyro-51255165170-direct.araghchy.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://e3k67dwms3@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
