@@ -1,8 +1,7 @@
 # Country FR
-# Updated: 2026-10-12 06:52:00 UTC
-# Count: 4
+# Updated: 2026-10-12 07:22:00 UTC
+# Count: 3
 
+vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr5.wizard.select&fp=firefox&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&sid=984f&spx=%2F8k3TDsPnYUrkk2v#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
+vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://9a5a9918-06aa-4cb6-851e-c15b0e0c8b87@80.241.218.203:30116?encryption=none&path=%2Fbatman-ws&type=ws&security=none&host=80.241.218.203#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr5.wizard.select&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&sid=984f&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
-vless://2acc3742-c568-11f1-9902-a337233c6cda@178.214.107.4:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr5.wizard.select&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&sid=984f&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@88.151.197.213:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=frafra.nztvpn.com&pbk=7gPPAdSE90GC5DWQhNH3-7oAHulpWz6iN8dIuKfBflc&sid=0da7e14db353e7d0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ouiheberg%20Sarl
