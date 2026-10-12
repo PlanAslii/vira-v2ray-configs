@@ -1,9 +1,9 @@
 # Country FR
-# Updated: 2026-10-12 08:22:00 UTC
+# Updated: 2026-10-12 08:52:00 UTC
 # Count: 5
 
+vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?path=%2Fapi%2Fv2%2Fstream%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=f4.vimeostream.online#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
+vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr5.wizard.select&fp=firefox&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&sid=984f&spx=%2F8k3TDsPnYUrkk2v&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
 vless://rgiw5k0gg5@rgiw5k0gg5-1492025789-direct.kheibarr.com:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@88.151.197.213:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=frafra.nztvpn.com&fp=random&pbk=7gPPAdSE90GC5DWQhNH3-7oAHulpWz6iN8dIuKfBflc&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ouiheberg%20Sarl
 vless://9a5a9918-06aa-4cb6-851e-c15b0e0c8b87@80.241.218.203:30116?path=%2Fbatman-ws&security=none&encryption=none&host=80.241.218.203&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://e3k67dwms3@e3k67dwms3-51255166202-direct.tavafog.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=e3k67dwms3-51255166202-direct.tavafog.com&fp=chrome&alpn=h2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
