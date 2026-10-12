@@ -1,7 +1,8 @@
 # Country US
-# Updated: 2026-10-12 02:22:00 UTC
-# Count: 35
+# Updated: 2026-10-12 02:52:00 UTC
+# Count: 31
 
+vless://fc87e0d6-0f6a-423a-828e-1fed7e7ef29c@status.luxcloud.space:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=status.luxcloud.space&fp=firefox&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Vodafone-Libertel-BV
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?security=reality&encryption=none&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=us.dark-bit.cc&sid=9ab513f082d4c6e1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fourplex%20Telecom%20LLC
 vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
@@ -32,8 +33,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&e
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Inception%20Hosting%20Limited
-vless://fc87e0d6-0f6a-423a-828e-1fed7e7ef29c@status.luxcloud.space:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=status.luxcloud.space&fp=firefox&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Vodafone-Libertel-BV
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.253.251.184:443?sni=edg-2oo.pages.dev&type=ws&host=edg-2oo.pages.dev&path=/article/pages/archive?ed=2560fp=chrome&security=tls#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Alibaba%20Cloud%20LLC
