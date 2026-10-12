@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-10-11 23:52:00 UTC
-# Count: 2
+# Updated: 2026-10-12 01:52:00 UTC
+# Count: 1
 
-vless://eb607671-0eb9-4fec-8c73-3c43610f955b@80.241.218.203:30116?encryption=none&path=%2Fbatman-ws&type=ws&host=80.241.218.203&security=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=tyxyrytyro-51255165170-direct.araghchy.com&fp=chrome&alpn=h2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
