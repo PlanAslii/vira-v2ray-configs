@@ -1,8 +1,9 @@
 # Country FR
-# Updated: 2026-10-12 09:22:00 UTC
-# Count: 4
+# Updated: 2026-10-12 09:52:00 UTC
+# Count: 5
 
+vless://40fbeade-2b35-55e2-8e72-39893b5917ea@51.255.165.170:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://rgiw5k0gg5@rgiw5k0gg5-1492025789-direct.kheibarr.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://c6db98c5-9959-425e-9340-300779fc4e4b@37.49.230.85:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=fr5grpc&allowInsecure=0&sni=fr5.sodahub.online#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@88.151.197.213:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=frafra.nztvpn.com&fp=random&pbk=7gPPAdSE90GC5DWQhNH3-7oAHulpWz6iN8dIuKfBflc&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ouiheberg%20Sarl
 vless://2acc3742-c568-11f1-9902-a337233c6cda@178.214.107.4:443?security=reality&encryption=none&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fr5.wizard.select&sid=984f#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
-vless://c6db98c5-9959-425e-9340-300779fc4e4b@205.237.105.31:11443?path=%2Fapi%2Fv2%2Fstream%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=f4.vimeostream.online#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
-vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr5.wizard.select&fp=firefox&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&sid=984f&spx=%2F8k3TDsPnYUrkk2v&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ESTOXY%20OU
