@@ -1,5 +1,7 @@
 # Country SE
-# Updated: 2026-10-12 02:52:00 UTC
-# Count: 1
+# Updated: 2026-10-12 06:22:00 UTC
+# Count: 3
 
-vless://c193cfcb-8c8b-5b8c-8964-857162bc5971@se.illusion-vpn.ru:8443?security=reality&encryption=none&pbk=j4xFKAF5O26vRXo4ebnV6hsHj-alYN7kbq2D6gOJ6zY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.illusion-vpn.ru&sid=c89a78fa6ca8da28#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20GCS%20SER
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@swself.yandex-api.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=swself.yandex-api.com&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@45.138.103.238:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=sw.golangwikito.cfd&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@177.3.209.211:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=swself.yandex-api.com&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
