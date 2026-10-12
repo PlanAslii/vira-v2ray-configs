@@ -1,6 +1,7 @@
 # Country LV
-# Updated: 2026-10-12 08:52:00 UTC
-# Count: 2
+# Updated: 2026-10-12 09:22:00 UTC
+# Count: 3
 
+vless://1f832d6e-0226-4c5c-9266-21419da34968@95.182.99.240:47680?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://a4df8fc2-660d-4d44-9b7d-070da3846de6@95.182.99.240:47680?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=chrome&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
