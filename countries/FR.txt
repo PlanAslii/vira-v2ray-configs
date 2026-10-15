@@ -1,9 +1,6 @@
 # Country FR
-# Updated: 2026-10-15 17:40:40 UTC
-# Count: 5
+# Updated: 2026-10-15 19:10:40 UTC
+# Count: 2
 
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6IjgwIiwiaWQiOiIwNjdmY2Q2My1iMjE1LTRhYmQtODUyOS1hZTkyOWE5OTcxYTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
 vless://rgiw5k0gg5@149.202.57.89:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://765358bd-9fb0-4ccd-8088-88861f186293@51.77.144.182:8880?security=none&encryption=mlkem768x25519plus.native.0rtt.P9gJ5wdRpIW42r-fUzuxQe3g786I7Y5qKkfTiVpxxS4&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://126fdbae-bb34-5882-a40c-fb60c5ea4afb@149.202.57.89:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
