@@ -1,10 +1,9 @@
 # Country IR
-# Updated: 2026-10-15 12:40:40 UTC
-# Count: 6
+# Updated: 2026-10-15 13:10:40 UTC
+# Count: 5
 
+vless://13b7c2aa-bb34-43b2-b9ea-113dbfbb4feb@tun2.w-ert.org:447?encryption=none&type=tcp&security=reality&sni=www.aparat.com&fp=chrome&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dade%20Samane%20Fanava%20Company%20%E2%94%87%20%F0%9F%94%B4
+vmess://eyJhZGQiOiJpci55emNxLmlyIiwiYWlkIjoiMCIsImlkIjoiZjIzNDAxZmItZjRhOC00ZDQ1LTgwYjctY2ZkNDRiNzAzMDhhIiwibmV0IjoidGNwIiwicG9ydCI6MjA0MCwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBNb2hhbW1hZCBUYWhhIE1hc2hob3Jyb2RpIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vless://5739bb35-2806-4d45-81e2-186e96d7e10b@562f193334ea1d3d.tunde.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Soroush%20Rasanheh%20Company%20Ltd%20%E2%94%87%20%F0%9F%94%B4
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tejarat%20Electronic%20Nojhan%20Pardazesh%20LLC%20%E2%94%87%20%F0%9F%9F%A2
 vless://c0c5d026-9f17-4b35-b180-2b96956c6ba2@89.144.145.233:64845?security=none&encryption=mlkem768x25519plus.native.0rtt.RocbSBRKp8YKmlltkC_PL7Vd9mhufeIKeeuYP33jnhY&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Andishe%20Sabz%20Khazar%20%E2%94%87%20%F0%9F%94%B4
-vless://5739bb35-2806-4d45-81e2-186e96d7e10b@15cfc1ed4b3a8f65.tunvi.w-ert.org:451?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vless://5739bb35-2806-4d45-81e2-186e96d7e10b@cae6bf180c8b760b.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgV2ViIERhZGVoIFBheWRhciBDbyAoTHRkKSIsImFkZCI6IjE4NS4yNy40NC4xMjciLCJwb3J0IjoiMzM3MjUiLCJpZCI6ImU2MWE0Yzg1LTViMDktNDdiZC1hZmQ5LTNjZTVmODNiMTRhOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIifQ
