@@ -1,7 +1,8 @@
 # Country RU
-# Updated: 2026-10-15 11:40:40 UTC
-# Count: 10
+# Updated: 2026-10-15 12:10:40 UTC
+# Count: 9
 
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=co-de.speedtec.ru&fp=random&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
 vless://c96f941e-dd8a-4599-89d5-740b79202ed0@31.76.6.160:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
 vless://c96f941e-dd8a-006e-89d5-740b79202ed0@95.181.170.27:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20ServTech%20LTD
 vless://c96f941e-dd8a-00aa-89d5-740b79202ed0@46.17.42.26:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20BAXET
@@ -10,5 +11,3 @@ vless://c96f941e-dd8a-0096-89d5-740b79202ed0@31.76.6.160:8443?encryption=none&ty
 vless://c96f941e-dd8a-0096-89d5-740b79202ed0@95.181.170.27:8443?encryption=none&type=tcp&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20ServTech%20LTD
 vless://090da6a8-69f7-4b49-8af9-a8f8bfb07f17@app-mi-28.spbstudentlife.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-mi-28.spbstudentlife.com&fp=randomized&pbk=VpHiR2qy9ielGf500Cp5S_e9eDR_of2dthqe7bNflRk&sid=1fcb15860699f6b1&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
 vless://090da6a8-69f7-4b49-8af9-a8f8bfb07f17@app-ms-72.next-gen-shopping.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ms-72.next-gen-shopping.com&fp=randomized&pbk=yuWkqVdfhtZTbQbgOWXfvukhdwCe2vVy7-GWxVfirnQ&sid=6f24fe57975cc9b6&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?security=reality&encryption=none&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=780f5e#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20WELLSERVER
-vless://c3db7657-88ce-42a6-b998-1e0364b277ac@cdn-ixr.whitenw.net:4510?security=reality&encryption=none&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=9c99da.usecache.net&sid=2d0c188798bae174#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
