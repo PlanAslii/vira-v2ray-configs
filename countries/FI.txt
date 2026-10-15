@@ -1,7 +1,7 @@
 # Country FI
-# Updated: 2026-10-15 10:41:15 UTC
+# Updated: 2026-10-15 11:40:40 UTC
 # Count: 3
 
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?path=%2Fvless&security=none&encryption=none&host=45.144.234.157&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTWVzcyBcdTAwYjcgSGV0em5lciBPbmxpbmUgR21iSCIsImFkZCI6ImZpbi0xLnBvdnJhay5pciIsInBvcnQiOiI1MDQwNyIsImlkIjoiMjkzMDFiMzAtM2UwYi00MTllLTkxNTMtMjczNzE5NWQ4ODI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
-vless://fbaa413d-2ffb-4e36-8444-e1b1ab829fe1@188.241.54.208:443?security=reality&encryption=none&pbk=qlVZ2ehdXHCxIADkf5swgXT2ZHrpSP7HM6SKTBMQXRU&host=%2F%3FTELEGRAM---V2ray_confiig&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=456bf62e2b728b97#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20FlokiNET%20ehf
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@177.1.188.96:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fl1.balancer.vbuste-bot.com&sid=4be4110078ebed4a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fl1.balancer.vbuste-bot.com&sid=4be4110078ebed4a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
+vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.108.3.59:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=90ec9bba2019#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
