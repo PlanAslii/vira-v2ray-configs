@@ -1,5 +1,5 @@
 # Country HU
-# Updated: 2026-10-06 13:52:00 UTC
+# Updated: 2026-10-15 12:40:40 UTC
 # Count: 1
 
-vless://50414e45-4c5f-5a45-5553-9796dca828bf@141.11.203.210:443?path=%2Fstream%2FPANEL_ZEUS%2F9796dca828bf&security=tls&encryption=none&host=n5zed1eouhds.rjwn948.workers.dev&type=ws&insecure=0&fp=unsafe&allowInsecure=0&sni=n5zed1eouhds.rjwn948.workers.dev#DailyCfg%20%F0%9F%87%AD%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@hu1.aiage.work:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#DailyCfg%20%F0%9F%87%AD%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Rackforest%20Zrt.
