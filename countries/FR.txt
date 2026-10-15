@@ -1,7 +1,6 @@
 # Country FR
-# Updated: 2026-10-15 14:40:40 UTC
-# Count: 3
+# Updated: 2026-10-15 15:10:40 UTC
+# Count: 2
 
 vless://e51caaab-1f74-46c5-a31a-aecda0f4026f@cdn.topingr.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.topingr.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.topingr.ir#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vless://rgiw5k0gg5@149.202.57.89:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
