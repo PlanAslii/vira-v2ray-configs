@@ -1,6 +1,5 @@
 # Country LV
-# Updated: 2026-10-16 12:10:40 UTC
-# Count: 2
+# Updated: 2026-10-16 12:40:40 UTC
+# Count: 1
 
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@help855.mrgeost.ir:443?encryption=none&type=ws&security=tls&sni=help855.mrgeost.ir&fp=chrome&alpn=http%2F1.1&path=%2Fgropcdn&host=help855.mrgeost.ir#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
-vless://7e235ff0-3473-4d9b-b767-509a9b465852@irancore.therealcs.shop:38206?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=irancore.therealcs.shop#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://497f5381-3533-4c6a-939c-66eb3a7de108@cdn.topingr.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.topingr.ir&fp=ios&type=ws&allowInsecure=0&sni=cdn.topingr.ir#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
