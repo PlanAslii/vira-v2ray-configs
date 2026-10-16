@@ -1,5 +1,5 @@
 # Country FI
-# Updated: 2026-10-16 09:40:40 UTC
+# Updated: 2026-10-16 10:10:40 UTC
 # Count: 1
 
-vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi5.silalink.sbs&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&sid=03&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20OC%20NETWORKS%20LIMITED
+vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=fi.quic.best&fp=chrome#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
