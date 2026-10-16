@@ -1,6 +1,7 @@
 # Country LV
-# Updated: 2026-10-16 11:10:40 UTC
-# Count: 2
+# Updated: 2026-10-16 11:40:40 UTC
+# Count: 3
 
-vless://9184ff2f-97b7-4f63-8291-9fe0c36874a6@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://497f5381-3533-4c6a-939c-66eb3a7de108@help855.mrgeost.ir:443?encryption=none&type=ws&security=tls&sni=help855.mrgeost.ir&fp=chrome&alpn=http%2F1.1&path=%2Fgropcdn&host=help855.mrgeost.ir#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://7e235ff0-3473-4d9b-b767-509a9b465852@irancore.therealcs.shop:38206?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=irancore.therealcs.shop#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://9184ff2f-97b7-4f63-8291-9fe0c36874a6@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
