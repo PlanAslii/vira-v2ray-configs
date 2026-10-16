@@ -1,7 +1,6 @@
 # Country FI
-# Updated: 2026-10-16 11:10:40 UTC
-# Count: 3
+# Updated: 2026-10-16 11:40:40 UTC
+# Count: 2
 
-vless://a94b1bc7-24c3-4491-bbdc-4f1a1c2e9f92@fer-3.povrak.ir:47014?security=none&encryption=mlkem768x25519plus.native.0rtt.B75bzTX56-NF1rezj896CdCUvLQIzHbOHnikVSdw5Rk&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vmess://eyJhZGQiOiJmaW4tMy5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiaWQiOiJkNWQ1Yzg0NC1kOTllLTQxZDItYTViOS03MDFhZGY1OTc0OTgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiNTYyNjgiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBcdTI1MDcgVk1lc3MgXHUwMGI3IEhldHpuZXIgT25saW5lIEdtYkgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiJmaW4tMy5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiaWQiOiIyZjIwM2MwZS00NTMzLTRiYWItYTA5My1kMzBkOTdhOTU2MzQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiNTYyNjgiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBcdTI1MDcgVk1lc3MgXHUwMGI3IEhldHpuZXIgT25saW5lIEdtYkgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
