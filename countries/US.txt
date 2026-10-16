@@ -1,8 +1,9 @@
 # Country US
-# Updated: 2026-10-16 18:40:40 UTC
-# Count: 4
+# Updated: 2026-10-16 19:10:40 UTC
+# Count: 5
 
+vless://1a11d3a8-f327-4f97-81b2-f776c138dec7@45.128.60.127:443?security=reality&encryption=none&pbk=kb93iSFmgqH_hIEAL15LZdrB9E-QfGFYG1mspAYJUzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=557d83da1a36996f#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Oy%20Crea%20Nova%20Hosting%20Solution%20Ltd
+vless://64c05afc-ce81-4ba0-b697-afa04da1427e@198.23.169.170:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=firefox&pbk=FOl1qibUWpTggolWp30DD7VQ9_xKHZPEPVQs0sQs3gI&sid=2128e27b&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20HostPapa
 vless://b94c7786-808e-46e0-a093-f9a20069a38a@216.9.225.189:2083?encryption=none&fp=chrome&headerType=http&host=www.python.org&path=%2F&pbk=ULXyDfv768NWEY4nLTrsQQaCujYhV1GvN1Kc6OO6mUo&security=reality&sid=4b&sni=www.pgicompilers.com&spx=%2F4764dcf43fc7d23&support-x25519mlkem768=true&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20DC%20HOST%20Inc
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0IiwiYWRkIjoiNjcuMjIwLjk1LjMiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIifQ
 vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Route%2095%20LLC
-vless://54e43e4c-f01f-42b2-bec8-3acfdd54ae61@us.sanzivo.ir:6300?encryption=none&type=tcp&security=reality&sni=green.ai&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
