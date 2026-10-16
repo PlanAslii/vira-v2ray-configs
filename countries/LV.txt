@@ -1,7 +1,6 @@
 # Country LV
-# Updated: 2026-10-16 10:40:40 UTC
-# Count: 3
+# Updated: 2026-10-16 11:10:40 UTC
+# Count: 2
 
+vless://9184ff2f-97b7-4f63-8291-9fe0c36874a6@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://497f5381-3533-4c6a-939c-66eb3a7de108@help855.mrgeost.ir:443?encryption=none&type=ws&security=tls&sni=help855.mrgeost.ir&fp=chrome&alpn=http%2F1.1&path=%2Fgropcdn&host=help855.mrgeost.ir#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
-vless://3c4c6f3c-55b8-45d1-bbbb-c46cbcd5269f@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
-vless://bbe6caf6-c557-4276-b1b9-abd9a83eee0a@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
