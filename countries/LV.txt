@@ -1,5 +1,6 @@
 # Country LV
-# Updated: 2026-10-16 12:40:40 UTC
-# Count: 1
+# Updated: 2026-10-16 13:10:40 UTC
+# Count: 2
 
+vless://5fee3b72-270a-4fc8-8dc7-6c05936a3e02@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
 vless://497f5381-3533-4c6a-939c-66eb3a7de108@cdn.topingr.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.topingr.ir&fp=ios&type=ws&allowInsecure=0&sni=cdn.topingr.ir#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
