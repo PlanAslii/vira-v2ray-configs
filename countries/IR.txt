@@ -1,9 +1,7 @@
 # Country IR
-# Updated: 2026-10-16 22:10:40 UTC
-# Count: 5
+# Updated: 2026-10-16 22:40:40 UTC
+# Count: 3
 
+vless://c0c5d026-9f17-4b35-b180-2b96956c6ba2@89.144.145.233:45870?encryption=mlkem768x25519plus.native.0rtt.mMMTHGsK5LX841HQk_8tWD7BhoBboZ2-0sa0mE2dfzk&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Andishe%20Sabz%20Khazar%20%E2%94%87%20%F0%9F%94%B4
+vless://69eb904d-dd74-4fcf-a085-88e9ef5dabe4@993ca5e3a9a7f4f2.tunde.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Soroush%20Rasanheh%20Company%20Ltd%20%E2%94%87%20%F0%9F%94%B4
 vless://b5c32203-8554-47f4-90dd-1748b6bb78e7@a4743b8fe92984d5.tunde.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Soroush%20Rasanheh%20Company%20Ltd%20%E2%94%87%20%F0%9F%94%B4
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tejarat%20Electronic%20Nojhan%20Pardazesh%20LLC%20%E2%94%87%20%F0%9F%9F%A2
-vless://69eb904d-dd74-4fcf-a085-88e9ef5dabe4@d9150ad3270b1e28.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vless://cdd3cb26-918c-4170-8998-8ba15f2e29c3@TUN.zyyvora.ir:2015?security=reality&encryption=none&pbk=2ZDcHYGfa4K8_EcUWbAJHAPp7KjMUKjAMkCKSuJaxGE&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=2d530eb0927d527d#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Hosein%20Maaref%20%E2%94%87%20%F0%9F%9F%A2
-vless://cdd3cb26-918c-4170-8998-8ba15f2e29c3@tun1.zyyvora.ir:2015?security=reality&encryption=none&pbk=2ZDcHYGfa4K8_EcUWbAJHAPp7KjMUKjAMkCKSuJaxGE&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=2d530eb0927d527d#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Hosein%20Maaref%20%E2%94%87%20%F0%9F%9F%A2
