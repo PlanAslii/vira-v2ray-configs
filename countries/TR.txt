@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-10-15 21:40:40 UTC
-# Count: 2
+# Updated: 2026-10-16 09:40:40 UTC
+# Count: 1
 
-vless://8fba314e-c821-4c82-bdb4-ad8c2ae9d9e7@93.114.98.13:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.bQazQGogiFXXZI3ZEzND5ZPXJPUv9nAJeaioADreDQw&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
-vless://8fba314e-c821-4c82-bdb4-ad8c2ae9d9e7@gutstspy1f43.dop15.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=gutstspy1f43.dop15.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://56b94f44-0f3c-49bb-55c7-210087590164@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
