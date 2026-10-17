@@ -1,10 +1,8 @@
 # Country IR
-# Updated: 2026-10-17 20:10:40 UTC
-# Count: 6
+# Updated: 2026-10-17 20:40:40 UTC
+# Count: 4
 
+vless://2891ae28-dd18-4b05-a533-674485288e38@tun2.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
 vless://2891ae28-dd18-4b05-a533-674485288e38@f5a4c0b04b736a96.tunde.w-ert.org:501?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Soroush%20Rasanheh%20Company%20Ltd%20%E2%94%87%20%F0%9F%94%B4
 vless://b374647d-7516-4d1e-8c85-544c7d734c1f@p1tun01.greewebservices.ir:38830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4f&spx=/HesarWeb#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%9F%A2
 vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?encryption=none&type=ws&path=%2F#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ettelaat%20Fanavarn-E%20Tookan%20Co%20Ltd%20%E2%94%87%20%F0%9F%94%B4
-vless://58fce630-f90b-42aa-84b4-ba4117864609@07a43ef8ce834d5a.tunvi.w-ert.org:448?encryption=none&type=tcp&security=reality&sni=www.aparat.com&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&sid=ca4134a0ed2592b6&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PISHGAMAN%20%E2%94%87%20%F0%9F%94%B4
-vless://b5bbbeb0-6a34-4653-b669-84c814c8996b@4a14f47a4d56d7d8.tunvi.w-ert.org:444?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PISHGAMAN%20%E2%94%87%20%F0%9F%94%B4
-vless://d8778d3a-defa-4a50-a3e3-bd82fb3aaad8@FI.1.diginoisb.ir:9090?security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.ON5Nzqf4sYMfb8lbFoM3ts2YKoE_SO0a8UMsePwdsks&insecure=0&headerType=none&fp=chrome&ech=AGj%2BDQBkAAAgACANyr1eK9InnDCqCocwxkm8uWgZMv1TJKKxCly3GQfeRwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABVwYW5lbC5JUi53d3cudnB4cHAuaXIAAA%3D%3D&type=tcp&allowInsecure=0&sni=panel.IR.www.vpxpp.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20NOAVARAN%20SHABAKEH%20SABZ%20MEHREGAN%20%28Ltd.%29%20%E2%94%87%20%F0%9F%94%B4
