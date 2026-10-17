@@ -1,5 +1,6 @@
 # Country BG
-# Updated: 2026-10-16 21:40:40 UTC
-# Count: 1
+# Updated: 2026-10-17 16:40:40 UTC
+# Count: 2
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
+vless://b374647d-7516-4d1e-8c85-544c7d734c1f@p11real1.greewebservices.ir:1020?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=GzjL8Jq6iNwatTxuqL9gXElWIUgtOfbbCDaZ_wHG5SY&sid=9b60d3#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
+vless://b374647d-7516-4d1e-8c85-544c7d734c1f@p1real4.greewebservices.ir:1260?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
