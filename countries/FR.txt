@@ -1,5 +1,6 @@
 # Country FR
-# Updated: 2026-10-17 08:40:40 UTC
-# Count: 1
+# Updated: 2026-10-17 09:10:40 UTC
+# Count: 2
 
-vless://811bf705-f5a8-4893-ba8f-ccaf4e65d17a@51.75.118.5:20205?path=%2Fvless-ws&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
