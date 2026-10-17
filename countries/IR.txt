@@ -1,8 +1,6 @@
 # Country IR
-# Updated: 2026-10-17 11:40:40 UTC
-# Count: 4
+# Updated: 2026-10-17 12:10:40 UTC
+# Count: 2
 
 vless://03162983-cdfb-48b9-8367-f4e4d5e5822a@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dade%20Samane%20Fanava%20Company%20%E2%94%87%20%F0%9F%94%B4
 vless://d8236ded-76cc-4998-97d9-ef59956081dc@81.12.92.210:10496?encryption=mlkem768x25519plus.native.0rtt.5lEOExPE1BiltI-cWF-IDXKcdKTx2ubESFt5Pst6gVc&security=reality&sni=stg-am-images.shop.samsung.com&fp=chrome&pbk=trYm-SF9MEgy2sPy-krcZpM2aO_XzZUIt2t3p9DHkWQ&sid=9a0b33&spx=%2F5d0dc619b818e0d&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Arsan%20Technology%20Development%20Co%20Ltd%20%E2%94%87%20%F0%9F%9F%A2
-vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc3RvcmUudG9wIiwiYWlkIjoiMCIsImlkIjoiNjk0MDhjN2EtN2VkNy00OGUxLThmMzQtZDlhOTRmZGFmMmU1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjUzODEiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IER5YXJXZWIgSW5mb3JtYXRpb24gVGVjaG5vbG9neSBMdGQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiaWQiOiI2OTQwOGM3YS03ZWQ3LTQ4ZTEtOGYzNC1kOWE5NGZkYWYyZTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU0hBVEVMIE5ldHdvcmsiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
