@@ -1,5 +1,6 @@
 # Country ES
-# Updated: 2026-10-16 11:10:40 UTC
-# Count: 1
+# Updated: 2026-10-17 13:10:40 UTC
+# Count: 2
 
-vless://8d227481-09ea-4d8f-94f5-b25bf72360c0@213.182.201.133:3090?mode=multi&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Andrey%20Voskresenskiy
+vless://f83ce3c4-07d9-4895-bd14-cb74abbcab37@145.249.109.112:27311?security=reality&encryption=none&pbk=9vHDWMrmerdjndp_XHbCc9jaR-9K95H_mwpLvI2emkY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=56daff9a#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://1dba3505-a42f-4b59-a973-7a19aaf53446@213.182.201.131:3090?mode=multi&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Andrey%20Voskresenskiy
