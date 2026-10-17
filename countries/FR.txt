@@ -1,7 +1,8 @@
 # Country FR
-# Updated: 2026-10-17 16:10:40 UTC
-# Count: 3
+# Updated: 2026-10-17 16:40:40 UTC
+# Count: 4
 
+vless://126fdbae-bb34-5882-a40c-fb60c5ea4afb@149.202.57.89:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:8443?encryption=none&type=tcp&security=reality&sni=npdev.uk&fp=firefox&pbk=7ir7yQsY_ua6Kwita5_03iGZHhi1hWgjhVingIgtSXk&sid=9495c26eb75f2d&spx=%2F0f6ac3bda1db9c4&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Wedeploy%20SAS
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vless://49ebeaaf-f6d1-4a11-b5ba-dc0fca90a9a2@51.75.118.5:20205?path=%2Fvless-ws&security=none&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
