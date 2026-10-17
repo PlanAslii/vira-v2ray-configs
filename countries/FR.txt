@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-10-17 11:10:40 UTC
-# Count: 4
+# Updated: 2026-10-17 11:40:40 UTC
+# Count: 2
 
 vless://rgiw5k0gg5@rgiw5k0gg5-1492025789-direct.kheibarr.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:8443?encryption=none&type=tcp&security=reality&sni=npdev.uk&fp=firefox&pbk=7ir7yQsY_ua6Kwita5_03iGZHhi1hWgjhVingIgtSXk&sid=32ec02e9b7ba&spx=%2F0f6ac3bda1db9c4&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMDY3ZmNkNjMtYjIxNS00YWJkLTg1MjktYWU5MjlhOTk3MWE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
