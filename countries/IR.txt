@@ -1,5 +1,7 @@
 # Country IR
-# Updated: 2026-10-18 17:10:40 UTC
-# Count: 1
+# Updated: 2026-10-18 17:40:40 UTC
+# Count: 3
 
+vless://217b4e01-7d25-4983-88d4-018e3cf0cd5f@79.175.136.205:2096?security=reality&alpn=h2&encryption=none&pbk=hsndXIwexxE5l2h1DUNjc349cgNIL9g9e9jLN5YdAQo&headerType=none&fp=edge&type=tcp&sni=tgju.org&sid=d3669db1187035bc#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Afranet%20%E2%94%87%20%F0%9F%94%B4
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tejarat%20Electronic%20Nojhan%20Pardazesh%20LLC%20%E2%94%87%20%F0%9F%9F%A2
 vless://cc1af2a1-4d1a-42c9-99df-7303b267f967@p2tun01.greewebservices.ir:28830?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
