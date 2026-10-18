@@ -1,6 +1,6 @@
 # Vira — all configs
-# Updated: 2026-10-18 23:10:40 UTC
-# Count: 17
+# Updated: 2026-10-18 23:40:40 UTC
+# Count: 14
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://0dbd877c-0246-4402-850a-140e60875c95@9.247.24.137:443?security=reality&encryption=none&pbk=RsKkbNbhdvmf6VtNZslU_3yNrUcHFBLJSuJZNAZO6VE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.prizradar.by&sid=2d#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20RCS%20Technologies%20FZE%20LLC
@@ -16,6 +16,3 @@ vless://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.24:443?security=reality
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
 vless://38d97d6f-b640-4eb0-9891-bbaf2061d6db@191.44.47.164:25565?security=reality&encryption=none&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kookas.fi&sid=43dcff53849b81e6#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SPRINTHOST.RU%20LLC
 vless://fc925934-fe0f-4d5d-bde4-ad37ae90682d@www.comoiran.ir:443?encryption=none&type=ws&security=tls&sni=www.comoiran.ir&fp=chrome&alpn=http%2F1.1&path=%2Fapi%2Fv1%2Fflights%2Fdest-de%2Fprice-stream&host=www.comoiran.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/cart/docs/www/proxyip=108.160.132.132&security=tls&alpn=http/1.1&encryption=none&host=lucasjow.us.ci&fp=chrome&type=ws&sni=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@fert6.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Kabat%20OU
