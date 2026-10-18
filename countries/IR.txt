@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-10-18 09:10:40 UTC
-# Count: 1
+# Updated: 2026-10-18 09:40:40 UTC
+# Count: 2
 
+vless://b2ac978e-928c-4fd2-a673-521d57202c38@pro.vortexservice.ir:25735?encryption=none&type=tcp&security=reality&sni=divar.ir&pbk=rWWJ9a4ji0WbjtQ-HzMXbONr97nJwY1XLEn_F_R_s3o&sid=1d5ffa40aab4&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Saeid%20Shahrokhi%20%E2%94%87%20%F0%9F%94%B4
 vless://46c84693-c5ee-4b94-92db-97c0f571c9ee@fastus.panelsaaz.ir:2083?path=%2Farv&security=tls&encryption=mlkem768x25519plus.native.0rtt.MFC6Mplb2XwpSnBGdHaNq3EUFm0cPMz-gOF9KYPVvW4&insecure=0&host=fastus.panelsaaz.ir&type=ws&allowInsecure=0&flow=xtls-rprx-vision&sni=fastus.panelsaaz.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asiatech%20Data%20Transmission%20company%20%E2%94%87%20%F0%9F%94%B4
