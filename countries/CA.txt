@@ -1,5 +1,8 @@
 # Country CA
-# Updated: 2026-10-18 00:40:40 UTC
-# Count: 1
+# Updated: 2026-10-18 01:40:40 UTC
+# Count: 4
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?packet-encoding=xudp&type=ws&headerType=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=/fp&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?allowInsecure=0&type=ws&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&encryption=none&insecure=0&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&security=tls&sni=lucasjow.us.ci&host=lucasjow.us.ci&alpn=http%2F1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&allowInsecure=0&encryption=none&sni=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&host=lucasjow.us.ci&insecure=0&security=tls#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
