@@ -1,7 +1,7 @@
 # Country RU
-# Updated: 2026-10-18 07:40:40 UTC
+# Updated: 2026-10-18 08:10:40 UTC
 # Count: 3
 
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.videolaguna.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=api.videolaguna.cc&sid=a8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.91.55.86:443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=northfeed&allowInsecure=0&sni=ru-auto-02.10media.top#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediakaskad.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.mediakaskad.cc&sid=a8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=api.mediapolyana.cc&sid=a8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
