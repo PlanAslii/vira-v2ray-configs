@@ -1,7 +1,5 @@
 # Country DE
-# Updated: 2026-10-17 23:10:40 UTC
-# Count: 3
+# Updated: 2026-10-18 00:10:40 UTC
+# Count: 1
 
-vless://d342d11e-d224-4463-b982-532309285094@157.230.101.36:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20DigitalOcean%2C%20LLC
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@ops4asfseretuiyk.localip.ir:2087?encryption=none&type=ws&security=tls&sni=ops4asfseretuiyk.localip.ir&alpn=http%2F1.1&path=%2Fhokm&host=ops4asfseretuiyk.localip.ir#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Kabat%20OU
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@hoert1rert.localip.ir:2087?encryption=none&type=ws&security=tls&sni=hoert1rert.localip.ir&alpn=http%2F1.1&path=%2Fhokm&host=hoert1rert.localip.ir#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@130.17.25.67:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&security=reality&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Fornex%20Hosting%20S.L.
