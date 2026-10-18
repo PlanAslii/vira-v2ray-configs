@@ -1,6 +1,5 @@
 # Country RU
-# Updated: 2026-10-18 22:40:40 UTC
-# Count: 2
+# Updated: 2026-10-18 23:10:40 UTC
+# Count: 1
 
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@168.113.135.90:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=m-vruvc.mvpstr.com&fp=safari&pbk=ZtAlhN1pU4MTmv4KaX9J_5_8KWnwy9IOnc-BLzIf234&sid=11ac376e18d20343&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Andrei%20Zaitsev
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=144.48.11.97&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
+vless://38d97d6f-b640-4eb0-9891-bbaf2061d6db@191.44.47.164:25565?security=reality&encryption=none&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kookas.fi&sid=43dcff53849b81e6#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SPRINTHOST.RU%20LLC
