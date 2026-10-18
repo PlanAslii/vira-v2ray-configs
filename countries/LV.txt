@@ -1,5 +1,8 @@
 # Country LV
-# Updated: 2026-10-18 16:10:40 UTC
-# Count: 1
+# Updated: 2026-10-18 17:10:40 UTC
+# Count: 4
 
+vless://bd54fe52-a3f5-47d3-9978-cbfd247db84e@185.220.223.106:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.shadowshroom.org&pbk=RdMrEyniUBYe4bPHFYIwdczUWW4vbZe_DboFu8gjN0w&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Versija%20SIA
+vless://bd54fe52-a3f5-47d3-9978-cbfd247db84e@185.220.223.86:7443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.shadowshroom.org&pbk=RdMrEyniUBYe4bPHFYIwdczUWW4vbZe_DboFu8gjN0w&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Versija%20SIA
+vless://bd54fe52-a3f5-47d3-9978-cbfd247db84e@185.220.223.110:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.shadowshroom.org&pbk=RdMrEyniUBYe4bPHFYIwdczUWW4vbZe_DboFu8gjN0w&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Versija%20SIA
 vless://00de64b2-2be7-44c5-8534-66d46b4ba6f1@vip.deventuras.ir:8081?security=reality&encryption=mlkem768x25519plus.native.0rtt.ZtukYQBbotnDqUFMh2mI5ogS1ANzU-LwsB0JMmASrxU&pbk=CwlmT6bf31z63kJdVr3GfL38dTUMI5rogde9UlFXhCg&headerType=none&fp=chrome&spx=%2F9e382100f4e8a43&type=tcp&sni=blog.api.www.cloudflare.com&sid=3a2b09debeb9#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
