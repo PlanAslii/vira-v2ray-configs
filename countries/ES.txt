@@ -1,7 +1,6 @@
 # Country ES
-# Updated: 2026-10-18 06:10:40 UTC
-# Count: 3
+# Updated: 2026-10-18 06:40:40 UTC
+# Count: 2
 
 vless://63ff4bfa-0f1d-48e4-8314-e882b14e602c@217.76.158.214:36326?path=%2Fjdiedjiedjijd&encryption=none&type=ws#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20arsys.es
 vless://dbc8a7a7-4c99-4aff-a50a-9940f992ef88@213.182.201.11:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Andrey%20Voskresenskiy
-vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.149:25535?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&sid=7642ce57308852e7&allowInsecure=1#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Orion%20Network%20Limited
