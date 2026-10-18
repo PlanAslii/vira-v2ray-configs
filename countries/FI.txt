@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-10-18 05:10:40 UTC
-# Count: 1
+# Updated: 2026-10-18 05:40:40 UTC
+# Count: 2
 
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Senko%20Digital%20LLC
+vless://8d70f888-9369-417b-a570-200ee1d313d6@fi01.slovovpn.com:33103?encryption=none&type=tcp&security=reality&sni=name.com&pbk=VGLwNw9C9PN_L-qCK1A1xX0K7QDjfb1sJnDWiq9fjBE&sid=0d&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Andris%20Jakovlevs
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&security=none&sni=213.176.92.168&fp=firefox&type=ws&host=213.176.92.168&path=%2Fvless#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
