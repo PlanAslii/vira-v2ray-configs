@@ -1,7 +1,6 @@
 # Country RU
-# Updated: 2026-10-18 21:10:40 UTC
-# Count: 3
+# Updated: 2026-10-18 21:40:40 UTC
+# Count: 2
 
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=co-de.speedtec.ru&fp=chrome&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
 vless://4c346148-ece9-487a-bffb-ba5a399b2d71@188.225.83.133:443?mode=gun&security=reality&encryption=none&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&fp=chrome&type=grpc&sni=xnodtwx.artemida.live&sid=a1b2c3d4e5f6a7b8#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@5.188.117.45:443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
-vless://58b364b9-e67f-44a6-b12c-48cdd7b3df33@194.55.239.164:8443?security=reality&encryption=none&pbk=1psC2mENtLYukWhrdLs3n1aKRXyG7S0ZNINeZWxWDQs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.vk.ru&sid=0803c427#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20New%20Hosting%20Technologies%20LLC
