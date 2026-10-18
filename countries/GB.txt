@@ -1,7 +1,6 @@
 # Country GB
-# Updated: 2026-10-18 15:40:40 UTC
-# Count: 3
+# Updated: 2026-10-18 16:10:40 UTC
+# Count: 2
 
+vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&sid=d051f678212f9d54#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://29f76a74-8a15-4a88-bc86-c1a18c3ae9c6@webgermany.webviewtub.ir:443?path=%2Fstream-media&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.gUUAPaMiGrfhvPpvZjtNVr_oY2XsVH4xVPkx_SvbASM&insecure=0&host=webgermany.webviewtub.ir&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=webgermany.webviewtub.ir#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&sid=d051f678212f9d54&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
