@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-10-18 11:40:40 UTC
-# Count: 1
+# Updated: 2026-10-18 13:10:40 UTC
+# Count: 2
 
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&security=none&sni=213.176.92.168&fp=firefox&type=ws&host=213.176.92.168&path=%2Fvless#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vmess://eyJhZGQiOiI5NS4yMTcuMjcuMTYxIiwiYWlkIjoiMCIsImhvc3QiOiJkeW51LmNvbSIsImlkIjoidGVsZWdyYW0taWQtLS0tLU1pTWlUREwtLS0tLSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleC5waHAiLCJwY3MiOiIiLCJwb3J0IjoiMjkxNjMiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBcdTI1MDcgVk1lc3MgXHUwMGI3IEhldHpuZXIgT25saW5lIEdtYkgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0
