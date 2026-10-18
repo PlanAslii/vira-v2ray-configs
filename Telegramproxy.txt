@@ -1,14 +1,27 @@
 # Vira — Telegram proxies
-# Updated: 2026-10-18 21:40:40 UTC
-# Count: 32
+# Updated: 2026-10-18 22:10:40 UTC
+# Count: 34
 
-https://t.me/proxy?server=89.163.155.42&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=89.163.155.43&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=46.225.137.35&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
+https://t.me/proxy?server=66.33.22.220&port=15333&secret=b8e4a1f7c92d6035e8a2f4b1d7c9603a
+https://t.me/proxy?server=65.109.248.35&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=65.109.249.126&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=89.167.25.132&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=87.248.144.50&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=87.248.144.252&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=89.163.155.42&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=87.248.144.40&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=89.163.155.43&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=194.60.228.189&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=87.248.144.49&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=194.60.228.235&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=87.248.144.92&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=87.248.144.249&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=194.60.228.240&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=87.248.144.253&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=87.248.144.191&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.18&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.80&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=65.109.249.126&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=65.109.248.35&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=87.248.144.98&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.254&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.81&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -18,19 +31,8 @@ https://t.me/proxy?server=77.238.241.225&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=178.104.115.71&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=167.233.34.182&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=62.60.255.99&port=2443&secret=1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d
-https://t.me/proxy?server=46.225.137.35&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
 https://t.me/proxy?server=178.105.8.97&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=194.60.228.95&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=66.33.22.239&port=20633&secret=6d9a2f4c8b1e7035a4c7d2f9e6b81043
 https://t.me/proxy?server=77.90.43.161&port=49458&secret=eec3d3995da1e1bb26505b7c730fb7386e7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=37.27.148.173&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=37.27.152.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=66.33.22.227&port=34312&secret=8b2e5f1a9c4d7036e1a8b5c2f9d64073
-https://t.me/proxy?server=65.109.252.75&port=8443&secret=dd104462821249bd7ac519130220c25d09
-/t.me/proxy?server=65.109.250.133&port=8443&secret=dd104462821249bd7ac519130220c25d09%E2%9E%96%E2%9E%96%E2%9E%96%E2%9E%96
-https://t.me/proxy?server=66.33.22.225&port=20567&secret=c4e8a21f7b9d3065a2f6c1e8d4b70359
-https://t.me/proxy?server=94.184.39.113&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=94.184.39.111&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=94.184.39.111&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=194.60.228.92&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=212.108.98.27&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA
