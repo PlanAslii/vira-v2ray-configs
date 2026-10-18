@@ -1,11 +1,10 @@
 # Country RU
-# Updated: 2026-10-18 20:10:40 UTC
-# Count: 7
+# Updated: 2026-10-18 20:40:40 UTC
+# Count: 6
 
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@5.188.117.45:443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://58b364b9-e67f-44a6-b12c-48cdd7b3df33@194.55.239.164:8443?security=reality&encryption=none&pbk=1psC2mENtLYukWhrdLs3n1aKRXyG7S0ZNINeZWxWDQs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.vk.ru&sid=0803c427#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20New%20Hosting%20Technologies%20LLC
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@186.246.29.249:27443?mode=gun&security=reality&encryption=none&pbk=zIF5SLjmd3gzvGPhEBKjqLv8_-7MOHMpJciVEehL0C8&fp=firefox&type=grpc&serviceName=grpc&sni=static.polina.mom#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Adman%20LLC
 vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=du-rov.secureservice.top&sid=3cbc3d737fb9c4af#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@94.228.112.60:8443?mode=gun&security=reality&encryption=none&pbk=TLxUogtDgnVgAZaPtiSmsKWeJvLqhSKSmKdGTTxKZSE&fp=firefox&type=grpc&serviceName=grpc&sni=assets.uzumaki.lol#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@72.56.241.75:24443?mode=gun&security=reality&encryption=none&pbk=UMibHia_DnLd07hISnmp-_LZgY6ltCsgc3rXJ6xK8zA&fp=chrome&type=grpc&serviceName=grpc&sni=img.suzuki.lol#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.32:443?encryption=none&fp=firefox&pbk=qvVoQPNyuM86jBvBqOL-Z9VO_C9jMi_ZH8bb4fotNWA&security=reality&serviceName=astracat&sid=7ec4374ffc6308fd&sni=www.yandex.ru&type=grpc#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Vladislav%20Doniy
-vless://58b364b9-e67f-44a6-b12c-48cdd7b3df33@194.55.239.164:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ads.vk.ru&pbk=1psC2mENtLYukWhrdLs3n1aKRXyG7S0ZNINeZWxWDQs&sid=0803c427&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20New%20Hosting%20Technologies%20LLC
