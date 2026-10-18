@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-10-18 17:10:40 UTC
-# Count: 1
+# Updated: 2026-10-18 17:40:40 UTC
+# Count: 2
 
+vless://b5cbeffe-d7d0-49dd-a279-6b5a6a1aad0d@72.56.241.75:18443?mode=gun&security=reality&encryption=none&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&fp=firefox&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://02d271c4-de21-4077-a048-55457295ed48@193.233.216.125:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fitauto.ru&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
