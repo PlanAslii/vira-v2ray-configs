@@ -1,5 +1,6 @@
 # Country EE
-# Updated: 2026-10-18 03:40:40 UTC
-# Count: 1
+# Updated: 2026-10-18 05:40:40 UTC
+# Count: 2
 
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20SG%20TECH%20SOLUTIONS%20SRL
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@13.143.239.198:25895?encryption=none&type=tcp&security=reality&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&allowInsecure=1#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&headerType=none&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
