@@ -1,7 +1,8 @@
 # Country RU
-# Updated: 2026-10-18 05:40:40 UTC
+# Updated: 2026-10-18 06:10:40 UTC
 # Count: 8
 
+vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ms-33.ecom-ai-search.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ms-33.ecom-ai-search.com&pbk=NHvzfpD0Jhc8h1TtYmdTRdd-zoMt6TwOfC5kgORzRFQ&sid=2f67100d7034a510&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Serverio%20technologijos%20MB
 vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@broadcast.shardshop.cc:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=broadcast.shardshop.cc&pbk=VMCXzW6i3_kG-1gpuM0eELJbyMDP9pEZEVjlaYvG_FY&sid=bcf0df5faa47a020&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20TimeWeb%20Co.%20LTD
 vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@188.225.45.52:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=broadcast.shardshop.cc&pbk=VMCXzW6i3_kG-1gpuM0eELJbyMDP9pEZEVjlaYvG_FY&sid=bcf0df5faa47a020&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20TimeWeb%20Co.%20LTD
 vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@46.253.132.237:23688?encryption=none&type=grpc&security=reality&sni=apple.com&pbk=kbITklNKTdfvB6e3xy97pTV7gjl3Z3irv246oRZ5Gnk&sid=f679b4f2&serviceName=awarecricketer&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
@@ -9,4 +10,3 @@ vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@ru6.my-cdn.org:23688?encryption=non
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@94.228.112.36:56443?encryption=none&type=grpc&security=reality&sni=img.polina.lol&pbk=isBwoZfXUb5uzfQcxWZ32x6X-y4RpsvkMhXKsGgnMWQ&serviceName=grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
 vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=144.48.11.97&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@87.242.117.59:443?sni=se1.my-cdn.org&alpn=h2&type=grpc&serviceName=hls-vod.iJxGWWENB3HP4nTjN8IcrA.1790085537.2512.0x5000039ce83a2b8d.2ac8ad72028049619c2fb844a825a.ca.mp4.segment-20-v1-a1.ts&fp=chrome&security=tls#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20.masterhost
