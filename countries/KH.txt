@@ -1,5 +1,5 @@
 # Country KH
-# Updated: 2026-10-18 16:40:40 UTC
+# Updated: 2026-10-18 17:10:40 UTC
 # Count: 1
 
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?encryption=none&type=ws&security=tls&sni=nl5.hap-plus.ru&fp=chrome&path=%2Fapi%2Fv1%2Fevents&host=nl5.hap-plus.ru#DailyCfg%20%F0%9F%87%B0%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20TODAY%20Communication%20Co.
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@93.152.215.176:8443?encryption=none&security=tls&sni=nl5.hap-plus.ru&fp=chrome&type=ws&host=nl5.hap-plus.ru&path=%2Fapi%2Fv1%2Fevents&headers=%7B%0A%20%20%22Host%22%3A%20%22nl5.hap-plus.ru%22%0A%7D#DailyCfg%20%F0%9F%87%B0%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20TODAY%20Communication%20Co.
