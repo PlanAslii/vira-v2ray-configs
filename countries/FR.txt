@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-10-18 07:10:40 UTC
-# Count: 4
+# Updated: 2026-10-18 07:40:40 UTC
+# Count: 2
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22222?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:8443?security=reality&encryption=none&pbk=7ir7yQsY_ua6Kwita5_03iGZHhi1hWgjhVingIgtSXk&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=38d9eba16a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
