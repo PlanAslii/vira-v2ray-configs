@@ -1,6 +1,5 @@
 # Country CH
-# Updated: 2026-10-18 21:10:40 UTC
-# Count: 2
+# Updated: 2026-10-19 06:10:40 UTC
+# Count: 1
 
-vless://cc1af2a1-4d1a-42c9-99df-7303b267f967@areal5.greewebservices.ir:5455?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
-vless://cc1af2a1-4d1a-42c9-99df-7303b267f967@p2real5.greewebservices.ir:1350?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
+vmess://eyJhZGQiOiIxODUuMTg2Ljc2LjI0IiwiYWlkIjoiMCIsImhvc3QiOiIyMDYuMS4xMDIuNjQiLCJpZCI6IjczOTg0ZjMxLTc4ZjUtNDk3MS04ZWE1LWU5MjkxMTdiNWI5YSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9sIiwicGNzIjoiIiwicG9ydCI6IjE3NzciLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZCBcdTI1MDcgVk1lc3MgXHUwMGI3IE9ORVBST1ZJREVSIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
