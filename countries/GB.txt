@@ -1,5 +1,7 @@
 # Country GB
-# Updated: 2026-10-19 09:40:40 UTC
-# Count: 1
+# Updated: 2026-10-19 10:10:40 UTC
+# Count: 3
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.18.254:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.113.212:22223?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20UK%20Limited
+vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&sid=d051f678212f9d54#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
