@@ -1,5 +1,6 @@
 # Country TR
-# Updated: 2026-10-19 12:40:40 UTC
-# Count: 1
+# Updated: 2026-10-19 13:10:40 UTC
+# Count: 2
 
-vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&security=reality&sid=cc80ef&sni=www.apple.com&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
