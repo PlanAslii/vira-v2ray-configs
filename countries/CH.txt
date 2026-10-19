@@ -1,6 +1,6 @@
 # Country CH
-# Updated: 2026-10-19 19:40:40 UTC
+# Updated: 2026-10-19 21:10:40 UTC
 # Count: 2
 
-vless://d4331e8b-2954-4c03-8df3-73ff7a2d73d5@finla.net-flowa.org:10001?security=none&type=tcp&headerType=http&path=%2F&host=divarcdn.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
-vless://d4331e8b-2954-4c03-8df3-73ff7a2d73d5@swiss3.net-flowa.org:31443?security=reality&type=tcp&host=gtv1.com&sni=gtv1.com&fp=ios&pbk=XIA1VUWGFvaXW6V7i3Va9WzEuqnfCkbGTF2GEvWDFDE&sid=25897668e9b96209#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Infomaniak%20Network%20SA
+vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@areal5.greewebservices.ir:5455?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
+vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@p2real5.greewebservices.ir:1350?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20AlexHost-CH
