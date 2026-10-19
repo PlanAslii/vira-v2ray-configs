@@ -1,7 +1,5 @@
 # Country DE
-# Updated: 2026-10-18 23:40:40 UTC
-# Count: 3
+# Updated: 2026-10-19 01:40:40 UTC
+# Count: 1
 
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@84.32.100.149:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM-TOOTFFARANGI&headerType=none&type=tcp&sni=tcpde7.figurapn.ru&sid=868419504747f6de#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@ops5788tugfuy.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ops5788tugfuy.localip.ir&type=ws&allowInsecure=0&sni=ops5788tugfuy.localip.ir#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Kabat%20OU
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@hoert1rert.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hoert1rert.localip.ir&type=ws&allowInsecure=0&sni=hoert1rert.localip.ir#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
