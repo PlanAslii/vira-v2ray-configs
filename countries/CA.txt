@@ -1,7 +1,8 @@
 # Country CA
-# Updated: 2026-10-19 10:40:40 UTC
-# Count: 7
+# Updated: 2026-10-19 11:10:40 UTC
+# Count: 8
 
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://75df10cc-f745-4aae-aa74-400082f02682@andikurdi07.global.ssl.fastly.net:443?security=tls&encryption=none&insecure=0&host=wtqrycyqafndeba.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=wtqrycyqafndeba.global.ssl.fastly.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
