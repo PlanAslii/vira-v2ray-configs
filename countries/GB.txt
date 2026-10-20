@@ -1,8 +1,7 @@
 # Country GB
-# Updated: 2026-10-20 20:10:40 UTC
-# Count: 4
+# Updated: 2026-10-20 20:40:40 UTC
+# Count: 3
 
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@35.176.16.196:443?security=none&encryption=none&host=play.googleapis.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&sid=d051f678212f9d54&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
