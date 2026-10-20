@@ -1,6 +1,6 @@
 # Vira — all configs
-# Updated: 2026-10-20 01:10:40 UTC
+# Updated: 2026-10-20 01:40:40 UTC
 # Count: 2
 
-vless://8ab2a6c8-d1b8-435c-b4ad-4d9bc18abcd6@185.202.113.108:443?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=SfZ0hMKMM1KUDFQnnrDLRGru6d4tlWdOBjCtC9R9V3s&sid=b1b6aa6a34e3&spx=%2Ff1fb93f5003882b#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?path=%2F%3FTelegram---TEHRANARGO&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?security=reality&encryption=none&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-ss-64.ecom-ai-search.com&sid=294cd0660fde9027#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Serverio%20technologijos%20MB
+vless://c7a38247-b801-453d-a483-e3a8a4250937@86.54.42.61:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.TBGJUK0zbDaRN5kG9DKcE5raAONeB4wnEsGeMO9VHjM&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20MISTRAL
