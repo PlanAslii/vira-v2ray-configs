@@ -1,8 +1,7 @@
 # Country GB
-# Updated: 2026-10-20 11:10:40 UTC
-# Count: 4
+# Updated: 2026-10-20 11:40:40 UTC
+# Count: 3
 
-vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@p2real4.greewebservices.ir:1340?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
 vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.146.8:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.146.8:22222?security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@p2real4.greewebservices.ir:1340?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
