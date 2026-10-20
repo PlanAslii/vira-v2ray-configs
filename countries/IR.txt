@@ -1,8 +1,7 @@
 # Country IR
-# Updated: 2026-10-20 10:10:40 UTC
-# Count: 4
+# Updated: 2026-10-20 10:40:40 UTC
+# Count: 3
 
+vless://524b6fd3-2aef-4e11-995f-4d6243a5ae9a@tun2.w-ert.org:42924?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
 vless://65c91ab7-a503-4b73-9f8e-e1c0b6377dc2@irnamh.g44mozgh.ir:2035?encryption=none&security=reality&sni=play.google.com&pbk=tjlpmcWwDiXnVu2Wc8v8wxwmiYWtnoUNeHmXPtL5vyk&sid=75faac3a588f5160&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Afranet%20Co%20%E2%94%87%20%F0%9F%94%B4
 vless://524b6fd3-2aef-4e11-995f-4d6243a5ae9a@32831f83b52565c1.tunvi.w-ert.org:448?encryption=none&type=tcp&security=reality&sni=www.aparat.com&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&sid=ca4134a0ed2592b6&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PISHGAMAN%20%E2%94%87%20%F0%9F%94%B4
-vless://572a6cb5-4bb4-47a6-b6fc-658b2517cb21@tun2.w-ert.org:42924?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vless://442bb1ed-23a9-4024-9009-cc02d1e1778e@NL.2.A.vpxpp.ir:2053?path=%2Fskspskakw&security=tls&alpn=http%2F1.1&encryption=mlkem768x25519plus.native.0rtt.vq6brO_POzyUGwsAFbBke4Ae_YUDQmjl00_bRW5T5SQ&insecure=0&host=panel.ir.www.vpxpp.ir&fp=chrome&ech=AGj%2BDQBkAAAgACDYT4QQckH1VBLGjsudzWe%2Fx2AQ3ym%2BKR4RewJa5WCVdgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABVwYW5lbC5pci53d3cudnB4cHAuaXIAAA%3D%3D&type=ws&allowInsecure=0&sni=panel.ir.www.vpxpp.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20HOSTIRAN%20%E2%94%87%20%F0%9F%94%B4
