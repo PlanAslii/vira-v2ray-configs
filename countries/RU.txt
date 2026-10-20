@@ -1,11 +1,5 @@
 # Country RU
-# Updated: 2026-10-20 00:40:40 UTC
-# Count: 7
+# Updated: 2026-10-20 01:40:40 UTC
+# Count: 1
 
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@186.246.29.249:3443?mode=gun&security=reality&encryption=none&pbk=B2hPRdH13moEXzVXSINTdTHCYkgaNO53lgCIhDx7cmg&fp=chrome&type=grpc&serviceName=grpc&sni=cdn.polina.lol#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Adman%20LLC
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=du-rov.secureservice.top&sid=3cbc3d737fb9c4af#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@94.228.112.60:39443?mode=gun&security=reality&encryption=none&pbk=YPsphGkQvosdhqZwi_RJDzFIwjZnt9duNWAOAcqKoUc&fp=chrome&type=grpc&serviceName=grpc&sni=static.polina.mom#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@94.228.112.36:25443?mode=gun&security=reality&encryption=none&pbk=3RAtCvqClGsqdQO2RXS91mG_FfEaHEF5RJ9bU1QtqWk&fp=random&type=grpc&serviceName=grpc&sni=media.uzumaki.lol#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-es.speedtec.ru&sid=226509f017e4c36d#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?security=reality&encryption=none&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-ss-64.ecom-ai-search.com&sid=294cd0660fde9027#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Serverio%20technologijos%20MB
