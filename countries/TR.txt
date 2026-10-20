@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-10-19 20:40:40 UTC
-# Count: 2
+# Updated: 2026-10-20 08:40:40 UTC
+# Count: 1
 
-vless://002315a4-3096-4e30-a4d0-e5ed09a16895@trn21.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
-vless://002315a4-3096-4e30-a4d0-e5ed09a16895@trn37.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
+vless://834d9658-4dc4-4325-be96-f2306184bd27@ape.confpooti.space:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ape.confpooti.space#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20HizliNet%20Teknoloji%20A.S.
