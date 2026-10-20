@@ -1,6 +1,12 @@
 # Country GB
-# Updated: 2026-10-20 13:40:40 UTC
-# Count: 2
+# Updated: 2026-10-20 14:10:40 UTC
+# Count: 8
 
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@130.78.216.238:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=en1.magazinnarubeva.ru&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
+vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@178.107.60.96:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=en3.wolffast.net&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20EE%20Limited
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@45.139.197.245:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=en2.spidermanshopping.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@178.107.58.46:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=en2.spidermanshopping.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20EE%20Limited
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.200.48.17:22222?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.146.8:22222?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@p2real4.greewebservices.ir:1340?encryption=none&type=tcp&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
