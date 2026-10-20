@@ -1,5 +1,5 @@
 # Country CZ
-# Updated: 2026-10-20 07:10:40 UTC
+# Updated: 2026-10-20 12:40:40 UTC
 # Count: 1
 
-vless://7f01e44f-3f8a-4351-a5de-2114ab1c6831@cz2.srv.safes-infrastructure.com:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cz2.srv.safes-infrastructure.com&fp=firefox&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&sid=e7d8f0aa&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Mastersoft%20S.R.L.
+vless://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:2083?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=speedtestmark.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Reliable%20Communications%20s.r.o
