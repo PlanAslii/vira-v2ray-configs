@@ -1,5 +1,5 @@
 # Country CH
-# Updated: 2026-10-20 15:40:40 UTC
+# Updated: 2026-10-20 16:10:40 UTC
 # Count: 1
 
-vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&type=tcp&flow=xtls-rprx-vision&sni=si2.greenzone12.com&sid=8718c58d3d51db59#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=si2.greenzone12.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
