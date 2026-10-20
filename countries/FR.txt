@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-10-20 05:40:40 UTC
-# Count: 4
+# Updated: 2026-10-20 06:10:40 UTC
+# Count: 2
 
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime08.workers.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fyoutube%2540ZYFXS%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22223?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://8571cb82-5941-4841-9613-63beffa96480@vpnfastsoper.co99.win:8443?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
+vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMDY3ZmNkNjMtYjIxNS00YWJkLTg1MjktYWU5MjlhOTk3MWE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
