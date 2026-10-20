@@ -1,7 +1,6 @@
 # Country US
-# Updated: 2026-10-20 16:10:40 UTC
-# Count: 3
+# Updated: 2026-10-20 16:40:40 UTC
+# Count: 2
 
-vless://f9685828-a1fd-3775-1aa5-70d76315d0d4@uiuxtestwqas-production.up.railway.app:443?encryption=none&type=ws&security=tls&sni=uiuxtestwqas-production.up.railway.app&fp=android&alpn=http%2F1.1&path=%2Fws%2Ff9685828-a1fd-3775-1aa5-70d76315d0d4&host=uiuxtestwqas-production.up.railway.app#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Railway
-vless://b4ce2452-5f71-4137-8cf9-0467ca5b07b0@dns3.m3hrzd.ir:8010?encryption=none&type=tcp&security=reality&sni=activision.com&fp=edge&pbk=Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ&sid=5ed0c99dd6c79bb5#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Zappie%20Host%20LLC
 vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?encryption=none&type=grpc&security=reality&sni=node.nodebrcsp.ru&fp=random&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&sid=8c609726e0233f08&serviceName=grpc-api-v2&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://f9685828-a1fd-3775-1aa5-70d76315d0d4@uiuxtestwqas-production.up.railway.app:443?encryption=none&type=ws&security=tls&sni=uiuxtestwqas-production.up.railway.app&fp=android&alpn=http%2F1.1&path=%2Fws%2Ff9685828-a1fd-3775-1aa5-70d76315d0d4&host=uiuxtestwqas-production.up.railway.app#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Railway
