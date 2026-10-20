@@ -1,6 +1,12 @@
 # Country DE
-# Updated: 2026-10-20 07:40:40 UTC
-# Count: 2
+# Updated: 2026-10-20 08:10:40 UTC
+# Count: 8
 
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@Little.zqpm.ir:20727?encryption=mlkem768x25519plus.native.0rtt.W-TCcFapoIJHekOhsNWkHR0JwuX5ZqXELfq0Dh7zekA&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@REQAX.zqpm.ir:20727?encryption=mlkem768x25519plus.native.0rtt.W-TCcFapoIJHekOhsNWkHR0JwuX5ZqXELfq0Dh7zekA&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@FOP.zqpm.ir:20727?encryption=mlkem768x25519plus.native.0rtt.W-TCcFapoIJHekOhsNWkHR0JwuX5ZqXELfq0Dh7zekA&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@Pass.zqpm.ir:20727?encryption=mlkem768x25519plus.native.0rtt.W-TCcFapoIJHekOhsNWkHR0JwuX5ZqXELfq0Dh7zekA&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci.amir12.ir:2112?encryption=none&type=tcp&security=reality&sni=play.google.com&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://92295a0d-b610-4075-85e9-bfab09ec6f3a@blog.salphetka.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.uni-bonn.de&pbk=ahmKn2YPXJJ0gGtSKyEVCavB2YHyGQSbHCq40tgfHkA&sid=e96c3d6878c984bf&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Intezio%20Worldwide%20Limited
 vmess://eyJhZGQiOiI1Ny4xMzEuMTY4LjIwMiIsImFpZCI6IjAiLCJpZCI6IjViMTZiNzA4LTMwNDctNDBkNC05YjEzLTdlN2U2MmE1YjQxNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIyODU5NCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci1.amir12.ir:1222?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
