@@ -1,5 +1,5 @@
 # Country DE
-# Updated: 2026-10-20 04:10:40 UTC
+# Updated: 2026-10-20 04:40:40 UTC
 # Count: 1
 
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@46.225.46.136:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hoert1rert.localip.ir&fp=chrome&type=ws&allowInsecure=0&sni=hoert1rert.localip.ir#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@hoert1rert.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hoert1rert.localip.ir&type=ws&allowInsecure=0&sni=hoert1rert.localip.ir#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
