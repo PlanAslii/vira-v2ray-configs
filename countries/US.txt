@@ -1,10 +1,8 @@
 # Country US
-# Updated: 2026-10-20 07:10:40 UTC
-# Count: 6
+# Updated: 2026-10-20 07:40:40 UTC
+# Count: 4
 
+vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?path=%2F&encryption=none&type=ws#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Pfcloud%20UG%20%28haftungsbeschrankt%29
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@146.75.56.210:80?encryption=none&type=ws&path=%2Fpath&host=looaamirboijji.global.ssl.fastly.net.&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:2112?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fro%20LLC
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Rices%20Privately%20owned%20enterprise
-vless://07104d25-afc5-4b3b-a871-c729c57de047@86.109.75.132:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=usa.nodelife.ru&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20GorillaServers%2C%20Inc.
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@47.77.196.79:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Alibaba.com%20LLC
-vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?security=none&encryption=none&path=%2F&type=ws#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Pfcloud%20UG%20%28haftungsbeschrankt%29
