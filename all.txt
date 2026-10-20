@@ -1,7 +1,9 @@
 # Vira — all configs
-# Updated: 2026-10-20 00:10:40 UTC
-# Count: 69
+# Updated: 2026-10-20 00:40:40 UTC
+# Count: 70
 
+vless://8ab2a6c8-d1b8-435c-b4ad-4d9bc18abcd6@185.202.113.108:443?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=SfZ0hMKMM1KUDFQnnrDLRGru6d4tlWdOBjCtC9R9V3s&sid=b1b6aa6a34e3&spx=%2Ff1fb93f5003882b#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20BitCommand%20LLC
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?path=%2F%3FTelegram---TEHRANARGO&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@186.246.29.249:3443?mode=gun&security=reality&encryption=none&pbk=B2hPRdH13moEXzVXSINTdTHCYkgaNO53lgCIhDx7cmg&fp=chrome&type=grpc&serviceName=grpc&sni=cdn.polina.lol#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Adman%20LLC
 vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%B2%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Mifinorx%20LTD
@@ -70,4 +72,3 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@104.18.43.174:443?path=%2Fcart%2Fdo
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
 vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?security=none&encryption=none&path=%2F&type=ws#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Pfcloud%20UG%20%28haftungsbeschrankt%29
 vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vmess://eyJhZGQiOiI1Ny4xMzEuMTY4LjIwMiIsImFpZCI6IjAiLCJpZCI6IjJjYjA5MmY2LWQ2MmMtNGU4Yy1hOWYyLWRiOWQ0NmY0MmRlNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiI1MzE4MyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
