@@ -1,10 +1,5 @@
 # Country RU
-# Updated: 2026-10-20 05:40:40 UTC
-# Count: 6
+# Updated: 2026-10-20 06:10:40 UTC
+# Count: 1
 
 vless://1ba0439d-384c-4a6e-9560-0439698beb2a@82.202.179.111:15443?security=reality&encryption=none&pbk=MNmqM2p3nUYZIqo0sTMXRXGzB5HquF-czSycvdqn3U4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=b74f54b7#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20WELLSERVER
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-sh-185.spbstudentlife.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-sh-185.spbstudentlife.com&fp=randomized&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&sid=8d942904d3e87323&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20HSTQ-HOSTING-SERVICE
-vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ss-64.ecom-ai-search.com&fp=randomized&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&sid=294cd0660fde9027&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Serverio%20technologijos%20MB
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=co-de.speedtec.ru&fp=random&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
