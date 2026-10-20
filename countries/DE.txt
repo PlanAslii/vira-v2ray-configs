@@ -1,9 +1,7 @@
 # Country DE
-# Updated: 2026-10-20 23:10:40 UTC
-# Count: 5
+# Updated: 2026-10-20 23:40:40 UTC
+# Count: 3
 
+vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@193.124.91.69:9443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Scalaxy%20B.V.
 vmess://eyJhZGQiOiI4OS4xMjQuMjUxLjE3IiwiYWlkIjoiMCIsImlkIjoiNDM1ZWEzZTYtZGRjNS00ZDcxLThmN2EtNzhhMGIzMjhlMDE1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjUzNDAyIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgXHUyNTA3IFZNZXNzIFx1MDBiNyBkYXRhZm9yZXN0IEdtYkgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 vless://@Cooonfig@Cooonfig@91.107.190.254:23198?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
-vless://cf27c800-0226-4b5c-b0dc-317c46b4307b@35.156.10.185:1002?security=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://cf27c800-0226-4b5c-b0dc-317c46b4307b@3.72.50.236:1002?security=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://cf27c800-0226-4b5c-b0dc-317c46b4307b@63.180.248.105:1002?security=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com
