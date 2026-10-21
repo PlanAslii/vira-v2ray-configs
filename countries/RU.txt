@@ -1,6 +1,6 @@
 # Country RU
-# Updated: 2026-10-21 07:40:40 UTC
+# Updated: 2026-10-21 08:10:40 UTC
 # Count: 2
 
-vless://2dd0b63e-c545-43cf-ba15-c512ccd4f41d@api.mediastvor.cc:443?encryption=none&allowInsecure=0&fp=qq&sni=api.mediastvor.cc&mode=gun&serviceName=3e99d50d5740985d&type=grpc&security=tls&insecure=0&alpn=h2#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Khachatryan%20Armen%20Martirosovich
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=co-nl.speedtec.ru&type=tcp#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://3dbf58d7-53fc-4fad-8779-1c867e024fd0@185.125.103.62:8082?encryption=none&fp=chrome&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
