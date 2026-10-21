@@ -1,6 +1,5 @@
 # Country FR
-# Updated: 2026-10-21 15:10:40 UTC
-# Count: 2
+# Updated: 2026-10-21 15:40:40 UTC
+# Count: 1
 
-vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@doory76.fars-remen.ir:32545?encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dyjix%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22223?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22224?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
