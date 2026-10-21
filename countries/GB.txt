@@ -1,7 +1,7 @@
 # Country GB
-# Updated: 2026-10-21 10:40:40 UTC
+# Updated: 2026-10-21 11:10:40 UTC
 # Count: 3
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com
 vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22224?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com
