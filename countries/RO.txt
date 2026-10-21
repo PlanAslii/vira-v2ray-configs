@@ -1,6 +1,5 @@
 # Country RO
-# Updated: 2026-10-21 00:10:40 UTC
-# Count: 2
+# Updated: 2026-10-21 08:10:40 UTC
+# Count: 1
 
-vless://74f5426b-19d9-4567-a7ff-865aa4c87cca@pub-07h33f.mydevelopertool.xyz:8000?security=reality&encryption=none&pbk=2dv8gNuhbvuxFB2A2bsxGj1lQ_ApOmj_-5qXejNxRwY&headerType=none&fp=safari&spx=%2F887354a7793d8f1&type=tcp&flow=xtls-rprx-vision&sni=sni-07h33f.mydevelopertool.xyz&sid=e0954def98b22710#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20MAGIT%27ST%20SRL
-vless://74f5426b-19d9-4567-a7ff-865aa4c87cca@pub-odro27lpfz.mydevelopertool.xyz:443?security=reality&encryption=none&pbk=8AUF38jwIBefT5bVE-_bDTmOvGKxSQ59hnmVJF2pwSw&headerType=none&fp=safari&spx=%2F887354a7793d8f1&type=tcp&flow=xtls-rprx-vision&sni=sni-odro27lpfz.mydevelopertool.xyz&sid=4ddb92f0ea089707#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20MAGIT%27ST%20SRL
+vless://74f5426b-19d9-4567-a7ff-865aa4c87cca@pub-07h33f.mydevelopertool.xyz:8000?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sni-07h33f.mydevelopertool.xyz&fp=safari&pbk=2dv8gNuhbvuxFB2A2bsxGj1lQ_ApOmj_-5qXejNxRwY&sid=e0954def98b22710&spx=%2F887354a7793d8f1&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%94%87%20VLESS%20%C2%B7%20MAGIT%27ST%20SRL
