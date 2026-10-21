@@ -1,8 +1,7 @@
 # Country FR
-# Updated: 2026-10-21 07:40:40 UTC
-# Count: 4
+# Updated: 2026-10-21 08:10:40 UTC
+# Count: 3
 
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Purdue%20University%20Northwest
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://0dab10de-af72-483b-b5d8-7f30cab4d35c@91.239.208.69:443?encryption=none&flow=xtls-rprx-vision&pbk=8k-cuwBmUqNBKG8jG5uEHTd-R6-p0Z_QQVmZHhPnMw0&security=reality&sid=98166a0f74079d11&sni=par.ascl.dev&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Layer7%20Networks%20GmbH
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
