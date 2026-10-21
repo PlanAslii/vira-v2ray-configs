@@ -1,9 +1,6 @@
 # Country IR
-# Updated: 2026-10-21 18:10:40 UTC
-# Count: 5
+# Updated: 2026-10-21 18:40:40 UTC
+# Count: 2
 
+vless://b2dacbda-8221-4548-a104-aa8aa56ab282@tun2.w-ert.org:56841?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
 vless://7db23f35-6da7-41d0-ac75-6f8c40fee065@docs.sslforfree.shop:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=docs.sslforfree.shop&path=%2F&security=tls&sni=docs.sslforfree.shop&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Peimayesh%20Ertebat%20Oxin%20Co.%20%E2%94%87%20%F0%9F%94%B4
-vless://3e16033f-71d8-417b-abea-7756253f3c3d@tun2.w-ert.org:42924?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vless://bff5f908-8000-4924-b673-d41b546244ea@ir2.irankatooni.ir:2095?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=filimo.com&sni=turk.irankatooni.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Atrin%20Information%20%26%20Communications%20Technology%20Company%20PJS%20%E2%94%87%20%F0%9F%94%B4
-vless://bff5f908-8000-4924-b673-d41b546244ea@tun2.sportone.cyou:8711?encryption=none&security=tls&type=ws&headerType=none&path=%2Findex.html&host=tun2.sportone.cyou&sni=panel.sportone.cyou#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Atrin%20Information%20%26%20Communications%20Technology%20Company%20PJS%20%E2%94%87%20%F0%9F%94%B4
-vless://bff5f908-8000-4924-b673-d41b546244ea@ir1.irankatooni.ir:2083?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=filimo.com&sni=usa.irankatooni.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ali%20Monfared%20%E2%94%87%20%F0%9F%9F%A2
