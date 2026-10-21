@@ -1,8 +1,5 @@
 # Country FR
-# Updated: 2026-10-21 22:10:40 UTC
-# Count: 4
+# Updated: 2026-10-21 22:40:40 UTC
+# Count: 1
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22222?security=none&encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://8d1c6ba7-fd23-4ffd-8fde-1c4f382674c4@91.134.79.118:2095?security=none&encryption=none&host=perf-prod.samsung.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://6641e08e-3f3b-4469-a307-786f50b88cc0@57.128.28.253:443?security=reality&encryption=none&pbk=bo2FrmbHZpJCbMxhYgDgA4o_Ci76O4-aJJAVUfyPAEU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=32591c4018a6df1d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
