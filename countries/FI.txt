@@ -1,5 +1,5 @@
 # Country FI
-# Updated: 2026-10-21 13:10:40 UTC
+# Updated: 2026-10-21 13:40:40 UTC
 # Count: 3
 
 vless://7101dad5-fc74-479c-a8ab-9e40c2ae6fc0@static.167.125.29.2.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.162.97.119.168.clients.your-server.de#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
