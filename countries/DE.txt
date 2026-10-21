@@ -1,6 +1,6 @@
 # Country DE
-# Updated: 2026-10-21 05:10:40 UTC
+# Updated: 2026-10-21 05:40:40 UTC
 # Count: 2
 
-vless://@Cooonfig@Cooonfig@91.107.190.254:23198?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
+vless://@Cooonfig@Cooonfig@91.107.190.254:23198?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
