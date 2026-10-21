@@ -1,7 +1,8 @@
 # Country IR
-# Updated: 2026-10-21 22:40:40 UTC
+# Updated: 2026-10-21 23:10:40 UTC
 # Count: 11
 
+vless://b2dacbda-8221-4548-a104-aa8aa56ab282@787f753345096511.tunvi.w-ert.org:448?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PISHGAMAN%20%E2%94%87%20%F0%9F%94%B4
 vless://e90bd171-6e3c-43ca-8e8a-41c78f4e780f@armenia.emergency-service.org:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=armenia.emergency-service.org&sni=armenia.emergency-service.org&fp=chrome#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parsun%20Network%20Solutions%20PTY%20LTD
 vless://e90bd171-6e3c-43ca-8e8a-41c78f4e780f@nl.emergency-service.org:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=nl.emergency-service.org&sni=nl.emergency-service.org&fp=chrome#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parsun%20Network%20Solutions%20PTY%20LTD
 vless://e90bd171-6e3c-43ca-8e8a-41c78f4e780f@ukraine-emergency-service.boryaq.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=ukraine-emergency-service.boryaq.ir&sni=ukraine-emergency-service.boryaq.ir&fp=chrome#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parsun%20Network%20Solutions%20PTY%20LTD
@@ -12,4 +13,3 @@ vless://e90bd171-6e3c-43ca-8e8a-41c78f4e780f@tr-emergency-service.boryaq.ir:443?
 vless://e90bd171-6e3c-43ca-8e8a-41c78f4e780f@fr.emergency-service.org:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=fr.emergency-service.org&sni=fr.emergency-service.org&fp=firefox#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parsun%20Network%20Solutions%20PTY%20LTD
 vless://e90bd171-6e3c-43ca-8e8a-41c78f4e780f@uk-emergency-service.boryaq.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=uk-emergency-service.boryaq.ir&sni=uk-emergency-service.boryaq.ir&fp=firefox#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parsun%20Network%20Solutions%20PTY%20LTD
 vless://e90bd171-6e3c-43ca-8e8a-41c78f4e780f@poland.emergency-service.org:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=poland.emergency-service.org&sni=poland.emergency-service.org&fp=firefox#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parsun%20Network%20Solutions%20PTY%20LTD
-vless://19437e4b-f0ed-4bd3-9bb0-40ab35b8c894@docs.sslforfree.shop:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=docs.sslforfree.shop&path=%2F&security=tls&sni=docs.sslforfree.shop&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Peimayesh%20Ertebat%20Oxin%20Co.%20%E2%94%87%20%F0%9F%94%B4
