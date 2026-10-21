@@ -1,10 +1,9 @@
 # Country FI
-# Updated: 2026-10-21 18:40:40 UTC
-# Count: 6
+# Updated: 2026-10-21 19:10:40 UTC
+# Count: 5
 
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=chrome&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&sid=65149fc5ba&spx=%2FEL8OY1VX47km1uf&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
 vless://1a203c81-1d0d-4143-bf2f-d28ce61c0ae7@static.44.128.217.95.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.176.222.12.49.clients.your-server.de#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@107.181.151.128:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=8f79726c5002#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://1a203c81-1d0d-4143-bf2f-d28ce61c0ae7@static.167.125.29.2.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.134.247.12.49.clients.your-server.de#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://1a203c81-1d0d-4143-bf2f-d28ce61c0ae7@static.83.65.31.2.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.19.212.12.49.clients.your-server.de#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20EE%20Limited
-vless://f830327c-a859-4028-bbce-eeaf873e03ba@1e2c.donyumvps.tr:36112?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=8_gtVNi4__f-X3kfHFPnBaXW4hcMZK6OgN4ARb_nECs&sid=6b51d6a3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DELTA%20Fiber%20Nederland
-vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?security=reality&encryption=none&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi5.silalink.sbs&sid=03#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20OC%20NETWORKS%20LIMITED
