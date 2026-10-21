@@ -1,8 +1,6 @@
 # Country US
-# Updated: 2026-10-21 22:10:40 UTC
-# Count: 4
+# Updated: 2026-10-21 22:40:40 UTC
+# Count: 2
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://d35d90eb-28a0-583c-bd46-2877d7f0b2a1@app-1d3286-64e677-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=app-1d3286-64e677-production.up.railway.app&path=/ws/..&sni=app-1d3286-64e677-production.up.railway.app&fp=chrome&alpn=http/1.1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Railway
-vless://722e0420-eb1c-4446-afd9-6e140f92a038@172.232.15.76:2095?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
-vless://6b180141-4850-4717-8ed1-10a94edccfb4@45.79.177.173:443?security=reality&encryption=none&pbk=ySyZhhGoW2mjw7DraogBNV6NAd5aINZTDHMY9IrN1zQ&headerType=none&fp=chrome&spx=%2FSq6UfzDwE2aP&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=bfc0dc14473f721a#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Akamai%20Technologies%2C%20Inc.
+vless://a2a979ca-6bdd-482a-9183-4b215a4d49a3@45.78.7.153:443?security=reality&encryption=none&pbk=_SzMV8nv__OmEASKNafOdiDpuTxkbHCFIJM9Tl_3OiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a34c280dfa0c50cf#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20IT7%20Networks%20Inc
+vless://d41cec6d-f7b2-5d70-834a-cb39756d8f4e@app-1d3286-64e677-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=app-1d3286-64e677-production.up.railway.app&path=/ws/V2BOX_NEXA&sni=app-1d3286-64e677-production.up.railway.app&fp=chrome&alpn=http/1.1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Railway
