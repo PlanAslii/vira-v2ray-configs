@@ -1,6 +1,5 @@
 # Country US
-# Updated: 2026-10-21 10:10:40 UTC
-# Count: 2
+# Updated: 2026-10-21 10:40:40 UTC
+# Count: 1
 
-vless://912f0789-aea5-5739-aadf-f00b7cf141db@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://c5912e82-b056-5a88-b38b-065df637fe0c@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://348daee0-e494-4e96-aa93-884c2079c7ef@192.177.26.173:443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20EGIHosting
