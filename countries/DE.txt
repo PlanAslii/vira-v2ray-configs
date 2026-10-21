@@ -1,6 +1,5 @@
 # Country DE
-# Updated: 2026-10-21 00:10:40 UTC
-# Count: 2
+# Updated: 2026-10-21 00:40:40 UTC
+# Count: 1
 
 vless://@Cooonfig@Cooonfig@91.107.190.254:23198?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
-vless://1e278f5f-81e9-4a17-b0af-eafc51cf7042@193.124.91.69:9443?encryption=none&security=tls&sni=master-proxy.lighthouselabs.online&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Scalaxy%20B.V.
