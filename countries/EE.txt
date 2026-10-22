@@ -1,5 +1,6 @@
 # Country EE
-# Updated: 2026-10-22 04:40:40 UTC
-# Count: 1
+# Updated: 2026-10-22 06:10:40 UTC
+# Count: 2
 
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&type=tcp&sid=7271129440ade8fa&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=login.sakhweb.fyi&headerType=none&encryption=none#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=login.sakhweb.fyi&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&allowInsecure=1#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
+vless://697386bb-c121-4933-b426-ad701cae90d8@132.243.66.17:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ee.shapka-global.com&pbk=nH6ZEj8w9tsiRI7_0dco42KKil48EksTnuCs1OcN2B0&sid=2036c1b147c5d31e&allowInsecure=1#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
