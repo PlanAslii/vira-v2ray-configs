@@ -1,7 +1,7 @@
 # Country IR
-# Updated: 2026-10-22 19:40:40 UTC
+# Updated: 2026-10-22 20:10:40 UTC
 # Count: 3
 
-vless://4dd86f78-8202-42c2-89b6-801fd29daf45@a7a0b15b3c94bb24.tunvi.w-ert.org:32093?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ali%20Monfared%20%E2%94%87%20%F0%9F%9F%A2
-vless://61747651-8a4c-40de-becd-174dc32e7495@003342c6746b9754.tunvi.w-ert.org:56841?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ali%20Monfared%20%E2%94%87%20%F0%9F%9F%A2
-vmess://eyJhZGQiOiJvdXRzaWRlLmZldW1hLmlyIiwiYWlkIjoiMCIsImlkIjoiOGUwMzVjYmUtM2YwMi00YjY0LThiYTgtODJjYzA1YjgzMjE0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicG9ydCI6IjIwMDAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IFNIQVRFTCBOZXR3b3JrIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://766f7ae4-83ce-4e25-9778-2839aa62282b@crm2.play98.ir:52862?type=ws&encryption=mlkem768x25519plus.native.0rtt.aA53sBBx7K1KrWCqoRVlK6n808LA5pCPjwGcJYNfLSs&path=%2F&security=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AFranet%20Co%20%E2%94%87%20%F0%9F%94%B4
+vless://b2dacbda-8221-4548-a104-aa8aa56ab282@ac697733a52bdaba.tunvi.w-ert.org:32093?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ali%20Monfared%20%E2%94%87%20%F0%9F%9F%A2
+vless://3e16033f-71d8-417b-abea-7756253f3c3d@da0bcdc2133654d7.tunvi.w-ert.org:32093?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ali%20Monfared%20%E2%94%87%20%F0%9F%9F%A2
