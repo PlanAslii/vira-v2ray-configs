@@ -1,7 +1,5 @@
 # Country FR
-# Updated: 2026-10-22 20:40:40 UTC
-# Count: 3
+# Updated: 2026-10-22 21:10:42 UTC
+# Count: 1
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22223?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://8e552028-106f-4e28-994f-465a1d067f50@51.83.6.5:20347?path=%2Fmb-vless&security=none&encryption=none&host=51.83.6.5&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
