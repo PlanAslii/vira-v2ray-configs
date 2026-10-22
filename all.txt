@@ -1,10 +1,16 @@
 # Vira — all configs
-# Updated: 2026-10-22 03:40:40 UTC
-# Count: 6
+# Updated: 2026-10-22 04:10:40 UTC
+# Count: 12
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:33477?type=tcp&headerType=none&path=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22222?security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vmess://eyJhZGQiOiIzLjcyLjUwLjIzNiIsImFpZCI6IjAiLCJpZCI6IjIxZTBlNTM3LWJkN2QtNDM2ZC1iNDAxLWYwYTI2YmY0ZjZmOCIsIm5ldCI6InRjcCIsInBvcnQiOiIxMDAzIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgXHUyNTA3IFZNZXNzIFx1MDBiNyBBbWF6b24gVGVjaG5vbG9naWVzIEluYy4iLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIzNS4xNTYuMTAuMTg1IiwiYWlkIjoiMCIsImlkIjoiMjFlMGU1MzctYmQ3ZC00MzZkLWI0MDEtZjBhMjZiZjRmNmY4IiwibmV0IjoidGNwIiwicG9ydCI6IjEwMDMiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBcdTI1MDcgVk1lc3MgXHUwMGI3IEFtYXpvbiBUZWNobm9sb2dpZXMgSW5jLiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0
+vless://ab2cff81-1d64-4425-b322-218c28abdff5@35.156.10.185:1002?security=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://ab2cff81-1d64-4425-b322-218c28abdff5@3.72.50.236:1002?security=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vmess://eyJhZGQiOiI2My4xODAuMjQ4LjEwNSIsImFpZCI6IjAiLCJpZCI6IjIxZTBlNTM3LWJkN2QtNDM2ZC1iNDAxLWYwYTI2YmY0ZjZmOCIsIm5ldCI6InRjcCIsInBvcnQiOiIxMDAzIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgXHUyNTA3IFZNZXNzIFx1MDBiNyBBbWF6b24uY29tIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ
+vless://ab2cff81-1d64-4425-b322-218c28abdff5@63.180.248.105:1002?security=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.214.179:22222?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vmess://eyJhZGQiOiJ0dXJrbmV3Lm5ldC1mbG93YS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Imd2dDEuY29tIiwiaWQiOiJjZDk2NDc5ZS05YzM5LTRhN2YtYmEwYy04MDZhODNhZjE5Y2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTWVzcyBcdTAwYjcgUGxheTJnbyBJbnRlcm5hdGlvbmFsIExpbWl0ZWQiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--v2ray_configs_pools%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&type=tcp&sid=7271129440ade8fa&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=login.sakhweb.fyi&headerType=none&encryption=none#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Baykov%20Ilya%20Sergeevich
 vless://@Cooonfig@91.107.190.254:23198?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
