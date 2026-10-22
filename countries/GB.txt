@@ -1,7 +1,6 @@
 # Country GB
-# Updated: 2026-10-22 00:40:40 UTC
-# Count: 3
+# Updated: 2026-10-22 01:10:40 UTC
+# Count: 2
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime28.workers.dev&type=ws#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.214.179:22222?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime28.workers.dev&type=ws#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
