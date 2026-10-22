@@ -1,7 +1,7 @@
 # Country FR
-# Updated: 2026-10-22 13:10:40 UTC
+# Updated: 2026-10-22 13:40:40 UTC
 # Count: 3
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22223?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6IjgwIiwiaWQiOiIwNjdmY2Q2My1iMjE1LTRhYmQtODUyOS1hZTkyOWE5OTcxYTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22222?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
