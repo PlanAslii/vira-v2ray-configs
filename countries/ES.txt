@@ -1,5 +1,6 @@
 # Country ES
-# Updated: 2026-10-22 06:10:40 UTC
-# Count: 1
+# Updated: 2026-10-22 13:10:40 UTC
+# Count: 2
 
-vless://bc15fdad-571a-4898-ac56-8f3a67754536@213.182.201.139:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Andrey%20Voskresenskiy
+vless://151a35f8-de3a-42a1-bb21-e6b24e544976@213.182.201.18:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Andrey%20Voskresenskiy
+vless://9ab3a362-1518-496d-b08d-eced45cec936@es.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.srv.dvzh.net&sid=e0ccc8c2f487d913#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Kamatera%2C%20Inc.
