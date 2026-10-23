@@ -1,8 +1,6 @@
 # Country FR
-# Updated: 2026-10-23 01:40:40 UTC
-# Count: 4
+# Updated: 2026-10-23 03:10:40 UTC
+# Count: 2
 
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMDY3ZmNkNjMtYjIxNS00YWJkLTg1MjktYWU5MjlhOTk3MWE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ
-vless://e7e1e726-b30f-477a-a308-3138e62a8d21@fr.novexone.ir:14256?encryption=mlkem768x25519plus.native.0rtt.lP8_9ZFjOlVDAt1gqie0PnqPKOz_HsYUrzhlyV8T4C8&security=none&type=tcp&headerType=http&host=ssh.webdade.com&path=%2F#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
