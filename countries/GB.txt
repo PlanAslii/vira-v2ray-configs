@@ -1,6 +1,7 @@
 # Country GB
-# Updated: 2026-10-23 13:40:40 UTC
-# Count: 2
+# Updated: 2026-10-23 14:10:40 UTC
+# Count: 3
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22222?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.33.244:22223?security=none&encryption=none&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
+vless://4dc19f39-c28a-4cd1-b5e9-969e77ea2d09@uk2.zefmul.ir:7006?encryption=none&security=reality&type=tcp&headerType=none&sni=play.googleapis.com&fp=ios&pbk=Z4jyvsRTqkXzZl79oWVd51iMbc5KdwIf2nujjjE4Dhw&sid=9754f7853fa7a056#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20UK%20Limited
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
