@@ -1,5 +1,5 @@
 # Country CZ
-# Updated: 2026-10-23 10:40:40 UTC
+# Updated: 2026-10-23 12:10:40 UTC
 # Count: 1
 
-vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?security=reality&encryption=none&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=seznam.cz&sid=7791e189a518d69e#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20SecurityNet.cz%20s.r.o.
+vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20stylez
