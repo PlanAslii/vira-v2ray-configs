@@ -1,7 +1,8 @@
 # Country FR
-# Updated: 2026-10-23 14:10:40 UTC
-# Count: 3
+# Updated: 2026-10-23 15:10:40 UTC
+# Count: 4
 
-vless://0e9233fa-1fa2-44d0-8cd6-d39c20672782@46.226.167.213:16388?encryption=none&type=grpc&security=reality&sni=it.nvidia.com&pbk=h3RyzgsJRMW3ii5D1whWYzyhAKb1xp9ReadfRIz1XCg&sid=d2d20c&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.60.172:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://0b418782-e023-447e-ba99-e66b84ff118d@50.7.245.205:2093?encryption=none&flow=xtls-rprx-vision&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&security=reality&sid=8a9725533854a7e8&sni=www.apple.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://b3d079ff-b775-4ffe-bac9-41228b08b15b@143.246.211.163:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr.gorobsub.com&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&sid=3242cfd7&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
+vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMDY3ZmNkNjMtYjIxNS00YWJkLTg1MjktYWU5MjlhOTk3MWE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
