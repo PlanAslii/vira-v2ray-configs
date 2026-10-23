@@ -1,5 +1,5 @@
 # Country AE
-# Updated: 2026-10-23 15:10:40 UTC
+# Updated: 2026-10-23 16:10:41 UTC
 # Count: 1
 
-vless://3809ad29-7639-4f4a-84bd-3ac4fa8baf0a@77.232.140.22:443?encryption=none&security=tls&sni=v080a4b3c08.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=v080a4b3c08.pages.dev&path=%2Fws&ech=cloudflare-ech.com%2Budp%3A%2F%2F45.90.28.0#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://3809ad29-7639-4f4a-84bd-3ac4fa8baf0a@77.232.140.22:443?encryption=none&type=ws&security=tls&sni=v080a4b3c08.pages.dev&fp=chrome&alpn=http%2F1.1&path=%2Fws&host=v080a4b3c08.pages.dev#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
