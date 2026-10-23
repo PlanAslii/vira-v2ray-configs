@@ -1,5 +1,6 @@
 # Country PL
-# Updated: 2026-10-23 03:40:40 UTC
-# Count: 1
+# Updated: 2026-10-23 04:40:40 UTC
+# Count: 2
 
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@144.31.0.140:443?sid=7271129440ade8fa&encryption=none&type=tcp&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&flow=xtls-rprx-vision&fp=firefox&headerType=none&sni=api.sakhalin.fyi&security=reality#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
+vless://5ad13ef8-ced8-43b5-9d8c-f046a3ce9ddc@150.251.113.22:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn78.g-magnum.icu&pbk=awygEfZ7814qIBe4Mu5Tjubq1zlgZzyWxOt6uVezqjY&sid=1b2a3f&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@144.31.0.140:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=api.sakhalin.fyi&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
