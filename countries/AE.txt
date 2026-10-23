@@ -1,6 +1,5 @@
 # Country AE
-# Updated: 2026-10-23 02:10:40 UTC
-# Count: 2
+# Updated: 2026-10-23 15:10:40 UTC
+# Count: 1
 
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@185.225.195.7:8443?path=%2Fdula%3FTelegram-WangCai2&security=tls&encryption=none&insecure=0&host=speed.dulacloud.store&fp=chrome&type=ws&allowInsecure=0&sni=speed.dulacloud.store#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20ENOC
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@77.232.140.7:8443?path=%2Fdula%3FTelegram-WangCai2&security=tls&encryption=none&insecure=0&host=speed.dulacloud.store&type=ws&allowInsecure=0&sni=speed.dulacloud.store#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
+vless://3809ad29-7639-4f4a-84bd-3ac4fa8baf0a@77.232.140.22:443?encryption=none&security=tls&sni=v080a4b3c08.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=v080a4b3c08.pages.dev&path=%2Fws&ech=cloudflare-ech.com%2Budp%3A%2F%2F45.90.28.0#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
