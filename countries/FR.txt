@@ -1,6 +1,7 @@
 # Country FR
-# Updated: 2026-10-23 10:10:40 UTC
-# Count: 2
+# Updated: 2026-10-23 10:40:40 UTC
+# Count: 3
 
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.237.199:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@fr.novexone.ir:14256?encryption=mlkem768x25519plus.native.0rtt.lP8_9ZFjOlVDAt1gqie0PnqPKOz_HsYUrzhlyV8T4C8&security=none&type=tcp&headerType=http&path=%2F&host=ssh.webdade.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22224?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
