@@ -1,6 +1,5 @@
 # Country RU
-# Updated: 2026-10-23 18:10:40 UTC
-# Count: 2
+# Updated: 2026-10-23 18:40:40 UTC
+# Count: 1
 
-vless://2ed71363-5fd3-4859-9254-0003e395848c@45.9.14.15:443?security=reality&encryption=none&pbk=uRkXxWMtTOSo8dfWho1D9-M6um6xSjXp0y6MgpWy8yc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru.filesconvert.org&sid=aedba77e595128a6#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20UFO%20Hosting%20LLC
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
