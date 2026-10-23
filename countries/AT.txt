@@ -1,6 +1,5 @@
 # Country AT
-# Updated: 2026-10-20 18:10:40 UTC
-# Count: 2
+# Updated: 2026-10-23 12:10:40 UTC
+# Count: 1
 
-vless://0c7d0b50-245c-436e-9414-05cf19a73658@vena.solomon-planet.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@159.195.240.82:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=vie1.tsumshop.org&fp=firefox&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&sid=c8c75aaf699259b4&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20netcup%20GmbH
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?insecure=0&sni=snip.edgeoneai.cc.cd&path=%2F&security=tls&host=snip.edgeoneai.cc.cd&allowInsecure=0&encryption=none&type=ws#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Alwyzon
