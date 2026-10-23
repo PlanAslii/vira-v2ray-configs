@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-10-23 18:10:40 UTC
-# Count: 2
+# Updated: 2026-10-23 18:40:40 UTC
+# Count: 1
 
-vless://9b12b97f-e185-41a3-ad50-a31a092f35c9@31.76.46.221:10851?mode=gun&security=reality&encryption=none&pbk=nTNsyJaBeqGkLNk4lbqRiKQd993pRt2QSmYNfeUhRXs&fp=chrome&spx=%2Fbc0e0e3d3d4f532&type=grpc&serviceName=grpc_common1&sni=ap-author.led.samsung.com&sid=aacd5d42a33b2a4e#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
-vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=chrome&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&sid=65149fc5ba&spx=%2FEL8OY1VX47km1uf&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
+vless://5a96c1fc-f167-44b9-9020-8f6867537d14@finland02.azotvpn.xyz:8443?mode=gun&security=reality&encryption=none&pbk=fQ1M2sO50w5A3oM55Hfs8vmZ320I8VaKdzRqeXOMMnQ&type=grpc&sni=finland02.azotvpn.xyz&sid=07f508fe5d2355d3#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
