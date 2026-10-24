@@ -1,6 +1,5 @@
 # Country GB
-# Updated: 2026-10-24 03:10:40 UTC
-# Count: 2
+# Updated: 2026-10-24 03:40:40 UTC
+# Count: 1
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
