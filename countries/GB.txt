@@ -1,9 +1,5 @@
 # Country GB
-# Updated: 2026-10-24 07:10:40 UTC
-# Count: 5
+# Updated: 2026-10-24 07:40:40 UTC
+# Count: 1
 
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&type=tcp&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.99.223:22222?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@gb2.murainternet.network:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb2.murainternet.network&sid=fc36b4a584871aa5#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
