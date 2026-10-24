@@ -1,5 +1,5 @@
 # Country GB
-# Updated: 2026-10-24 03:40:40 UTC
+# Updated: 2026-10-24 05:10:40 UTC
 # Count: 1
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime28.workers.dev&packetEncoding=xudp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
