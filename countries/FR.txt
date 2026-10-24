@@ -1,10 +1,6 @@
 # Country FR
-# Updated: 2026-10-24 06:10:40 UTC
-# Count: 6
+# Updated: 2026-10-24 06:40:40 UTC
+# Count: 2
 
-vless://3a4c521f-ac6d-4f82-ace9-2c630b8f0b9d@farce.white-aist.com:8443?encryption=none&type=grpc&security=reality&sni=farce.white-aist.com&pbk=tZDKPMjO2zaWuKtdwSjzj9p-E4PSuQE9yB9JFR6U_10&serviceName=grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Petrosky%20Cloud%20LLC
-vless://3a4c521f-ac6d-4f82-ace9-2c630b8f0b9d@83.136.209.11:8443?encryption=none&type=grpc&security=reality&sni=farce.white-aist.com&pbk=tZDKPMjO2zaWuKtdwSjzj9p-E4PSuQE9yB9JFR6U_10&serviceName=grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Petrosky%20Cloud%20LLC
-vless://55c98c63-8e67-4750-a574-5f586782c1ab@95.182.82.14:443?encryption=none&type=grpc&security=reality&sni=static.freeinternet.skin&pbk=f2evGKO94_eMGIuWv7OXrcVXTnqJjSxoflPqb24DFg0&sid=f362281040d91a1e&serviceName=grpc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
-vless://b3d079ff-b775-4ffe-bac9-41228b08b15b@143.246.211.163:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr.gorobsub.com&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&sid=3242cfd7&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22224?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22223?encryption=none&security=none&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
