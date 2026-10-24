@@ -1,9 +1,9 @@
 # Country DE
-# Updated: 2026-10-24 09:10:40 UTC
+# Updated: 2026-10-24 09:40:40 UTC
 # Count: 5
 
+vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.195:443?encryption=none&flow=xtls-rprx-vision&pbk=90gg8QRDqwmrelQBiQ159MlmdUreo4h1-yBgRmp7U2c&security=reality&sid=082e4d45beed1487&sni=wifi12.jzxc.digital&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20dataforest%20GmbH
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.147.48.28:443?path=%2F&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xTom%20GmbH
 vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.226:443?security=reality&encryption=none&pbk=zIhDtqZo--gCOBxMLqpRETmsGUNTzyHQzBDtRov_Qjk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wifi10.jzxc.digital&sid=84249c1249f4b2d5#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20dataforest%20GmbH
 vless://605dea9b-b485-45c9-af9b-cc2b0195023c@193.111.248.80:2053?mode=gun&security=reality&encryption=none&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&type=grpc&serviceName=api&sni=nl3.mycloud1.org&sid=afee962d#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Ferdinand%20Zink%20trading%20as%20Tube-Hosting
 vmess://eyJhZGQiOiIxOTUuMjYuMjYuNyIsImFpZCI6IjAiLCJpZCI6IjVlMTA5Y2Q2LWU4YjAtNDk1Ny1hOWJiLTcxYWE2OGI1NmY2ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiI0MjgxMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTWVzcyBcdTAwYjcgTGVhc2V3ZWIgRGV1dHNjaGxhbmQgR21iSCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci1.amir12.ir:1222?encryption=none&type=tcp&security=reality&sni=play.google.com&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.147.48.28:443?cs=semi-python&path=-&security=tls&alpn=http%2F1.1&encryption=none&fm=tlshello-0-len&insecure=0&host=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xTom%20GmbH
