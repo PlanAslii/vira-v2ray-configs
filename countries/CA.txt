@@ -1,6 +1,11 @@
 # Country CA
-# Updated: 2026-10-24 22:10:40 UTC
-# Count: 2
+# Updated: 2026-10-24 22:40:40 UTC
+# Count: 7
 
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&type=ws&path=%2F&host=hhlfy.twiladaphne.ndjp.net&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://26ee2529-e446-41c2-81e3-cbbce04b8347@looabturkeyeoijji.global.ssl.fastly.net:443?encryption=none&security=tls&sni=looabturkeyeoijji.global.ssl.fastly.net&type=ws&host=looabturkeyeoijji.global.ssl.fastly.net.&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://26ee2529-e446-41c2-81e3-cbbce04b8347@snaanjaai.global.ssl.fastly.net:443?encryption=none&security=tls&sni=snaanjaai.global.ssl.fastly.net&type=ws&host=snaanjaai.global.ssl.fastly.net&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://26ee2529-e446-41c2-81e3-cbbce04b8347@polandboijji.global.ssl.fastly.net:443?encryption=none&security=tls&sni=polandboijji.global.ssl.fastly.net&type=ws&host=polandboijji.global.ssl.fastly.net.&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://26ee2529-e446-41c2-81e3-cbbce04b8347@frenchanjaai.global.ssl.fastly.net:443?encryption=none&security=tls&sni=frenchanjaai.global.ssl.fastly.net&type=ws&host=frenchanjaai.global.ssl.fastly.net&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
+vless://71ee5343-b431-44be-bed7-22b9b9f7253c@piracy-android.video-streams.org:443?encryption=none&type=ws&security=tls&sni=piracy-android.video-streams.org&fp=chrome&alpn=http%2F1.1&path=%2Fws&host=piracy-android.video-streams.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&type=ws&security=tls&sni=ccc.010304.xyz&path=%2F&host=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?encryption=none&type=grpc&security=reality&sni=www.semiconductor.samsung.com&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&sid=defda00d613c&serviceName=grpc_common1&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
