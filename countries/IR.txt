@@ -1,5 +1,7 @@
 # Country IR
-# Updated: 2026-10-25 16:10:40 UTC
-# Count: 1
+# Updated: 2026-10-25 16:40:40 UTC
+# Count: 3
 
-vless://44b95454-bd15-4c09-8b40-7af5f215b41f@gate.bruvik.click:443?encryption=none&type=tcp&security=reality&pbk=zcI6Tw3Kmwgan0XOgYphW5MIAPqkHnhML58_NVn4pkY&fp=chrome&sni=www.samsung.com&sid=929785d91dabd385&spx=%2F&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
+vless://54692ec9-fd24-41c8-9677-6db0e345c2b0@frank20.zarghamweb.ir:31915?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=pasar.zarghamweb.ir&sni=pasar.zarghamweb.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Mizban%20Dadeh%20Pardis%20.Ltd%20%E2%94%87%20%F0%9F%94%B4
+vless://488031c0-6655-49c6-bb59-002d04ee327c@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
+vless://acc8db4a-7e4b-4f8a-b5ee-442ffe54f51a@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
