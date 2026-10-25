@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-10-25 18:40:40 UTC
-# Count: 3
+# Updated: 2026-10-25 19:40:40 UTC
+# Count: 1
 
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Datahost-Internet-ve-Bilisim-Teknolojileri
-vless://2b821829-5b53-4421-949c-9147b65d1d51@206.1.103.70:8443?encryption=mlkem768x25519plus.native.0rtt.fcB2zLobqN0Fx_7_N4ivatctNp_EWTMrKfEsH_vweVY&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=VmuqEmtzbhkJqt4-k_EFRGZFIhrQaloRkB9WnKsVJWg&sid=0b9579b2dba04664#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:443?encryption=none&type=ws&security=tls&sni=tr2.soft10.ir&fp=chrome&path=%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://c796829e-6597-48da-9814-1991ee1454d4@trn36.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=aefc7f3722#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
