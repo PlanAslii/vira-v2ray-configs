@@ -1,6 +1,7 @@
 # Country CA
-# Updated: 2026-10-25 15:10:40 UTC
-# Count: 2
+# Updated: 2026-10-25 15:40:40 UTC
+# Count: 3
 
+vless://f6a015b4-4783-4f2a-a01b-39f281ba5d07@104.17.215.31:443?encryption=none&security=tls&sni=cf.5208877.xyz&fp=chrome&type=ws&path=/&host=cf.5208877.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://f6a015b4-4783-4f2a-a01b-39f281ba5d07@104.17.182.41:443?encryption=none&security=tls&sni=cf.5208877.xyz&fp=chrome&type=ws&path=/&host=cf.5208877.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&fp=chrome&spx=%2Ffe82b9833f962d8&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://1c731a2a-77ed-4389-a91b-29a7f5869fb0@149.56.14.62:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D149.56.14.62%3A443#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
