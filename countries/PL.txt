@@ -1,8 +1,8 @@
 # Country PL
-# Updated: 2026-10-25 19:40:40 UTC
+# Updated: 2026-10-25 20:10:40 UTC
 # Count: 4
 
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl2.pad-sservice.lat:8443?path=%2FPL2W&security=tls&encryption=none&insecure=0&host=pl2.pad-service.com&type=ws&allowInsecure=0&sni=pl2.pad-sservice.lat#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
-vless://b2d5eabe-b95b-41ac-950c-79e7a5535416@144.31.112.193:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=smotrim.ru&pbk=1ZayBdUlr1WvxrXQxgOA8Fz8yrHZ7p6qfGmbzgbUtQA&sid=c1e2f3b067f3325b&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20%22HOSTOFF%20CSL%22
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjU0LjM3LjEzMS4xMjYiLCJwb3J0IjoiODAiLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJwYXRoIjoiLyIsInRscyI6IiJ9
 vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiaWQiOiJmNGRhYWVjNy0wZTFlLTRjOGUtOTdlOC1jZmY1MzQ3YzJkYWUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiNTYwODAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBcdTI1MDcgVk1lc3MgXHUwMGI3IDNoY2xvdWQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl3.pad-sservice.lat:8443?path=%2FPL3W&security=tls&encryption=none&insecure=0&host=pl3.pad-service.com&type=ws&allowInsecure=0&sni=pl3.pad-sservice.lat#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl2.pad-sservice.lat:8443?path=%2FPL2W&security=tls&encryption=none&insecure=0&host=pl2.pad-service.com&type=ws&allowInsecure=0&sni=pl2.pad-sservice.lat#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
