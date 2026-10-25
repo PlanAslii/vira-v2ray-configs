@@ -1,5 +1,5 @@
 # Country ID
-# Updated: 2026-10-19 15:10:40 UTC
+# Updated: 2026-10-25 14:40:40 UTC
 # Count: 1
 
-vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20CSNET
+vless://1c731a2a-77ed-4389-a91b-29a7f5869fb0@103.150.192.28:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D103.150.192.28%3A443#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20PT%20Biznet%20Gio%20Nusantara
