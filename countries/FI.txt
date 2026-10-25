@@ -1,7 +1,6 @@
 # Country FI
-# Updated: 2026-10-25 19:40:40 UTC
-# Count: 3
+# Updated: 2026-10-25 20:10:40 UTC
+# Count: 2
 
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=%2FEL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=firefox&type=tcp&sni=www.google.com&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://b2d5eabe-b95b-41ac-950c-79e7a5535416@78.17.55.225:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tvigle.ru&pbk=nnyAPMILuXf-yuxu1RNW2qUq1WknAf9uMx8hNoFH410&sid=d63e1739f583607a&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@31.76.89.226:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ai.eosshop.net&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20U1%20DIGITAL%20SERVICES%20LTD
