@@ -1,9 +1,5 @@
 # Vira — all configs
-# Updated: 2026-10-25 01:40:40 UTC
-# Count: 5
+# Updated: 2026-10-25 02:10:40 UTC
+# Count: 1
 
-vless://d851e504-54b9-452a-9bab-6a3b821e1189@trn24.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=e8f4426268c05621#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
-vless://7ce594b9-918b-441d-922c-230341838abd@72.56.88.181:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nl2.xshoponline.ru&fp=firefox&pbk=EkBRN12aZMx4Q_FCOcxB9KuzMkgLSBswmkDycnaTZWM&sid=1a917cfae106f7dd&allowInsecure=1#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Timeweb%2C%20LLP
-vless://71ee5343-b431-44be-bed7-22b9b9f7253c@piracy-android.video-streams.org:443?encryption=none&type=ws&security=tls&sni=piracy-android.video-streams.org&fp=chrome&alpn=http%2F1.1&path=%2Fws&host=piracy-android.video-streams.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&type=ws&security=tls&sni=ccc.010304.xyz&path=%2F&host=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://32daf25d-9ffa-4f43-b6a3-2ebc21014681@45.12.63.81:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.vk.ru&pbk=MN2XIVlIusdWaGwyyrGZ7Ti3jzqjDlpMmc12WcrV1nU&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Closed%20Joint%20Stock%20Company%20%22AbkhazMedia%22
+vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiMTcyLjY2LjAuMjUxIiwiaWQiOiI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvODcwYW8yNmYiLCJwb3J0IjoiODAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBcdTI1MDcgVk1lc3MgXHUwMGI3IEZpYmVyU3RhdGUsIExMQyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
