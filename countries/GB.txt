@@ -1,11 +1,6 @@
 # Country GB
-# Updated: 2026-10-25 16:10:40 UTC
-# Count: 7
+# Updated: 2026-10-25 16:40:40 UTC
+# Count: 2
 
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.176.229.51:443?security=reality&encryption=none&pbk=4FgTYQNtmGhIj137SdjagESDb61Kl6Anj_de5JP7YBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ad9.vkusnews.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Freakhosting%20LTD
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&sid=a25d0f#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20UK%20Limited
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@167.104.223.215:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb2.murainternet.network&sid=fc36b4a584871aa5#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@gb2.murainternet.network:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=gb2.murainternet.network&fp=chrome&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&sid=fc36b4a584871aa5&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Weyro%20LTD
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.176.229.51:443?security=reality&encryption=none&pbk=4FgTYQNtmGhIj137SdjagESDb61Kl6Anj_de5JP7YBs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ad9.vkusnews.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Freakhosting%20LTD
-vless://c4ce05b0-3feb-4cd6-bd87-d569f3ad1278@uk.finenetwork.ir:2053?security=none&encryption=mlkem768x25519plus.native.0rtt.0RytJgwlCtwY2UZKv6yg-Cp_ugl-o1bJjoOavhuo3A8&host=uk.finenetwork.ir&headerType=none&type=tcp&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Redstation%20Limited
-vmess://eyJhZGQiOiJmdW5ueW1lbWVzLmdvYWxpci5jby51ayIsImFpZCI6IjAiLCJpZCI6ImQ1MjVmMzM1LTYzYjItNDNiMC1iMTQyLWRmNTZhNjgxYTA5ZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiI4ODgwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgXHUyNTA3IFZNZXNzIFx1MDBiNyBNSVNUUkFMIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
