@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-10-25 21:10:40 UTC
-# Count: 2
+# Updated: 2026-10-25 22:10:40 UTC
+# Count: 1
 
-vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:2053?path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tr2.soft10.ir#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
-vless://c796829e-6597-48da-9814-1991ee1454d4@trn36.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=aefc7f3722#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A
+vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:2053?encryption=none&type=ws&security=tls&sni=tr2.soft10.ir&fp=chrome&path=%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
