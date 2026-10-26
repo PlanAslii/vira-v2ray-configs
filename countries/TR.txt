@@ -1,7 +1,5 @@
 # Country TR
-# Updated: 2026-10-26 20:10:40 UTC
-# Count: 3
+# Updated: 2026-10-26 20:40:40 UTC
+# Count: 1
 
 vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Datahost-Internet-ve-Bilisim-Teknolojileri
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=tr.pad-sservice.lat&fp=firefox&alpn=http%2F1.1&path=%2FTR1&host=tr.pad-service.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr2.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=tr2.pad-sservice.lat&fp=firefox&alpn=http%2F1.1&path=%2Ftr1-2&host=tr2.pad-service.com#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
