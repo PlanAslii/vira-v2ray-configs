@@ -1,6 +1,5 @@
 # Country EE
-# Updated: 2026-10-26 10:40:40 UTC
-# Count: 2
+# Updated: 2026-10-26 13:40:40 UTC
+# Count: 1
 
-vless://a39ef2cc-1fda-4be0-b1b4-4271c77a242b@132.243.74.97:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=step.fast-brooklyn.ru&pbk=mSwyh5bA3twI-QGH4z-tyV75fKN6Zwl43kduMv5sXDc&sid=ba86eee322fe3e12&allowInsecure=1#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Granatnet%20OU
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20SG%20TECH%20SOLUTIONS%20SRL
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?encryption=none&type=grpc&security=reality&sni=willow.cdn.cachefleet.com&fp=random&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&serviceName=telegram-bridge&mode=gun&allowInsecure=1#DailyCfg%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20SG%20TECH%20SOLUTIONS%20SRL
