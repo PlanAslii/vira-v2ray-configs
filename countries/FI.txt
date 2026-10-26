@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-10-26 13:40:40 UTC
-# Count: 1
+# Updated: 2026-10-26 14:10:40 UTC
+# Count: 2
 
-vless://1ef7d97f-3aa5-4fe6-8521-84cf4794bf7a@2.27.203.251:443?security=reality&encryption=none&pbk=QYdQmsVvUj4jwo9gH20nJA5x015gaAL0nGipORe6ZmY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=edge-fi2.lovely.my#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20-%20Fzco
+vless://4ee88ef0-8922-48ce-9cd4-5f67ef201b35@31.76.102.10:12801?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nldva.normbot.ru&pbk=XvloQQpz3cKWJXdUdBwPUTfzeAwo7BwKJsvkG4e6ZxA&sid=3a2f64e6e251&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=%2FEL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
