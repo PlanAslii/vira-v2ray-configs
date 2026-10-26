@@ -1,6 +1,6 @@
 # Country FR
-# Updated: 2026-10-26 09:10:40 UTC
+# Updated: 2026-10-26 09:40:40 UTC
 # Count: 2
 
-vless://4c5a54b3-774e-4391-b78e-f3e9fa928792@194.24.161.220:443?encryption=none&fp=firefox&path=%2Fapi%2Fmetric%2Fws&security=tls&sni=borsch2.spravedlivost.fun&type=ws#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Layer7%20Networks%20Datacenter%20location%20PAR1%20France
-vmess://eyJhZGQiOiI1MS44My42LjUiLCJhaWQiOiIwIiwiaWQiOiJkZTg4M2Q2ZC00MDk5LTQxYmMtYmE4Ni04MmZmZWQ2NGEzODAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiMjAyNTAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IE9WSCBTQVMiLCJzY3kiOiJub25lIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://b3d079ff-b775-4ffe-bac9-41228b08b15b@143.246.211.163:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fr.gorobsub.com&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&sid=3242cfd7&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20RCS%20Technologies%20FZE%20LLC
