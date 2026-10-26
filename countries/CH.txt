@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-10-26 18:40:40 UTC
-# Count: 1
+# Updated: 2026-10-26 19:10:40 UTC
+# Count: 2
 
-vless://34a5d892-2708-483c-b3b0-a63e61ee7417@185.195.69.158:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D185.195.69.158%3A443#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Datasource%20AG
+vless://593440ee-3813-4958-9e59-8f4e2ae87850@ch.bitpunch.icu:10443?encryption=none&security=reality&sni=deepl.com&fp=edge&pbk=XjxIJLX0cQT8zjhGdzQfAhPuxSwNUm4s_wYUTTl--Ts&sid=13abc4d5&type=grpc&serviceName=xyz&mode=gun#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&security=tls&sni=swz.proxyplankton.ru&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
