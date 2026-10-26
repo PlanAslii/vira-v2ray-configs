@@ -1,7 +1,6 @@
 # Country TR
-# Updated: 2026-10-26 12:40:40 UTC
-# Count: 3
+# Updated: 2026-10-26 13:10:40 UTC
+# Count: 2
 
+vless://f5f293ed-e177-4c91-84df-ccf4c9a3e262@93.114.98.23:8443?encryption=mlkem768x25519plus.native.0rtt.CvF2xKYOd-FQY_fZVlUcrv4bEu83q_B6ZE_H7E6zkFY&flow=xtls-rprx-vision&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
 vless://4b1be712-774c-4b65-8491-a3339e124a70@tr2.tv-quoralyx.top:443?security=reality&encryption=none&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tr2.tv-quoralyx.top&sid=f4b2a12c#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pixoof%20Teknoloji%20Anonim%20Sirketi
-vmess://eyJhZGQiOiI5My4xMTQuOTguMjMiLCJhaWQiOiIwIiwiZnAiOiJjaHJvbWUiLCJpZCI6ImY1ZjI5M2VkLWUxNzctNGM5MS04NGRmLWNjZjRjOWEzZTI2MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiIyMDgzIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBHLUNvcmUgTGFicyBTLkEuIiwic2N5IjoiYXV0byIsInNuaSI6InR5N3Y4NWh2MjM5MS5keDFkeC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?sni=apple.com&fp=firefox&headerType=none&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Datahost-Internet-ve-Bilisim-Teknolojileri
