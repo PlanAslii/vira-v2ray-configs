@@ -1,8 +1,5 @@
 # Country RU
-# Updated: 2026-10-26 00:10:40 UTC
-# Count: 4
+# Updated: 2026-10-26 00:40:40 UTC
+# Count: 1
 
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Neurosignal%20LLC
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.140.119:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@147.45.47.89:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Neurosignal%20LLC
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.140.99:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Ideal%20Hosting%20Teknoloji
+vless://ca926603-c678-4639-b726-a5b82d7e110c@113.30.154.207:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Neurosignal%20LLC
