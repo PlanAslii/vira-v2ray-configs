@@ -1,5 +1,6 @@
 # Country PL
-# Updated: 2026-10-26 04:10:40 UTC
-# Count: 1
+# Updated: 2026-10-26 06:10:40 UTC
+# Count: 2
 
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl1.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=pl1.pad-sservice.lat&path=%2FPL1W&host=pl1.pad-service.com#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=2.26.6.1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Mitelis%20Security%20Limited
+vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiaWQiOiJmNGRhYWVjNy0wZTFlLTRjOGUtOTdlOC1jZmY1MzQ3YzJkYWUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiNTYwODAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBcdTI1MDcgVk1lc3MgXHUwMGI3IDNoY2xvdWQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
