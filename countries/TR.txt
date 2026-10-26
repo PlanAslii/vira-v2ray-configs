@@ -1,6 +1,6 @@
 # Country TR
-# Updated: 2026-10-26 10:10:41 UTC
+# Updated: 2026-10-26 10:40:40 UTC
 # Count: 2
 
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Datahost-Internet-ve-Bilisim-Teknolojileri
 vmess://eyJhZGQiOiIyMDYuMS4xMDEuMjA2IiwiYWlkIjoiMCIsImlkIjoiMTk0MGZhYzItMmQxYi00MzMwLWFlYmQtNjlhMjkyNzE2ODhlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjMwOTUwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBOZXRsZW4gSW50ZXJuZXQgSGl6bWV0bGVyaSBMdGQuIFN0aS4iLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?sni=apple.com&fp=firefox&headerType=none&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&type=tcp#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Datahost-Internet-ve-Bilisim-Teknolojileri
