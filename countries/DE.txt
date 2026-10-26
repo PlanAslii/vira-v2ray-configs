@@ -1,8 +1,8 @@
 # Country DE
-# Updated: 2026-10-26 06:40:40 UTC
+# Updated: 2026-10-26 07:10:40 UTC
 # Count: 4
 
+vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?encryption=none&flow=xtls-rprx-vision&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&security=reality&sid=296f27de82dad7ff&sni=www.bing.com&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20MivoCloud%20SRL
 vless://a6ff5c61-d081-4582-8a63-682cf0d1c6e5@45.142.106.122:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=lex-star-bomba.org&fp=firefox&alpn=http/1.1%2Ch2#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Florian%20Kolb
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de4.pad-sservice.lat:8443?path=/D14E&security=tls&encryption=none&insecure=0&host=de4.pad-service.com&type=ws&allowInsecure=0&sni=de4.pad-sservice.lat#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de10.pad-sservice.lat:8443?path=/DE10W&security=tls&encryption=none&insecure=0&host=de10.pad-service.com&type=ws&allowInsecure=0&sni=de10.pad-sservice.lat#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de5.pad-sservice.lat:443?path=%2FDE5W%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=de5.pad-service.com&type=ws&allowInsecure=0&sni=de5.pad-sservice.lat#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
