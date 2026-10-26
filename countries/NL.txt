@@ -1,5 +1,5 @@
 # Country NL
-# Updated: 2026-10-26 04:10:40 UTC
+# Updated: 2026-10-26 04:40:40 UTC
 # Count: 1
 
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@nl8.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=nl8.pad-sservice.lat&path=%2FNL8W&host=nl8.pad-service.com#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Paul%20Sagov
+vless://ae091bed-c397-49c9-aa28-c4a250f757c6@2.dzen-nl-1.com:8443?security=reality&encryption=none&pbk=gNIk9M0_JAgXNkEoWxPFBkZYyLBSbXEyRgpTg63W8xE&headerType=none&fp=edge&type=tcp&sni=2.dzen-nl-1.com&sid=19aa25f681923dc8#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Forestsnet%20LTD
