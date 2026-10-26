@@ -1,9 +1,6 @@
 # Country CA
-# Updated: 2026-10-26 21:10:40 UTC
-# Count: 5
+# Updated: 2026-10-26 21:40:40 UTC
+# Count: 2
 
+vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://d342d11e-d224-4463-b982-532309285094@172.64.146.66:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBcdTI1MDcgVk1lc3MgXHUwMGI3IENsb3VkZmxhcmUsIEluYy4iLCJzY3kiOiJhdXRvIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
-vmess://eyJhZGQiOiIxNzIuNjQuMjI5LjIxIiwiYWlkIjoiMCIsImFscG4iOiJudWxsIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://d342d11e-d224-4463-b982-532309285094@104.17.154.123:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
