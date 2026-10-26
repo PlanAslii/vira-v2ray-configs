@@ -1,9 +1,6 @@
 # Country FI
-# Updated: 2026-10-26 18:40:40 UTC
-# Count: 5
+# Updated: 2026-10-26 19:10:40 UTC
+# Count: 2
 
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@fi17-node.rumedia-cdn.com:8443?security=reality&encryption=none&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:8443?security=reality&encryption=none&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=0f47ff9aa15e3e30#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://34a5d892-2708-483c-b3b0-a63e61ee7417@135.181.24.30:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D135.181.24.30%3A443#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://03577b43-3adc-4e2b-bea0-26369100191d@jasper53.wannexo.ir:47607?security=none&encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=dynu.com&headerType=http&type=tcp&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
