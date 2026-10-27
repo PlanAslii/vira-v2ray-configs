@@ -1,7 +1,8 @@
 # Country PL
-# Updated: 2026-10-27 13:40:40 UTC
-# Count: 3
+# Updated: 2026-10-27 14:10:40 UTC
+# Count: 4
 
-vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?flow=xtls-rprx-vision&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&security=reality&sid=50&sni=cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20%22HOSTOFF%20CSL%22
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=2.26.6.1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Mitelis%20Security%20Limited
+vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@150.251.112.44:12443?security=reality&encryption=none&pbk=pmuJt78YwO4hmuVE-d1fxgYRtRho7Cb36CcR9ynt9jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=94bffb5c3f23.j.cloudfront.hls.ttvnw.net&sid=886cda2e22e571d1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?security=reality&encryption=none&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=50#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20LLC%20%22HOSTOFF%20CSL%22
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjU0LjM3LjEzMS4xMjYiLCJwb3J0IjoiODAiLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJwYXRoIjoiLyIsInRscyI6IiJ9
