@@ -1,5 +1,5 @@
 # Country CH
-# Updated: 2026-10-27 04:10:40 UTC
+# Updated: 2026-10-27 11:10:40 UTC
 # Count: 1
 
-vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=swz.proxyplankton.ru#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
+vless://7d9dbe01-f192-436e-b6d5-533fc3c998e0@185.195.69.158:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D185.195.69.158%3A443#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Datasource%20AG
