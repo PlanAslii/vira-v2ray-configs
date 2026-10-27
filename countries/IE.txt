@@ -1,5 +1,5 @@
 # Country IE
-# Updated: 2026-10-20 20:40:40 UTC
+# Updated: 2026-10-27 17:10:40 UTC
 # Count: 1
 
-vless://7060231d-b9ba-495f-a218-bf427940cf3e@52.214.230.202:443?encryption=none&host=play.googleapis.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=ir-new-ded.failspace.top#DailyCfg%20%F0%9F%87%AE%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
