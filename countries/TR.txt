@@ -1,6 +1,7 @@
 # Country TR
-# Updated: 2026-10-27 10:40:40 UTC
-# Count: 2
+# Updated: 2026-10-27 11:10:40 UTC
+# Count: 3
 
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@helllo.com.tr:2218?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=cc80ef#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
+vless://7d9dbe01-f192-436e-b6d5-533fc3c998e0@130.94.1.177:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D130.94.1.177%3A443#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
 vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&type=tcp&headerType=none&sni=apple.com&encryption=none&security=reality&fp=chrome#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Datahost-Internet-ve-Bilisim-Teknolojileri
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@helllo.com.tr:2218?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=cc80ef#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Tres%20Teknoloji%20A.S.
