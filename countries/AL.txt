@@ -1,5 +1,7 @@
 # Country AL
-# Updated: 2026-10-26 18:40:40 UTC
-# Count: 1
+# Updated: 2026-10-27 12:40:40 UTC
+# Count: 3
 
-vless://34a5d892-2708-483c-b3b0-a63e61ee7417@91.239.6.47:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D91.239.6.47%3A443#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Host.AL%20Shpk
+vless://7b53f9fa-8dc0-4c3a-b715-64794997f61e@aelix-tun.zestmarket.ir:6309?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://7b53f9fa-8dc0-4c3a-b715-64794997f61e@aelix-tun.sky-line.ir:6304?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://7b53f9fa-8dc0-4c3a-b715-64794997f61e@aelix-al.safire-soleiman.ir:6311?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&allowInsecure=1#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
