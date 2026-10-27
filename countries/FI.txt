@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-10-27 00:10:40 UTC
-# Count: 1
+# Updated: 2026-10-27 03:40:40 UTC
+# Count: 2
 
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=firefox&type=tcp&sni=www.google.com&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:8443?security=reality&encryption=none&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=0f47ff9aa15e3e30#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
