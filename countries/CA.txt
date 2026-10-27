@@ -1,10 +1,9 @@
 # Country CA
-# Updated: 2026-10-27 14:10:40 UTC
-# Count: 6
+# Updated: 2026-10-27 14:40:40 UTC
+# Count: 5
 
+vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@172.67.133.118:2053?encryption=none&type=ws&security=tls&sni=uwu.blueknightnet.qzz.io&fp=chrome&alpn=http%2F1.1&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&host=uwu.blueknightnet.qzz.io#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.70.206:8443?path=%2F&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.71.206:8443?path=%2F&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&fp=chrome&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vmess://eyJhZGQiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJhaWQiOjAsImhvc3QiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJpZCI6IjgzYjA5YTY0LTFlYWYtNGM0ZC04OWVkLTg2NmQ0YjZiODExNSIsIm5ldCI6IndzIiwicGF0aCI6Ii90cnV0aCIsInBvcnQiOjQ0MywicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgXHUyNTA3IFZNZXNzIFx1MDBiNyBDbG91ZGZsYXJlLCBJbmMuIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoid3d3LnVidW50dXVwZGF0ZXMuY29tIn0
-vless://f2a7b23e-6ec3-432b-8381-5219d80f606f@piracy-android.video-streams.org:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&host=piracy-android.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=piracy-android.video-streams.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
-vless://f2a7b23e-6ec3-432b-8381-5219d80f606f@adheres-scruple.quick-cdn.net:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&host=adheres-scruple.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=adheres-scruple.quick-cdn.net#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
