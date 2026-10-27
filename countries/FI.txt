@@ -1,6 +1,6 @@
 # Country FI
-# Updated: 2026-10-27 04:10:40 UTC
+# Updated: 2026-10-27 05:40:40 UTC
 # Count: 2
 
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:8443?security=reality&encryption=none&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=0f47ff9aa15e3e30#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Node%20Host%20Limited
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&type=tcp&security=reality&sni=www.google.com&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=chrome&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&sid=65149fc5ba&spx=%2FEL8OY1VX47km1uf&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
