@@ -1,7 +1,7 @@
 # Country DE
-# Updated: 2026-10-27 10:40:40 UTC
+# Updated: 2026-10-27 11:10:40 UTC
 # Count: 3
 
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?security=reality&encryption=none&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=125ba3#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://383c6b5d-cbab-4779-ba32-daa9148f5d0d@vip.trapxan.ir:2053?encryption=none&security=tls&sni=vip.trapxan.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&type=ws&host=vip.trapxan.ir&path=%2FARSALANVPN_CHANNEL#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20Deutschland%20GmbH
+vless://7d9dbe01-f192-436e-b6d5-533fc3c998e0@138.199.175.118:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D138.199.175.118%3A443#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://00ee2eeb-cb0e-453c-b151-c8cf28089d31@116.203.7.223:34257?security=reality&encryption=none&pbk=5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=601e43eb94a28919#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?security=reality&encryption=none&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=125ba3#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
