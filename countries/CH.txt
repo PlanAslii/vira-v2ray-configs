@@ -1,6 +1,5 @@
 # Country CH
-# Updated: 2026-10-26 19:40:40 UTC
-# Count: 2
+# Updated: 2026-10-27 03:40:40 UTC
+# Count: 1
 
-vless://593440ee-3813-4958-9e59-8f4e2ae87850@ch.bitpunch.icu:10443?encryption=none&security=reality&sni=deepl.com&fp=edge&pbk=XjxIJLX0cQT8zjhGdzQfAhPuxSwNUm4s_wYUTTl--Ts&sid=13abc4d5&type=grpc&serviceName=xyz&mode=gun#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&security=tls&sni=swz.proxyplankton.ru&type=tcp#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=swz.proxyplankton.ru#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
