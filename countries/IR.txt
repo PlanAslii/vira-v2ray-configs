@@ -1,6 +1,7 @@
 # Country IR
-# Updated: 2026-10-28 17:40:40 UTC
-# Count: 2
+# Updated: 2026-10-28 18:10:40 UTC
+# Count: 3
 
+vless://19fe743d-1549-40bd-96a4-ec948ff6cd91@finio.pedramhost.ir:27195?security=reality&encryption=none&pbk=h2IZ2DHQ-ibHC8NzuO7TVo3wS7G8DBV1hoCCR5cbRko&headerType=none&fp=chrome&spx=%2Fcdb1822366e45df&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=942beb9c5e316e6c#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Parsun%20Network%20Solutions%20PTY%20LTD
 vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?encryption=none&type=tcp&security=tls&sni=email.apptrendv.com&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bonyan%20Sepehr%20Kasir%20PJSC%20%E2%94%87%20%F0%9F%9F%A2
 vmess://eyJhZGQiOiI2Mi4yMjAuMTIxLjM1IiwiYWlkIjoiMCIsImlkIjoiYmUxYWUzMjEtYjkxYi00MjZlLThlNGUtYTJmYjAwOGU4OGI0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU0lORVQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
