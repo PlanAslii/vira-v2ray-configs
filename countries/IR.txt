@@ -1,9 +1,5 @@
 # Country IR
-# Updated: 2026-10-28 14:40:40 UTC
-# Count: 5
+# Updated: 2026-10-28 15:10:40 UTC
+# Count: 1
 
-vless://21c51a85-c125-4440-b690-113c9d7b2b87@srv3.segara.ir:8443?security=reality&encryption=none&pbk=bpqWvZAEHPgZ-kGrJDu6INWZ6InPJxXdJei3VxcAJR8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=ae4931ddfcb70677#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Moein%20Dadosetad%20Golestan%20Co.%20%E2%94%87%20%F0%9F%94%B4
-vless://21c51a85-c125-4440-b690-113c9d7b2b87@srv1.segara.ir:8443?security=reality&encryption=none&pbk=bpqWvZAEHPgZ-kGrJDu6INWZ6InPJxXdJei3VxcAJR8&headerType=none&fp=chrome&type=tcp&sni=iran.ir&sid=ae4931ddfcb70677#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Mohammad%20Taha%20Mashhorrodi%20%E2%94%87%20%F0%9F%9F%A2
-vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiaWQiOiI1ZmQzZTRmNi04NzdhLTRkMDItOWQ4MC0wM2I4YjcwYmE4YjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU0hBVEVMIE5ldHdvcmsiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc3RvcmUudG9wIiwiYWlkIjoiMCIsImlkIjoiNWZkM2U0ZjYtODc3YS00ZDAyLTlkODAtMDNiOGI3MGJhOGI2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjUzODEiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IFNIQVRFTCBOZXR3b3JrIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
-vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plZGF0YS50b3AiLCJhaWQiOiIwIiwiaWQiOiI1ZmQzZTRmNi04NzdhLTRkMDItOWQ4MC0wM2I4YjcwYmE4YjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU0hBVEVMIE5ldHdvcmsiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=email.apptrendv.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bonyan%20Sepehr%20Kasir%20PJSC%20%E2%94%87%20%F0%9F%9F%A2
