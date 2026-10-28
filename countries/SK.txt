@@ -1,5 +1,5 @@
 # Country SK
-# Updated: 2026-10-27 23:40:40 UTC
+# Updated: 2026-10-28 03:10:40 UTC
 # Count: 1
 
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.co.uk&fp=firefox&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&sid=fcadf69c8d&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%B0%20%E2%94%87%20VLESS%20%C2%B7%20VPS1
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?security=reality&encryption=none&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.co.uk&sid=fcadf69c8d#DailyCfg%20%F0%9F%87%B8%F0%9F%87%B0%20%E2%94%87%20VLESS%20%C2%B7%20VPS1
