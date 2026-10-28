@@ -1,6 +1,7 @@
 # Country CH
-# Updated: 2026-10-28 07:40:40 UTC
-# Count: 2
+# Updated: 2026-10-28 10:10:40 UTC
+# Count: 3
 
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@ch.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?encryption=none&type=tcp&security=tls&sni=swz.proxyplankton.ru#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@176.65.144.42:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ch.viralforge.ru&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@ch.viralforge.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ch.viralforge.ru&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
