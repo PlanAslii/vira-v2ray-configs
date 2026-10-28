@@ -1,6 +1,6 @@
 # Country IR
-# Updated: 2026-10-28 09:10:40 UTC
+# Updated: 2026-10-28 09:40:40 UTC
 # Count: 2
 
+vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=email.apptrendv.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bonyan%20Sepehr%20Kasir%20PJSC%20%E2%94%87%20%F0%9F%9F%A2
 vless://38184696-21c9-41ab-9a62-2a1da5e0df53@tun2.w-ert.org:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=tcp&allowInsecure=0&sni=email.apptrendv.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bonyan%20Sepehr%20Kasir%20PJSC%20%E2%94%87%20%F0%9F%9F%A2
