@@ -1,9 +1,7 @@
 # Country BG
-# Updated: 2026-10-28 19:40:40 UTC
-# Count: 5
+# Updated: 2026-10-28 20:10:41 UTC
+# Count: 3
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@94.26.41.47:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ded.bsh-net.ru&fp=firefox&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&sid=8e72c89e1adf4dc4&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Telco%20power%20Ltd
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@ded.bsh-net.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ded.bsh-net.ru&fp=firefox&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&sid=8e72c89e1adf4dc4&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Telco%20power%20Ltd
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
-vless://2da85937-93d9-4509-8491-63b1921cf447@6.bmi.ir.asopardaz.ir:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=timeline.www.cloudflare.com&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915&allowInsecure=1#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
