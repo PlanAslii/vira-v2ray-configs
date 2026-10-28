@@ -1,5 +1,11 @@
 # Country SE
-# Updated: 2026-10-28 08:40:40 UTC
-# Count: 1
+# Updated: 2026-10-28 09:10:40 UTC
+# Count: 7
 
+vless://0597ed1d-d599-4ef6-913e-ea5b8e13aed6@13.60.79.245:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Fmicrosoft-365&sni=www.microsoft.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=KAPbb7td_kjh6IkSuoq4eaeSWoilJ978RaSokYBZyS8&sid=da4d68d031b0d40c#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://0597ed1d-d599-4ef6-913e-ea5b8e13aed6@51.20.189.239:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Fsupport&sni=c.s-microsoft.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=KAPbb7td_kjh6IkSuoq4eaeSWoilJ978RaSokYBZyS8&sid=da4d68d031b0d40c#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://0597ed1d-d599-4ef6-913e-ea5b8e13aed6@51.20.130.2:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Fxbox&sni=www.microsoft.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=KAPbb7td_kjh6IkSuoq4eaeSWoilJ978RaSokYBZyS8&sid=da4d68d031b0d40c#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://0597ed1d-d599-4ef6-913e-ea5b8e13aed6@16.170.220.220:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Fstore&sni=c.s-microsoft.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=KAPbb7td_kjh6IkSuoq4eaeSWoilJ978RaSokYBZyS8&sid=da4d68d031b0d40c#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com
+vless://0597ed1d-d599-4ef6-913e-ea5b8e13aed6@51.20.76.63:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Fazure&sni=c.s-microsoft.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=KAPbb7td_kjh6IkSuoq4eaeSWoilJ978RaSokYBZyS8&sid=da4d68d031b0d40c#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
+vless://0597ed1d-d599-4ef6-913e-ea5b8e13aed6@51.20.95.153:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=%2Fen-us&sni=c.s-microsoft.com&fp=chrome&alpn=h2%2Chttp%2F1.1&pbk=KAPbb7td_kjh6IkSuoq4eaeSWoilJ978RaSokYBZyS8&sid=da4d68d031b0d40c#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com%2C%20Inc.
 vless://4b1be712-774c-4b65-8491-a3339e124a70@136.148.211.243:443?security=reality&encryption=none&pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&fp=chrome&type=grpc&serviceName=grpc-se-3&sni=se1-cl3.vless-fiberstasis.top&sid=11d37dd92940329e#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hostup%20AB
