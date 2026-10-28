@@ -1,7 +1,5 @@
 # Country IL
-# Updated: 2026-10-28 06:40:40 UTC
-# Count: 3
+# Updated: 2026-10-28 09:40:40 UTC
+# Count: 1
 
-vless://5a519754-a673-4462-83f6-5eb25d2af141@79.182.39.45:25172?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&pbk=Xr55Hig_JTeUluiGfSnma6zMHG2Uv5Xu30ZODGF5xGA&sid=f09ac427e1abd14b&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20NET
-vless://5a519754-a673-4462-83f6-5eb25d2af141@f36f5ft.us4.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=f36f5ft.us4.h1clayd.click&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20NET
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Webhost%20LLC
