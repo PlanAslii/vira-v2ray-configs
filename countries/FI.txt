@@ -1,7 +1,7 @@
 # Country FI
-# Updated: 2026-10-28 09:40:40 UTC
+# Updated: 2026-10-28 10:10:40 UTC
 # Count: 3
 
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@96.62.103.24:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi.viralforge.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
 vless://b491331e-3be5-4097-8bc1-fa86de978c29@83.147.216.223:4433?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
 vless://2aad65ee-e65f-48fe-b120-782a367f9048@jasper53.wannexo.ir:47607?encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&security=none&type=tcp&headerType=http&flow=xtls-rprx-vision&path=%2F&host=dynu.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&type=tcp&security=reality&sni=www.google.com&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
