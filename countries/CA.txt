@@ -1,9 +1,8 @@
 # Country CA
-# Updated: 2026-10-28 11:40:40 UTC
-# Count: 5
+# Updated: 2026-10-28 12:10:40 UTC
+# Count: 4
 
 vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://684bf9c1-c40a-42cb-b982-623982fc2732@45.81.154.16:443?security=reality&encryption=none&pbk=y69l6zReCOjJrqYoDjSiBYAWP1VmFPBgS7PP5sqSaW8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=can.kramiliantha.sbs&sid=b6798bbbfb18587e#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20ZhouyiSat%20Communications
 vless://f290a2b1-8b64-4764-b96c-264d8f383bf3@cdn-v2ahop.povrak.ir:8443?path=%2Fcdn&security=tls&encryption=none&insecure=0&host=cdn-v2ahop.povrak.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn-v2ahop.povrak.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vmess://eyJhZGQiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy51YnVudHV1cGRhdGVzLmNvbSIsImlkIjoiODNiMDlhNjQtMWVhZi00YzRkLTg5ZWQtODY2ZDRiNmI4MTE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicG9ydCI6IjQ0MyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
