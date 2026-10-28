@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-10-28 12:40:40 UTC
-# Count: 2
+# Updated: 2026-10-28 13:40:40 UTC
+# Count: 1
 
-vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@tau1.freerunet.online:443?security=reality&sni=tau1.freerunet.online&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&sid=4a7b1c8d#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&type=tcp&security=reality&sni=www.google.com&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=firefox&type=tcp&sni=www.google.com&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
