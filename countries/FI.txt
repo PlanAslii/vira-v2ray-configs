@@ -1,6 +1,7 @@
 # Country FI
-# Updated: 2026-10-28 06:40:40 UTC
-# Count: 2
+# Updated: 2026-10-28 07:10:40 UTC
+# Count: 3
 
+vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20DpkgSoft%20International%20Limited
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@96.62.103.24:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fi.viralforge.ru&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Dedik%20Services%20Limited
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=firefox&type=tcp&sni=www.google.com&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
-vless://b491331e-3be5-4097-8bc1-fa86de978c29@83.147.216.223:4433?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20NetCrafters%20OU
