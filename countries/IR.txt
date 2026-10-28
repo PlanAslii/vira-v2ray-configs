@@ -1,8 +1,6 @@
 # Country IR
-# Updated: 2026-10-28 08:10:40 UTC
-# Count: 4
+# Updated: 2026-10-28 08:40:40 UTC
+# Count: 2
 
+vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=tcp&allowInsecure=0&sni=email.apptrendv.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bonyan%20Sepehr%20Kasir%20PJSC%20%E2%94%87%20%F0%9F%9F%A2
 vless://ad0fe7ae-3f8b-4586-b692-ca115e4a137f@37.202.228.56:443?security=reality&encryption=none&pbk=J5kmrlkFtPh30sNqkY4hH3LoM0Vpj1h10JYaCo2CJzI&headerType=none&fp=chrome&type=tcp&sni=divar.ir&sid=9ddd9f551b3db80c#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SHATEL%20Network%20%E2%94%87%20%F0%9F%94%B4
-vless://162b16b2-e032-475d-8460-a400e3d5fa6f@gr.v2xpin.top:8443?path=%2F&security=tls&encryption=none&insecure=0&host=gr.anten2.com&type=ws&allowInsecure=0&sni=me.anten2.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%20Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%94%B4
-vless://0a1bc538-64d6-b719-8daa-e06668ec0a85@netshield.officialvpn.shop:20118/?flow=xtls-rprx-vision&headerType=none&security=tls&sni=nightwolf.datesell.ir&type=tcp#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pishgaman%20Toseeh%20Ertebatat%20Company%20%28Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%94%B4
-vless://0a1bc538-64d6-b719-8daa-e06668ec0a85@id.hyperlinkle.com:11197/?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=id.hyperlinkle.com&fp=chrome&alpn=h2&fragment=100-200%2C1-1%2Ctlshello#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Ali%20Monfared%20%E2%94%87%20%F0%9F%9F%A2
