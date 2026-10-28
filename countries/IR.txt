@@ -1,6 +1,7 @@
 # Country IR
-# Updated: 2026-10-28 09:40:40 UTC
-# Count: 2
+# Updated: 2026-10-28 10:10:40 UTC
+# Count: 3
 
+vless://5bd8679a-d15b-48b7-82f2-8b726d57701a@callme.restaurantcloud.ir:6002?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloud.ir&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=callme.restaurantcloud.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pars%20Abr%20Toseeh%20Ertebatat%20LTD%20%E2%94%87%20%F0%9F%9F%A2
+vless://162b16b2-e032-475d-8460-a400e3d5fa6f@gr.v2xpin.top:8443?path=%2F&security=tls&encryption=none&insecure=0&host=gr.anten2.com&type=ws&allowInsecure=0&sni=me.anten2.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%20Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%94%B4
 vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=email.apptrendv.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Bonyan%20Sepehr%20Kasir%20PJSC%20%E2%94%87%20%F0%9F%9F%A2
-vless://38184696-21c9-41ab-9a62-2a1da5e0df53@tun2.w-ert.org:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
