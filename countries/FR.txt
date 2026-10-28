@@ -1,10 +1,9 @@
 # Country FR
-# Updated: 2026-10-28 21:40:40 UTC
-# Count: 6
+# Updated: 2026-10-28 22:10:41 UTC
+# Count: 5
 
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2FTelegram-MTMVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Scaleway%20SAS
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjUxLjc1LjExOC43OSIsInBvcnQiOiIyMDIzMCIsImlkIjoiZGU2OThhYjAtNzA5ZC00MTNmLWIyMWYtYTkxNGU1ZTdjNjAzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjUxLjc1LjExOC43OSIsInBhdGgiOiIvcGFyaGFtLWNvbmZpbmctdm1lc3M/dT1CdTdrdHg4UEdUeUkiLCJ0bHMiOiIifQ
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?encryption=none&type=tcp&security=tls&sni=w.geogame.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6IjgwIiwiaWQiOiIwNjdmY2Q2My1iMjE1LTRhYmQtODUyOS1hZTkyOWE5OTcxYTkiLCJhaWQiOiIwIiwic2N5Ijoibm9uZSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsInBhdGgiOiIvIiwidGxzIjoiIn0
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&sid=086bf957&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20GmbH
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@9.247.23.209:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20RCS%20Technologies%20FZE%20LLC
-vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&fp=chrome&spx=%2Fa38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
