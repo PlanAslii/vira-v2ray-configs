@@ -1,5 +1,5 @@
 # Country TR
-# Updated: 2026-10-29 03:10:40 UTC
+# Updated: 2026-10-29 07:10:40 UTC
 # Count: 1
 
-vless://16e9ae65-c42d-49b9-9e86-524956e4ef19@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vless://d7801e5a-254d-4dff-a7dd-ef5eb0b30374@130.94.1.177:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D130.94.1.177%3A443#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
