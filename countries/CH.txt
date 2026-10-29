@@ -1,5 +1,5 @@
 # Country CH
-# Updated: 2026-10-29 08:10:41 UTC
+# Updated: 2026-10-29 09:10:40 UTC
 # Count: 1
 
-vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443/?type=tcp&encryption=none&security=tls&sni=swz.proxyplankton.ru&fp=firefox#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?encryption=none&type=tcp&security=tls&sni=swz.proxyplankton.ru#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
