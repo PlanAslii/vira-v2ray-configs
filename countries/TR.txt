@@ -1,10 +1,7 @@
 # Country TR
-# Updated: 2026-10-29 14:40:40 UTC
-# Count: 6
+# Updated: 2026-10-29 15:40:40 UTC
+# Count: 3
 
-vless://2f358bd2-f55b-4735-aeae-2a6f4eea4880@static.tevnaro.ir:443?encryption=none&type=tcp&security=reality&sni=ai.android&fp=chrome&pbk=RVqny9xY821kUGqKQMzAWHeWjt_OrYw2Hn5poqH0lAs&sid=6318bc577da67e29&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
-vless://2f358bd2-f55b-4735-aeae-2a6f4eea4880@86.38.214.1:443?encryption=none&type=ws&security=tls&sni=g--2.onevanet.ir&fp=chrome&alpn=http%2F1.1&path=%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%20London%2C%20LLC
-vless://8d1d7ceb-49d1-4c04-87b6-3edd0fff8dd5@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Turunc%20Smart%20Bilgisayar%20Teknoloji%20Ve%20Dis%20Ticaret%20Limited%20Sirketi
-vless://5b32557c-a67b-415b-97b2-a43290ab71c5@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Turunc%20Smart%20Bilgisayar%20Teknoloji%20Ve%20Dis%20Ticaret%20Limited%20Sirketi
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgTmV0bGVuIEludGVybmV0IEhpem1ldGxlcmkgTHRkLiBTdGkuIiwiYWRkIjoiMTUzLjUyLjkyLjQzIiwicG9ydCI6IjQ0MyIsImlkIjoiMmRkNDY3MDEtZGM0Ny01Y2FkLTk5N2UtMGE3NzAwOTBiMTc4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
-vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?encryption=none&type=ws&security=tls&sni=206.1.101.85&path=%2F#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
+vmess://eyJhZGQiOiIxNTMuNTIuOTIuNDMiLCJhaWQiOiIwIiwiaWQiOiIyZGQ0NjcwMS1kYzQ3LTVjYWQtOTk3ZS0wYTc3MDA5MGIxNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgTmV0bGVuIEludGVybmV0IEhpem1ldGxlcmkgTHRkLiBTdGkuIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgTmV0bGVuIEludGVybmV0IEhpem1ldGxlcmkgTHRkLiBTdGkuIiwiYWRkIjoiMTUzLjUyLjkyLjQzIiwicG9ydCI6IjQ0MyIsImlkIjoiQE5pdHJvX1NreWJvdEBOaXRyb19Ta3lib3QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.
