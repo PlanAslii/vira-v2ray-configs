@@ -1,6 +1,5 @@
 # Country RU
-# Updated: 2026-10-29 22:10:40 UTC
-# Count: 2
+# Updated: 2026-10-29 22:40:40 UTC
+# Count: 1
 
-vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?path=%2F&security=tls&encryption=none&insecure=0&host=194.87.143.165&fp=ios&type=ws&allowInsecure=0&sni=wsru1.wba-pn.ru#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?security=reality&encryption=none&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sun6-21.userapi.com&sid=3199b70105c62ce0#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
