@@ -1,12 +1,9 @@
 # Country IR
-# Updated: 2026-10-29 18:40:40 UTC
-# Count: 8
+# Updated: 2026-10-29 19:10:40 UTC
+# Count: 5
 
 vmess://eyJhZGQiOiJkZDEuZXh0cmFzZXJ2aWNlcy5pciIsImFpZCI6IjAiLCJpZCI6IjZkMjU4YzAyLTQ1OTItNGU5MS1hNGVjLTNiYjYzZjVhZTJmYiIsIm5ldCI6InRjcCIsInBvcnQiOjQyMjAsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU0hBVEVMIE5ldHdvcmsiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJkZDMuZXh0cmFzZXJ2aWNlcy5pciIsImFpZCI6IjAiLCJpZCI6IjZkMjU4YzAyLTQ1OTItNGU5MS1hNGVjLTNiYjYzZjVhZTJmYiIsIm5ldCI6InRjcCIsInBvcnQiOjEwMzAsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU0hBVEVMIE5ldHdvcmsiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJzcGhyLmV4dHJhc2VydmljZXMuaXIiLCJhaWQiOiIwIiwiaWQiOiI2ZDI1OGMwMi00NTkyLTRlOTEtYTRlYy0zYmI2M2Y1YWUyZmIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyMzU2LCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IFNIQVRFTCBOZXR3b3JrIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vmess://eyJhZGQiOiJkZDIuZXh0cmFzZXJ2aWNlcy5pciIsImFpZCI6IjAiLCJpZCI6IjZkMjU4YzAyLTQ1OTItNGU5MS1hNGVjLTNiYjYzZjVhZTJmYiIsIm5ldCI6InRjcCIsInBvcnQiOjQxNSwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBTSEFURUwgTmV0d29yayIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 vmess://eyJhZGQiOiJyaXAyLmV4dHJhc2VydmljZXMuaXIiLCJhaWQiOiIwIiwiaWQiOiI2ZDI1OGMwMi00NTkyLTRlOTEtYTRlYy0zYmI2M2Y1YWUyZmIiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo0NDksInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgUElTSEdBTUFOIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vless://bf6feeab-e24d-444a-80c8-418aceabbe9f@rapid.extraservices.ir:2050?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=0CY-iPfsKqHCdi15dGhCFtqXBpvDxyCmB2V12xSdXS4&sid=9b3fdd05d849903a#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20PISHGAMAN%20%E2%94%87%20%F0%9F%94%B4
-vless://bf6feeab-e24d-444a-80c8-418aceabbe9f@dd5.extraservices.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=ez8tAVn-A1EVMi7KWg26JAyb5vpVn57yrE4td3t9ASM&sid=9b8b2aa22bf1c4a4#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20SHATEL%20Network%20%E2%94%87%20%F0%9F%94%B4
-vless://0f21994e-f41c-4cb0-965b-4f3d588ccd26@goold.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=goold.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=goold.zovip2.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pooya%20Parto%20Qeshm%20Cooperative%20Company%20%E2%94%87%20%F0%9F%94%B4
