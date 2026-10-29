@@ -1,5 +1,6 @@
 # Country BG
-# Updated: 2026-10-29 16:40:40 UTC
-# Count: 1
+# Updated: 2026-10-29 17:10:40 UTC
+# Count: 2
 
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20MAXKO%20d.o.o.
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@2.59.218.23:443?security=reality&encryption=none&pbk=Nvv8Dl8Ep7mVDOwYn5fiirUIRglzJmbMMhuMdKNAOUo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sof.lamibeauty.site&sid=0c911aba142876ed#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20BlueVPS%20OU
