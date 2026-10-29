@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-10-29 06:40:40 UTC
-# Count: 1
+# Updated: 2026-10-29 07:10:40 UTC
+# Count: 2
 
+vless://d7801e5a-254d-4dff-a7dd-ef5eb0b30374@135.181.24.30:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D135.181.24.30%3A443#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
