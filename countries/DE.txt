@@ -1,7 +1,9 @@
 # Country DE
-# Updated: 2026-10-29 14:10:40 UTC
-# Count: 10
+# Updated: 2026-10-29 14:40:40 UTC
+# Count: 12
 
+vless://2f358bd2-f55b-4735-aeae-2a6f4eea4880@gr.edge-cache.davzura.ir:8887?encryption=none&type=tcp&security=reality&sni=nytimes.com&fp=chrome&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&sid=9262c6710896560f&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20DE
+vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?encryption=none&type=ws&security=tls&sni=n.bitpulse.me&fp=chrome&alpn=http%2F1.1&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560&host=n.bitpulse.me#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Aphrodite%20Group%20Ltd
 vless://0f5215b6-1109-4449-ba23-174623ae68a5@static.216.7.245.188.clients.your-server.de:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=static.216.7.245.188.clients.your-server.de&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://202ab4e9-d944-49af-8dae-72541f227734@176.96.136.72:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=m6.mincreaft.com&pbk=xyyy7IyhUG4jkCr_MSoQoGpKpliaT_vWuDpXOf4KFiE&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20dataforest%20GmbH
 vless://202ab4e9-d944-49af-8dae-72541f227734@185.229.207.104:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=m4.mincreaft.com&pbk=a2shpTGkqr-nkclTg-GlDIk2WG2aEOHtDsiG3m68xlg&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20dataforest%20GmbH
