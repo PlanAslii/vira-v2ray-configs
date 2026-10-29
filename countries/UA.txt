@@ -1,5 +1,5 @@
 # Country UA
-# Updated: 2026-10-28 22:10:41 UTC
+# Updated: 2026-10-29 02:40:40 UTC
 # Count: 1
 
-vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?encryption=none&type=ws&security=tls&sni=indigostar.click&path=%2Fws#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
+vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=indigostar.click#DailyCfg%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
