@@ -1,8 +1,6 @@
 # Country IR
-# Updated: 2026-10-29 20:10:40 UTC
-# Count: 4
+# Updated: 2026-10-29 21:10:40 UTC
+# Count: 2
 
-vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser2.plasmoon.ir:2026?alpn=http%2F1.1&encryption=none&sni=tun2.plasmoon.ir&type=tcp&security=tls&fp=chrome&insecure=0&allowInsecure=0&headerType=none#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Respina%20Networks%20%26%20Beyond%20PJSC%20%E2%94%87%20%F0%9F%94%B4
-vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser1.plasmoon.ir:2026?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tun1.plasmoon.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AlvandNetwork%20%E2%94%87%20%F0%9F%94%B4
-vmess://eyJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IFBhcnZhcmVzaCBEYWRlaGEgQ28uIFByaXZhdGUgSm9pbnQgU3RvY2siLCJhZGQiOiJzMS5jb25uZWN0LmJsb3JveHkubmV0IiwicG9ydCI6MTE0MSwiaWQiOiJiOTBlN2ZjNi0xMTU0LTQ3MGYtOWExNi1mNDViMjRjYWVjMjAiLCJ2IjoiMiIsImFpZCI6MSwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6Im5vbmUifQ
-vless://6ba8077f-0e37-44d8-b6e0-c3b1871fe439@5.202.4.8:5066?security=reality&encryption=none&pbk=LTA0C-rWwGeaNv3oHvYti-zGGhVu4mo_8xyoEM34n3s&headerType=none&fp=chrome&spx=%2F26a7a1f1620a112&type=tcp&sni=api.receptivity.io&sid=c849e1d5d92374#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pishgaman%20Toseeh%20Ertebatat%20Company%20%28Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%94%B4
+vless://b93c7771-fd89-4b72-8f00-8fd20e3cbd22@faka28.parsfa123.com:443?path=%2Fvr1028%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=faka28.parsfa123.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Taymaz%20Gostaran%20Naghshe%20Almas%20Co.%20%28%20Ltd%20%29%20%E2%94%87%20%F0%9F%94%B4
+vless://0f21994e-f41c-4cb0-965b-4f3d588ccd26@goold.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=goold.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=goold.zovip2.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pooya%20Parto%20Qeshm%20Cooperative%20Company%20%E2%94%87%20%F0%9F%94%B4
