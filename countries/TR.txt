@@ -1,5 +1,6 @@
 # Country TR
-# Updated: 2026-10-29 07:40:40 UTC
-# Count: 1
+# Updated: 2026-10-29 09:10:40 UTC
+# Count: 2
 
-vless://d7801e5a-254d-4dff-a7dd-ef5eb0b30374@130.94.1.177:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=%2Fws%3Fip%3D130.94.1.177%3A443#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
+vless://eab53369-a78a-4130-866a-5a797c17933d@trn29.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
+vless://eab53369-a78a-4130-866a-5a797c17933d@trn15.mobileemdad.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=delivery.mp.microsoft.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=9ed2fa&allowInsecure=1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20G-Core%20Labs%20S.A.
