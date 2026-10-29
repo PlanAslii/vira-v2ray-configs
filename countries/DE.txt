@@ -1,5 +1,6 @@
 # Country DE
-# Updated: 2026-10-29 04:40:40 UTC
-# Count: 1
+# Updated: 2026-10-29 05:10:40 UTC
+# Count: 2
 
+vless://7b91b2c3-8af3-449b-a555-00c9460989f4@lvi.su:443?encryption=none&type=ws&security=tls&sni=lvi.su&path=%2Fvpn-relay%3Ftoken%3D27fede42482b3c29d4c1c9640876c250%26pool%3Dwhitelist2&host=lvi.su#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Play2go%20International%20Limited
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112/?type=tcp&encryption=none&sni=play.google.com&fp=firefox&security=reality&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
