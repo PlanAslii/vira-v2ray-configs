@@ -1,5 +1,6 @@
 # Country GB
-# Updated: 2026-10-29 08:10:41 UTC
-# Count: 1
+# Updated: 2026-10-29 09:10:40 UTC
+# Count: 2
 
-vless://d1b33bcd-88e8-428f-87da-cc8bfb2d426c@89.125.11.26:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=room8.filesnap.tech&pbk=BTRF6cX_1ul5lAN31QmqrPNl9yMNo8JrsUJOhi9K71U&sid=3cb2d38fbac380fa&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OKOLABS-AS
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.248.63:44559?encryption=none&fp=firefox&security=tls&sni=en001.zestapp778.com&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Kaopu%20Cloud%20HK%20Limited
+vless://eab53369-a78a-4130-866a-5a797c17933d@164.37.111.77:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=ios&pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&sid=e64e9f5eefbffc15&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Packet%20Star%20Networks%20Limited
