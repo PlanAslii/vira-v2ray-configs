@@ -1,5 +1,5 @@
 # Country FI
-# Updated: 2026-10-30 17:10:40 UTC
+# Updated: 2026-10-30 17:40:40 UTC
 # Count: 1
 
-vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@107.181.151.128:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=8f79726c5002#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://48d9a277-776b-4ab8-a357-88a1958beed8@78.17.27.137:8443?encryption=none&type=tcp&security=reality&sni=www.aalto.fi&fp=firefox&pbk=DZ0BYEIHEe9KmJzM_j5EAN0t3_BTcfO63P7x6SRCeQM&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
