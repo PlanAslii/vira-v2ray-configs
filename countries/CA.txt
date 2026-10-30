@@ -1,6 +1,5 @@
 # Country CA
-# Updated: 2026-10-30 03:10:40 UTC
-# Count: 2
+# Updated: 2026-10-30 03:40:40 UTC
+# Count: 1
 
 vless://e9378202-c7db-4204-a41c-ce981fa927d4@cdn2.ir53.indevs.in:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=cdn2.ir53.indevs.in&path=%2Fvarzesh3.com&security=tls&sni=cdn2.ir53.indevs.in&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
