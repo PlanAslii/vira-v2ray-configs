@@ -1,12 +1,5 @@
 # Country GB
-# Updated: 2026-10-30 02:10:40 UTC
-# Count: 8
+# Updated: 2026-10-30 02:40:40 UTC
+# Count: 1
 
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?path=%2Fws-tesla&security=tls&encryption=none&insecure=0&host=fast.145779.xyz&fp=chrome&type=ws&allowInsecure=0&sni=fast.145779.xyz#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&encryption=none&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fd8cf7e1173f0edb#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vless://77479eaf-c35e-4088-ae47-a2beb88a7272@uk.2ul.top:443?security=reality&encryption=none&pbk=C-e3vasFC42zQmJblol4foZozTe6j1c7TJMGqjvRm2U&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=77479eaf#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20MISTRAL
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
-vless://ed79c2d4-5558-428f-87f5-af4abc97a16d@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
-vless://d1b33bcd-88e8-428f-87da-cc8bfb2d426c@89.125.11.26:443?security=reality&encryption=none&pbk=BTRF6cX_1ul5lAN31QmqrPNl9yMNo8JrsUJOhi9K71U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=room8.filesnap.tech&sid=3cb2d38fbac380fa#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OKOLABS-AS
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
