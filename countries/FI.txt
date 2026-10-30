@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-10-30 18:10:40 UTC
-# Count: 4
+# Updated: 2026-10-30 18:40:40 UTC
+# Count: 3
 
 vless://706bce83-91db-4260-b175-cba29145cd56@62.60.229.216:443?security=reality&encryption=none&pbk=eh8WqxaSUlfNmlGzFLYFYrJzk1novnvfU6qmaLLOiX4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aezaf1.uni-plan.com&sid=72d410ce5f2036c9#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20International%20LTD
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=b.fi-1.bnc-gt.co.uk&fp=firefox&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20H2nexus%20Cloud%20Services%20-%20Fzco
 vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@107.181.151.128:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.mozilla.org&fp=firefox&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=8f79726c5002#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://48d9a277-776b-4ab8-a357-88a1958beed8@78.17.27.137:8443?encryption=none&type=tcp&security=reality&sni=www.aalto.fi&fp=firefox&pbk=DZ0BYEIHEe9KmJzM_j5EAN0t3_BTcfO63P7x6SRCeQM&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Snowd%20Security%20OU
