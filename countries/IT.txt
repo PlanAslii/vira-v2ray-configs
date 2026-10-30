@@ -1,5 +1,6 @@
 # Country IT
-# Updated: 2026-10-30 19:10:41 UTC
-# Count: 1
+# Updated: 2026-10-30 20:10:40 UTC
+# Count: 2
 
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@bg.reus.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=bg.reus.lol&fp=safari&pbk=OWnQ9xwvYFlNw_Fnmf4ceZMtb0SVLuVUoq2WP5P8lkw&sid=5f2d02dc7ec1e539&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Julian%20Achter
