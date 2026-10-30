@@ -1,6 +1,5 @@
 # Country KZ
-# Updated: 2026-10-30 14:40:40 UTC
-# Count: 2
+# Updated: 2026-10-30 15:10:40 UTC
+# Count: 1
 
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=kz1.waspnest.space&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&allowInsecure=1#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Kazakhtelecom
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&type=tcp&security=reality&sni=yahoo.com&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&allowInsecure=1#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20PE%20Fedinyak%20Sergey%20Vyacheslavovich
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@109.248.198.219:443?encryption=none&type=grpc&security=tls&sni=a.kz-1.bnc-gt.co.uk&fp=firefox&serviceName=grpc&mode=gun#DailyCfg%20%F0%9F%87%B0%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20PE%20Fedinyak%20Sergey%20Vyacheslavovich
