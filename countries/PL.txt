@@ -1,10 +1,7 @@
 # Country PL
-# Updated: 2026-10-30 21:40:40 UTC
-# Count: 6
+# Updated: 2026-10-30 22:10:40 UTC
+# Count: 3
 
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjU0LjM3LjEzMS4xMjYiLCJwb3J0IjoiODAiLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJwYXRoIjoiLyIsInRscyI6IiJ9
-vless://7d43670b-6b08-45b9-8a24-8f3971abc132@222.167.245.16:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=poland.biznes.lol&fp=firefox&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Datagio%20Systems%20Ltd.
-vless://7d43670b-6b08-45b9-8a24-8f3971abc132@poland.biznes.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=poland.biznes.lol&fp=firefox&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Datagio%20Systems%20Ltd.
-vless://ea797f77-8088-4966-8ee5-299039264c1b@2.26.6.244:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=cP-AKv1-x5V4YaGdkUtqx5MDUHhPBDTYZWAS0bm2W28&sid=c3afdc491738a5dc&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Mitelis%20Security%20Limited
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://8263aa5b-601d-4e05-b61d-a70e15d97869@45.198.0.88:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pl1.edge.rbullet.net&fp=firefox&pbk=GG5vpbtQpYpZkAa3qQfLe3f9kzym3EU5t8_MYUkX_z0&sid=458374ae&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20ExpressHost%20Ltd
+vless://706bce83-91db-4260-b175-cba29145cd56@177.1.192.67:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=up4.uni-plan.com&pbk=5QmUszafz1gigUjf3R2GwZ9RVsEwZT-polu0l8zfNgA&sid=830e615a39f4c811&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Uphost%20Solutions%20Limited
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTWVzcyBcdTAwYjcgT1ZIIFNBUyIsImFkZCI6IjU0LjM3LjEzMS4xMjYiLCJwb3J0IjoiODAiLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJwYXRoIjoiLyIsInRscyI6IiJ9
