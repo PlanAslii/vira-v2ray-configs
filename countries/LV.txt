@@ -1,7 +1,5 @@
 # Country LV
-# Updated: 2026-10-30 16:10:40 UTC
-# Count: 3
+# Updated: 2026-10-30 16:40:40 UTC
+# Count: 1
 
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@lv.peregrine-sub.net:1443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.peregrine-sub.net&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&allowInsecure=1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
-vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20Green%20Floid%20LLC
-vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vikt659.isgood.host&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&sid=af4ca5d16438c938&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20SIA%20VEESP
