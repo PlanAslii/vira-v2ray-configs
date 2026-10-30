@@ -1,7 +1,7 @@
 # Country US
-# Updated: 2026-10-30 04:40:40 UTC
+# Updated: 2026-10-30 05:10:40 UTC
 # Count: 3
 
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Alibaba%20Cloud%20LLC
+vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.69.31:8443?security=reality&flow=xtls-rprx-vision&pbk=H43_itYl9CE0AJiCktUfriENFmixY_MTHgX8slCrN2Q&sid=a4e32c324d86cfdf&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&path=%2F#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20FORNEX
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0IiwiYWRkIjoiMzguMTEwLjEuMjQ2IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5Ijoibm9uZSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ
-vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0In0
-vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InJhdyIsInBvcnQiOjE4MDAwLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBcdTI1MDcgVk1lc3MgXHUwMGI3IEdUSG9zdCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJuYW1lIjoiLT5VUyAoQERlYW1OZXRfUHJveHkpIn0
