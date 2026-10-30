@@ -1,8 +1,7 @@
 # Country IR
-# Updated: 2026-10-30 16:10:40 UTC
-# Count: 4
+# Updated: 2026-10-30 16:40:40 UTC
+# Count: 3
 
+vless://16423c7c-2c18-435b-8bbd-2bd3d5700628@tus.hemad.qzz.io:2053?path=%2Fspeed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tus.tun257xr.cfd#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Web%20Dadeh%20Paydar%20Co%20%28Ltd%29%20%E2%94%87%20%F0%9F%9F%A2
 vless://0205a7e1-970d-468a-926c-7e3b4c9a8b9d@konglam.goodphilips.ir:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.Czbg9hcwQievAuL-xnehRb6R4iBpzARvfocZiezGIgo&pbk=x1K53K_cLlg8QvxQhDnfRvMkQbtWkdzKdmaeYCIo4Hc&fp=chrome&type=grpc&sni=amp-api-edge.apps.apple.com&sid=e85705ad62739603#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Taknet%20Afzar%20Aftab%20PJSC%20%E2%94%87%20%F0%9F%94%B4
 vless://f47057d5-120d-4b42-b6d6-30469aef6813@tunell2027.crackerbinam.org:48312?security=reality&encryption=none&pbk=d9eM_jy8ztZrOf3DMq1m55VQSo7bnKcG1dRnO9ktJ2Y&headerType=http&type=tcp&sni=www.cloudflare.com&sid=902c315efc#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Mahdiar%20Rafiee
-vless://f34c5f4b-302a-4ab1-9c37-be66b2a07f4a@s-3.xorian.ir:60018?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=amp-api-edge.apps.apple.com&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=data-pi-23.xorian.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Dade%20Samane%20Fanava%20Company%20%E2%94%87%20%F0%9F%94%B4
-vless://76551d57-b802-40bb-8c9b-5fb5a2742e48@fun.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fun.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=fun.zovip2.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pooya%20Parto%20Qeshm%20Cooperative%20Company%20%E2%94%87%20%F0%9F%94%B4
