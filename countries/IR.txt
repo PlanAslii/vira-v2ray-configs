@@ -1,6 +1,5 @@
 # Country IR
-# Updated: 2026-10-30 07:10:40 UTC
-# Count: 2
+# Updated: 2026-10-30 08:40:40 UTC
+# Count: 1
 
-vless://38184696-21c9-41ab-9a62-2a1da5e0df53@820fa60d74ec17d7.tunvi.w-ert.org:38780?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
-vmess://eyJhZGQiOiJ0dW4ueGVsbml2by5pciIsImFpZCI6IjAiLCJpZCI6ImY2NTQ3NDY2LWE0NGEtNDFlNy05YjcxLTQ3M2M1YmYwNTcyMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIzNjc3MSIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgU2VwZWhyU2FieiBJREMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://38184696-21c9-41ab-9a62-2a1da5e0df53@2072832344a7fb53.tunvi.w-ert.org:47291?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Asre%20Dadeha%20Asiatech%20%E2%94%87%20%F0%9F%94%B4
