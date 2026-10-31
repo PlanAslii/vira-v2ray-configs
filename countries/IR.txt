@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-10-31 20:40:40 UTC
-# Count: 1
+# Updated: 2026-10-31 21:10:40 UTC
+# Count: 2
 
-vless://c430a280-9110-45de-ba9e-998de646d6af@tunn.pasmazy1.ir:9708?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=pP8WEPXWuKzBf4Qq4JSFmSQVQCP_ifeI-u9LcxEWvHw&sid=b82a9bd161c6395f&type=grpc#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Mohammad%20Taha%20Mashhorrodi%20%E2%94%87%20%F0%9F%9F%A2
+vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1tun0.greewebservices.ir:38820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&host=play.google.com&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=66ded2#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AbrBaranIDC%20%E2%94%87%20%F0%9F%94%B4
+vless://a739b69f-4df2-4bd1-bee5-5296b29f3733@irtun3.netlixa.ir:443?security=tls&encryption=mlkem768x25519plus.native.0rtt.n5rFV-xbpXV2Do-iy7lT9BwrXmlT2YOZJnTV6L0z0B8&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=irtun3.netlixa.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20AFranet%20Co%20%E2%94%87%20%F0%9F%94%B4
