@@ -1,5 +1,6 @@
 # Country GB
-# Updated: 2026-10-30 23:10:40 UTC
-# Count: 1
+# Updated: 2026-10-31 00:40:40 UTC
+# Count: 2
 
-vless://50414e45-4c5f-5a45-5553-8c0c6d01c0ed@7hzw3setuwgs.2gzcmpe2uses.workers.dev:443?encryption=none&type=ws&security=tls&sni=7hzw3setuwgs.2gzcmpe2uses.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F8c0c6d01c0ed&host=7hzw3setuwgs.2gzcmpe2uses.workers.dev#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://ed79c2d4-5558-428f-87f5-af4abc97a16d@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Ace%20Data%20Centers%20II
