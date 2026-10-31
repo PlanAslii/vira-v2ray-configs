@@ -1,11 +1,7 @@
 # Country US
-# Updated: 2026-10-31 08:10:40 UTC
-# Count: 7
+# Updated: 2026-10-31 08:40:40 UTC
+# Count: 3
 
+vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
 vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.69.31:8443?security=reality&encryption=none&pbk=H43_itYl9CE0AJiCktUfriENFmixY_MTHgX8slCrN2Q&host=www.samsung.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=a4e32c324d86cfdf#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20FORNEX
 vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBcdTI1MDcgVk1lc3MgXHUwMGI3IEdUSG9zdCIsInNjeSI6ImF1dG8iLCJzbmkiOiIzOC4xMTAuMS4yNDYiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@185.168.208.190:47443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=us-1.waspguard.ru&fp=firefox&pbk=hz7rzdHvTAVwfy48pa6313yBF-sV7V0svvPVnl95bgY&sid=ae97246a8f799854&allowInsecure=1#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@154.26.188.52:443?security=reality&encryption=none&pbk=Njwb7fCl8PXKOs3owDB-gjzbmEyEewlL6JlMKwMTUQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=b46b142b#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20DMIT%20Cloud%20Services
-vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTWVzcyBcdTAwYjcgR1RIb3N0Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=geminilanzerotte.live&fp=firefox&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Vodafone-Libertel-BV
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@187.52.44.20:47443?encryption=none&flow=xtls-rprx-vision&pbk=g5am2VhZkx_xH2TSKfUU8OYLxAzFrmcszNQg8AbOenE&security=reality&sid=ae97223a8f799872&sni=nl4.waspnest.space&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Globenet%20Cabos%20Submarinos%20America%20Inc
