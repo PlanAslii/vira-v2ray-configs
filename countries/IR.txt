@@ -1,6 +1,5 @@
 # Country IR
-# Updated: 2026-10-31 12:10:40 UTC
-# Count: 2
+# Updated: 2026-10-31 12:40:40 UTC
+# Count: 1
 
-vless://c55cfa40-55f7-4715-aab3-764219b88517@01-ir.nimhubnet.ir:1001?security=reality&encryption=mlkem768x25519plus.native.0rtt.3IGhcIYDxMlgfOc-Zz667EBP9OhYiyx_v-dm_G48gDI&pbk=WhhDDr5dbpu-MKir-ituefFelzPYJ3aI_XUnAPItZnk&host=cafeariel.ir&headerType=none&fp=chrome&type=tcp&sni=myket.ir&sid=9f87d005b13ec024#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Ayande%20Iranian%20Co.%20%28Private%20Joint%20Stock%29%20%E2%94%87%20%F0%9F%9F%A2
-vless://8e9eae1b-d2e3-4454-a96d-a83d74dca934@nobitex.ir:2082?encryption=mlkem768x25519plus.native.0rtt.XskKol2-5rWksMEyYIr7gTN3oo7zSDR3q3bWABnEkz8&host=sl.zetrucloud.ir&path=%2F&security=none&type=ws#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20ANYCAST%20%E2%94%87%20%F0%9F%9F%A2
+vless://c298ef75-2458-47ce-ada1-7e33f78a6490@goold.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=goold.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=goold.zovip2.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Pooya%20Parto%20Qeshm%20Cooperative%20Company%20%E2%94%87%20%F0%9F%94%B4
