@@ -1,6 +1,5 @@
 # Country RU
-# Updated: 2026-11-01 08:40:40 UTC
-# Count: 2
+# Updated: 2026-11-01 09:10:40 UTC
+# Count: 1
 
-vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?security=reality&encryption=none&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-mi-26.spbstudentlife.com&sid=a7856800c2deb7b2#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&type=ws&security=tls&sni=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&host=wstg.datasynctrue.online#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=media2.usicloid.my&fp=qq&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&sid=953e2426ac9a7c0e#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
