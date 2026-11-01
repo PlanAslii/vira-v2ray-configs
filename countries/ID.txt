@@ -1,6 +1,5 @@
 # Country ID
-# Updated: 2026-11-01 17:40:40 UTC
-# Count: 2
+# Updated: 2026-11-01 22:10:40 UTC
+# Count: 1
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
+vless://74df8abe-b176-4256-87be-e25a88aaee7e@103.150.192.28:443?encryption=none&security=tls&sni=link-vista-mua55s.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=link-vista-mua55s.pages.dev&path=%2Fws%3Fip%3D103.150.192.28%3A443#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20PT%20Biznet%20Gio%20Nusantara
