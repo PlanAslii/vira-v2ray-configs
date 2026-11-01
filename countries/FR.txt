@@ -1,8 +1,7 @@
 # Country FR
-# Updated: 2026-11-01 22:10:40 UTC
-# Count: 4
+# Updated: 2026-11-01 22:40:40 UTC
+# Count: 3
 
+vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?security=reality&type=tcp&packetEncoding=none&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=a44ff7d2e80213c2&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Scaleway%20SAS
 vless://dde64e50-7aad-4e66-ada9-40956bfeb668@nowayfr.zanjanphone.ir:45880?security=reality&encryption=mlkem768x25519plus.native.0rtt.Tg3iha9nSy8cZ-XGeP7ZwaTnO71yrovFO4APjiVx6Xg&pbk=Ry5FYtW6N6rgEXpixW0D1KrxDS6nirnsN21070XrkTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=08d9ff0c2c117f02#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
-vless://74df8abe-b176-4256-87be-e25a88aaee7e@159.60.146.82:443?encryption=none&security=tls&sni=link-vista-mua55s.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=link-vista-mua55s.pages.dev&path=%2Fws%3Fip%3D159.60.146.82%3A443#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20F5%20Networks%20SARL
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=random&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
