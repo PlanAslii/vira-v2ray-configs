@@ -1,5 +1,6 @@
 # Country BG
-# Updated: 2026-11-01 10:10:40 UTC
-# Count: 1
+# Updated: 2026-11-01 10:40:40 UTC
+# Count: 2
 
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.206.97:443?encryption=none&flow=xtls-rprx-vision&pbk=q3NQdiGg60myQYG6FekGE5g_a3q4g3WrD6eGayOWVwY&security=reality&sid=a2fcac&sni=remote.propaint.cl&type=tcp#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20https%3A//geofeeds.cyberzonehub.com/geofeed.csv
 vless://9d6225c4-f41f-4712-91af-bbc3e1b9c0ae@6.bmi.ir.asopardaz.ir:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=timeline.www.cloudflare.com&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915#DailyCfg%20%F0%9F%87%A7%F0%9F%87%AC%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20SRL
