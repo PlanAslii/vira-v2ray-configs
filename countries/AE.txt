@@ -1,5 +1,6 @@
 # Country AE
-# Updated: 2026-11-01 21:10:40 UTC
-# Count: 1
+# Updated: 2026-11-01 22:10:40 UTC
+# Count: 2
 
 vless://3dc76b67-6d26-4446-b542-0254b073bd8a@46.8.100.28:443?security=reality&encryption=none&pbk=tnEAM-61f1idRp0_FNf01mVdV1Ks8l1j55KIHJEcY28&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=48aca154137f7419#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
+vless://74df8abe-b176-4256-87be-e25a88aaee7e@172.86.77.145:443?encryption=none&security=tls&sni=link-vista-mua55s.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=link-vista-mua55s.pages.dev&path=%2Fws%3Fip%3D172.86.77.145%3A443#DailyCfg%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20FranTech%20Solutions
