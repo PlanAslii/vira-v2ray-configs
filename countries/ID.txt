@@ -1,5 +1,6 @@
 # Country ID
-# Updated: 2026-11-01 02:40:40 UTC
-# Count: 1
+# Updated: 2026-11-01 17:10:40 UTC
+# Count: 2
 
-vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTWVzcyBcdTAwYjcgTWljcm9zb2Z0IENvcnBvcmF0aW9uIiwiYWRkIjoiYXotMS5saW5rYWEueHl6IiwicG9ydCI6NTM2MTcsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsInNuaSI6ImF6LTEubGlua2FhLnh5eiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJwYXRoIjoiL2dhbWUvcmVzb3VyY2VzIn0
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#DailyCfg%20%F0%9F%87%AE%F0%9F%87%A9%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
