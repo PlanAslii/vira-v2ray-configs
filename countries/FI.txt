@@ -1,7 +1,5 @@
 # Country FI
-# Updated: 2026-11-02 16:10:40 UTC
-# Count: 3
+# Updated: 2026-11-02 17:10:40 UTC
+# Count: 1
 
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&security=reality&sid=91af08b1ce1f&sni=www.foxsports.com&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
 vless://6324c880-9fe5-49f9-9e19-85c7961310e6@iproxyland.beshdash.ir:58545?security=reality&encryption=none&pbk=Hm9C1tP40Uc-a8e2NQBUUM_uCkKVts3Fcedoo8EI8xU&headerType=none&fp=firefox&spx=%2FvJuHsSoClBSe5ga&type=tcp&sni=lamssettings-pa.googleapis.com&sid=9c2042#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
-vless://c924eed3-040a-a4f0-8255-80467b23a7f2@122.8.47.2:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=grpc&mode=gun&serviceName=TunService#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Alex%20Largman
