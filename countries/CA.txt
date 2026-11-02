@@ -1,9 +1,6 @@
 # Country CA
-# Updated: 2026-11-02 22:40:40 UTC
-# Count: 5
+# Updated: 2026-11-02 23:40:40 UTC
+# Count: 2
 
-vless://41e57a17-2ba6-4454-8baf-a20af01567b6@www.speedtest.net:443?encryption=none&type=ws&host=super-union-c1de.tyjdt4yy.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=super-union-c1de.tyjdt4yy.workers.dev&fp=firefox&alpn=http%2F1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vmess://eyJhZGQiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy51YnVudHV1cGRhdGVzLmNvbSIsImlkIjoiODNiMDlhNjQtMWVhZi00YzRkLTg5ZWQtODY2ZDRiNmI4MTE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoPyIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBcdTI1MDcgVk1lc3MgXHUwMGI3IENsb3VkZmxhcmUsIEluYy4iLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LnVidW50dXVwZGF0ZXMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
