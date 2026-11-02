@@ -1,6 +1,9 @@
 # Country IR
-# Updated: 2026-11-02 13:10:40 UTC
-# Count: 2
+# Updated: 2026-11-02 13:40:40 UTC
+# Count: 5
 
+vless://cd370c03-93f6-475e-9820-f4aac2a98e0c@trtrtr.persian3xl.ir:123?encryption=mlkem768x25519plus.native.0rtt.fgGMusuUMILLv30_DkbRfIQPv3wn9XFK83ZMYK1VCBg&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=Devrelate.io&fp=chrome&pbk=P1lAmoLZ_7DKH3xIQuuQYGiQ8mplvJnBeAH1YzS1ti8&sid=312b6373cac83323#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Baran%20Information%20Technologists%20LLC%20%E2%94%87%20%F0%9F%94%B4
+vless://cd370c03-93f6-475e-9820-f4aac2a98e0c@kfl3.persian2xl.ir:441?encryption=mlkem768x25519plus.native.0rtt.BQfzuC5tdAhHuuNIHkOxtW9yOJXwnx3tIJTIVYCfQxY&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=3QJXjqrXn0KFT0xb_-evN_sh_GbQsP9E--RNJ5yODyg&sid=b208279d87742f98#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Green%20Web%20Samaneh%20Novin%20PJSC%20%E2%94%87%20%F0%9F%94%B4
+vless://cd370c03-93f6-475e-9820-f4aac2a98e0c@pengu.persian2xl.ir:500?encryption=mlkem768x25519plus.native.0rtt.zJf1Q94Z5ASk7k1xAhJpQoiCg6NXJZa6Ufzgl2YR418&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&pbk=el5YbcwdLyOeLOWkJATaRmMKzDZ2PPwaXLWt5lYORj0&sid=aeb9c783c6278086#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Papiliohost
 vless://1b3bfa6c-6e45-455a-aeec-c1f553c0d844@tun2.w-ert.org:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Mohammad%20Masoudi%20%E2%94%87%20%F0%9F%9F%A2
 vless://1b3bfa6c-6e45-455a-aeec-c1f553c0d844@c89bab261dd57222.tunvi.w-ert.org:40287?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Mohammad%20Masoudi%20%E2%94%87%20%F0%9F%9F%A2
