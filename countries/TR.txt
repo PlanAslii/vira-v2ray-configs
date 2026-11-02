@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-11-01 22:40:40 UTC
-# Count: 2
+# Updated: 2026-11-02 00:40:40 UTC
+# Count: 1
 
-vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://74df8abe-b176-4256-87be-e25a88aaee7e@130.94.1.177:443?encryption=none&security=tls&sni=link-vista-mua55s.pages.dev&fp=chrome&alpn=http%2F1.1&type=ws&host=link-vista-mua55s.pages.dev&path=%2Fws%3Fip%3D130.94.1.177%3A443#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Light%20Node%20Limited
+vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=ios&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
