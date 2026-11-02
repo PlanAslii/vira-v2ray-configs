@@ -1,6 +1,5 @@
 # Country GB
-# Updated: 2026-11-02 06:10:41 UTC
-# Count: 2
+# Updated: 2026-11-02 08:40:40 UTC
+# Count: 1
 
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&security=reality&sid=a25d0f&sni=play.google.com&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Leaseweb%20UK%20Limited
-vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&type=ws&security=tls&sni=ccc.010304.xyz&path=%2Ffp&host=ccc.010304.xyz#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
+vless://00947839-40de-4e3f-a6e5-0570c16b4bce@140.225.209.152:2083?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=speedtestmark.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Uxhost%20LTD
