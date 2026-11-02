@@ -1,5 +1,8 @@
 # Country IR
-# Updated: 2026-11-02 02:40:40 UTC
-# Count: 1
+# Updated: 2026-11-02 04:10:41 UTC
+# Count: 4
 
-vless://eb6ba095-8184-4a85-992f-7a42049124cc@dash.zeneco.ir:2052?encryption=none&security=tls&type=ws&headerType=none&host=dash.zeneco.ir&sni=dash.zeneco.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Afranet%20Co%20%E2%94%87%20%F0%9F%94%B4
+vless://1b3bfa6c-6e45-455a-aeec-c1f553c0d844@tun2.w-ert.org:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Mohammad%20Masoudi%20%E2%94%87%20%F0%9F%9F%A2
+vless://23ab3d0a-7626-48d5-99b8-8446b0187734@3633c37daa4e6400.tunvi.w-ert.org:40287?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Mohammad%20Masoudi%20%E2%94%87%20%F0%9F%9F%A2
+vless://1b3bfa6c-6e45-455a-aeec-c1f553c0d844@c89bab261dd57222.tunvi.w-ert.org:40287?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Mohammad%20Masoudi%20%E2%94%87%20%F0%9F%9F%A2
+vless://38e6c206-fe40-49bd-ab35-be943d9cdac5@716ca599511416e1.tunvi.w-ert.org:40287?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Amir%20Mohammad%20Masoudi%20%E2%94%87%20%F0%9F%9F%A2
