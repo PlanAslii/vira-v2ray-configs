@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-11-02 10:40:40 UTC
-# Count: 1
+# Updated: 2026-11-02 11:40:40 UTC
+# Count: 2
 
-vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?security=reality&encryption=none&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-mi-26.spbstudentlife.com&sid=a7856800c2deb7b2#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Nekobyte%20International%20Limited
+vless://af4c8573-01cd-4f7a-b4a1-ad3b0d46cf4d@95.163.232.143:443?encryption=none&security=reality&sni=lte.xlink.su&fp=firefox&pbk=-Rr9E_n1_cBdsHQ_Sy3yMQXUMGjmTp-dUU_IQHy_FVQ&sid=6ba85179e30d4fc2&type=grpc&mode=gun&serviceName=grpc443#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Domain%20names%20registrar%20REG.RU%22%2C%20Ltd
+vmess://eyJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJhaWQiOiIwIiwiaWQiOiJjNThjMTIwNS1iMzA4LTQxNmYtODUwMy1jMDQ1NTdhYmY5M2QiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMjQyMTIiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSBcdTI1MDcgVk1lc3MgXHUwMGI3IFlhbmRleC5DbG91ZCBMTEMiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
