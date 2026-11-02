@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-11-02 20:40:40 UTC
-# Count: 1
+# Updated: 2026-11-02 21:10:40 UTC
+# Count: 2
 
+vless://51219f47-398b-48c1-afda-743513e77a4d@ams.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ams.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=ams.zovip2.ir#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Digital%20LLC
 vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@13.143.164.80:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl3.lenvex.cc#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20PowerRDP%20Network%20LTD
