@@ -1,8 +1,10 @@
 # Country DE
-# Updated: 2026-11-02 09:10:40 UTC
-# Count: 4
+# Updated: 2026-11-02 09:40:40 UTC
+# Count: 6
 
+vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@5.187.4.75:8443?encryption=none&flow=xtls-rprx-vision&pbk=0bmhEnhtswgFKbBedH4ez5O4xmgMfXIuEuSdFLy0PmI&security=reality&sid=25115fee0590a21e&sni=www.samsung.com&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Fornex%20Hosting%20S.L
+vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.39.251:443?security=reality&encryption=none&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-modx-prime.storagedirectguide.com#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20WAIcore%20Ltd
+vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.32.139:443?security=reality&encryption=none&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-modx-prime.storagedirectguide.com#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20WAIcore%20Ltd
 vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@norvegia29838199399293838.izzzyvpn.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=norvegia29838199399293838.izzzyvpn.space&fp=firefox&pbk=B6ZflW5h3Kce42IdizfHqjd_iq4ReXyJywBk-sjB0Gc&sid=945994fe7b858108&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
 vless://76cdb797-1c32-4e14-820b-c36f08f3f2cc@loos.cksurge.ir:47456?security=none&encryption=mlkem768x25519plus.native.0rtt.Jz-Qc1uO14EZkZNfD1r7GsH5l6ZX6NlBmTLrHkFetzg&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
 vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@bigshagy.zqpm.ir:5780?fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sni=yahoo.com&encryption=none&security=reality&sid=2efbb0033df59520&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance
-vless://26524cce-d514-4014-a426-365fb266a14d@162.19.254.104:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=t5pmr.mail-node.gfw.kdns.fr&fp=firefox&type=ws&allowInsecure=0&sni=t5pmr.mail-node.gfw.kdns.fr#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
