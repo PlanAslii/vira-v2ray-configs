@@ -1,6 +1,5 @@
 # Country GB
-# Updated: 2026-11-02 18:40:40 UTC
-# Count: 2
+# Updated: 2026-11-02 20:40:40 UTC
+# Count: 1
 
-vless://d342d11e-d224-4463-b982-532309285094@chatgpt.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a&host=/%3FTelegram#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Clouvider%20Limited
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@132.243.207.154:443?security=reality&encryption=none&pbk=tVx2o1LD0BI7CCoXfFSv-Rr_etGde9XpQ-iNA9P3338&host=get-37.topp-con.xyz&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=get-37.topp-con.xyz&sid=59d2296aa6320c76#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
