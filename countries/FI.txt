@@ -1,5 +1,8 @@
 # Country FI
-# Updated: 2026-11-03 20:10:40 UTC
-# Count: 1
+# Updated: 2026-11-03 20:40:40 UTC
+# Count: 4
 
+vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@177.3.193.191:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=debik2.vethilis.ru#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Baxet%20Group%20Inc.
+vless://c7d7fa7d-7845-4e02-af9e-284edcbf0d7e@static.167.125.29.2.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.167.125.29.2.clients.your-server.de#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
+vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&encryption=none&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nordea.fi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
 vless://a5534700-06fe-4d67-a208-9cac22ba6687@dedsec1523plus.ru:11157?security=reality&encryption=none&pbk=5ZnqogTBj863yP3-LQvklDeUKWvoLPiWItK_jx_i7nA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=07232b06#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20IT%20TECHNOLOGY%20VECTOR
