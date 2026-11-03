@@ -1,5 +1,6 @@
 # Country LV
-# Updated: 2026-11-03 09:10:41 UTC
-# Count: 1
+# Updated: 2026-11-03 19:10:40 UTC
+# Count: 2
 
-vless://51219f47-398b-48c1-afda-743513e77a4d@berlin.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=berlin.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=berlin.zovip2.ir#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://eabd38de-8ccd-455b-8643-e714ac86f81e@berlin.zovip2.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fapi%2Fv3%2Fpulse&host=berlin.zovip2.ir&sni=berlin.zovip2.ir&fp=chrome&vcn=berlin.zovip2.ir&alpn=http%2F1.1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://eabd38de-8ccd-455b-8643-e714ac86f81e@paris.zovip2.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fapi%2Fv3%2Fpulse&host=paris.zovip2.ir&sni=paris.zovip2.ir&fp=chrome&vcn=paris.zovip2.ir&alpn=http%2F1.1#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
