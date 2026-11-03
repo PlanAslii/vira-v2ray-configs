@@ -1,6 +1,7 @@
 # Country FR
-# Updated: 2026-11-03 22:10:40 UTC
-# Count: 2
+# Updated: 2026-11-03 22:40:40 UTC
+# Count: 3
 
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?headerType=none&sni=fuck.rkn&sid=01&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&type=tcp&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&encryption=none&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Scaleway%20SAS
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&fp=chrome&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&serviceName=grpc-common3&mode=gun#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://8247d1e9-5c4d-4fed-ab7f-8aa0aef51e51@fra.rayan-gaming.ir:40357?security=reality&encryption=mlkem768x25519plus.native.0rtt.ky4ELqdaZn20YFhqquiyV1-8sphxoBX1wUxYxgFiGBY&pbk=8-UhBUfqePcAF273KNYEUTv-nzor2KTT4iRPW3WmOmk&host=play.google.com&headerType=http&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=status.play.google.com&sid=4da35c40b510c9b2#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
