@@ -1,7 +1,8 @@
 # Country FI
-# Updated: 2026-11-03 14:10:40 UTC
-# Count: 3
+# Updated: 2026-11-03 14:40:40 UTC
+# Count: 4
 
+vless://a5534700-06fe-4d67-a208-9cac22ba6687@dedsec1523plus.ru:11157?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=5ZnqogTBj863yP3-LQvklDeUKWvoLPiWItK_jx_i7nA&sid=07232b06&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20IT%20TECHNOLOGY%20VECTOR
+vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.nordea.fi&fp=chrome&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&allowInsecure=1#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
+vless://b4beac04-7d69-47eb-85e6-1dd5f2fa6d92@docs.asasin4.ir:30940?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=pu8u1rdI0UHQfAppyMwbKmKQjTIS0HXmGNUG3UzEdy0&sid=d9cc6f4a&spx=%2F&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
 vless://ba446f9d-c23f-4e28-a4d3-4020e2287b25@docs.asasin4.ir:30940?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=pu8u1rdI0UHQfAppyMwbKmKQjTIS0HXmGNUG3UzEdy0&sid=d9cc6f4a&spx=%2F&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
-vless://2892a2f5-8941-4126-8af4-c496916a296e@docs.asasin4.ir:30940?security=reality&encryption=none&pbk=pu8u1rdI0UHQfAppyMwbKmKQjTIS0HXmGNUG3UzEdy0&headerType=none&fp=random&spx=%2F&type=tcp&sni=dl.google.com&sid=d9cc6f4a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
-vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&encryption=none&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nordea.fi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
