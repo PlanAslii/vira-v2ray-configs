@@ -1,5 +1,5 @@
 # Country DE
-# Updated: 2026-11-03 01:40:40 UTC
+# Updated: 2026-11-03 02:10:40 UTC
 # Count: 1
 
-vless://d596f92b-a7ce-47d2-8392-a274d9f57bec@87.120.92.68:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cloudiva.abrdns.com&fp=firefox&pbk=XLAE_KCFdlZkGcFndCnzEqsNHX1FByaGihkyEyrmDlo&sid=c1440935cc28&spx=%2F885d24eecd2e022&allowInsecure=1#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20WAIcore%20Ltd
+vless://ac36b6f8-d03d-46cb-808f-e655183fb76d@185.44.64.166:59397?security=reality&encryption=mlkem768x25519plus.native.0rtt.sphudmOm4wKYnBGDTU6kl6-KH7fdQ1VzXp58hEAn3zU&pbk=7w6m1Z7wZk1KX7bBlCi50t_8T-HdC8aMizOcIyqcaS4&headerType=none&fp=chrome&spx=%2F562f1e84cf56435&type=tcp&flow=xtls-rprx-vision&sni=la.blogs.nvidia.com&sid=1430#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Massivegrid%20LTD
