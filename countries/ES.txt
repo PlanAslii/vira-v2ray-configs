@@ -1,5 +1,6 @@
 # Country ES
-# Updated: 2026-11-03 17:40:40 UTC
-# Count: 1
+# Updated: 2026-11-03 18:10:40 UTC
+# Count: 2
 
-vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=0dfc23fe80778c00&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&encryption=none#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Green%20Floid%20LLC
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@es1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@152.114.194.147:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.fox-lisa.ru&sid=027af64166562b09#DailyCfg%20%F0%9F%87%AA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
