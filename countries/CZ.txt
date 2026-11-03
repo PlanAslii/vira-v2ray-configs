@@ -1,6 +1,5 @@
 # Country CZ
-# Updated: 2026-11-03 16:40:40 UTC
-# Count: 2
+# Updated: 2026-11-03 17:10:40 UTC
+# Count: 1
 
-vless://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:2083?encryption=none&type=ws&security=tls&sni=speedtestmark.com&fp=firefox&alpn=http%2F1.1&path=%2Fvless-ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Alfahost%20LLC
 vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=speedtestmark.com#DailyCfg%20%F0%9F%87%A8%F0%9F%87%BF%20%E2%94%87%20VLESS%20%C2%B7%20Alfahost%20LLC
