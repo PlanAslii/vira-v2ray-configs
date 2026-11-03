@@ -1,6 +1,5 @@
 # Country TR
-# Updated: 2026-11-03 18:40:40 UTC
-# Count: 2
+# Updated: 2026-11-03 20:40:40 UTC
+# Count: 1
 
-vless://4460652a-ac34-454d-a119-afe8f4dde1a0@81.177.215.156:443?security=reality&encryption=none&pbk=VNinTQ6vwOujTkrJgK_NPV4SpSBU6B7xG2tpM7prITQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tr-4vps.yourzloy.site&sid=fd5b0def0660cdb1#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
-vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm4.rmastore.ir:2053?path=%2Fnlrma&security=none&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
+vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm4.rmastore.ir:2053?path=%2Fnlrma&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws#DailyCfg%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20YottaSrc
