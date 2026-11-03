@@ -1,8 +1,7 @@
 # Country FI
-# Updated: 2026-11-03 12:10:40 UTC
-# Count: 4
+# Updated: 2026-11-03 12:40:40 UTC
+# Count: 3
 
 vless://1b8231bd-e189-450c-b760-27205d7f2700@am.o2colop.ir:8569?encryption=mlkem768x25519plus.native.0rtt.9hp3hmhwI0upvFp1cT1oWB46KBwRvCkhozWjrvGE-24&fp=chrome&headerType=http&host=play.google.com&path=%2F&pbk=BIb0_fVe93iurB3Go6Xuxgz8knoYU2iXhoZAwcW9fn4&security=reality&sid=6db2f3bd453ad7&sni=www.cloudflare.com&spx=%2Ffa67b870c1780ad&support-x25519mlkem768=true&type=tcp#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
 vless://2892a2f5-8941-4126-8af4-c496916a296e@docs.asasin4.ir:30940?security=reality&encryption=none&pbk=pu8u1rdI0UHQfAppyMwbKmKQjTIS0HXmGNUG3UzEdy0&headerType=none&fp=random&spx=%2F&type=tcp&sni=dl.google.com&sid=d9cc6f4a#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Cloud%20Software%20-%20FZCO
 vless://b62e3646-b84d-443c-9c94-718b646502e0@webdisk.jaggyslawa.org:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=dda5f542d835#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Hostkey%20B.V.
-vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&encryption=none&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nordea.fi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
