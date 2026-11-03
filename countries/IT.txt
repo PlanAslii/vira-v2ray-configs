@@ -1,5 +1,5 @@
 # Country IT
-# Updated: 2026-11-03 20:40:40 UTC
+# Updated: 2026-11-03 21:10:40 UTC
 # Count: 1
 
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@91.201.67.245:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=files.porsche.com&sid=1a2b3c4d#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@91.201.67.245:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=files.porsche.com&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&allowInsecure=1#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Melbikomas%20UAB
