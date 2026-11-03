@@ -1,6 +1,6 @@
 # Country RU
-# Updated: 2026-11-03 08:40:40 UTC
+# Updated: 2026-11-03 09:10:41 UTC
 # Count: 2
 
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://6158d429-74fe-4415-aae5-5ead48c2ecfa@13.143.184.226:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=msc1.serverslocal.ru&fp=ios&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&sid=f7e66e308136e1a1&allowInsecure=1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20SERV.HOST%20GROUP%20LTD
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:2092?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=G16EKGpV35sUVK9pkuLvnWd2IGX2tcajNnV7w5bI4ig&sid=2423df4e&serviceName=cas-it#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://769f34f0-1500-488f-b414-03bc90666502@cdn372.whitenw.net:12443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=catalog.mimowhat.online&fp=firefox&pbk=HyJQdnrodVK1USi-VyOC_pIvy1Ploj4Kf7kpO0vopSo&sid=78c8c6801d59cc19&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20%22Cloud%20Technologies%22%20LLC%20trading%20as%20Cloud.ru
