@@ -1,8 +1,5 @@
 # Country PL
-# Updated: 2026-11-04 17:40:40 UTC
-# Count: 4
+# Updated: 2026-11-04 18:10:40 UTC
+# Count: 1
 
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://7d43670b-6b08-45b9-8a24-8f3971abc132@poland.biznes.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=poland.biznes.lol&fp=chrome&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Datagio%20Systems%20Ltd.
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?encryption=none&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Korbank%20S.%20A.
-vless://610ac982-04eb-34c0-80b1-5dd3c2ca131e@201.10.90.113:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=undef-aut-0.undef.network&fp=firefox&pbk=6z3VlbF2v0C3FTWQQemYDxX-MIzwaz_k8_B-xyc0Xyg&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Moskalev%20Georgiy
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Korbank%20S.%20A.
