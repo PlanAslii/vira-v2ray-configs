@@ -1,5 +1,6 @@
 # Country SE
-# Updated: 2026-11-04 13:10:40 UTC
-# Count: 1
+# Updated: 2026-11-04 13:40:40 UTC
+# Count: 2
 
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@88.216.223.100:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=smart.bachidze.com&fp=firefox&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
+vless://73b1c227-1df0-4bb2-9090-d3821979ca3c@16.171.60.127:2083?encryption=none&type=grpc&security=reality&sni=intel.com&fp=chrome&pbk=PfcHKJYJ99sU-ApSUf1RhO7quJLdHi8avKZve-Hp_UU&sid=f3b083bb7a&spx=%2F678c199a3683435&mode=gun#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon.com
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart.bachidze.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=smart.bachidze.com&fp=chrome&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
