@@ -1,6 +1,5 @@
 # Country FI
-# Updated: 2026-11-04 18:10:40 UTC
-# Count: 2
+# Updated: 2026-11-04 18:40:40 UTC
+# Count: 1
 
 vless://b8a40bad-ca05-4d73-b3cb-1e216976546a@95.85.251.41:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=boloto.shop#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20VPSPay%20Networks%20LTD
-vless://03248cf9-cbcb-4718-a11d-35b499978d27@178.17.60.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-node.vopn.net&fp=firefox&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&sid=6ee8c6d2e8e9f547&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20WAIcore%20Ltd
