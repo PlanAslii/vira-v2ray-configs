@@ -1,5 +1,5 @@
 # Country LV
-# Updated: 2026-11-03 22:40:40 UTC
+# Updated: 2026-11-04 16:40:40 UTC
 # Count: 1
 
-vless://d8dcb071-57db-4ed6-92af-bb4183a14168@goold.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=goold.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=goold.zovip2.ir#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
+vless://fea93fdd-b667-40ab-a89d-e03a0ce1306b@95.182.115.178:80?security=none&encryption=mlkem768x25519plus.native.0rtt.yK9-4FtgDfUzqIl1_BKmsdBVPmVH_HwVrXiAWHZeKFY&headerType=none&type=tcp#DailyCfg%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS%20%C2%B7%20CGI%20GLOBAL%20LIMITED
