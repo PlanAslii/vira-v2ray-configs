@@ -1,5 +1,6 @@
 # Country FI
-# Updated: 2026-11-05 15:40:40 UTC
-# Count: 1
+# Updated: 2026-11-05 16:40:40 UTC
+# Count: 2
 
-vless://ffaa2141-759b-424f-f28c-23dbeae00f10@122.8.47.4:8443?encryption=none&security=reality&sni=www.philips.com&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&type=grpc&mode=gun&serviceName=TunService#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Alex%20Largman
+vless://ffaa2141-759b-424f-f28c-23dbeae00f10@122.8.47.4:8443?mode=gun&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Alex%20Largman
+vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&encryption=none&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nordea.fi#DailyCfg%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
