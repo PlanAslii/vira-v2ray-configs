@@ -1,6 +1,5 @@
 # Country SE
-# Updated: 2026-11-05 08:10:40 UTC
-# Count: 2
+# Updated: 2026-11-05 08:40:40 UTC
+# Count: 1
 
-vless://e1acad9b-e14e-4995-b2d6-5721823cb0a7@mein-1.octavia.dpdns.org:6600?security=reality&encryption=mlkem768x25519plus.random.0rtt.xeb-laivvHb_XcYpR8DzPf2KUGyaFnAqzMD5rnWbSkY&pbk=boqqUp4qxwRfu_Wp3QB4m1rLyeWh2NA7C7uEV3nq_go&headerType=none&fp=chrome&spx=%2F914f5d7e3339bb7&type=tcp&sni=www.semiconductor.samsung.com&sid=cb#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?security=reality&encryption=none&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de1.waspnest.space&sid=5212dad2aa9723d7#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=de1.waspnest.space&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7&allowInsecure=1#DailyCfg%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20xorek.cloud%20International%20LTD
