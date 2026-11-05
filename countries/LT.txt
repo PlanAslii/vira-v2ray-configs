@@ -1,5 +1,5 @@
 # Country LT
-# Updated: 2026-11-05 08:40:40 UTC
+# Updated: 2026-11-05 11:10:40 UTC
 # Count: 1
 
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?type=tcp&security=reality&sni=app26.betust.net&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.215.96:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=app26.betust.net&fp=firefox&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
