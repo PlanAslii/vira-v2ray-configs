@@ -1,10 +1,9 @@
 # Country CA
-# Updated: 2026-11-05 20:10:40 UTC
-# Count: 6
+# Updated: 2026-11-05 20:40:40 UTC
+# Count: 5
 
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ca1.fox-lisa.ru&fp=chrome&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
 vless://557b8df0-16d9-43d0-b7ca-d08cbea06ead@freev2.cloudflare.182682.xyz:443?path=%2Fannouncement%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=eu-central.862400.xyz&fp=random&type=ws&allowInsecure=0&sni=eu-central.862400.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicG9ydCI6IjE4MDAwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgXHUyNTA3IFZNZXNzIFx1MDBiNyBHTE9CQUxURUxFSE9TVCBDb3JwIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycC4iLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?encryption=none&security=tls&type=ws&path=%2Fvlessws&host=vpn.cintaku.qzz.io&sni=vpn.cintaku.qzz.io&fp=unsafe&alpn=http%2F1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ca1.fox-lisa.ru&fp=chrome&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
