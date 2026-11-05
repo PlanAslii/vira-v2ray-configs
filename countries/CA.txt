@@ -1,6 +1,7 @@
 # Country CA
-# Updated: 2026-11-05 08:10:40 UTC
-# Count: 2
+# Updated: 2026-11-05 08:40:40 UTC
+# Count: 3
 
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://eaf76557-2219-4799-8171-d7020adfefd0@104.18.151.231:2053?encryption=none&host=twilight-frost-15b0.yigom67484.workers.dev&path=%2Fws&security=tls&sni=twilight-frost-15b0.yigom67484.workers.dev&type=ws#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://b86451af-4c98-4b7d-96e5-16f2e9df1d46@172.67.146.180:443?path=%2F&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=skapk-yjq.miniseries.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1FVkFZX1ZQTi0tLUVWQVlfVlBOLS0tRVZBWV9WUE4tLS1FVkFZX1ZQTiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgXHUyNTA3IFZNZXNzIFx1MDBiNyBHTE9CQUxURUxFSE9TVCBDb3JwLiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://ea81763f-e534-4700-aa28-9ac98156771b@eu-central.862400.xyz:443?path=%2Fannouncement%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=eu-central.862400.xyz&fp=random&type=ws&allowInsecure=0&sni=eu-central.862400.xyz#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
