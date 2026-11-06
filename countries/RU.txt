@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-11-06 05:10:40 UTC
-# Count: 1
+# Updated: 2026-11-06 06:40:40 UTC
+# Count: 2
 
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?encryption=none&security=reality&type=tcp&sni=wordpress.com&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2083?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=q_s-QCaQ8J1al83f19-d3P7hc0PlyDe90AsPktbkrig&sid=0ef5fedf&serviceName=cas-nl#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
+vless://aa73bd9e-cb2b-42e8-83af-d8fadb0f0a3b@veight.kot-game.club:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=ne-edge20.kot-game.club&fp=hellochrome_120&alpn=h2%2Chttp%2F1.1#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20Selectel
