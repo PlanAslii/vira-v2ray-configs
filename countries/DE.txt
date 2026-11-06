@@ -1,5 +1,5 @@
 # Country DE
-# Updated: 2026-11-06 23:10:40 UTC
+# Updated: 2026-11-06 23:40:40 UTC
 # Count: 1
 
-vless://cef8c09d-8af5-4039-a28e-bf51a908c4be@tekno.testhzmfti.mobileahmadreza.ir:2092?security=none&encryption=mlkem768x25519plus.native.0rtt.3Q1ZNHVMFKULrSkxiOyi8rtqOxFefJTYo0-d4KiRQHY&host=dynu.com&headerType=http&type=tcp#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20AG
+vless://bed3a854-1b0b-4c7d-bbcc-5efb83597aa1@static.212.115.12.49.clients.your-server.de:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.30.22.105.178.clients.your-server.de#DailyCfg%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%94%87%20VLESS%20%C2%B7%20Hetzner%20Online%20GmbH
