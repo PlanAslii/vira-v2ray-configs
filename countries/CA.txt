@@ -1,7 +1,10 @@
 # Country CA
-# Updated: 2026-11-06 13:10:40 UTC
-# Count: 4
+# Updated: 2026-11-06 13:40:40 UTC
+# Count: 7
 
+vless://7b948db4-f9d1-4ad0-b2e6-4bc49aa977ce@104.19.102.75:2096?path=%2F&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=sd-tgh.frizan.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vmess://eyJhZGQiOiJ2aXBjY2MuY2MiLCJhaWQiOjAsImhvc3QiOiJ2aXBjY2MuY2MiLCJpZCI6IjViZWFkMzJmLWE5ODctNGY1Ny1iMWE4LTY2OTg3NzhmYWNkYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXlfcHJveHkiLCJwb3J0Ijo0NDMsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InZpcGNjYy5jYyJ9
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&sni=fast.145779.xyz&fp=firefox#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycCIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCJ0bHMiOiIiLCJpbnNlY3VyZSI6IiIsInBjcyI6IiIsInZjbiI6IiIsImVjaCI6IiIsInBxdiI6IiJ9
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ca1.fox-lisa.ru&fp=chrome&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
 vless://b86451af-4c98-4b7d-96e5-16f2e9df1d46@172.67.146.180:443?path=%2F&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=skapk-yjq.miniseries.ir#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
