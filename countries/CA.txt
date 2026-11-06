@@ -1,7 +1,6 @@
 # Country CA
-# Updated: 2026-11-06 22:10:40 UTC
-# Count: 3
+# Updated: 2026-11-06 22:40:40 UTC
+# Count: 2
 
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?encryption=none&type=ws&security=tls&sni=vpn.cintaku.qzz.io&fp=unsafe&alpn=http%2F1.1&path=%2Fvlessws&host=vpn.cintaku.qzz.io#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.198:443?path=%2F&security=tls&encryption=none&insecure=0&host=u.srilankangrill.online&fp=chrome&type=ws&allowInsecure=0&sni=u.srilankangrill.online#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ca1.fox-lisa.ru&fp=chrome&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
