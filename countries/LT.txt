@@ -1,5 +1,5 @@
 # Country LT
-# Updated: 2026-11-06 18:10:40 UTC
+# Updated: 2026-11-06 18:40:40 UTC
 # Count: 1
 
-vless://ba86b5dd-76c5-4155-be30-dbf0ca09e849@a-content.multirouterapp.com:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=webmetrics.cloudnativecontrol.com&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=a1b2c3d4e5f6a7b8#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#DailyCfg%20%F0%9F%87%B1%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20UAB%20Cherry%20Servers
