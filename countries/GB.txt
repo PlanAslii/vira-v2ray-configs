@@ -1,5 +1,6 @@
 # Country GB
-# Updated: 2026-11-06 10:40:40 UTC
-# Count: 1
+# Updated: 2026-11-06 13:10:40 UTC
+# Count: 2
 
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@132.243.167.147:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ch1.japancase.site&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&sid=aafcd65859993991&allowInsecure=1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=node-uk.connectsuite.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
