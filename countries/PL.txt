@@ -1,10 +1,9 @@
 # Country PL
-# Updated: 2026-11-06 10:40:40 UTC
-# Count: 6
+# Updated: 2026-11-06 11:10:40 UTC
+# Count: 5
 
+vless://03cf11d7-5dea-493a-9a1b-b61fcf2d5fa5@177.1.192.85:443?security=reality&encryption=none&pbk=44rH1cYWsNbCVkyoaEvmgHv_veG_i9gZJNKLn15l3yY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=0486be7f#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Uphost%20Solutions%20Limited
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?encryption=none&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Korbank%20S.%20A.
 vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjA1OWZkYTNlLTVjYTktNGZiZC1kZDg5LTAxY2M2ZDRiYjVkZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBcdTI1MDcgVk1lc3MgXHUwMGI3IE9WSCBTQVMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?encryption=none&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Korbank%20S.%20A.
 vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@145.63.143.205:8444?encryption=none&security=tls&type=ws&path=%2Fapi%2Fv1%2Fdevices%2F10be32b380%2Ftelemetry&host=pl1.meshbeat.online&sni=pl1.meshbeat.online&fp=firefox#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Podaon%20SIA
-vless://7d43670b-6b08-45b9-8a24-8f3971abc132@222.167.245.16:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=poland.biznes.lol&fp=chrome&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&spx=%2F&allowInsecure=1#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Datagio%20Systems%20Ltd.
-vless://35c9f200-7520-4005-b78e-f8a2fb9f68f7@145.63.143.205:8444?encryption=none&security=tls&type=ws&path=%2Fapi%2Fv1%2Fdevices%2F10be32b380%2Ftelemetry&host=pl1.meshbeat.online&sni=pl1.meshbeat.online&fp=firefox#DailyCfg%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Podaon%20SIA
