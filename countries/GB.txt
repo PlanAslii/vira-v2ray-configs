@@ -1,9 +1,9 @@
 # Country GB
-# Updated: 2026-11-06 21:40:40 UTC
+# Updated: 2026-11-06 22:10:40 UTC
 # Count: 5
 
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.64.24:443?security=reality&encryption=none&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb1.japancase.site&sid=bd44ae7c721b8252#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
+vless://0fdb1df7-b3b6-4d29-9fd6-2b92fc80b852@82.148.225.244:8445?mode=gun&security=reality&encryption=none&pbk=ndIKnA3ySMv5vBJ-OfP8IhFWVu7mtK0nzhgSil1NaVg&fp=firefox&type=grpc&serviceName=grpc-reality&sni=sw2.cloudvienta.com&sid=00f7359d92c884cc#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20NETNORTH-RT
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@132.243.167.147:443?security=reality&encryption=none&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ch1.japancase.site&sid=aafcd65859993991#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
 vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?encryption=none&security=tls&type=ws&path=%2Fcdn-cgi%2Fws&sni=uk1.connectsuite.org&fp=chrome#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://109852f2-4591-498c-9a96-f1d9206ce804@engnode.barnikle1.me:1412?security=reality&encryption=none&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.dhl.de&sid=4ea6a183#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.64.24:443?security=reality&encryption=none&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb1.japancase.site&sid=bd44ae7c721b8252#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
-vless://fb1d2d8a-d9bd-496f-9d5f-f179cbd00123@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Alexhost%20S.R.L.
