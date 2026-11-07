@@ -1,6 +1,5 @@
 # Country GB
-# Updated: 2026-11-07 13:40:40 UTC
-# Count: 2
+# Updated: 2026-11-07 14:10:40 UTC
+# Count: 1
 
 vless://a72f9649-3717-44bc-8c4d-4a2c74a122df@software.flicks2flow.com:443?sni=software.flicks2flow.com&host=software.flicks2flow.com&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&security=tls&fp=chrome&allowInsecure=0&type=ws&path=%2F&encryption=none#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
-vless://49fdd350-6ffb-4343-b467-14e269bb95de@82.148.255.201:8444?encryption=none&security=reality&sni=360.yandex.ru&fp=firefox&pbk=DvNpCmas0_0MO91s70vlkAxZxnnIt1NE0zqCC4trURQ&sid=2bf10fc0a85601e5&type=grpc&serviceName=grpc-reality&mode=gun#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20NETNORTH-RT
