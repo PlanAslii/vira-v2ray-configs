@@ -1,5 +1,6 @@
 # Country GB
-# Updated: 2026-11-07 07:10:40 UTC
-# Count: 1
+# Updated: 2026-11-07 08:10:40 UTC
+# Count: 2
 
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.64.24:443?encryption=none&flow=xtls-rprx-vision&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&security=reality&sid=bd44ae7c721b8252&sni=gb1.japancase.site&type=tcp#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
+vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?path=%2Fws-tesla&security=tls&encryption=none&insecure=0&host=fast.145779.xyz&fp=chrome&type=ws&allowInsecure=0&sni=fast.145779.xyz#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
+vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?path=%2Fws-tesla&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fast.145779.xyz#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
