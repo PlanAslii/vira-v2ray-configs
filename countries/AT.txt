@@ -1,5 +1,6 @@
 # Country AT
-# Updated: 2026-11-07 20:40:40 UTC
-# Count: 1
+# Updated: 2026-11-07 21:10:40 UTC
+# Count: 2
 
-vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=at1.japancase.site&sid=41ae8e266bc3346f#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=at1.japancase.site&sid=41ae8e266bc3346f#DailyCfg%20%F0%9F%87%A6%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
