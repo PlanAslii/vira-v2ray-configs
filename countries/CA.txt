@@ -1,7 +1,7 @@
 # Country CA
-# Updated: 2026-11-07 05:10:40 UTC
+# Updated: 2026-11-07 05:40:40 UTC
 # Count: 3
 
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=random&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca1.fox-lisa.ru&sid=027af64166562b09#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
 vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.18.26.90:443?encryption=none&security=tls&type=ws&path=/&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.149.88:443?encryption=none&security=tls&type=ws&path=%2F&host=top-e4s.pages.dev&sni=top-e4s.pages.dev&fp=unsafe#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
