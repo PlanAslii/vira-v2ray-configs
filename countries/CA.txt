@@ -1,5 +1,6 @@
 # Country CA
-# Updated: 2026-11-07 22:40:40 UTC
-# Count: 1
+# Updated: 2026-11-07 23:10:40 UTC
+# Count: 2
 
+vless://aab25cbb-7415-4151-95df-0a2bcf328f6a@www.speedtest.net:443?encryption=none&type=grpc&security=tls&sni=france.monexa.ir&fp=firefox&alpn=h2&serviceName=%2Fip-info&mode=gun#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
