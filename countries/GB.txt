@@ -1,8 +1,5 @@
 # Country GB
-# Updated: 2026-11-07 22:10:40 UTC
-# Count: 4
+# Updated: 2026-11-07 22:40:40 UTC
+# Count: 1
 
 vless://90157e25-cee1-4217-921e-91f300bc1a24@50.7.227.77:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&sni=bizorg.su&sid=428ef87fd47a3a32&insecure=0&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20FDCservers.net
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&host=uk1.connectsuite.org&fp=firefox&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.64.24:443?security=reality&encryption=none&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb1.japancase.site&sid=bd44ae7c721b8252#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ch1.japancase.site:443?security=reality&encryption=none&pbk=nIXZmF729Mzn5hq8aWSxsv8wBDawVYmFNzwBytwYfm0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ch1.japancase.site&sid=aafcd65859993991#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
