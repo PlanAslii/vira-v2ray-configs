@@ -1,5 +1,7 @@
 # Country CA
-# Updated: 2026-11-07 15:10:40 UTC
-# Count: 1
+# Updated: 2026-11-07 15:40:40 UTC
+# Count: 3
 
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ca1.fox-lisa.ru&fp=chrome&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
+vmess://eyJhZGQiOiJ1czEyMjIwMi5zc2dyZWVuLm9yZyIsImFpZCI6IjAiLCJpZCI6IjIyNGI0NjU3LWEwNzYtNDI0NS1hZDczLTliN2UyNjBmYjJlYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgXHUyNTA3IFZNZXNzIFx1MDBiNyBDbG91ZGZsYXJlLCBJbmMuIiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgQ2xvdWRmbGFyZSwgSW5jLiIsImFkZCI6IjE2Mi4xNTkuMjM3LjEyMCIsInBvcnQiOiI0NDMiLCJpZCI6IjZjNDZjMTVkLTkwMjEtNDdlNy05ZWY4LTMyMWJlNWVmZWZhZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzenguamJkZG1qYi5jbG91ZCIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJ0bHMifQ
