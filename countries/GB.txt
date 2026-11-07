@@ -1,5 +1,7 @@
 # Country GB
-# Updated: 2026-11-07 09:40:40 UTC
-# Count: 1
+# Updated: 2026-11-07 10:10:40 UTC
+# Count: 3
 
+vless://109852f2-4591-498c-9a96-f1d9206ce804@52.56.166.118:1412?security=reality&encryption=none&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.dhl.de&sid=4ea6a183#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
 vless://49fdd350-6ffb-4343-b467-14e269bb95de@82.148.255.201:8444?mode=gun&security=reality&encryption=none&pbk=DvNpCmas0_0MO91s70vlkAxZxnnIt1NE0zqCC4trURQ&fp=firefox&type=grpc&serviceName=grpc-reality&sni=360.yandex.ru&sid=2bf10fc0a85601e5#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20NETNORTH-RT
+vless://109852f2-4591-498c-9a96-f1d9206ce804@engnode.barnikle1.me:1412?security=reality&encryption=none&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.dhl.de&sid=4ea6a183#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Amazon%20Technologies%20Inc.
