@@ -1,6 +1,10 @@
 # Country CA
-# Updated: 2026-11-07 16:10:40 UTC
-# Count: 2
+# Updated: 2026-11-07 17:10:40 UTC
+# Count: 6
 
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ca1.fox-lisa.ru&fp=chrome&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
-vmess://eyJhZGQiOiJ1czEyMjIwMi5zc2dyZWVuLm9yZyIsImFpZCI6IjAiLCJpZCI6IjIyNGI0NjU3LWEwNzYtNDI0NS1hZDczLTliN2UyNjBmYjJlYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgXHUyNTA3IFZNZXNzIFx1MDBiNyBDbG91ZGZsYXJlLCBJbmMuIiwic2N5IjoiYXV0byIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://8ab5939a-c5ea-4d55-9abc-f28dbaafd79f@104.27.117.230:443?encryption=none&security=tls&sni=vexpanel-085724233a.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-085724233a.pages.dev&path=%2Fws%2F8ab5939ac5ea4d55&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://8ab5939a-c5ea-4d55-9abc-f28dbaafd79f@104.18.111.31:2053?encryption=none&security=tls&sni=vexpanel-085724233a.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-085724233a.pages.dev&path=%2Fws%2F8ab5939ac5ea4d55&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://8ab5939a-c5ea-4d55-9abc-f28dbaafd79f@104.24.140.239:2053?encryption=none&security=tls&sni=vexpanel-085724233a.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-085724233a.pages.dev&path=%2Fws%2F8ab5939ac5ea4d55&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://8ab5939a-c5ea-4d55-9abc-f28dbaafd79f@104.25.0.231:443?encryption=none&security=tls&sni=vexpanel-085724233a.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-085724233a.pages.dev&path=%2Fws%2F8ab5939ac5ea4d55&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://8ab5939a-c5ea-4d55-9abc-f28dbaafd79f@demonvpn.shop:443?encryption=none&security=tls&sni=vexpanel-085724233a.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-085724233a.pages.dev&path=%2Fws%2F8ab5939ac5ea4d55&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
+vless://8ab5939a-c5ea-4d55-9abc-f28dbaafd79f@panel.one-api.ir:2053?encryption=none&security=tls&sni=vexpanel-085724233a.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-085724233a.pages.dev&path=%2Fws%2F8ab5939ac5ea4d55&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
