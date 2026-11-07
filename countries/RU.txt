@@ -1,5 +1,6 @@
 # Country RU
-# Updated: 2026-11-07 16:40:40 UTC
-# Count: 1
+# Updated: 2026-11-07 17:10:40 UTC
+# Count: 2
 
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&type=tcp&headerType=none#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
+vless://aeee4ca7-e119-4fae-90f2-f7ef9bc9ebf9@194.67.125.188:443?security=reality&encryption=none&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1.serverslocal.ru&sid=b5ea2877aadeb97c#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Reg.Ru
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
