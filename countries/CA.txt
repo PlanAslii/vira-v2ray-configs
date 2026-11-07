@@ -1,6 +1,7 @@
 # Country CA
-# Updated: 2026-11-07 13:40:40 UTC
-# Count: 2
+# Updated: 2026-11-07 14:10:40 UTC
+# Count: 3
 
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OVH%20SAS
 vless://b49e0deb-e43d-4a2a-b58d-7e2db8f486b5@d25dcd398c.didpadaz.ir:8443?encryption=none&security=tls&sni=d25dcd398c.didpadaz.ir&type=ws&host=d25dcd398c.didpadaz.ir&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
 vless://b49e0deb-e43d-4a2a-b58d-7e2db8f486b5@cdn-nl.didpadaz.ir:443?encryption=none&security=tls&sni=cdn-nl.didpadaz.ir&type=ws&host=cdn-nl.didpadaz.ir&path=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Cloudflare%2C%20Inc.
