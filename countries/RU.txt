@@ -1,10 +1,5 @@
 # Country RU
-# Updated: 2026-11-07 18:10:40 UTC
-# Count: 6
+# Updated: 2026-11-07 18:40:40 UTC
+# Count: 1
 
-vless://12fd091e-a68a-4f9b-9def-777a2f5b5c0c@188.130.209.201:443?security=reality&encryption=none&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=thumbs.mycdn-io.ru&sid=d3f314d0b692f63d#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Delta%20Ltd
-vless://5ad13ef8-ced8-43b5-9d8c-f046a3ce9ddc@185.103.100.211:443?security=reality&encryption=none&pbk=sRmbdpwZ5gtUVEu1BMXE71DRHDWhBLCoLh6QiFazm2U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msk2e.g-magnum.icu&sid=1b2a3f#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Aeza%20Group%20LLC
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?path=%2Fgateway%2Fv1%2Fws%2Fa901ed17102fc3090ca1ab052c672f47&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=metrics.api.downloader-pet.xyz#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Ddos-guard%20LTD
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@185.231.204.244:443?security=reality&encryption=none&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-balancer.peregrine-sub.net#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20Digital%20Hosting%20Provider%20LLC
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#DailyCfg%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%94%87%20VLESS%20%C2%B7%20JSC%20%22TIMEWEB%22
