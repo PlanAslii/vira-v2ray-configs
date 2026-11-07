@@ -1,7 +1,5 @@
 # Country IR
-# Updated: 2026-11-07 15:40:40 UTC
-# Count: 3
+# Updated: 2026-11-07 16:10:40 UTC
+# Count: 1
 
 vless://5c0814cb-09aa-452f-87a9-49000394b459@ser5.plasmoon.ir:2050?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tun2.plasmoon.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Abr%20Baran%20Information%20Technologists%20LLC%20%E2%94%87%20%F0%9F%94%B4
-vmess://eyJhZGQiOiJqb3lmYW4ua2ltam8uaXIiLCJhaWQiOiIwIiwiaWQiOiJmZGRmOTIwNC05MjM0LTQ5YWItOTY4OC1kZjA5ZjZkMDYwOWYiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxNzIwLCJwcyI6IkRhaWx5Q2ZnIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBcdTI1MDcgVk1lc3MgXHUwMGI3IFNIQVRFTCBOZXR3b3JrIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vmess://eyJhZGQiOiJTT01TLml6dW1paS5pciIsImFpZCI6IjAiLCJpZCI6ImZkZGY5MjA0LTkyMzQtNDlhYi05Njg4LWRmMDlmNmQwNjA5ZiIsIm5ldCI6InRjcCIsInBvcnQiOjE3MTgsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTWVzcyBcdTAwYjcgUGFyc3VuIE5ldHdvcmsgU29sdXRpb25zIFBUWSBMVEQiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
