@@ -1,7 +1,7 @@
 # Country CA
-# Updated: 2026-11-08 04:40:40 UTC
+# Updated: 2026-11-08 05:10:40 UTC
 # Count: 3
 
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@81.19.140.181:443?security=reality&encryption=none&pbk=zN5buqMK95hn0mv3vKlfoOAi99ehuvP73cUuyNbZNWc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ca1.japancase.site&sid=dbd6b473c7038dd5#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
+vless://9c91acfe-5642-4d45-b7f0-6a3a205186d4@brave-ploys.video-streams.org:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=brave-ploys.video-streams.org&fp=chrome&type=ws&allowInsecure=0&sni=brave-ploys.video-streams.org#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Fastly%2C%20Inc.
 vless://79fbf773-1340-472c-9ec2-91ddc93bd547@212.69.135.27:8443?security=reality&encryption=none&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk-room05.filesnap.tech&sid=7da3ba09a037e956#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OKOLABS-AS
-vless://c1b25259-727d-438a-bc7b-bc74f7b9917d@212.69.135.26:8443?security=reality&encryption=none&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uk-room05.filesnap.tech&sid=7da3ba09a037e956#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20OKOLABS-AS
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca1.fox-lisa.ru&sid=027af64166562b09#DailyCfg%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%94%87%20VLESS%20%C2%B7%20Rica%20Web%20Services
