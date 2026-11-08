@@ -1,5 +1,7 @@
 # Country IT
-# Updated: 2026-11-08 00:10:40 UTC
-# Count: 1
+# Updated: 2026-11-08 02:10:40 UTC
+# Count: 3
 
+vmess://eyJhZGQiOiIxNDkuNTAuMjE1LjI0MCIsImFpZCI6IjAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBjcyI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjkgXHUyNTA3IFZNZXNzIFx1MDBiNyBEYXRhY2FtcCBMaW1pdGVkIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0
+vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@31.77.154.180:443?mode=gun&security=reality&encryption=none&pbk=BUmDIJm-hDTetLJoCGG3lhvFrccV2sp2uf4EpJk28CE&fp=qq&type=grpc&serviceName=grpc&sni=local.sywl5.health&sid=6c3fc5d190b4d009#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Akenai%20Products%20LTD
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.71.76:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it1.japancase.site&sid=41ae8e266bc3346f#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B9%20%E2%94%87%20VLESS%20%C2%B7%20Edge%20Core%20FZE
