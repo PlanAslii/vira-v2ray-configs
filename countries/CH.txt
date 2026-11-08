@@ -1,5 +1,6 @@
 # Country CH
-# Updated: 2026-11-08 05:10:40 UTC
-# Count: 1
+# Updated: 2026-11-08 05:40:40 UTC
+# Count: 2
 
+vless://dac0e736-5c69-4b7c-8b1d-27cbbc3bd948@45.95.232.233:8446?security=reality&encryption=none&pbk=XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=1c.hlclub.tech&sid=555ac69b22424282#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Global%20Connectivity%20Solutions%20LLP
 vless://90157e25-cee1-4217-921e-91f300bc1a24@46.19.138.214:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&sni=perevodchiki.su&sid=428ef87fd47a3a32&insecure=0&flow=xtls-rprx-vision#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Private%20Layer%20INC
