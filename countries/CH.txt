@@ -1,6 +1,6 @@
 # Country CH
-# Updated: 2026-11-12 14:32:42 UTC
+# Updated: 2026-11-12 15:02:42 UTC
 # Count: 2
 
-vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=perevodchiki.su&sid=428ef87fd47a3a32#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Ripe
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=perevodchiki.su&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Ripe
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=31.7.60.250&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Ripe
+vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=perevodchiki.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&allowInsecure=1#DailyCfg%20%F0%9F%87%A8%F0%9F%87%AD%20%E2%94%87%20VLESS%20%C2%B7%20Ripe
