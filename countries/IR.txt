@@ -1,5 +1,6 @@
 # Country IR
-# Updated: 2026-11-12 17:02:42 UTC
-# Count: 1
+# Updated: 2026-11-12 19:02:42 UTC
+# Count: 2
 
-vless://4c264911-ecc1-4f47-a0b6-ce10cd2b8d7f@mtun.headerip.com:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de1.mv11.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de1.mv11.ir#DailyCfg%20%F0%9F%87%AE%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20FanAvaran%20Mihan%20Mizban%20PJSC%20%E2%94%87%20%F0%9F%94%B4
+vmess://eyJhZGQiOiI5MS4yMDcuMTguMTQ1IiwiYWlkIjoiMCIsImlkIjoiMjJlZjAxYjgtYzFmOS00M2ViLWFjMzctNTQwYTRmYTUzOTMwIiwibmV0IjoidGNwIiwicG9ydCI6IjUwNzU1IiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBXZWIgRGFkZWggUGF5ZGFyIENvIChMdGQpIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vmess://eyJhZGQiOiI5MS4yMDcuMTguMTQ1IiwiYWlkIjoiMCIsImlkIjoiMTI1YTMwYTYtNzRkOC00YTRjLWEzYWQtYWE4ZGQ2ZjY2YzRlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6IjUwNzU1IiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgXHUyNTA3IFZNZXNzIFx1MDBiNyBXZWIgRGFkZWggUGF5ZGFyIENvIChMdGQpIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
