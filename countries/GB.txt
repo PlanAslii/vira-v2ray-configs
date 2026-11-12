@@ -1,6 +1,5 @@
 # Country GB
-# Updated: 2026-11-12 18:32:42 UTC
-# Count: 2
+# Updated: 2026-11-12 19:02:42 UTC
+# Count: 1
 
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Regxa%20Company%20for%20Information%20Technology%20Ltd
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@fs.qicai99.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20CloudFLARENET-EU
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?encryption=none&type=ws&security=tls&sni=fs.qicai99.com&path=%2Ffp&host=fs.qicai99.com#DailyCfg%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%87%20VLESS%20%C2%B7%20Contabo%20Asia%20Private%20Limited
