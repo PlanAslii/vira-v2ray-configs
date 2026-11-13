@@ -1,7 +1,5 @@
 # Protocol vless
-# Updated: 2026-11-13 03:32:42 UTC
-# Count: 3
+# Updated: 2026-11-13 06:44:06 UTC
+# Count: 1
 
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=base.hosamobenl.co.uk#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Morteza%20Imani%20Bidgoli
-vless://3a7849e7-8ef6-492f-860d-54dd6aae400a@191.217.217.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&security=reality&sid=e06e30590f288e0f&sni=nl5.soshelper.space&type=tcp#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Akenai%20Products%20LTD
-vless://59548d2d-5d7c-4328-aa81-0d5614da0c1b@198.247.127.131:443?security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=vmHHRwA9ER6c8dfgtL-gh2HBMCvjySy1xLimqYpLiCI&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20NTT%20America%2C%20Inc.
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Scaleway%20SAS
