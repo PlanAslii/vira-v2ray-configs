@@ -1,9 +1,7 @@
 # Vira — all configs
-# Updated: 2026-11-13 03:32:42 UTC
-# Count: 5
+# Updated: 2026-11-13 06:44:06 UTC
+# Count: 3
 
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=base.hosamobenl.co.uk#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Morteza%20Imani%20Bidgoli
-vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOjAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicG9ydCI6IjE4MDAwIiwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggXHUyNTA3IFZNZXNzIFx1MDBiNyBHVEhvc3QiLCJzbmkiOiIzOC45MS4xMDcuNDkiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://3a7849e7-8ef6-492f-860d-54dd6aae400a@191.217.217.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&security=reality&sid=e06e30590f288e0f&sni=nl5.soshelper.space&type=tcp#DailyCfg%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%94%87%20VLESS%20%C2%B7%20Akenai%20Products%20LTD
-vless://59548d2d-5d7c-4328-aa81-0d5614da0c1b@198.247.127.131:443?security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=vmHHRwA9ER6c8dfgtL-gh2HBMCvjySy1xLimqYpLiCI&type=tcp#DailyCfg%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%94%87%20VLESS%20%C2%B7%20NTT%20America%2C%20Inc.
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGNzIjoiIiwicG9ydCI6MTgwMDAsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTWVzcyBcdTAwYjcgR0xPQkFMVEVMRUhPU1QgQ29ycCIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiIsIm5hbWUiOiJDQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgfCBAUmF5ZGlrYWx4IHwgNEJBM0E2In0
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#DailyCfg%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%94%87%20VLESS%20%C2%B7%20Scaleway%20SAS
+vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjE3IiwiaWQiOiI5ZWRlM2M1Zi1hNDc5LTQ1YWUtYmQyYS0wOTMxNTI0Yzk2NjciLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxOTgyOSwicHMiOiJEYWlseUNmZyBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgXHUyNTA3IFZNZXNzIFx1MDBiNyBMZWFzZXdlYiBEZXV0c2NobGFuZCBHbWJIIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vmess://eyJ2IjoiMiIsInBzIjoiRGFpbHlDZmcgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTWVzcyBcdTAwYjcgTGVhc2V3ZWIgRGV1dHNjaGxhbmQgR21iSCIsImFkZCI6IjEwOS43MC43NC4yMTciLCJwb3J0IjoiMTk4MjkiLCJpZCI6IjExMTM3NWE2LWI0ODktNGJiOC04MmY5LTA0NjNmZTliYmYyMyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIifQ
